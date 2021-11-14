@@ -1,0 +1,83 @@
+- Intel has spent the last
+five years on 14 nanometer and the thermals have been bad enough that delidding has been popular
+since the 7700K launched. I don't care how many pluses they add to the end of this thing. They simply cannot compete
+with the laws of physics and certainly not with AMD's 7nm node, and now they've gone and packed
+10 cores into this thing. Well gee, I sure hope our
+fire insurance is up to date. And I hope you'll check out our sponsor, Private Internet Access, looking for an affordable
+and reliable VPN? PIA encrypts, your internet traffic, and uses a safe, protected IP. Check it out today at the link below. I was so sure that Intel's
+10th generation consumer chips were going to literally
+immediately catch fire that I told Anthony, you know what, why don't we put the thermals
+right at the beginning of the script so that we can
+save everyone from bothering to watch the whole review, just to find out the thing is unusable. And as you guys can see here, I was absolutely wrong. I'm sorry, what? Apparently the Core i9-10900K
+10 Core CPU is shockingly well behaved from a thermal perspective. Not only does it sit
+comfortably at around 60 degrees or so under sustained load
+at its default settings. When we remove the turbo
+boost limits in the bios, we do see 9th Gen like thermals, except we're hovering it around
+4.8 gigahertz on all cores. That is well above the
+3.7 gigahertz base clock. That does not compute, how in the heck did they manage this? Well, as it turns out, in spite of some of my misgivings about the things their marketing
+department says and does. Intel's engineers are
+still pretty dang good at their jobs, and they've got a few
+tricks up their sleeves. Instead of just using soldered
+thermal interface material on this new of generation chips, they have also shrunk the
+thickness of the CPU dye itself, significantly reducing the
+amount of material that's standing between its heat
+generating transistors and the heat spreader on top. To compensate the heat
+spreader was made thicker to provide more thermal mass as well. And you might not think this
+tiny difference is a big deal, but it clearly is. Now power consumption is
+of course still very high as we might expect with
+stock package power measuring at around 125 Watts and our limits removed power, peaking it over 220 Watts, full turbo (yelling) suffice to say daily driver overclocking this thing, is going to be a challenge
+to say the least, and you're gonna want beefy
+cooling and a beefy motherboard, even for stock turbo unleashed operation. Speaking of which we've
+actually got a new socket, hooray! LGA 1200 is here. Ooh, although at least it's for
+a potentially good reason this time around. Gigabytes ARS team hinted
+that the new power budget requirements of these 10th
+gen chips would have made many last generation boards out of spec anyway. And they confirmed that their motherboards are capable of PCIe Gen 4. Even if these 10th gen chips aren't. So the bad news is if
+you want to go 10th Gen, you need a new motherboard. The good news is that there
+will be an upgrade path. Once 11th Gen comes
+around with PCIe Gen 4, rumored to be a headline feature. There's more good news
+for the platform too. Every core, i3 through i9
+is getting hyper-threading, which I'm really jazzed about this., can now be toggled on and
+off on a per core basis. Why would you want to do that? I hear you ask, well, the new platform also
+reports the two best course in your system. So if you wanted to unchange them and let them run single-threaded as fast as possible while your other hyper threaded course handle all the background junk, you can do that. Oh, by the way, if you are thinking to yourself, Hey, hold on a second. Didn't Intel do that without
+the hyper threading controls on their high end desktop chips. If you were give yourself a cookie, because yes they did. The consumer desktop is getting not one, but two new turbine mechanisms, turbo boost max 3.0, along with what they're calling
+thermal velocity boost. Intel's opportunistic boost algorithm. That means that in theory, this CPU should be turboing
+up quite aggressively under bursty loads. It's time to test out these new CPUs. Make sure you got an extra
+pair of underwear on standby lttstore.com because
+for today's shoot out, things are getting real. We've got the Core i9-10900K,
+along with the core i5 cousin that people are actually gonna buy and an assortment of previous
+Gen and team red equivalents. And unsurprisingly, at these clock speeds, Intel has still got gaming
+on a lockdown for now. The higher base clock on
+the 6 Core Core i5-10600K pushes it out ahead of
+the 10th Gen Core i9 and more lightly threaded games like Shadow the Tomb Raider
+and Red Dead Redemption Two, which may make it a contender
+for mid range enthusiast in its own right. But it's still worth noting
+that the Core i9 frame rates are far more consistent and measurably higher
+than our other platforms. Wherever a large thread
+count comes into play, where the CPU can
+maintain higher individual Core frequencies over time. Of course, as many prospective AMD buyers
+know gaming is only part of the equation. In productivity the Ryzen 5 3600X, still dunks on the Core i5, but while the rise of 9
+3900X does do the same to the Core i9., it is not by the margin
+that you might expect from AMD's 20% increase
+in thread count with our multi-threaded workloads ranging anywhere between 5 and 15% difference. Single-threaded results confirm what we already knew from gaming. Each thread is faster on
+10th Gen than on Ryzen, thanks to those insane clocks. And the longer the workload is, the more likely the core
+i9 is gonna be forced to drop out of max turbo, which reopens that performance
+gap in AMD's favor. So then we're back in this
+weird situation where Intel is measurably better for gaming and AMD is measurably
+better for productivity, but the gap between the two
+is beginning to more closely resemble the gap between
+Zen plus and Coffee Lake. Even if Intel did have
+to resort to running very high core clocks
+at very high power draws like AMD once did. And as much as I was
+concerned that the increase in power draw would result in
+consumer systems overheating, left and right, it turns out that the thermals
+are somehow even better controlled than last generation. Pricing is of course, geared to come in at a slight
+premium over AMD's components which hints at the more premium
+brand image that Intel hopes to maintain in comparison to team red. You guys might not think it works, and you might hate that it works, but it does work. Intel isn't playing around here. And while our 10th Gen comment Lake CPUs feel like a stop gap solution rather than something transformative like AMD's Zen 2 was. Competition does seem to be alive and well within the CPU market. I get goose-bumps just thinking about it, just like our sponsor. Thanks to Restream for
+sponsoring this video. Restream is the all in one
+solution to live stream your video to all social
+platforms like YouTube, Twitch, and Facebook at the same time. It's also compatible with all
+kinds of broadcasting software like OBS XSplit and Zoom. Check out Restream studio for
+professional live streams, by the way, with your own branding guests and engaging calls to action for viewers. Kickstart your live stream
+by visiting restream.io or clicking the link in
+the video description. Thanks for watching guys. If you're done, which you are, maybe go check out our
+recent review of AMD's new 3rd Gen. Ryzen 3's. For more, head-to-head red versus blue goodness. 

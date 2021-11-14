@@ -1,0 +1,56 @@
+This episode was filmed on June 19th, 2020. You can find more info on the COVID-19 pandemic
+in our playlist, linked in the description. At first, we were told to watch out for coughing,
+fever, and trouble breathing. That is still true. But COVID-19 has a /lot/ of possible symptoms,
+not all of which scream “respiratory disease” -- even though the virus SARS-CoV-2 infects
+our airways, and is thought to spread primarily through droplets we breathe out. COVID-19 patients have experienced some unexpected
+symptoms that affect more than just their lungs -- like GI problems, skin rashes, and
+a loss of smell and taste. Some of this is due to our immune response to the virus. But today we’re going to focus on the molecule
+the virus uses to infect our cells: the angiotensin-converting enzyme 2 receptor, or ACE2 for short. This molecule lets certain coronaviruses,
+including SARS-CoV-2, affect us in a /ton/ of different ways. All cells have various surface receptors embedded
+in their outer membrane. As their name suggests, they receive
+signals and stuff from outside the cell -- stuff like hormones, neurotransmitters, nutrients,
+and immune molecules. ACE2 is a surface receptor with a bunch of
+important jobs throughout our bodies, not just our lungs. Unluckily for us, that also means SARS-CoV-2
+has the potential to infect a variety of cell types. It still only causes the one disease -- COVID-19
+-- but this helps explain some of its broader effects. One of ACE2’s major functions is working
+with another protein, angiotensin II, to keep blood pressure in balance. Angiotensin II raises blood pressure, and
+when it gets too high, ACE2 breaks it down to lower blood pressure again. ACE2 does lots of other things, too, like
+accelerating tissue repair and modulating the microbes in our guts. And while there are lots of other kinds of
+surface receptors that viruses can use to get into cells and hold them hostage, ACE2
+just happens to be the one that SARS-CoV-2 uses to get in. Scientists think the infection most often
+starts when the virus is introduced to someone’s nasal passages. The nasal cavity has tons of ACE2 receptors,
+so it’s fertile ground for the virus, which can invade those cells to replicate. At this point, the newly-infected host might
+not have any symptoms, or they may develop a fever, sore throat, dry cough, or loss of
+smell and taste That loss of taste and smell might seem like
+the odd one out, but it has ACE2’s fingerprints all over it. One study in mice from May of 2020 found that
+ACE2 is expressed in cells of the nose that help transfer odors from the air to neurons,
+so the infection could block those signals. The researchers also found that older mice
+tend to have more ACE2 in nasal cells than younger ones. If this is true in humans, it could help explain
+why older people are more susceptible to COVID-19. Upon infection, the virus can make its
+way to our lungs. When the virus binds to ACE2 in the lungs,
+scientists think that it disrupts the normal breakdown of angiotensin II. Which means angiotensin II is free to run
+amok, leading to a vicious cycle of inflammation, cell death, and even blood clots that keep
+the lungs from getting oxygen to the body. So it’s no wonder that many patients need
+help breathing. And that’s not where it ends. Because, like we said, ACE2 is expressed in
+all /sorts/ of cell types. Like the circulatory system. A series of case reports in the journal the
+Lancet looked at three patients with severe inflammation and cell death in their endothelial
+cells — the cells that line the inside of blood vessels. Researchers are pretty sure that the virus
+can directly infect these cells using their ACE2 receptors -- though the significance
+of that isn’t totally clear yet. And if that wasn’t enough, there’s the
+heart. In severe cases of COVID-19, doctors have
+observed cardiac injuries. And COVID-19 patients with severe heart injuries
+also had relatively high amounts of ACE2 in their heart cells. For example, one patient in Italy presented
+at the ER with all of the symptoms of a heart attack, but doctors couldn’t find evidence
+of a blockage in the coronary arteries that would normally cause such symptoms. The patient tested positive for COVID-19. And while researchers don't yet fully understand
+the cause, it's possible that SARS-CoV-2's relationship with ACE2 is contributing to
+cardiac symptoms. Then there’s the gut. The lining of the lower digestive tract is
+rich in ACE2 receptors, which could explain why up to half of people with COVID-19 have
+diarrhea. A study in the journal Science Immunology
+showed that the virus can directly infect human and mouse intestinal cells in culture. This study also suggested that the virus breaks
+down before it exits the colon, making transmission by that route less likely -- but research
+is still ongoing there. Researchers are still trying to get a clear
+picture of COVID-19 and all its symptoms. This has just been the short list of things
+we’re pretty sure can be traced to ACE2. We’ve barely touched on the more indirect
+effects that seem to be a result of our immune system going into overdrive. The good news, though, is that it also makes
+ACE2 a potential target for therapies -- which opens up another potential treatment path
+for COVID-19. [ ♪ OUTRO ] 

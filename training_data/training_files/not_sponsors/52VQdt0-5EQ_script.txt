@@ -1,0 +1,140 @@
+If we were to define WW2 in just one technology,
+the likely winner would be aerial bombing. World War 1 revolved around stagnant and debilitating
+trench warfare, that both sides sought to avoid in future. Tanks and planes arose as a way of breaking
+enemy lines quickly and inflict damage. The rate of technological progress for delivering
+larger and more accurate bombs during world war 2 was astronomical, but early in the war
+the technology was still in its infancy. The Germans relied heavily on the Stuka dive
+bomber. A short range bomber whos siren became a harbinger
+of death on the battlefield. It dived towards its target, planting it firmly
+in its crosshairs, imparting its bomb with the velocity it need to fly straight to the
+target, before releasing and pulling up hard to avoid a collision with the ground. This procedure was so taxing on its pilot
+that the Germans developed an automatic dive-flap that would deploy even if the pilot had knock
+themselves unconscious with g-force. These tactics arose because bombing aiming
+technology was so primitive, bomb sights were rudimentary and required skilled operators. Having to factor not only the speed and altitude
+of the aircraft, but the terminal velocity of the bomb and how it would be affected by
+wind as it fell. Bombing from high altitude, where the bombers
+would be relatively safe from Flak, gave little precision to target specific buildings. This combined with poor navigation equipment
+resulted in both sides devolving into carpet bombing, causing massive loss of life to civilian
+life, which did little to help either side win a war. We saw in a previous episode how much effort
+Nazi cities put into anti-aircraft defences, and similar efforts were made in Britain. These tactics did not come cheap, losses were
+high for both sides.. Barnes Wallis, an Aeronautical Engineer at
+Vickers, saw the futility in these tactics and set his focus on developing new technologies
+to aid British bombers in destroying strategic German positions. This was nothing new. Factories, oil storage and transportation
+infrastructure were always primary targets, but Barnes wanted to create a weapon capable
+of destroying a target others deemed invulnerable. Dams. Dams posed a tantalizing target. They supply hydroelectricity, provided water
+for industry and the German population, and the resulting deluge of water from the massive
+reservoirs would cause damage much greater than any bomb the Brit’s had at their disposal. The Germans were not ignorant to the allure
+the dams as a bombing target. Attacks on dams had happened earlier in the
+war, like the attack on the massive Italian Tirso dam in Sardinia, which held back Europe’s
+largest man-made lake and provided the Italian island with a third of its electricity. They attempted the raid in broad daylight
+with 8 Swordfish floatplanes. 3 simply failed to find the target due to
+terrible weather, and the rest were welcomed with anti-aircraft fire, taking one of the
+planes down. The remaining 4 continued to the target and
+dropped torpedoes which travelled underwater to their target before exploding, but the
+dam remained standing. The bombs were simply not powerful enough
+to blast through the heavy concrete of the dam. To make matters worse, all dams across Europe
+would be protected by anti-torpedo netting from this point on. So a new method to deliver an enormous bomb
+capable of taking down a structure this strong was needed. Wallis spent most of his time devising devices
+to take on challenges like this, and took several things into consideration when designing
+his bombs. Explosive pressures decay extremely quickly,
+and thus to ensure damage to the structure it must be as close as possible, pressure
+waves propagate through denser mediums far more efficiently, and thus explosions underground
+or in water will be more powerful. And finally, doubling the size of the bomb
+does not result in twice the blast radius, to increase the blast radius drastically would
+require a drastically larger bomb. His design ethos from here was simply. Design the biggest bomb his planes could carry,
+and have them detonate underground or in water to maximise their effect even further. He presented his ideas in a 1941 paper “A
+Note on a Method of Attacking the Axis Powers” with the primary focus on a 10 tonne earth
+penetrating bomb, that would be dropped from 40,000 feet, this was the most powerful non-nuclear
+bomb ever used until just last year, and 42 were dropped in the final year of the war
+that helped cut German supplies to the front line, by destroying viaducts and railways. But Wallis is remembered for a different bomb. The British government hired the Road Research
+Laboratory, a civil engineering firm, to begin experiments to find the smallest charge needed
+to destroy the Mohne Dam. They constructed several scale model dams,
+and used abandoned dams in Wales to find their answer. They found that even a 10 tonne bomb exploding
+50 feet from the dam would not destroy it, but a 2 tonne bomb could do the job if it
+was placed directly next to the face of the dam. With torpedo netting installed, this job required
+precision that had not been seen before, and the method that was devised would break all
+convention. Barnes decided the best course of action was
+to create a skipping bomb, that would bounce over the protective netting before sinking
+next to the dam and exploding. He concluded that the mines would have to
+impact at less than 7 degrees in order to skipp, and all subsequent bounces would also
+have to be below 7 degrees to ensure the bomb continued until momentum was lost. The bomb would be given a backspin prior to
+release in order to take advantage of the Magnus effect, which is lift created by a
+spinning body. Spinning the bomb provided it stability, like
+a bicycle wheel in motion. Helping the bomb remain on a straight trajectory,
+but the lift the spinning provided was far more useful. By adding lift the bomb’s trajectory gained
+more horizontal motion, and it’s angle of impact was reduced. Both of which aid skipping, and allowed the
+bomber to release the bomb sooner, giving them additional time to escape the imminent
+explosion. Once submerged the remaining spin would then
+help push the bomb forward ensuring it stayed in close contact to the dam wall. This wholly unconventional bomb posed some
+design challenges. Any spinning object needs to be precisely
+balanced to prevent vibrations that could potential break it, or interfere with it’s
+operation. To aid this, Barnes early spherical designs
+were scrapped in favour of a drum which could be more easily manufactured and balanced,
+while also aiding with it’s release mechanism. The bombs were fitting to Avro Lancasters,
+which were modified to accommodate the bomb . The bomb doors were removed to fit bomb,
+which would protrude below the plane for the duration of the flight. The lower ventral guns were removed to reduce
+drag, as the mission would be flown so low to the ground that they would provide no protection
+against fighters. Two v-shaped mounting arms were then attached
+with free-spinning disc mounts which would mate with the support rings on either side
+of the bomb. An off the shelf motor, typically used to
+power hydraulic pumps on submarines was used, and connected to the bomb with a pulley. Finally, to release the bomb Barnes needed
+some way of unmating bomb from it’s spinning mount. This was done rather ingeniously. These mounting arms were stabilised with a
+tensioned wire, which kept them firmly mated with the bomb. When the bomb needed to be released, the tension
+was released with a solenoid actuated grip. Compressed springs would then force the arms
+to swing outwards by just a couple of degrees, enough to release the bomb The bomb was now ready, but little time was
+afforded to the crew that would man the planes that would carry them. A new special squadron was created specifically
+for this mission, formed by some of the most experienced pilots the RAF had to offer. This experience would be needed, as the entire
+mission would be flown at extremely low altitude at night. Navigators had to learn to navigate with limited
+information, often little more than the bomb aimers calling out landmarks they passed over. To increase the time they had to train, their
+Lancasters were fitted with blue plastic screens to the windows to limit visibility and light
+during the day. After many test drops the crew were finally
+informed of their target on the morning of the attack on May 16th. That night they would take off from RAF Scampton
+in 3 waves with a total of 19 aircraft. Little would go smoothly from here. The first of the planes was lost just an hour
+into the mission, when it strayed off course over the heavily defended Texal Island off
+the Northern coast of the Netherlands. Two planes collided with power lines and cables
+as they flew low over the dutch and german countryside. Another plane flew so low as it crossed the
+North Sea, that the low slung bomb collided with a wave, dislodging it and forcing it’s
+crew to return to base, followed shortly after by another plane badly damaged by Flak. At this point the entire first wave of planes
+had failed their mission, but others were finally reaching their target. Gibson, the commander of the squadron, was
+the first to arrive flying at 370 km/h just 60 ft from the water, he successfully dropped
+his bomb which bounced three times before sinking and exploding, sending a gigantic
+spout of water above the dam, but it had sunk too short of the dam. On the following run a bomb bounced over the
+dam and destroyed the powerhouse at its base, while the Lancaster that carried it crashed
+into flames after being struck by flak. Gibson at this point circled back around to
+act as a decoy, for Henry Young whos bomb veered off towards the banks of the reservoir. On the fourth try the squadron finally got
+a direct hit, but another blow was needed to collapse the dam, which came shortly after
+as Gibson and Micky Martin flew decoy runs alongside Maltby who scored a direct hit on
+the already crumbling dam, sending 330 million tonnes of water into the valleys below. With their first target down, the 1st wave
+continued on to Eder dam with 3 bombs left, which was all they needed. After two unsuccessful attempts, where one
+bomb damaged the plane that was dropping it, Knight’s Lancaster came in at the perfect
+speed and altitude, releasing his bomb before quickly pulling hard to avoid the 300 ft hill
+directly behind the dam. The first wave were now out of bombs and made
+their journey home, but this leg was just as dangerous, as the already damaged plane
+was shot down soon after. 2 more lancasters would also be brought down
+by flak on their return leg The third wave lost two planes before reaching
+their newly assigned target. One strayed over the city of Hamm and was
+gunned down by anti-aircraft guns, another was lost over the Netherlands. What remained mounted an unsuccessful attack
+on the Sorpe dam, before returning to base. In all the British lost 8 Lancasters in the
+raid, killing 53 men, while another 3 who managed to survive their crashes were taken
+prisoner. But the damage inflicted on the Germans was
+far greater. The resulting floods wreaked havoc on the
+Ruhr valley, every bridge downstream for 45 kilometres was destroyed. 10 factories were destroyed and a further
+100 were damaged. Mines were flooded, and an estimated 400,000
+tonnes of coal production was lost. Acres of farmland were wiped out, and over
+1500 people died in the resulting floods. All this damage with just 19 aircraft, this
+was precision that had not been seen before. However, some have questioned whether the
+raids were worth this loss in life. Many of the people killed in the floods were
+prisoners of war in forced labour, and others are quick to dismiss this raid as a failure,
+because the Germans recovered so quickly. Taking just 5 months to repair the dams, in
+time to ensure the reservoirs would fill for the following summer. But these people seem to ignore the immense
+amount of resources that had to be diverted to repair the dams. They were repaired quickly precisely because
+they were so vital to the German war effort, that it was worth shifting thousands of works
+and materials away from the front lines. D-Day, which would come just a year after
+this raid, could have gone very differently if those resources had instead gone on to
+fortify the beaches of France even further. These 19 bombers, pound for pound, did more
+damage to the German war effort than any other British air raid thanks to the precision they
+had been engineered to achieve, and precision would become the focus of many of the wars
+greatest engineers once the war had ended, after all the Moon was much further away than
+any previous target. As always thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me the
+links to my instagram, twitter, subreddit and discord server are below. 

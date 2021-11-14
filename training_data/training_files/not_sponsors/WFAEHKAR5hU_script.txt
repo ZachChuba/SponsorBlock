@@ -1,0 +1,83 @@
+I started this series saying that relativity
+is about understanding how things look from different perspectives, and in particular,
+understanding what does and doesn't look different from different perspectives. And at this point you'd be justified to feel
+like we've kind of just trashed a bunch of the foundational concepts of physical reality:
+we've shown how our perceptions of lengths and spatial distances, time intervals, the
+notion of simultaneous events, and so on, are not absolute: they're different when viewed
+from different moving perspectives, and so aren't universal truths. And if we can't agree on the length of something,
+what can we agree on? Anyway, the point is, this relativity thing
+so far kind of just feels like it's leaving us hanging. I mean, all we've really got is the fact that
+the speed of light in a vacuum is constant from all perspectives – which, while it's
+true, doesn't feel nearly as helpful in describing objects and events the way that lengths and
+times are. Luckily, there is a version of length and
+time intervals that's the same from all moving perspectives, the way the speed of light is. You know how if you have a stick that's 10
+meters long and you rotate it slightly and measure its length, it won't be 10 meters
+long in the x direction any more - it'll be shorter? Now, if you know some math you'll tell me
+it's not actually shorter, and you can still calculate its true length using the pythagorean
+theorem as the square root of its horizontal length squared plus its vertical length squared. And yes, this is the case. You can use the pythagorean theorem to calculate
+the true length of the stick regardless of how it's rotated. But you don't need to use the pythagorean
+theorem at all - if you just rotate the stick back so that it's a hundred percent lying
+in the x direction, then you just measure it as 10 meters long and that's that. No pythagorean theorem necessary. In some sense, this is what gives us justification
+to use the pythagorean theorem to calculate the length of rotated things – sure, it's
+important that the pythagorean theorem always gives the same answer regardless of the rotation,
+but it's critical that it agrees with the actual length we measure when the object isn't
+rotated. And it turns out there's a version of the
+pythagorean theorem for lengths and times in spacetime that allows us to measure the
+true lengths and durations of things - the lengths and durations they have when they're
+not rotated. Except, as you know from Lorentz transformations,
+rotations of spacetime correspond to changes between moving perspectives, so true length
+and true duration in spacetime correspond to the length and duration measured when the
+object in question isn't moving - that is, true length and true time are those measured
+from the perspective of the object in question. For example, suppose I'm not moving and I
+have a lightbulb with me which I turn off after four seconds. As we know, any perspective moving relative
+to me will say I left my lightbulb on for more than four seconds – like, you, moving
+a third the speed of light to my left, will say I left it on for 4.24 seconds – that's
+time dilation. However, this is where the spacetime pythagorean
+theorem comes in – it's like the regular pythagorean theorem, but where instead of
+taking the square root of the sum of the squares of the space and time intervals, you take
+the square root of their difference (\sqrt{\Delta t^{2}-\Delta x^{2}}). Now we need a quick aside here to talk about
+how to add and subtract space and time intervals from each other – I mean, one is in meters
+and the other seconds, so at first it seems impossible to compare them to each other. But in our daily lives we directly compare
+distances and times all the time – we say that the grocery store is five minutes away,
+even though what we actually mean is that it's 1 km away; it just takes us 5 minutes
+to bike 1 km, so we use that speed to convert distance to time. In special relativity, however, we convert
+not with bike speed but with light speed - that is, how long it would take light to go a given
+distance. For example, light goes roughly 300 million
+meters in one second, so a light-second is a way to compare one second of time with one
+meter (and second is WAAAAAAY bigger!). So, back in our example situation, where from
+my not-moving perspective I had my lightbulb on for 4 seconds - from your perspective it
+was on for 4.24 seconds before I turned it off, in which time I had traveled 1.4 light-seconds
+to your right. And the spacetime version of the pythagorean
+theorem simply tells you to square the time, subtract the square of the distance (measured
+using light-seconds), and take the square root of the whole thing. Voilá - 4 seconds! We used observations from your perspective
+to successfully calculate the true duration I had my light on - the duration that I, not
+moving, experienced. And it works for any moving reference frame. Here, from a perspective in which I'm moving
+60\% the speed of light to the right, I left my lightbulb on for 5 seconds, during which
+time I moved 3 light seconds to the right. Square the time, subtract the distance squared,
+take the square root, and again, we've got 4 seconds: the true, proper duration of time
+for which my lightbulb was on. This all works similarly for true, proper
+lengths, too: here are two boxes that spontaneously combust 1200 million meters apart – at least,
+it's 1200 million meters from my perspective, in which the boxes aren't moving. From your perspective, in which the boxes
+and I are moving a third the speed of light to the right, the distance between the combusting
+boxes is now 1273 million meters, and the time between when they spontaneously combust
+is now 1.41 seconds, which converts, using the speed of light, to 425 million meters. We're again ready for the spacetime pythagorean
+theorem: square the distance, subtract the square of the time (measured in light-meters),
+and take the square root of the whole thing to get... you guessed it, 1200 million meters. Specifically, what we just did was use Lorentz-transformed
+observations from your perspective to calculate the true distance between the boxes from their
+(and my) perspective. And it would work from any other moving perspective,
+too. The bottom line is that in special relativity,
+while distances and time intervals are different from different perspectives, there is still
+an absolute sense of the true length and true duration of things that's the same from everyone's
+perspective: anyone can take the distances and times as measured from their perspective
+and use the spacetime pythagorean theorem to calculate the distance and time experienced
+by the thing whose distance or time you're talking about. Perhaps it should be called “egalitarian
+distance” and “egalitarian time”. But sadly no, these true distances and times
+are typically called “proper length” and “proper time”. And the spacetime pythagorean theorem, because
+it combines intervals in space and time together, has the incredibly creative name “spacetime
+interval”. But don't let that get you down: spacetime
+intervals allow us to be self-centered and lazy! Spacetime intervals allow fast-moving people
+to understand what life is like from our own, non-moving perspectives. The astute among you may have noticed that
+there was some funny business going on regarding whether or not we subtracted distance from
+time or time from distance - the short story is that it just depends on whether you're
+dealing with a proper length or a proper time. The long story is an age-old debate about
+what's called “the signature of the metric”. 

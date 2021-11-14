@@ -1,0 +1,157 @@
+What if every single black hole that formed
+in our universe sparked the big bang of a new universe? Cosmological natural selection proposes exactly
+this - but even better, it claims to be able to test the hypothesis. Physicists have been struggling for some time
+to figure out why our universe is so comfy. Why, for example, are the fundamental constants
+- like the mass of the electron or the strength of the forces - just right for the emergence
+of life? Tweak them too much and life, stars, galaxies,
+the universe as we know it wouldn’t exist. In recent episodes we explored one possible
+explanation for this - the anthropic principle and the idea of the multiverse. If there are countless universes with different
+fundamental constants, then it’s not surprising that a few exist with the right numbers for
+life - and certainly not surprising that we find ourselves in one of those good ones. But if you don’t like the anthropic principle
+- and many scientists don’t - then rest assured, there’s an alternative. You only need to accept two things: that our
+universe formed inside a black hole, and that universes can evolve. Our universe appears, in some sense, designed. It has finely tuned parameters that seem deliberately
+set for a particular outcome - life. There’s another example in nature where
+the illusion of design has a perfectly natural explanation - and that’s life itself. We now know that the fantastic complexity
+of living organisms is an inevitable consequence of evolution by natural selection. Inspired by biological evolution, theoretical
+physicist Lee Smolin came up with Cosmological Natural Selection. It goes like this: the formation of a black
+hole triggers the formation of a new universe “on the other side” in a new big bang. Those daughter universes go on to expand and
+make their own black holes and hence their own daughter universes. But in their formation the fundamental constants
+of the daughter universes are shifted slightly and randomly from their parent - mutations
+are introduced. Some of those shifts improve the daughter
+universe’s ability to form new black holes. Those universes have an advantage in propagating
+their cosmic genetics, and so gradually the ensemble of all universes get better and better
+at making black holes, just as biological organisms with helpful mutations can get better
+at surviving and reproducing. Now by happy chance there’s a correlation
+between making lots of black holes and making life - both require stars. The universe that is better at making stars
+is better at making planetary systems is better at making us. Seems fair enough. But is it any more than a cool story? Bro? Let’s take this apart to ask two questions:
+is it plausible, and is it testable? First up, for any of this to make sense black
+holes need to create universes. This is by far the most speculative part. In fact we have no idea, and only very tentative
+reasons to think so. The idea originated with one of Lee Smolin’s
+mentors, Bryce deWitt, who postulated that when a black hole collapses, its mass doesn’t
+all end up stuck in the central, infinitely dense singularity. Rather it sort of bounces - but unable to
+exit the event horizon of the black hole, it forms a new region of spacetime, effectively
+creating a new universe. The details of how this happens is presumably
+buried in the as-yet-unknown theory of quantum gravity. There are various proposals for how such a
+bounce might happen - all of which are massively speculative, and perhaps we’ll cover another
+time. John Archibald Wheeler expanded on the procreating
+black hole idea by suggesting that the fundamental constants of these new universes could be different
+to their parents. This seems plausible - if fundamental constants
+can change at all then surely it’s in the highest possible energy environments, which
+is exactly the end of a black hole collapse. Perhaps the configuration of the geometry
+string theory’s extra dimensions gets shifted - this would do the job. Inspired by this idea, Smolin added one thing:
+what if, when universes reproduces, the constants aren’t randomly reconfigured but rather
+change only slightly - analogous to a small number of genetic mutations. If that were the case, a sort of evolution
+by natural selection would become as inevitable as biological evolution. We have no good reason to believe any of this
+procreating universe stuff - and Lee Smolin has readily admitted that. The point is to instead ask: what if it’s
+true? What are the consequences? And can we test them? The exponential nature of the proposed process
+means that the ensemble of all universes should very quickly be dominated by ones that are
+extremely good and making black holes. Any given universe may not be totally optimal
+because its constants varied randomly from its parent - in the same way that any given
+living organism isn’t the paragon of its kind. So there’s a prediction: the fundamental
+constants that define black hole production should be close to optimal in a given universe,
+at least for a given mechanism for making black holes. In our modern universe, black holes are made
+when the most massive stars explode as supernovae. There are other ways to make black holes,
+and we’ll come back to them. So we should expect our universe to be optimized
+for producing as many of the most massive stars as possible. Well is it? It’s actually very hard to say, but it does
+seem like there’s some fine-tuning there. Stars are formed when giant clouds of gas
+collapse under their own gravity. But in order for that to happen the gas needs
+to cool to just a few degrees above absolute zero, rather than the typical 200-kelvin temperature
+of the typical interstellar nebula. That cooling is extremely slow if the gas
+only contains the hydrogen and helium produced in the big bang. Heavier elements and molecules allow clouds
+to cool and stars to form much more quickly, and of these, carbon monoxide is by far the most important coolant. In addition, gas needs to be shielded from
+the heating effect of other stars - and that seems to require the presence of tiny particles
+of ice and hydrocarbon dust. So without carbon, oxygen, water, and chemistry
+in general, far fewer stars and so far fewer black holes would form - and of course these
+factors also seem to be essential for life. But what about other sources of black holes? Theoretical physicist and cosmologist Alexander
+Vilenkin proposed that if a universe lasts forever then in the distant future, quantum
+fluctuations of that near vacuum will cause black holes to spontaneously appear - and
+given infinite time these will eventually outnumber those produced by stars or stellar
+black holes. If all this is true then the most black holes
+would be produced by the biggest universes - more space means more chances for these
+quantum fluctuations. That favours lots of dark energy generating
+rapid expansion. And that is definitely not our universe. Lee Smolin has various arguments against this:
+for example, we don’t know that our physics can really be extrapolated to the insanely
+long timescales required for these quantum fluctuations to happen. I would also add that even if Vilenkin’s
+argument holds, there are no doubt different regions in the landscape of possible fundamental
+constants where different types of black hole are optimized. This would lead to multiple branches of the
+cosmic genetic tree - some of which correspond to producing lots of stellar black holes. And naturally we’d find ourselves on one
+of those branches because those also happen to be the ones that favour life. But, whoopsie, I just invoked the anthropic
+principle, which is exactly what were trying to avoid with this whole idea. As speculative as all of this is, Smolin claims
+there’s a concrete test for the idea. If cosmological natural selection is true,
+then the fundamental parameters favouring black hole production should be optimized
+completely independently to those that also favour the appearance of life. And he suggests there is one such parameter. But first some background. When massive stars die, they actually mostly
+produce neutron stars - planet sized balls of neutrons so dense that they teeter on the edge
+of collapsing into a black hole. Black holes only form when the neutron stars
+is above a certain mass limit. Now it may be that in the cores of the most
+massive neutron stars, some particles can convert into strange quarks. The resulting material is even denser than
+the original neutron star, and so brings the star closer to collapse. And the lower the mass of the strange quark,
+the easier it is to convert lighter particles into strange quarks. That in turn means less massive neutron stars
+would be able to collapse into black holes. Surely, then, if universes evolve to maximize
+the number of black holes, then the strange quark mass should be optimized to make the cutoff
+between neutron stars and black holes as low as possible. Lee Smolin calculates that optimized cutoff
+at around 2 times the mass of the Sun. So, if this universe is optimized for black
+hole production then there should be no neutron stars more massive than 2 solar masses. And? Well, the most massive known neutron star is 2.17
+solar masses, discovered just this year. Now perhaps the extra .17 can be factored into the uncertainties of the theory... Or perhaps this is the falsification we were
+looking for. We await Smolin’s comments on this. I’d like to add my own objection: cosmological
+natural selection is meant to explain the fine tuning in the fundamental constants,
+which appear to be either set by design or by extreme luck. It tries to avoid the anthropic principle
+by proposing a natural selection that favours black hole production, and it’s just a happy
+coincidence that the same factors also favor life. But then do we really gain anything? It just so happens that carbon and oxygen
+are good for both black hole production and organic molecules ... but what if it was,
+I dunno, beryllium and boron that helped stars form - or other elements that were useless to life. If we causally disconnect the selection process
+for cosmic reproduction from the emergence of life then it seems we still have to invoke
+a good lot of good luck? Overall, cosmological natural selection is
+an appealing idea because it seeks a natural explanation for fine tuning, and one that
+parallels a known process in nature - biological evolution by natural selection. It also seems to give us predictions that
+we can try to test and falsify. And even though this idea is probably not
+true, it’s really important to remember that speculative ideas like this are exactly
+how we probe the edges of science. No one of them is likely to be true, but they
+help us explore the vast space of all possible realities - where somewhere is hidden the
+true nature of our reality. Or, you know, our universe's momma might be a black hole, and we live in an endlessly evolving, proliferating space time. If you want to understand astrophysics you’re
+going to need to have a solid understanding of relativity. Brillaint.org has a course on special relativity
+that includes interactive challenges and problems to solve. A hands-on approach can guide you through
+thinking strategies for challenging subjects like relativity. In this course you’ll
+begin by understanding Einstein’s postulates and the Lorentz transformations, and as your
+knowledge advances you'll learn how faster than light travel can break causality and
+you'll even solve the famous twin paradox. To learn more about Brilliant, go to brilliant.org/Spacetime. Hey everyone, thanks for watching - your support each week is what makes this show possible. Now, totally optional, but one way to help out even more is to become a patreon contributor. Even 2 bucks a month gets you access to our
+hopping discord channel. Thanks a ton if you’ve already joined us,
+and today an extra special huge thanks to Big Bang supporter Craig Stonaha. Craig,
+as a small token of our appreciation we’ve contacted our friends at the large hadron
+collider - they’re going to make you a black hole universe. Please email us with the configuration of
+fundamental constants you’d prefer and we’ll get it right out to you. Oddly enough it’s the same shipping company
+as our Merch Store, which you can check out at pbsspacetime.com Last week we talked about the doomsday argument
+- the unnerving idea that, statistically speaking, there are aren't likely to be vastly more generations
+of humans ahead of us than there have been in the past. There were a lot of counter arguments - perhaps
+good ones because apparently we're still here. Many people come up with a similar objection. I'll quote Mr Fantastic, who articulated it
+well: A human born 2 million years ago would come to the conclusion that the end of the
+world is nigh, and so would a human born 2 million years from now. If we accept the reasoning of the doomsday
+argument, doesn't this just mean that everyone, for all of history, would come to the conclusion
+that we're all going to die sooner rather than later? This point it totally valid - in fact a cro-magnon
+should reach the same conclusion and predict doom long before the 21st century - and obviously they would be wrong. But the doomsday argument isn't saying that
+every member of a species who employs this reasoning to predict their species doom is
+going to be right. It says that the majority will be right - if
+they predict that there will be a similar number of future generations as past generations. And by similar, I mean within a factor of
+a few. So ancient philosophers would have got it
+wrong - and perhaps we'll eventually also be wrong ancient philosophers to some very
+distant future generation. The point is if any given individual assumes that we're randomly sample from all generations who thought about the doomsday argument then chances are they didn't come near the start of their species. Now, the real problem with the doomsday argument
+isn't that users of it in the distant past would be wrong. Rather, it's that it's not at all clear that
+it's reasonable to count ourselves as "randomly selected" from all of the users of the doomsday argument. Zahaqiel highlights this trickiness in defining
+reference class with a great example: Step 1: Define reference class as "homo sapiens
+sapiens existing concurrently with the internet". Step 2: Observe that the internet has existed for
+approximately 30 years. Step 3: Assume self-sampling assumption makes
+sense and internet access is bell curved over over the duration of its existence or skewed towards
+late-phase access... Then the internet's going to cease to exist some
+time in the next 30 years guys. No one highlights another misuse of this idea. To quote: "What are the odds that I'm born
+as the prince of France?", asked the prince of France. Well, from the Prince of France's perspective, the answer to that question is a probability of 1. From everyone else's perspective, the answer is a probability of 0. And this really highlights the challenge in identifying our "reference class" for this sort of anthropic reasoning. Now, the Prince of France knows that he's the Prince of France, so from his perspective the likelihood that he's the Prince of France
+is indeed 1. But imagine the Prince of France was raised secretly in a normal French family. He doesn't know who he is - all he knows is
+that someone in the population is the Prince of France. If you ask him for the probability that he's
+the Prince of France he should probably say 1 in 33 million, or whatever the male population
+of France is. The point is that you need to take into account prior knowledge when you're defining your reference class. Nick Bostrom has another nice example of misusing
+the doomsday argument. Adam and Eve really want to ... you know,
+hook up. Except they're afraid of God's wrath if Eve
+gets pregnant. The serpent comes along and explains that
+according to the doomsday argument the chances of Eve getting pregnant are nearly zero. After all, it's incredibly unlikely that Adam
+and Eve are the first two out of billions or trillions of future humans - therefore, odds are, they can have all the fun they want without risk of spawning an entire species. But an even better doomsday absurdity was
+from thatisjustgreat who says "I was 30 seconds in when I realized the video is probably almost
+over". By that logic, this video is only half way
+through. 

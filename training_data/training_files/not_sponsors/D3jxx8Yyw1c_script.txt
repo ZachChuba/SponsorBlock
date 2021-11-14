@@ -1,0 +1,38 @@
+As I publish this video, it is already the
+first day of 2020. And it's also December 30, 2019,
+they haven't actually started rigging the fireworks on
+the London Eye yet. But the reason I can say that it's 2020 is also the reason why, a few years back, Twitter failed for a few hours. See, there are a lot of calendars in the world. Yes, most of us have standardised on the
+Gregorian calendar, January to December, but there are still some 
+used for specific things. In the Islamic calendar, it's the year 1441. In the Hebrew calendar, 5780. And in the ISO Week System, defined by the International Standards Organisation
+and used for finance and business, it is already 2020. It's handy sometimes, particularly
+when you're dealing with money, to always have a whole number of weeks
+in a year. And 7 days in a week just doesn't divide into
+365 days in a year cleanly. Or 366 for a leap year. So back in the seventies, the ISO defined
+the ISO Week System: where the year always starts on a Monday, and there are always a whole number of weeks
+in the year. Most of a time that's 52 weeks,
+so 52 times 7: 364 days, but occasionally there's basically a
+'leap week' to catch things up. Most of the time, the ISO year number is the
+same as the regular one we all use. But around New Year,
+it's not always in perfect sync. Like right now. As I publish this, it is December 30th, 2019,
+Gregorian Calendar. But in the ISO Week System, it is year 2020, week 1, day 1. It's a perfectly valid calendar, but it can be confusing because it's so close
+to our regular Gregorian calendar. And it doesn't have the concept
+of months. Only weeks. It's only meant to be used for things like
+bookkeeping and paying salary. But back at the end of 2014,
+Twitter's Android app and web site mysteriously failed for a few hours. And the reason was almost certainly someone
+getting the two calendars mixed up. See, most high-level programming languages
+have a function for getting the current date and time, and formatting it
+in a particular human-friendly way. So if you want the day, month and year in
+a human-friendly format, you create a string like that,
+you run it through a standard function, and it swaps out the bits
+that flagged by percent signs, and you get a sensible result out. But it's easy to get the letters
+in that string wrong. %m is month as a number.
+But %b is the month written out as a word. They're not always the letters you expect. Plus, most programmers
+don't have to use that often, so we tend to refer to the help files
+every time to be safe. And if you just search those help files from
+the top down for "year", the first result is %g. So you go ahead, not knowing what
+ISO week means, you use %g, and it looks right, and you don't realise until, well, today, that it's using a completely different calendar. And that's almost certainly why, for a few
+hours back at the end of 2014, at least, our 2014, Twitter got the year wrong. They'd accidentally taken the day and month
+from the Gregorian calendar, but the year from the ISO week system. It's one of those bugs that
+even with a lot of testing, you might not actually spot
+until something goes wrong. So if 2019 has been a rough year for you,
+and you want to leave it behind: change calendars for a little while. Welcome to the twenties. 

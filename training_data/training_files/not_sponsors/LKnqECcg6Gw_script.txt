@@ -1,0 +1,42 @@
+If you put a colorful image into photoshop
+or instagram and blur it, you’ll see a weird, dark boundary between adjacent bright colors. Yuk! In the real world, out of focus colors blend
+smoothly, going from red to yellow to green – not red to brown to green! This color blending problem isn’t limited
+to digital photo blurring, either – pretty much any time a computer blurs an image or
+tries to use transparent edges, you’ll see the same hideous sludge. There’s a very simple explanation for this
+ugliness – and a simple way to fix it. It all starts with how we perceive brightness. Human vision, like our hearing, works on a
+relative, roughly logarithmic scale: this means that flipping from one light to two
+changes the percieved brightness a TON more than going from a hundred and one to a hundred
+and two, despite adding the same physical amount of light. Our eyes and brains are simply better at detecting
+small differences in the absolute brightness of dark scenes, and bad at detecting the same
+differences in bright scenes. Computers and digital image sensors, on the
+other hand, detect brightness purely based on the number of photons hitting a photodetector
+– so additional photons register the same increase in brightness regardless of the surrounding
+scene. When a digital image is stored, the computer
+records a brightness value for each colors – red, green and blue – at each point
+of the image. Typically, zero represents zero brightness
+and one represents 100 percent brightness. So 0.5 is half as bright as 1, right? NOPE. This color might LOOK like it’s halfway
+between black and white, but that’s because of our logarithmic vision – in terms of
+absolute physical brightness, it’s only one fifth as many photons as white. Even more crazy, an image value of 0.25 has
+just one twentieth the photons of white! Digital imaging has a good reason for being
+designed in this darker-than-the-numbers-suggest way: remember, human vision is better at detecting
+small differences in the brightness of dark scenes, which software engineers took advantage
+of as a way of saving disk space in the early days of digital imaging. The trick is simple: when a digital camera
+captures an image, instead of storing the brightness values it gives, store their square
+roots – this samples the gradations of dark colors with more data points and bright colors
+with fewer data points, roughly imitating the characteristics of human vision. When you need to display the image on a monitor,
+just square the brightness back to present the colors properly. This is all well and good – until you decide
+to modify the image file. Blurring, for example, is achieved by replacing
+each pixel with an average of the colors of nearby pixels. Simple enough. But depending on whether you take the average
+before or after the square-rooting gives different results!! And unfortunately, the vast majority of computer
+software does this incorrectly. Like, if you want to blur a red and green
+boundary, you’d expect the middle to be half red and half green. And most computers attempt that by lazily
+averaging the brightness values of the image FILE, forgetting that the actual brightness
+values were square-rooted by the camera for better data storage! So the average ends up being too dark, precisely
+because an average of two square roots is always less than the square root of an average. To correctly blend the red and green and avoid
+the ugly dark sludge, the computer SHOULD have first squared each of the brightnesses
+to undo the camera’s square rooting, then averaged them, and then squared-rooted it
+back – look how much nicer it is!! Unfortunately, the vast majority of software,
+ranging from iOS to instagram to the standard settings in Adobe Photoshop, takes the lazy,
+ugly, and wrong approach to image brightness. And while there are advanced settings in photoshop
+and other professional graphics software that let you use the mathematically and physically
+correct blending, shouldn’t beauty just be  

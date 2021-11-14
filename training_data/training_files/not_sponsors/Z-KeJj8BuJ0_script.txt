@@ -1,0 +1,125 @@
+[♪ Unreleased/ Cyber Bass Marble Drops ♪] Hey everyone, Martin here!
+Today I'm so happy, because I finally made some decisions
+regarding the marble droppers here. So I have finally finished
+the design of all the droppers. But before I talk about them, I just want to
+show you this Marble Machine X CAD model, made by the elephant eaters,
+the amazing CAD-Team from Discord. When I anglegrind a part, that part
+disappears from this CAD model. It's an amazing team and the results are amazing.
+And I can now start to use this CAD model to make real design and engineering desicions.
+You can see the detailing is brilliant! And you can also see, that I'm not really friend with my 3D mouse just right yet. Last episode I showed you the vibraphone gates. And assembled on the machine,
+they look like this. You have all these heads sticking up, like feeding brontosaurus in jurassic park! You can put small green leaves on these brass wheels. It's very early here okay? You have to bare with me today! When the vibraphone plays... [Martin imitates the vibraphone] You will see these wheels moving. [Martin imitates wheels moving (?!)] Awesome, right? I'm using the same gates over the drums. So here's the kickdrum gate... To the left of it we have the cymbal gate... And then we have the hi-hat gate... And we have the snare drum gate... Yesterday I ordered all the parts for all these gates, so all these parts that we are looking at
+ on the screen right now are currently being manufactured by makers and manufacturers all over the world. That has taken me so much time to prepare all the files and most important just to sign off on the desicion. One of the toughest things for me in this whole process is to make final decisions. And having to ship stepfiles to manufacturers to make these parts forces me to sign off on a design, and thats just how it goes. Lets go over to the newest addition
+ to the Marble Machine X family: The cyber gate! Drumroll... [Martin imitating a drumroll] This is something... I am pretty proud of, I have to say. For the longest of time I didn't think it was possible to drop eight marbles from eight points right next to each other. But guess what: We figured it out! The cool thing with this gate, is that the dropping points are so close, so when the marbles are being dropped on the cyber base they are all coming from almost the same angle. So all eight dropping points hit the strings 
+down here in the cyber bass from kind of the same angle. What I did yesterday is, that I also ordered all the parts for the cyber gate as well. So at the moment
+all the parts for all the marble gates of the whole Marble Machine X
+is being manufactured. And, oh wow, has there been a process to be able to sign of on all these design decisions! But I did it, and I'm... out of that phase of the project and now I can just eagerly await the parts, 
+and start to put them together, and start again to make the marble tests,
+and the reliability test, with all these new marble gates
+as soon as the parts arrive to me! [♪ Wintergatan: Sandviken Stradivarius ♪] Last week I did the livestream, when 
+I designed this gate for the cyber bass. By the end of the livestream I was like:
+"I don't really feel it's that simple!" All the action is hidden inside here,
+the marbles are seperated, if you see, there's distance between them,
+you can't really see anything... You look at this from the outside
+and you see just... iron bars, right? It's not so interesting to look at, and there was
+something feeling odd about it. So I scratched this whole design, as you do, and 
+created this. There's more than meets the eye in this design, as always. A lot of people have 
+pointed out that these pac-man gates can be used as the marble droppers themselves. Why do we even 
+need this extra foot, coming down and dropping the marbles, when the pac-man gate itself can suffice. 
+The argument I've seen is that if you just put this marble gate at the end of each channel,
+you can just have this dropping directly on the instruments. And as you can see here it's 
+minimal amount of moving parts, I'm just pressing this black thing with my hand and one marble falls 
+out. This should be the ultimate simplicity for the Marble Machine X. However, making this solution 
+would not make the music as tight. The window in which the marble can slip out from the gate is 
+much larger, and it's not controlled, and it's slow. So we do not have accurate control over when 
+the marble is released. We do have control over how it's released but not perfectly timed when. So 
+this is why I'm here attaching the extra arm below. The arm opens much faster than the pacman gate. 
+It will be a much more instantaneous marble drop. The arm also gives us control over the marble drop 
+height and marble position. So the arm is crucial for this to become a music instrument 
+that can play almost midi tight music. As you can see here, in the old design I had 
+my pacman gates, and I had my dropper arms, and that's also true for the new design. As you can 
+see here the dropper arms are adjustable in height, I have 40 millimeters adjustability, and the movement 
+length is controlled by moving these links between all these holes, as you can see here. The further 
+out we attach this link, the less this little gear  will rotate. This little flower here that looks
+ like a gear is actually not a gear. It only moves back and forward 12.5 degrees, turning this 
+pac-man gate 25 degrees. There's a two-to-one gear ratio between these two moving parts. The reason
+I needed a gear ratio in this mechanical connection was because of the length that these links can 
+move left and right and the speed which I wanted this dropper arm to open. We also needed to reverse 
+the motion to make the gate open correctly while the pac-man gate closes. There's more than meets 
+the eye always. Again, I've designed for silence so down here you can see the silicon tube and you 
+can see how this dropper rests upon empty silicon tube, and that's also true up here. The blue field 
+here, the back side of this pivoting arm is resting against silicon tube between these pegs here. 
+There's no silicone tube in the CAD, and here you can really see how tight we managed to design this 
+gate. So eight marbles comes in from this side and it's kind of... brilliant if I might say so myself. 
+The only mechanical movement that feeds into this gate is these links going in and out, and 
+that sparks this whole chain reaction of events. I'm so relelieved that we found a solution for the 
+cyberbass, and I have to give shoutouts to some ideas from discord. In our airtable database 
+the idea vault team have gathered all the ideas for different solutions in a super cool kanban 
+view. Here's just a folder of all the pacman ideas and feedback, it's brilliant. So go check the 
+airtable view through discord if you want to see all the brilliancy going on on discord. So from 
+the air table you can click and you go directly to the post on discord; it's pretty genius. This is 
+a post by yakovgal, and as you can see I've used exactly this principle. So you have a dropper arm 
+and you have a gearing connection to a pacman gate. The link in yakovgal's design 
+comes from the left in the image if we zoom over to my view you can see
+that the only difference is that my link comes from the right 
+and that it sits underneath. So shoutout to yakovgal for this idea. So I'm in the marble gates channel here, I'm
+looking for a post from Lund. It's so much ideas and brilliant discussions going on on 
+discord, I can't really get over it. This is a crazy awesome design from Gonzonator 
+for another iteration of the cyberbass marble gate. So this is important: nothing is designed in a 
+vacuum. So I designed the new cyber gates to fit on these red and green activation spots
+because I know I can get to those, because that's how I did it in the earlier design. here is the post by Lund: inverted
+action gear for the back row. This simple sketch gave me the solution
+for how to mirror the front row and use the same idea on the back row. So if
+I put Lund's sketch to the left you can kind of see how this simple colorful sketch have 
+become CAD on the right side on the screen. So... thanks to everyone for being such amazing 
+good discussion partners on discord. On the Wintergatan discord server there's 
+a new rendering channel and I wanted to  give a huge shout out to everyone who are making these amazing renders of the Marble Machine X. RedNW, Labtec901, Cole and Jeepster 
+made renders for the intro in this video. Head over to the rendering channel on
+discord if you want to be part of making these CAD designs come to life like this.
+Thanks to everyone in the community for making these. They are so amazing. So most work I've did this week has been 
+on emailing manufacturers and administration because ordering and procuring parts
+is such a big job. So when you see something in CAD you think "Oh, yeah, now
+Martin can put that on the machine. No, I have to make it come real. So these are
+ the POM parts for all the gates and they are going to be machined in 
+Switzerland which is super cool. I'm going to make this case in stainless steel
+because it's easier to weld and it's non-magnetic. for all the gates i'm laser cutting 300
+stainless steel profiles in the Netherlands. I found a super nice supplier thanks to Rossero. I created a customer account and you can 
+supply a step file and get a quote within minutes They normally don't deliver to France 
+so we have to figure that out but the steel profiles are ordered. And here are the axles. So this five millimeter
+axle that we need five of, is for the cyber gate, and this four millimetre axle
+is for the escapement gate. and these are being cut by an old 
+Marble Machine X superstar, AcE Krystal that made the rubber 
+wheels for the cyber bass. so AcE is making these in the
+Netherlands which is awesome. So here you can see the brass wheel 
+in CAD, and here is the real world already cut brass wheels. This has been
+water-cut by Jaffer in Cleveland, Ohio This looks awesome. I love the kind of brownish look of this brass. And if we zoom up a little bit, 
+we see the clamps. I'm very happy with this design. The clamps that are going to attach the PMMA pipes 
+to the gate. And here are the aluminum parts made by rhdf in Sweden. It has this apple kind of 
+finish and as you can see they are gorgeous. I had to show you this. This week I have 
+Olivier from Id Acoustique here, and we're working on my studio installation again.
+And this is one of my two corner bass traps. In the middle hangs an active bass trap, and top and 
+below is two passive bass traps, and look forward to episode three of the music studio installation 
+next week. So it's been a really busy week working on the music studio installation plus the marble 
+gates. This is turning out very very cool indeed. So in summary, making these huge decisions 
+and signing off on them is something that I'm really bad at. It takes me a lot of time, I want 
+to look at all the possibilities and everything, and to have finally decided on all these marble 
+gates, and cracked the code for how to design them for this machine feels amazing. I can't believe 
+that what should have been designed first, has been designed last. It's kind of hilarious. I'm feeling 
+super confident that the marble droppers and gates are not the bottlenecks they always were on 
+this project. And I'm gonna make a wow to everyone watching this video, I will officially accept 
+defeat if these gates are not working. I don't mean like if I made something wrong in the order if I 
+have to order a new part, or something like that, of course I would do that but this is the last 
+design I will do for the Marble Machine X. I have a high belief in this design and most of all 
+I'm feeling relieved that this long kind of redesign is finally over, and very soon I will be able to go 
+back to building videos where I assemble all these cool parts, and most of all starts the reliability 
+videos again with the marble test. I'm gonna make like one gate on the snare drum, and I'm gonna 
+like drop hundred thousand marbles during like nine hours.[chuckles] I wanna do something like that.
+I just wanna prove that we built something reliable and most of all resilient. Talking about 
+resilient: thank you for staying with me in this crazy journey. Thank you for watching to the end 
+of the video if you are awesome. Thanks for all the support through youtube memberships and patreon. 
+That has been amazing to see that the more serious I become in this project, the more I spend my time 
+where I should, the more support I receive for the project. So sometimes when I stay more silent on 
+the internet it means that I'm focused working on the Marble Machine X. So this was a simple kind of weekly update. Now you know where we are,  I'm working with the manufacturers 
+to get all the parts to France, and... yeah, I just wish you all a fantastic day,
+and I feel super happy about the future  of the Marble Machine X.
+//Subtitled by Wintergatan Writers. Join our team on discord.// See you next time, bye!
+//Subtitled by Wintergatan Writers. Join our team on discord.// 

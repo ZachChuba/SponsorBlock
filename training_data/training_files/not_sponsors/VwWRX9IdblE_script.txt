@@ -1,0 +1,139 @@
+Hey guys, Jade here,
+thanks for joining me today to learn about quantum superposition. So, if you're just starting out on your quantum physics journey, quantum superposition is a
+really good place to start because it's very fundamental
+to quantum physics and basically, if you don't
+understand superposition, you aren't gonna understand anything else about quantum physics. Before we start, I just wanna say that I know quantum physics has this really intimidating reputation, but really, I find that the
+problem with most people in learning quantum physics is that, it's this kind of mental barrier and it's trying to fit the results or the observations of quantum physics into a model of the world
+that they know and understand, and I'm just gonna tell you right now that that's not gonna work. So, for the next 15 minutes or however long this video ends up being, just keep an open mind,
+anything is possible, I really think anyone can
+learn quantum physics. It's not hard, it's just odd (laughs). So yeah, with that,
+let's get right into it. Quantum superposition, here we go. So, I thought the best way to do this would be to simply describe
+the results of an experiment and then talk about what
+the results mean at the end. So, say we've got a box of neutrons. It can really be any quantum particle but I feel like neutrons
+are often neglected because they're probably
+the most boring particle, having no charge or anything. I'm a middle child and can
+sympathize with being forgotten, so, neutrons, it's your lucky day. Now, I'm going to steal
+a beautiful analogy from an MIT professor, Allan Adams. It absolutely blew me away when I heard it so, I wanna share it with you guys now. Saying it's an empirical fact that neutrons have two
+properties, color and shape. In the real world, this
+would be analogous to spin, but spin is a kind of complicated topic and you really don't need
+to understand what spin is to understand superposition so, just forget the real world for now. Now, neutrals can have
+two colors, blue or green and these are binary, meaning it can only be one or the other and it's the same with shape, they can only be circular or square, no curvy turquoise squares allowed. Now, say we want to test
+whether color and shape have some kind of
+correlation or relationship. So, someone has built two
+machines that consult them for us, a color machine and a shape machine. So, when a nutrient is
+fired from the neutron box through the color machine, the machine sorts them
+into blue and green groups. So, just quickly, this
+ambiguous wiggly cloud represents that we don't
+know their shape yet, it isn't the actual shape, and likewise with the shape machine it sorts them into square
+and circular groups. The machine doesn't in any
+way change the neutrons, just sorts them. Now, the actual mechanisms of the machine don't matter at all. It could be a tiny demon
+inside doing the sorting or it could be magnets and
+other fancy expensive equipment, the point is that these
+machines have been built and they work. Nothing described in this experiment has anything to do with the
+mechanisms inside the machine. So, you fire some
+neutrons into the machine and it sorts the blue and the green. Interestingly, we get
+an exact 50-50 split. The same thing happens
+with the shape machine, exactly half are circular
+and half are square. So, now to see if there's any relationship between shape and color, we combine these machines
+in a few different ways. We test how many blues turn out circular? How many greens turn out square? How many circles turn out green and how many squares turn out blue? We try every combination and find that the answer is always 50-50, it's completely random. As far as we can tell, there is no correlation
+between shape and color. Knowing one tells you
+nothing about the other, okay, fine, no big deal. Now I'm gonna do something
+and just humor me. Say we send the neutrons
+through a color box, collect the green ones, then
+send them through shape box, collect the circular ones and then send them
+through a color box again. What do you think will be the percentage of blue and green neutrons as
+they exit the third machine? I want you to pause the
+video and think about it and then vote in the
+poll that just appeared. Okay, so, if you're a
+reasonable kind of person, you probably guessed
+that 100% came out green and 0% came out blue. The first machine sorted
+the green neutrons out, then pass them through the shape machine and then back through the color machine. So, it makes sense that we'd have gotten all green neutrons here, but it's not what happened, 50% came out green and 50% came out blue. This is where the fun begins. Now, remember these machines
+don't change anything about the neutrons,
+they just measure them. So, maybe the neutrons can
+change color on their own then, maybe these properties are just ephemeral and they can change at will. All right, next experiment. This one is a bit trickier, but not much. We have the random neutrons from the box going into a color machine, being sorted into blue and green, then the green ones are sorted
+again by a shape machine. Now, these things are mirrors and they don't do anything to the neutrons except change their trajectory. So, the square neutrons
+take the upper path and bounced off this mirror, and the circular neutrons
+take the lower path and bounce off this one. Then they're all recombined
+at the beam splitter and sorted again by color. The beam splitter doesn't do anything except recombine the square
+and circular neutrons and then send them
+through the color machine. Just for clarification, let's assume the neutral
+being fired one by one so, they're not interacting
+with each other in any way. Now, think really carefully about this one and cast your vote. What percent emerged from
+the final color machine blue and what percent emerge green? Feel free to backtrack and take a look at the
+previous experiments. (upbeat music) So, in the last experiment we
+unexpectedly got a 50-50 split between the blue and green neutrons. We had a color box, a shape
+box and again a color box, exactly the same as what we have here, so, it would be reasonable to guess that we get a 50- 50
+split again, but we don't. 100% of the neutrons came out
+green and 0% came out blue. So, what the hell, right? Remember what we said
+about keeping an open mind? Next experiment, let's
+block this lower path here, the circular path with a wall so that none of the
+nutrons can get through. Furthermore, let's make the
+path a million miles long so that the neutrons taking the upper path couldn't possibly know what's going on with the neutrons in the lower path. Of course, neutrons aren't
+sentience or anything like that, I'm just using the word, know,
+for lack of a better word. So, with this new added wall,
+let's cast a vote again. What percentage of the
+neutrons will emerge as green and what percentage will emerge as blue? Again, feel free to backtrack. (upbeat music) I'm very interested to know
+how you guys voted this time, but I'm just gonna tell you, half turned out blue and
+half turned out dark green. What is going on? (exhales) Open mind, open mind. Okay, so, if you think
+you've digested all of that, let's try and make some sense out of it. In the first experiment we sent the green neutrons
+to be sorted by shape, but then when we measured the color again half were blue and half were green, so we knew the shape of
+the neutrons that came out but not the color. In the next experiment, we introduced a couple of
+mirrors and a beam splitter. We sent green neutrons
+to be sorted by shape, recombined and then sorted again by color and this time, 100% came out
+green and a 0% came out blue. So, what changed? Well, did you notice
+what the difference was when we introduced the beam splitter? The recombination meant
+that we didn't know whether the neutrons entering
+the final color machine was square or circular. So, from our perspective,
+it's kind of the same as if the measurement was never taken. So, in the end we knew the
+color but not the shape. Hmm, I'm sensing a pattern here. All right, then what
+about the next experiment? When we blocked the circular path and sent the green neutrons
+through the shape machine, half came out blue and
+half came out green. These are the same results
+as our first experiment and from an outside perspective, we have the same information. Because we blocked the circular
+path, we know that, one, the electrons which passed through the first color machine are green, then the ones that make it
+to the final color machine are square, but then when they pass through
+the final color machine, they're not green anymore, they're random. It seems like we're not allowed to know both the color and shape of
+the neutrons at the same time. (upbeat music) But what does that mean,
+not allowed to know? Like it's not like
+neutrons have some vendetta against humans and are playing
+some big practical joke, and even if they were, this
+path is a million miles long, how did the neutrons
+taking the square path know that there was a wall
+blocking the circular path? So, let's try to explain this experiment. Let's focus in on the second
+one where 100% came out green. What did the neutron do in
+this area of mystery here? Well, there are really only
+four options that make sense. One, it went along the square path but when we blocked up the
+circular path with a wall, we know it took the square path, but we got that half
+the neutrons were green and half were blue, so,
+we know that's not it. Two, it took the circular path, but we could just use the
+same argument switched around, so, we know that's not it either. Three, it took both paths, maybe the new journey is
+sneaky and split in two or duplicated itself or something. But if we place a
+detector along both paths, we find that only one
+neutron is ever detected so, that's not it. Four, the neutron took neither path. Well, if we put a wall
+in the way of both paths, we find that no neutrons come
+out, so, that's not it either. But there is a fifth option and that's just that the neutron is doing something that we can understand. It's not taking the square path, it's not taking the circular path, it's not taking both and
+it's not taking neither, it's doing something entirely different and the word we use to
+describe this behavior is superposition. The neutron was in a superposition of being square and
+circular at the same time, we can't know both the
+shape and the color, but it's actually deeper than that. The neutron doesn't have a shape and a color at the same time. Having a definite shape means
+not having a definite color. To talk about the shape
+and color at the same time doesn't mean anything. Measuring the shape resets
+the color and vice versa. There is something
+fundamentally unpredictable about physical objects. Quantum superposition,
+ladies and gentlemen. This experiment has
+been repeated many times with different particles,
+neutrons, electrons, protons, photons, buckyballs and it
+always turns out the same. The original experiment was done with the spin of silver atoms, and it's called the
+Stern-Gerlach experiment named after its creators, Otto
+Stern and Walther Gerlach. So, I hope you guys
+were able to understand a bit more about quantum
+superposition from this video. If it still feels pretty
+fuzzy, don't worry, quantum physics takes
+some time to settle in and you have to remember that we didn't evolve to understand
+these kinds of concepts. Back when we were cave men and women, we were thinking about how fast we had to run
+away from tigers and the trajectory of throwing a spear, we had no use for knowing
+how quantum particles work, so, it's not surprising that we have a hard time understanding it and a hard time forming an intuition. Understanding quantum physics is going to take some brain rewiring, and that's going to take some time, but just keep trying, stay optimistic, and I promise you one day, this stuff will kind
+of start making sense. I've linked Allan Adams' MIT
+lecture down in the description I would strongly recommend it to anyone looking to learn more about this topic, it's pretty easy to follow and his enthusiasm is just contagious. So, with that, I'm gonna end the video, good luck on your quantum physics journey, I do hope you pursue it. I will be doing more quantum
+physics videos on my channel so, if that sounds good
+to you, then subscribe and I'll see you in the next one, bye. (upbeat music) 

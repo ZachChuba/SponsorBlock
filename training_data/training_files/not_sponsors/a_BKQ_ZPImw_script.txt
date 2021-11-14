@@ -1,0 +1,33 @@
+{♫Intro♫} One of the most fundamental ideas in physics is that the disorder of the universe is constantly increasing. Which is funny, because life as we understand it is pretty darn… ordered. And it turns out life’s inherent chemical
+makeup has been hacking the disorder of the universe for billions of years. To understand this disorder, otherwise known as entropy, imagine you have given a bag of glitter to a toddler. Is all that glitter going to stay in the bag?
+No, probably not. And once it’s out there, it’s there forever.
+It’s not going back in the bag. You’re just going to have to make peace with glitter being a permanent feature of your floors, your furniture, maybe even your food and hair and skin. But your two-year-old force of nature was
+only abiding by the second law of thermodynamics. The second law holds that entropy, which is a measure of how spread out the energy of a system is, is constantly increasing. Initially, your bag of glitter had low entropy because all the pieces of glitter were confined to one place, creating a goldmine of concentrated energy. But once that bag gets ripped open, that energy gets converted to movement as the glitter particles spread throughout the room. And after you’ve finally managed to distract the kid with an applesauce and a SciShow Kids video, the glitter will have come to rest
+on every imaginable surface. This is a higher entropy state for two reasons.
+One, the glitter pieces are no longer all squished together, and two, the energy of
+the bag has been spread out. And without energy, that glitter isn’t going
+anywhere. Unfortunately, this is usually a one-way process. Energy never really just concentrates in one spot on its own. Like, glitter never just jumps back into its bag. Except cells basically make that happen. Like, for their entire existence. Because life has mastered the art of concentrating energy -- what you might call hacking entropy. The most obvious example is membranes, which are a universal requirement for cellular life. They are protective barriers surrounding our cells, and they’re made out of millions of lipid molecules -- basically, fats -- organized in two parallel sheets. Which, as far as entropy for the lipid goes,
+is basically a worst-case scenario. They’re crammed in like college kids at
+a basement frat party -- whereas entropy would favor them spreading out as much as possible. But unfortunately for them, lipids don’t
+exist in a vacuum. They live in us: in big, fleshy sacks of mostly water. And it’s unfortunate because, Practically, this means that when water molecules
+come in contact with a lipid’s tails, they kind of become frozen in a grid around them. This is a loss in entropy for the water molecules because they’re not randomly distributed anymore. So it’s a trade-off: the lipids have less
+entropy being packed in together, but the water has a lot more freedom to move around when it’s not coming into contact with those hydrophobic tails. Which means the Second Law actually wins, because there’s more entropy in the water. But things still work out for the cell. This is why membranes can assemble themselves
+in the presence of water, all on their own -- without any energy being put in. This relationship between hydrophilic and
+hydrophobic molecules gets amplified when we think about proteins. Because proteins can’t just assemble themselves
+into a simple sheet like a membrane. Proteins are how cells do… like, nearly
+everything. But to do their job correctly, they need to take the proper shape. And that’s harder than it sounds… or it should be. Every protein starts out as a linear strand
+of amino acids that has to fold into an incredibly specific 3 dimensional shape. And there are trillions of wrong ways you
+could fold one of these bendy ribbons to end up with a non-working protein. A researcher named Cyrus Levinthal once postulated that if an average protein randomly tried out all of these wrong shapes, it would take more time than life has existed on Earth. We are pretty sure they manage to fold correctly somewhat faster than that. So the question is, how do these proteins
+consistently not only get it right, but do it fast? Scientists began wondering if protein folding
+might be able to fast-forward the early steps using entropy. In the 1980s, they proposed something known
+as the molten globule state. And subsequent studies have provided evidence that this is
+really happening. The molten globule is an intermediate form
+similar to the protein’s final 3D shape, in which hydrophobic amino acids essentially
+fall into a flexible blob at the center of a baby protein -- away from the water. The idea behind this model is similar to membrane
+assembly: If you cram most of the hydrophobic amino acids into the center of a protein,
+it allows the water molecules to move freely. And even though this means the amino acids are then restricted in how they can move, the net gain of entropy for the water should still be favorable. Since we do see a lot of proteins that keep their hydrophobic regions tucked away, it makes sense that that’s how they start folding. Most importantly, this would also partly explain how proteins fold so fast. They skipped a bunch of steps by eliminating a bunch of
+wrong scenarios. At some point in trillions and trillions of
+years, entropy might be the undoing of life altogether, as everything in the universe
+becomes completely uniform. But for the last four billion years or so,
+it’s made life possible, which is a little bit paradoxical, but definitely very cool. If only it could put the glitter back in the
+bag. 

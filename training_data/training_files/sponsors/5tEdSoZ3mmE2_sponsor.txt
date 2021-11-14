@@ -1,0 +1,4 @@
+Thanks. [ad start]
+Thanks again to SSD Secure Disclosure for supporting this series - checkout their
+website and learn more about the SSD vulnerability disclosure program at
+Ssd-disclosure.com. [ad end] 

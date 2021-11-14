@@ -1,0 +1,50 @@
+If you take a laser and shine it at a wall
+with two holes in it, you have the famous double slit experiment - where waves coming
+through two slits interfere with each other to be bright in some places on the wall, and
+dark in others. And this works with quantum particles, too,
+since they behave in wave-like ways: send a cat towards the slits, and it’ll show
+up at a point on the wall. Send a bunch of cats, and their accumulation
+reveals the same interference pattern as a light wave . Now imagine you add another, competing double
+slit experiment, with another cat, that shares one of the slits with the first setup. Of course, if you send the second cat over
+and over towards these two slits , the points where it hits the wall will give a similar
+interference pattern. And at this point here for one cat, and this
+point here for the other, those cats never show up, no matter how many times you send
+them through the slits. Their wavelike behavior causes what’s called
+“destructive interference”; if cats were light, these points would be in cat-darkness. But weird things happen if you send both cats
+at their double slits at the same time. The top cat goes through the top and middle
+slits and then towards the wall, and the bottom cat goes through the bottom and middle slits
+and then towards the wall; and things would again go as expected, of course, except that
+the cats get in each others’ way going through the middle slit. Maybe the slit’s too small for two cats
+to fit through simultaneously, or maybe, yeah! maybe one cat is actually made of antimatter
+so if both go through the middle slit, they annihilate each other and never make it to
+the wall. Either way, the situation is now this: the
+cats traverse the slits in a quantum superposition of top cat top/bottom cat middle, top cat
+top/bottom cat bottom, and top cat middle/bottom cat bottom. There’s no “both cats in the middle”
+in the superposition, since the cats can’t traverse the middle slit together. And since the superposition is missing the
+“both cats in the middle” option, the interference patterns change and it’s possible
+for the cats to end up in the places on the wall where before there was cat darkness. This isn’t at all surprising for waves - I
+mean, different amounts of wave coming through the slits means a different interference pattern. But there’s something weird about this when
+particles are involved. To see why, remember that individually, the
+cat darkness arose because the cat’s wave-particle superposition went through both slits and
+interfered with itself to result in zero probability of the cat ending up there. So if the bottom cat DOES end up there, it
+must not have been able to interfere with itself, so it must not have gone through both
+slits, so there must have been something blocking one - the other cat, in the middle. And if the top cat ends up in its previously
+cat-free spot, then it must not have gone through both slits either - the bottom cat
+must have been blocking the middle slit. This wouldn’t be a problem, except that
+when you actually do this experiment , some of the time BOTH cats end up in the previously
+cat-free spots. And we know they can’t both have gone through
+the middle slit, because they would have annihilated each other - so each cat must have been blocked
+from going through the middle slit by the other cat having gone through the middle slit,
+simultaneously. Which of course seems impossible, and is why
+this situation has been called a paradox . And it’s certainly thought-provoking if you
+like to think about local realism or contextuality or weak measurement values or the interaction
+between classical logic and quantum mechanics. But it’s not really that surprising, as
+long as you believe that quantum particles can be in superpositions (which happens all
+the time and has been incredibly well experimentally confirmed). As we said earlier, the two cats pass through
+the slits in the superposition “top middle” plus “middle bottom” plus “top bottom”,
+which include both apparently necessary “blockages” of the middle slit by one cat or the other,
+and it’s this superposition that results in the changed interference pattern that allows
+for the possibility that both cats simultaneously end up in the previously cat-dark locations. If all of this seems a bit weird - yeah, it
+is! But it’s worth remembering that weirdness
+and paradox are not one and the same . And the quantum cat/antimatter-cat double double-slit
+experiment is fully consistent with the predictions and experimental results of quantum mechanics. Sometimes the universe is just weird! 

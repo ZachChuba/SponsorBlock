@@ -1,0 +1,64 @@
+[ ♪INTRO ] If you’ve ever ended up with a nasty rash
+from using skincare products, especially oily or heavily scented ones, you’re not the
+only one. A lot of people react to certain compounds
+found in these products. Around 50% of people who use these products
+will experience this allergic reaction, known as contact dermatitis. But researchers may have finally figured out
+why these pesky rashes happen — and how to prevent them. Right now, the main way to treat contact dermatitis
+it is to just avoid products containing certain chemicals. But if you’ve ever had this problem, you
+know that’s a long list. And before now, scientists simply didn’t
+understand how these rashes happen. See, allergic reactions are often triggered
+by specific molecules called peptides. Those peptides trigger immune cells known
+as T cells. But skincare products don’t typically have
+those kinds of peptides in them. What’s more, the molecules they do have
+are thought to be too small to be seen by T cells. But last week in a paper published in the
+journal Science Immunology, researchers showed that a molecule found in our skin called CD1a
+binds to certain skincare chemicals, making them visible to T cells. It basically rats them out to our immune system. The researchers identified several common
+skincare substances that were able to cause a T cell response by binding with CD1a. Two molecules found in a commonly used vanilla-scented
+oil, benzyl benzoate and benzyl cinnamate, got T-cells fired up when they were bound
+with CD1a. The researchers looked even more closely at
+another allergen known as farnesol. They found that rather than just sitting on
+the surface of CD1a, it actually binds deep inside it , displacing natural skin oils that
+would normally be there. That meant T cells weren’t simply recognizing
+the chemical structure of farnesol on CD1a, but instead changes to the shape of CD1a itself. The researchers believe they might be able
+to identify other compounds that can compete with farnesol for a spot binding to CD1a without
+causing an immune response, offering some hope for preventing contact dermatitis. Another idea getting a lot of attention this
+month comes from a pair of papers that claim to show how artificial intelligence can be
+trained to detect cancer more efficiently than doctors. The first study, published last week in the
+journal Nature, outlined an algorithm for detecting breast cancer from mammograms, which
+are essentially x-rays of breast tissue. Researchers first trained the AI to recognize
+cancer by showing it tens of thousands of mammograms from women in the US and UK with
+a confirmed diagnosis. They then tested the AI on different datasets
+of around 26,000 UK women and 3,000 US women and compared its results with the initial
+diagnosis made by expert radiologists. The algorithm caught cancer on images where
+it had been missed by the doctors who initially examined those mammograms. That will be a false negative,when we are
+saying it isn’t there, but actually is. And it reduced false negatives by 9.4% for
+the US dataset and 2.7% for the UK dataset. UK doctors always get a second opinion, which
+might help explain the difference. Which is great, because doctors can miss up
+to one in every five cases of breast cancer. So even a few percentage points could be helpful. The AI also lowered the rate of false positives
+— where it looks like cancer is there but it actually isn’t — by around five percent
+for the US group and one percent for the UK group. The second study, published this week in Nature
+Medicine, used a similar method to train an AI to detect brain cancer. Researchers trained their AI on a dataset
+of 2.5 million images of brain tissue from several hundred patients. But when it came to testing the AI, these
+researchers did it in real time. They took two samples of brain tissue from
+278 patients during surgery and gave one to their AI and one to a team of pathologists. The computer would first create detailed images
+of the brain tissue and then analyze them using an algorithm. The humans would go off to the lab and look
+at the samples the old-fashioned way, using a microscope. The AI did slightly better than the experts
+here too, getting the diagnosis right 94.6% of the time compared to 93.9% of the time
+for the humans. But what was really amazing about this technique
+was its speed. The AI could predict brain cancer right there
+in the operating room in around two and a half minutes, instead of roughly 30 minutes
+it would take humans to do it. Which is great, because when doctors are operating
+on your brain, they want to be really sure about their diagnosis. Now these studies don’t mean cancer diagnosis
+is solved forever. One concern about algorithms in general is
+that they’re only as good as the dataset they’re trained on. So if the dataset doesn’t include people
+of different races or sexes, then the AI might not work as well for those groups of people
+— like if the disease manifests itself differently in, say, men with breast cancer. They also wouldn’t work for diagnosing rare
+tumors because there isn’t enough data to use for training the algorithms. Plus, it’s currently unclear exactly how
+to use AIs in real-life hospital scenarios. Doctors could use them alongside their own
+expertise to help them diagnose disease. However, a 2015 study suggested that other
+computer-aided methods of detecting breast cancer didn’t improve accuracy, and may
+even have made things worse. In addition, some physicians have raised questions
+about these studies, suggesting that we should be identifying patients with dangerous but
+curable cancers, not teaching AIs to find as many as possible. Especially when those lesions could be harmless,
+leading to unnecessary treatment. In other words, the question no longer seems
+to be whether we can train AIs to help us find cancer, but how they should be used to do that. [ ♪OUTRO ] 

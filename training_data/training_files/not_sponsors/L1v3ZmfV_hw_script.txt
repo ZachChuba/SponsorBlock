@@ -1,0 +1,153 @@
+- This is the anti iPhone. It's a smartphone that's been
+designed from the ground up to be disassembled, repaired and even upgraded. Everything from the battery, which comes out just
+like that remember that, to the camera module, to the display, to even this speaker and
+vibration motor module is available on their
+website as a spare part. - To see how just how easy it is, you get to put all of this back together with just this and no
+instructions whatsoever. And we'll see if it's even
+worth doing along the way. or at the end of the video. (urban upbeat music) - So I'll give you one hint, there are two different kinds of screws. The black screws are for the display. - They look really similar
+to the silver ones. - [Anthony] I'm not sure if
+they're quite the same size, I didn't size them up. - I suspect if you use
+them interchangeably, they would just work. - [Anthony] That sounds like
+something they might do. - Okay, so it's more just
+to help you keep track. This appears to be a
+speaker module, there it is. Got waterproofing mesh over the bottom. Camera module, wow triple camera. - [Anthony] It's actually double camera with a time of flight sensor. - Oh, okay, this is so cool. A port that is this fast
+and easy to replace. It's one of the most likely
+things on your phone to die, whether it's due to wearing out from being plugged and unplugged
+or some kind of ingress. - [Anthony] And it is
+wired for 3.0 speeds. The previous generation was only 2.0. This generation does like a 3.5 millimeter headphone jack though. - Yeah, I'm sure something--
+- So does everybody else. - Maybe not about that. - [Anthony] Yeah. - Back piece, this for wireless charging? - [Anthony] It doesn't have
+wireless charging built in. - What are these contacts for? - [Anthony] I don't know. I can tell you that the back cover is made of a 100% recycled polycarbonate. - Micro SD expansion. Yet another point of ingress that could make the phone less durable. Oh wait, you can just put it on the inside if your phone was easy to
+take apart, lol gottem. This feels like an aluminum frame. - [Anthony] I believe it is. - Okay, I'm sorry, I'm not supposed to be reviewing the device, I'm supposed to be just
+putting it together, okay.
+- Yeah the review comes later. The review comes later.
+- All right, all right, it's cool, okay.
+- Yeah. - I'm gonna start with
+stuff that's super obvious. I'm gonna put in the USB-C port, and I cannot understate
+how important this is. Like imagine how many of
+your devices over the years you would not have had to replace if you could just swap in a new port after you broke the
+existing one just like that. I mean the game controllers David? - Yeah.
+- Just so you know, this took me about five minutes
+to disassemble to this state that you've see right now. And it only takes six screws to get to where that USB-C port is. - My front camera module
+definitely goes in before my earpiece speaker. - While Linus is doing that, I'm gonna go a little over a little bit about what Fairphone is. It's not actually a typical company, they are social enterprise, which is a kind of a
+worker focused company based in Amsterdam. They began as an awareness campaign against conflict minerals back in 2010. And their mission statement is just overall to create
+products that are affordable, responsible, and ethical. They formed in 2013 with the
+launch of the Fairphone 1. And the Fairphone 2 was the first commercial
+modular smartphone launched in 2015. They still list a full
+range of replacement parts six years later. And since then, over 60%
+of all Fairphone sold are still in service. The Fairphone 4 is getting a
+five-year extended warranty with parts availability
+guaranteed until at least 2027. - I kept looking for tricks, right? Like I kept looking for, oh, there's gotta be like a
+certain special way it goes in. But other than putting in
+the front facing camera and the speaker, it just snaps together. Everything that I'm doing right now is basically what they do when
+they assemble a smartphone. It's just a little bit
+more thought has been put into making it so that
+you can earn that it, it is actually a lot easier to make something that can
+only be put together once. Now I noticed that this
+module over here on the right with the SIM slot and the micro SD slot is Torx instead of Phillips, is that one not intended to be removed. - [Anthony] It is not
+intended to be removed. No, they're not selling that separately. Everything else they
+actually do sell separately on their store. - And I'm almost afraid to ask because it sounds too good to be true, but what SoC is it using? Is it something dog slow or is it something relatively modern? - [Anthony] It's a
+Qualcomm Snapdragon 750G, that's an 8-core SoC at 2.2 gigahertz with an Adreno 619. - Respectable then. - [Anthony] Respectable and
+it comes in six or eight gigs of LPDDR4X memory. - Hey remember these, they still managed at 3900
+milliamp power battery. And it's not like this
+thing is a huge clunky boy. Oh my God, midway through
+the day, you could be like, OMG, I'm out of battery. You could actually like swap
+in a battery of fast charging for whatever reason did
+not tickle your fancy. - [Anthony] And it does
+support 20 watt fast charging. - Oh, it's even got a little
+spot for you to put your thumb to pop it off. - [Anthony] Yeah, it's
+a little more stubborn than classic ones. So you might wanna run your
+fingernail up through the, yeah, there you go. - Wow, it goes on there, don't it? - Oh yeah.
+- I mean, I guess that's good. That's what, oh God,
+I've got an extra screw. Wow, even with me talking to you, this was less than a 10 minute ordeal. - You didn't know how
+it goes back together and you got to back it
+together in like 10 minutes. - I can't imagine this
+is very water resistant. - [Anthony] It is not, it is IP 54 rated. They could probably get better
+if they had rubber seals, but those are more difficult
+to get back together once you have it apart. - You know how you can buy
+a really nice water bottle with a rubber gasket in
+it, and it can still leak, and the milk jug with its
+stupid cheap piece of plastic, doesn't leak if you put it
+sideways in your fridge? So if we have this technology, (laughing) we do it on everything. - A bottle of milk in your
+fridge that's on its side is a lot more pressure
+than like a meter of water. - All right, let's power this thing on. To be clear, no, it's not as slim and sexy as some of the top end phones today. I mean, if I were to hold
+it up next to an iPhone 12, it's slimmer. Yep, definitely. But it's also not unwieldy,
+like very handleable. - [Anthony] It's about the same
+size and shape as my iPhone in a, well, the brand grip case. - Though, it doesn't have a case. - Right.
+- And then you might worry a lot less about keeping it in a case if you knew that you could
+get a cheap replacement part. - [Anthony] Yeah, and the
+back has a really nice grip to it too. - Yeah, the finish on this is actually really nice for plastic. Again, it's not high-end
+materials, ceramic backed, or Victus glass or anything like that. So, I get it, I get it. I'm not gonna pretend
+that this is for everyone, but it's also not bad. Generic cameras have come a long way. - [Anthony] Yeah, so these
+are actually 48 megapixels, both the primary and ultra wide and both are capable of HDR. - 4K 30 recording. This is a very stock
+Android feeling experience right out of the gate. You've got a teardrop notch. I have to have a notch then I guess this is what I would go for. Pretty big bezel, again, I'm not saying
+there's no compromises. But in terms of the
+responsiveness of the experience, I have nothing to complain about. It's not a top of the line
+SoC, but it's perfectly modern. And if what you do is browse
+Reddit or ittstore.com, where we've got our new
+design water bottles in stock, it's gonna handle that just fine for you. Don't expect that this
+is gonna take the place of a top end iPhone in
+terms of camera performance. But you talk to a lot of people about how they actually
+use their smartphone, and the camera is just about capturing a moment conveniently. It's not about necessarily
+being a mobile cinematographer. When I'm looking at a device like this, I'm not looking at, does it
+have the best performance, I'm looking at does it have issues that are gonna really bother me. So far nothing. Does have support for NFC? I wonder if that's what that contact-- - Oh, that's probably--
+- Yeah-- - What that is, yeah.
+- It was. - The company has these
+environmental impact reports. And according to them, of 1.4
+billion phones sold each year, the average lifespan is two to three years and only 15% are recycled or reused. So what the Fair and
+Fairphone means to them is fair trade materials,
+reduction of e-waste, robustness of design and yearly environmental
+impact reports like this one. They say they've got a pretty successful Europe-wide take-back program where they actually refurbish or resell 40% of the
+phones they take back. And as the Fairphone 4, 70% of the materials used in the construction are fairly sourced from mines that actually
+care about their workers. Also they're paying
+factory workers in China, a living wage bonus of up to
+four months of extra salary to fill the gap between
+the Chinese minimum wage and the living wage. - Oh, I can swap my back
+and switch out buttons, not a big fan of that. The HDR experience doesn't
+stand out to me immediately, but it definitely supports it and it definitely looks better than if I was watching in SDR. Very nice. Plays in YouTube videos like. Stereo speakers. You can definitely tell when a product is designed by pragmatists. It's not the slimmest thing. No, it doesn't have water resistance, but they did put big
+powerful speakers in it. That's really, really nice to see. - And the other thing is tools. You can actually install
+your own operating system. They fully support and encourage that. It's going to ship with
+Android 11 stock by default. And they're going to support
+up to Android 15, I think, like that's their guarantee. - That's huge because
+while alternative OSs like Lineage OS, Sailfish and Ubuntu Touch are full of super cool
+features and ongoing support. Most smartphone manufacturers are trying to actively prevent
+you from installing them. And even if you do get
+them on your device, there are things that might not work. And I know mine, for example, I realized eventually I'm
+going to have to replace it because even if I did
+install an alternative OS, certain non-standard things like the S Pen are just not well supported
+on alternative OSs. How the hell do you install Fortnite? Is it still not on the app store? - It is not, you have to side load it. I downloaded Minecraft. - Sure, let's play some Minecraft. (sheep bleating) Look, hold still. (sheep bleating) Hey, look at that, I got some meat. Imagine being a competitive mobile gamer. Imagine being a tech influencer and (beep) on mobile pro gamers. So I didn't say, imagine that it's bad. Those guys (beep) you know. - Wow.
+- I kinda wanna have this running for a bit, just to
+see if performance degrades in any kind of measurable way. So far, it seems to be running awesome. To be clear, it's not
+running at 120 hertz. You're not gonna get that
+high refresh rates movements, but again, you have to expect
+there to be some compromises. - [Anthony] It does have two
+heat pipes if I'm not mistaken. - (chuckling) That's really pretty cool. No 5G support I'm assuming though, right? - [Anthony] No, it does have 5G. - Oh, it does have 5G.
+- That's the big new feature for this generation. - Now it's time to talk about price. How much does it cost? - The base model is 579 Euro. - So the calculus for the
+value of a device like this has to be pretty different. If we were to compare against a phone from a bigger manufacturer,
+let's say the Pixel 5. In terms of specs, it's got worse glass, Gorilla Glass 5 versus six, it's slower. The cameras might look better on paper, but this is a Pixel we're talking about. Realistically, it's gonna be better. It's thicker. The Pixel has wireless
+charging, this one doesn't, et cetera, et cetera, et cetera. But Google has already shown that they're willing to drop
+support for these Pixel phones in a way that Fairphone
+has committed to not doing. And that's something that's
+really difficult to do. I mean, it's no mystery
+that Android phones do not get the same
+kind of software support that the iPhone does because most Android phone manufacturers are not being subsidized
+by this extremely long tail of 30% app store revenue. So yeah, it costs more. And historically they've had
+very limited availability and they've refreshed their
+hardware very infrequently. But I think for a lot of people, their philosophy and the design might push them to consider one. I mean, we've often said that
+for all the hype around them, you don't need a flagship phone and you especially don't need
+a new flagship every year. Mid range and even older phones have gotten to the point today where they're good enough for
+what most people are doing. So if the price of openness,
+more sustainability and especially repairability is that you would have to use
+a mid range phone like this that, yeah, is a little chunkier. Would you consider switching or does Fairphone still
+have a bit more work to do? Let us know what you think
+in the comments down below. - [Anthony] Would you consider switching? - That's a fair question. I'm daily driving the fold. This is a very different
+mobile computing experience because this is not just a
+phone, this is my tablet. I have said a lot of times
+that I think big manufacturers are just making excuses
+when they take away things that make devices last longer. But foldable devices
+are one where I buy it. They really do need every cubic
+millimeter of space in here to make this a usable form factor while it can fold over on itself. So I'm not ready yet, but I
+really love what they're doing. by just going to
+storyblocks.com/linustechtips. Thanks for watching guys. If you enjoyed this video, go check out my coverage
+of the Framework Laptop, another highly repairable
+and modular mobile device. For disclosure, by the way, I actually invested in those guys and I'll have an explanation
+for why linked down below. 

@@ -1,0 +1,39 @@
+Sea level seems like a pretty easy concept,
+right? You just measure the average level of the oceans and that's that. But what about
+parts of the earth where there aren't oceans? For example, when we say that Mt. Everest
+is 8850m above sea level, how do we know what sea level would be beneath Mt. Everest, since
+there's no sea for hundreds of kilometers? If the earth were flat then things would be
+easy - we'd just draw a straight line through the average height of the oceans and be done
+with it. But the earth isn't flat. If the earth were spherical, it would be easy,
+too, because we could just measure the average distance from the center of the earth to the
+surface of the ocean. But the earth isn't spherical - it's spinning, so bits closer
+to the equator are "thrown out" by centrifugal effects, and the poles get squashed in a bit.
+In fact, the earth is so non-spherical that it's 42km farther across at the equator than
+from pole to pole. That means if you thought earth were a sphere and defined sea level
+by standing on the sea ice at the north pole, then the surface of the ocean at the equator
+would be 21km above sea level. This bulging is also why the Chimborazo volcano
+in Ecuador, and not Mount Everest, is the peak that's actually farthest from the center
+of the earth. So how do we know what sea level is? Well,
+water is held on Earth by gravity, so we could model the earth as a flattened & stretched
+spinning sphere and then calculate what height the oceans would settle to when pulled by
+gravity onto the surface of that ellipsoid. Except the interior of the earth doesn't have
+the same density everywhere, which means gravity is slightly stronger or weaker at different
+points around the globe, and the oceans tend "puddle" more nearer to the dense spots. These
+aren't small changes, either - the level of the sea can vary by up to 100m from a uniform
+ellipsoid depending on the density of the Earth beneath it. And on top of that, literally,
+there are those pesky things called continents moving around on the Earth's surface. These
+dense lumps of rock bump out from the ellipsoid and their mass gravitationally attracts oceans,
+while valleys in the ocean floor have less mass and the oceans flow away, shallower. And this is the real conundrum, because the
+very presence of a mountain (& continent on which it sits) changes the level of the sea:
+the gravitational attraction of land pulls more water nearby, raising the sea around
+it. So, to determine the height of a mountain above sea level, should we use the height
+the sea would be if the mountain weren't there at all? Or the height the sea would be if
+the mountain weren't there but its gravity were? The people who worry about such things, called
+geodetic scientists or geodesists, decided that we should indeed define sea level using
+the strength of gravity, so they went about creating an incredibly detailed model of the
+earth's gravitational field, called, creatively, the Earth Gravitational Model. It's incorporated
+into modern GPS receivers so they won't tell you you're 100m below sea level when you're
+in fact sitting on the beach in Sri Lanka which has weak gravity, and has allowed geodesists
+themselves to correctly predict the average level of the ocean to within a meter everywhere
+on Earth. Which is why we also use it to define what sea level would be underneath mountains...
+if they weren't there... but their gravity were. 

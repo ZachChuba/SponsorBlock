@@ -1,0 +1,148 @@
+- Thanks to Grandma, you
+are finally one step closer to your dream of esports domination. (computer thuds) She just gave you her old computer. You know the one. She bought it seven
+years ago, on clearance. But, that's not important. All that matters is you've
+got your "Valorant" invite and you are ready to
+tear up the battlefield. There's just one small problem. Your new computer is really, really slow. So, it's time for a quick and (puffing) dirty upgrade, (fingers
+clicking) on the cheap. Brought to you by GlassWire. Instantly see your current
+and past network activity, detect malware and lock. (coughs) Excuse me. Oh, that's dusty And lock badly behaving apps
+on your PC or Android device. Use offer code (coughs)
+to get 25% off GlassWire at the link below. It truly is a fantastic
+time to be a PC gamer. Pretty much all the biggest
+games in the world right now can be enjoyed on relatively
+attainable hardware. And, okay, your grandma
+might not be at the type to bequeath you a PC. Mine sure isn't. But we specifically chose this machine because it is the kind of thing that, even if it wasn't given to them, a student could obtain for him or herself, without spending a lot of money. And we also saw a pretty
+reasonable upgrade path for it. So we went with the delightfully mediocre Dell OptiPlex 9010, a newer
+version of the classic gray Dell tower of yesterdecade. Now we'll poke around the insides. We've got a Core i7-3770. Now that's not the unlocked K
+variant, but quite honestly, you're not gonna be doing
+it here overclocking on this Dell special motherboard anyway. Two four-gig sticks of SK hynix PC3 1600 megahertz memory, okay. Oh, woof, is that a Gt 640 graphics card? Oh, that is nasty. Oh wow, this might actually
+use a standard power supply. Moment of truth, here we go. (computer fans whirring) Man, I do not miss hard
+drives, look at this. Even the images for the
+shortcuts on the desktop, take 18 minutes to load in. Let's start with something
+it should be able to handle. Let's play some "League of Legends", huh? Well, I finally got in
+and now that I did, dang, it's really just fine. Look at that. 150, 170 FPS. I always forget just how
+easy it is to run this game. Hmm, we're getting dips though. I mean that is sort of
+a function of this being barely up to spec hardware. I'm seeing some stutters as I'm panning the camera
+around a little bit. Certainly better than I would expect any other modern game to run
+on what was a bad video card seven, eight years ago. And it's definitely playable. You're probably gonna
+get ganked at some point, if I'm getting my terminology right, because of a lag spike
+but it is what it is. All right, so this game's
+running and aside from some chug, it's running pretty well. This is at 1080P, medium quality. Finishing loading. It needs a separate screen
+for finishing loading. That's how you know
+you're using a hard drive. All right, let's go, boys. Wow, this is not as good an experience. Definitely running at
+a lower frame rate now. Not to the point where I'd say
+it interferes with my ability to play the game though. This is still a solid, you know, 45 to 55, somewhere in that range, FPS. It's usable. One thing I haven't noticed is, ooh, nevermind, there it goes. Okay, it's chugging, it's struggling. Is that GPU's fan even spinning? Oh yeah, it's working, okay. Oh, there's a hero. Wait, I'm a hero. Are you a hero? Oh, what, there was another
+hero there, he was hiding. How was the easy AI so smart. Okay, well, anyway, that's
+enough of that game. Wow, it's really chugging, we're getting down as low as 30-plus FPS. But those frame times, you
+can really see them spiking. So just 'cause you've got 30 FPS doesn't mean that you're actually getting reasonable frame times. And every time your frame times jump, that's when you feel like a
+lag or a spike or a stutter. Okay. Hey partner, how we doing here, bud? Oh, we not doing so good. Neat. (mumbles) Yeah, and we're dead. Well, I was quick. What is this?
+(phone rings) A shotgun. Oh, is that? - [Colton] Hello? - Hey, Colty, buddy, pal. - [Colton] What's up man? - How does "Valorant" work? Oh, lordy, I died. How many rounds do I have to play? I joined a server so I could
+benchmark a graphics card, I'm tryna quit and it's like, "Hey, you're harming the
+experience of the other players, "you shouldn't do that." How long do I have to play this for? - [Colton] It could be
+upwards of 24 rounds. - What? - [Colton] Yeah, so it's
+whichever team gets to 13 first. - 13? - [Colton] Yeah, it's
+kind of crazy. (laughs) - I'm not playing 13 rounds! Who's got time for this? - [Colton] Yeah, you could
+just, I mean, you know, gamers. But you could just leave. - I think one of my
+teammates has already gone, 'cause they're just standing at the spawn. So could I guilt-free
+leave, at that point? - [Colton] Yeah, you could
+probably go for a leave, yeah. - Okay, cool. I mean, they're probably
+gone because I'm terrible. So, it's still my fault. - [Colton] They gave up. Well you'll be fine, don't worry about. - All right, thanks. If anyone asked why bailed on the match, I'm gonna let them know
+Colton said it's okay. (Colton laughs) For fun, we're gonna try
+something a little more demanding. We've got "PUBG" running a 1080P, sort of, 'cause the render scale is 70% of 1080P and we've got everything
+cranked to very low. There we go. Whoa, okay, that is not a lot of FPS. And this is not a good
+looking game at all low. I can barely even tell
+where the towns are. In fairness to the GT
+640, this looks terrible but is running relatively smoothly. Run, Forrest, run. Not there's a dated reference. Ow, ow, ow, ow. Why would you do that? What's wrong with you? (gentle upbeat music) Ow, ow. Okay, all right. Well, there you have it. Unsurprisingly, almost
+all the games we tried were at least functional if
+we were willing to sacrifice visual quality on our GT 640. So if all you wanna do
+is play these games, then go ahead and check
+out the eBay links below and get outta here. Just go for it. However, if you were hoping to
+turn the details up too high, or get a smoother experience in the games, 'cause what we noticed
+was that even the ones that were running at high FPS were stuttering and
+hitching a lot of the time, you're gonna wanna watch on. Step number one is definitely,
+for the sake of my sanity, to install, a bloody SSD in this tank. Let's get it shut down, here. Going from a spinning disk
+to a solid-state drive is a monumental improvement. Now one-terabyte SATA SSD
+from a well-known brand is gonna run you about $100 these days, but if you don't need that much capacity, which you might not, and you're willing to just take a gamble, there are some deals out there. Just make sure that you grab
+something with a DRAM cache. So for example the
+Fattydove Racing 120 gig that we checked out recently, that did turn out to have a DRAM cache, only cost us 20 bucks. Now in terms of mounts, well
+this case is pretty old, it doesn't have 2.5-inch
+mounts but the good news is that SSDs don't have any moving parts, and we can just chuck it there. Now for system memory, eight
+gigs of RAM might be enough if all you're gonna do is play basic games with pretty much nothing
+running in the background, but a cheap brand name 16 gig kit, like this HyperX FURY
+set that we had on hand, will go a long way towards
+running more demanding games and improving multitasking. eBay, Craigslist, and
+Facebook Marketplace, are all good places to
+find fantastic deals on DDR3 from people who are upgrading. Whether it's to Ryzen or
+something from Intel, right now. Now we were lucky. Our cheapo Dell motherboard happens to have four memory slots, so if all we wanted was 16 gigs of RAM, we could just slot in
+two more four gig sticks, and it's off to the races. But we don't have any matching memory, and we want the best chance
+at compatibility here. So what we're gonna do is what a lot of people would have to do because they might end
+up with a motherboard that only has two slots on it. Is we're gonna take out what we've got, and we're gonna replace
+it with our new RAM. As for the GT 640 graphics card in here. It's pretty tired. In fairness to it, it was born tired. As soon as you fire up
+something much more demanding then "League of Legends", you
+know, it starts to struggle. The good news though, is that
+the Core i7-3770 CPU in here is still a very competent
+gaming processor, even to this day. So we can add a lot of
+graphics muscle to this machine before our CPU becomes the bottleneck. As long as we stay within reason. Our GPU upgrade ambitions are
+going to be somewhat limited by the 275-watt power supply that's included with our system. And while we could add a new power supply, especially with this system
+that does seem to use standard ATX, by the time
+we add a power supply we're getting dangerously close
+to new system kind of money. And besides, opening up that can of worms can cause more problems than it solves. Even some proprietary
+motherboards that look standard might have different pin outs or specialty connectors, for example, that make them a hassle to deal with. Now, we did go secondhand for our memory, and that is totally an
+option for graphics. Something like a GTX 960 is
+a great choice for under $70. But if we want to max out our machine, without having to
+upgrade our power supply, the two GPU options for the
+most FPS per power consumption, are the GTX 1650 SUPER. So this one right here is 100 watts and starts at about $170. And the GTX 1660 Ti. This is 120 watts and
+starts around the $250 mark. Now since both of these graphics cards require external power,
+and this power supply doesn't have PCI Express power connectors, we're gonna use these
+SATA to six-pin adapters. I know the saying, Molex to
+SATA to lose all your data, etc, etc, etc. But either of these cards
+is gonna pull 75 watts from the PCI Express slot,
+leaving less than the 50 watts that the same connector can handle to be drawn over the PCI Express cable. So we should (computer thudding) be fine. Now I'm gonna install the 1660 Ti because the point of this
+video is to show you guys, with some choice upgrades,
+what a machine like this can be capable of. But if you don't have the
+budget for that right now, you can always get something else for now and then pick up one of
+these later on down the line once they fall in price. Another point, by the way, guys, if you don't have any
+extra power available, or you were only able to find one of those half hight desktops, you do still have an option. The GTX 1650 has a low profile variant, this one's from ZOTAC, that does not require any external power, making it a simple dropping upgrade, and most of the time they'll
+include a low profile bracket so you can install it in
+one of those slim towers. Now here we are, half an hour later and depending on what kind
+of deals you can scrounge, the cost of the game
+console, or even less, and we are ready to boot up our system, with that next-gen
+technology of solid-state. Man, I can already tell
+how much more responsive this thing is just from
+opening up control panels. Like, resizing windows. Makes a big difference. Let's kick it off with
+"League of Legends" shall we? See how long this game
+takes to load on our SSD. Wow. I bet I could even have
+Chrome open in the background. Wow, we are right up
+against our FPS cap here. How about no FPS cap? How about that? What do you think of that? All right. A 370 FPS! And you can see as I'm
+scrolling around here, we're not getting those
+jutters and stutters. Can see that it's nice and smooth. Even though I'm recording at only 30 FPS you can still tell there's
+a marked difference. Wow, those frame times! Three milliseconds! 300 fps in the loading screen. Now that I shouldn't be that impressive but compared to what we saw last time is. Well that really is a lot better. We're ripping around on the map at, what? 250 frames per second. It really is amazing how much game these old third-gen Core
+i5s and i7s have in them, even in modern titles like this. What a difference. Not only is it running way
+smoother, like you can just tell, but we've actually turned
+the details up to medium so the game looks a lot better as well. View distance, in particular, in this game makes a big difference to
+your potential success. So the bottom line is you
+pair a machine like this up, with an inexpensive 120
+or 144-hertz display and a decent mouse, and
+you're gonna be clicking heads all day long in games like
+"Valorant" and "CS:GO", and even getting a pretty
+darn good experience in heavier titles. Now, the thing is, this setup isn't gonna make you a better
+gamer, only you can do that, but as we explored in our Does FPS Make You a Better Gamer series, it will make it easier
+for you to get better. Now, even if you don't
+go for the GPU upgrade for Grandma's old rig, I would still recommend the SSD one, just because it will make the
+experience that much better as you're rising through the
+ranks in the later titles on a really tight budget. So if you guys like this video, maybe, hit that subscribe button to see us upcycle old laptop into a
+pretty snazzy home theater PC. I don't remember actually
+green-lighting that project, Nicholas, but apparently
+we're doing it now. And we're also doing this
+segue to our sponsor, Blinkist. Thank you for sponsoring today's video. Blinkist is the app that
+takes the best insights and info from thousands
+of non-fiction books, and condenses them into just 15 minutes. It's basically like speed
+reading without the annoying, learning to speed read part. You can listen to audio summaries,
+or read them for yourself in a wide variety of categories, such as business, finance,
+parenting, psychology and self-help. Or, hey, if you're really broken
+person, maybe all of them. They've even got full audiobooks that their Premium subscribers can get 65% off the retail price on. And some of their most
+popular titles include "The AI Economy", which explains how the rise of artificial
+intelligence will affect society. So take a look at all of that. The first 100 people to
+go to blinkist.com/ltt are gonna get unlimited access
+for a week to try it out. So do that by clicking the link below. Thanks for watching guys. If you're looking for
+another fun video to watch, maybe check out the last
+season of "Scrapyard Wars", where I basically did this to, well I'm not gonna spoil it for you. We're gonna have that linked below. 

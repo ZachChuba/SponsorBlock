@@ -1,0 +1,125 @@
+- This is an extremely unusual motherboard and it's gonna get a pretty quick and unceremonious unboxing because I wanna get straight down to it today. This came to us straight
+from a factory in China that it actually took us
+months to get in contact with and convince them to send us one of these. As soon as I saw this, I absolutely had to have one. On the one side, you've got a
+completely normal motherboard, with an LJA 1151 socket, and
+a couple of memory slots, and some I/O and all that kind of thing. And on the other side is a graphics card. In fact, the manufacturer claims that that is a GTX 750 Ti. So we're not talking about your grandma's onboard graphics here, we're talking a fully, gaming capable graphics card, soldered right onto a motherboard. So the first question for us to answer is, why is this on here? Most industrial applications either don't need much GPU at all
+and can make do with onboard, or they need a lot, in which case, they wouldn't want it soldered
+directly to the motherboard. Then the second question
+we want to answer is, is this thing any good? So let's take it for
+a test-drive shall we? Looking for an affordable
+and reliable VPN? Private internet access,
+encrypt your internet traffic, and uses a safe protected IP. Check it out today at the link below. That may actually be a personal best for one of these videos getting derailed. I was just about to point
+out that instead of a 20, or a 24-pin connector from a, you know, more standard internal power supply, this motherboard actually
+gets all of its power from this DC plug on the
+edge of the board right here. When I realized, uh-oh, that the plug they sent me from the office isn't gonna fit in there. Now I was able to determine
+from the manufacturers website that it requires 19 volt power, so, it's at least correct in that sense, and it's got enough amperage
+to run all the hardware that I intend to install on here, so that's all good. But unfortunately, what I didn't know was which pins were supposed to be which, and the only references that I
+could find to this connector, didn't seem to indicate that
+there was an industry standard. Fortunately, we can determine which ones are supposed to be the
+grounds fairly easily just by, grabbing a ground like
+the housing on a USB port, and checking for which pins
+have very little resistance, those are gonna be our grounds. So as I suspected, it's
+the ones closer here. And which pins are power, so that's gonna be these two right here with the much higher resistance. But then, I didn't end up having to pursue that route of like, ripping the connector
+off of the power adapter, and then jamming wires into those holes. Because, they actually
+found one that would work that we borrowed from a different system that seems to have both the same pinout, and the same locking connector. So, progress, we're back at it. Let's talk about what
+else is unusual about this motherboard. So the form factor is something that I have actually never seen before. This is the size, approximately of a Micro ATX motherboard, but it doesn't have the
+same mounting holes, it doesn't have any PCI
+Express expansion slots, the I/O is all over the place. So we've got a bunch
+of it on the back here, we've got HDMI, gigabit
+ethernet, USB 3, SATA, audio, like, why does SATA need to be on what is apparently the rear
+panel of whatever device this is intended to be installed in, and then making matters even crazier is over on the other side of the board, we've got mostly internal connectors. USB 3, LVDS, so these are video outputs, another HDMI port, okay,
+and then more SATA. So wait, that's an external HDMI port, an internal SATA, and then that's internal SATA, and an external HDMI port. What is the front side of
+whatever case this goes in? I don't know, I don't understand. And then the last thing
+that weirds me out, is just this mix of what feels like very low end design choices, like the fact that there's
+no cooling on the VRMs for the GPU, or for the
+CPU for that matter. With things that are
+generally considered to be high end on gaming boards, like for example, this
+little button right here, is a nice convenient
+little CMOS clear switch. I don't really know why
+I'm freaking out though, because none of this should surprise me. I mean, obviously you never
+encounter something like this at the local Micro Center, but that doesn't mean that boards with unusual layouts, or
+features, are something that I've never encountered before. Like if you've ever hung around on a trade floor like
+Computex, for example, it's just full of
+motherboard manufacturers you've never heard of, with
+walls covered in designs that you could never
+imagine any purpose for. And, what likely happened,
+the reason that this exists, Zeal-All, made the ZA-SK
+1050-Embedded motherboard, is probably because some customer at some point requested this design, and they figured well, we
+made it already anyway, if anyone else wants it, we might as well list it on Alibaba, and then if they buy it, then you know, we can sell these things. You probably noticed
+by now that this takes laptop sized memory modules,
+as opposed to desktop ones. That's pretty common in these types of embedded motherboards. Here's some Ripjaws 3200 CL 16, I really doubt that these are gonna work, but let's, go skip to the moonshot here. The CPU I installed is a Core i7, 7700 K, and in theory, it should be compatible, i3, i5, and i7, sixth and second gen, it's what it lists on the website. But one thing I'm a
+little worried about is this seems to be one that we
+liquid metaled at some point, and it seems to be seeping
+out from under the IHS that can cause problems. Like, what is this is? Is that just like a random D Ram chip and like I don't even
+know what this chip does. I'm gonna use the 1500 watt power supply, again little bit overkill. I think we're close now. If I had to guess, I'd say
+this HDMI is the GPU's HDMI and this one comes off the onboard
+video or something like that. Finding a power brick that
+plugs into it was only like a third of the battle though. So, yes, right connector, but I also needed it to be
+19 volts, which this is, and have enough power for, as
+you guys might have noticed, a not insignificant amount of hardware, so 7700 K is like 95 Watts or whatever, and then 1050 Ti is, whatever that is, probably somewhere in
+the same neighborhood, somewhere in like 75, 85 range. So this is 19 volt 13.1 amps,
+so it's about 250 watts here. Kmode exception not handled. I hate it when my Kmode
+exception doesn't get handled. Well, isn't that interesting? Here I thought I was just doing
+a quick off camera SSD swap so I could put a fresh
+Windows install on this thing, and then I was still getting errors, so I tried a couple
+different memory modules, and I was still getting errors just trying to install
+Windows, and lo and behold, remember that liquid metal that I pointed out and said, "Oh gee, "I hope this isn't a problem"? It might be a problem. That's the underside of the IHS, and you can see where it's
+kind of dripped down here. And here all over the CPU package, there's liquid metal. Hopefully, cleaning it up
+will resolve the issue, but honestly, I have my doubts right now. Last idea, I've got a crazy hunch that Linux might behave
+a little bit better with this either weird or defective hardware, so I've loaded up a live, bootable version of
+Ubuntu on that USB drive, and I'm gonna go ahead
+and fire this puppy up. Whoa, whoa! Nvidia GPU 107, GeForce GTX 750 Ti. Okay, hold on a second, it's working! By the way, I never followed
+up on what happened with trying the other HDMI port, that's a debugging port,
+that is not an HDMI port, so that didn't work. Now it's working! No way! You gotta, oh no, Steam
+won't install in the USB? You have got to be kidding me! Can I do a, hot swap-a-runi here? Hey, all right, we up. Basically, I tried to launched
+out of the Tomb Raider, and the weird pre launcher thing says, "Your current active
+CPU governor is not optimized. "You can still play the game, "but may experience performance issues." How do I change it? - [Anthony] There's... I think it was an app that I used to use. - Oh my god. - [Anthony] It's probably on demand, what they're probably
+recommending is performance, which is full throttle. - Wait, your computer's graphics card or driver is not supported by the game. What? Well, why not? I installed the Nvidia driver, I think. Oh, this is very good news. My graphics driver definitely installed, because I'm now running at 4K 60 hertz, which makes more sense for a 1050. HDMI 2.0 is working. No, it still doesn't like
+my active CPU governor, whatever, I'm gonna continue anyway. Hey, no warning about the
+graphics driver, good tip. All right, I'm gonna try
+and give this a shot. I'm definitely not
+gonna try and run at 4k. App is not responding, okay. Let's try something else. You know, what I think it is? I think it's a dead graphics card. A lot of those errors that I got when I was
+trying to install Windows, seemed to be related to hardware directly. I have now done CPU intensive things, and not had any crashes in Linux. Look at that line
+through the screen there. I think we do have a defective
+graphics card in this thing. It's gone now, but, that is a strong argument against a fully integrated solution
+like this isn't it? Not only does it cost more,
+but, if something goes wrong, you're left with no options
+to swap things in and out for diagnosis. And, once you've confirmed that
+there is in fact a problem, there is nothing you can do
+aside from just get a new one. 150 frames per second. That actually does sound
+probably about right. That GPU working now? Oh, yeah. Definitely working. All right, give me that deagle. Okay, ooh wow, no that looked pretty good. Oh that is pretty nice. Well I don't know how much of that the editor's gonna
+use, but, long story short, it's working perfectly right now, with performance that
+about meets my expectations for this class of hardware. I'm getting a 130 to a 150
+frames per second in CSGO at 1080, with things, I wouldn't say cranked,
+but definitely high. And, it's running smoothly and fine, so I don't know what that was
+with all the Windows errors, and I don't know what that
+was with the instability I initially experienced with Linux. But, what I can tell you is
+that this is 100% not worth it for people like you and me because whether we do
+have a dead graphics card, or whether we don't, it's clear that this solution makes
+troubleshooting more difficult, and even if you do determine
+what the problem is, replacing something impossible and it actually cost significantly more. Now as for why this
+exists in the first place? I do have some ideas. One might be a DVR, like a
+video surveillance system or something like that, that relies on a light
+amount of GPU compute in order to perform better
+or perform facial recognition or something like that. Another idea I had, was
+maybe it's a control board for some kind of piece
+of industrial equipment, or a medical equipment. But with all the issues I had, I sure hope it doesn't end
+up in any medical equipment, that requires x86 compatibility, and maybe uses the GPU
+for real-time rendering of something is working on, like I don't know maybe
+it's a CNC machine, and it shows a visualization
+of what it's doing, or, one other weird idea I had, was maybe it's for like a budget
+game console or something. Whatever it's for, I'm
+sure that the manufacturer had to work closely with the integrator to ensure that they had a
+better experience than I did, because this certainly was
+anything but plug-and-play. Drop.com is featuring the mass drop Sennheiser HD 6 XX headphones. These are one of their
+all-time bestsellers with over 90,000 units sold, and why not? They've got an unchanged
+driver and sound structure as the HD 650s, which
+means balanced mid-range, and natural sounding bass, not to mention, they are extremely comfortable. They've got a detachable six foot cable, and and 1/8 inch plug that's
+versatile for everyday use with a quarter inch adapter, and they come with
+Sennheiser's long-term support. Check it out today at the
+link in the video description. These are actually super
+similar to my daily drivers, they're just great headphones. If you guys enjoyed this video, maybe check out the one we did, it must've been over a year ago, but we checked out like
+five weird graphics cards. Just super unusual graphics cards. Maybe not as weird as this motherboard, but definitely weird. We're gonna have that
+linked down below as well. It's so weird, I just don't know what all that instability was in
+Windows, and then even in Linux when I was running off the USB, I got a weird crash that, a couple times. And now it's just running flawlessly. So bizarre. Shut her down and never look
+at this thing ever again 'cause I hate it. 

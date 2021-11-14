@@ -1,0 +1,28 @@
+It’s often said that we humans share 50
+percent of our DNA with bananas, 80 percent with dogs, and 99 percent with chimpanzees. Taken literally, those numbers make it sound
+like we could pluck one cell from a chimp and one from a human, pull out the tangled
+bundles of DNA known as chromosomes, unroll each one like a scroll, and read off two nearly
+identical strings of letters. But in reality, the human and chimp scrolls
+don’t sync up so easily. In the six to eight million years since we
+split from our last common ancestor, chance mutations and natural selection have changed
+each of our genomes in radical – and unique – ways. Two human scrolls fused, leaving us with 23
+pairs of chromosomes to chimps’ 24. Other large mutations revised huge sections
+of text – duplicating a chunk of a human DNA here, erasing a chunk of chimp DNA there
+– while, throughout the scrolls, tiny mutations swapped one letter for another. When researchers sat down to compare the chimp
+and human genomes, those single-letter differences were easy to tally. But the big mismatched sections...weren’t. For example, if a genetic paragraph - thousands
+of letters long - appears twice in a human scroll, but only once in its chimp counterpart,
+should the second copy count as thousands of changes, or just one? And what about identical paragraphs that appear
+in both genomes, but in different places, or in reverse order, or broken up into pieces? Rather than monkey around with these difficult
+questions, the researchers simply excluded all the large mismatched sections – a whopping
+1.3 billion letters of DNA – and performed a letter-by-letter comparison on the remaining
+2.4 billion, which turned out to be 98.77% identical. So, yes, we share 99% of our DNA with chimps
+- if we ignore 18 percent of their genome and 25 percent of ours. And there's another problem: just as a small
+tweak to a sentence can alter its meaning entirely or not at all, a few mutations in
+DNA sometimes produce big changes in a creature's looks or behavior, whereas other times lots
+of mutations make very little difference. So just counting up the number of genetic
+changes doesn't really tell us that much about how similar or different two creatures are. But that doesn’t mean we can’t learn anything
+by comparing their genomes. DNA contains a record of the evolutionary
+relationships between all organisms. It’s a garbled record – but by reading
+closely, we’ve been able to glean enough information to refine the evolutionary trees
+we started drawing long before genome sequencing was around. We may not actually be 99 percent chimp, but
+we are 100 percent great ape...and at least a little bananas. Hi, this is Emily. 

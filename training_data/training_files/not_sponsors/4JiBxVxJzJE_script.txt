@@ -1,0 +1,190 @@
+To make this crazy dream come true 
+there's a lot to do, and check this out! My private space ship. [long synth notes] Over here I have outboard candy for audio engineers, over here I have some preamps. And in this episode we're gonna talk about 
+my studio build a little bit, because we've been doing installation two,
+ out of totally three. So this is the space ship in which 
+I will attempt to propel myself out of the marble galaxy filled with 
+marbles on the floor  and into the music stratosphere. Let's go! Building my own high-end music studio has been 
+a lifelong dream for me and I'm working together with Olivier from Id Acoustique to make 
+this other dream come true. And this week we have finished 
+installation two out of three. Early this spring we showed a video 
+doing the first installation, and installation two has really transformed
+ the room in an amazing way. So we started with customizing this desk, and before, over here, there was only place 
+for rack units at the top, and we customized it so I could fill it 
+all the way down to the bottom,  which I think was a really good call. So I was a fragile snowflake, I had pain here 
+from the edge of the table. So now Olivier is [laughter] rounding the edge. [sanding] Now my snowflake arms have a really
+ smooth and nice edge here, when I'm working at the desk. That feels awesome. Olivier brought a huge team with six people. While we were working at the desk, 
+the team worked at the electric central, and starting to prepare the acoustic 
+treatment of the walls. So the first step for the walls was 
+to prepare a wood structure  on which we could add acoustic panels later. And I love the use of laser measures, 
+they use them all the time, and they fix the wall so if it was crooked,  they fix so the wood structure in itself 
+was completely flat and straight. So next step for the walls was to add 
+rockwool between the wood structure, and then finish off with grey acoustic 
+high-density felt boards. The total thickness of the wall absorbers
+ are now 64 millimeters. So when you have a concrete wall, and you
+ add 64 millimeters of absorbance that will not deal with bass frequencies but this is only the background layer 
+of the acoustic treatment of the studio. In step three we will add bass traps 
+on top of this treatment, but that is for later. Ouca switched the position of the electric central 
+because it was in the way for an acoustic panel and it ended up being inside my machine room, 
+which looks really, really, really neat. So the electricity is finally becoming safer 
+and safer and more stable in my studio. We're also dividing the electric circuits 
+so I can have audio equipment on one circuit and general equipment 
+on another and lights on a third. This will reduce hum in the audio recordings, 
+which is really nice. In the first installation we designed this 
+cool stage with cable doors in the floor and we left some rockwool visible 
+in these cable doors. And I felt when I was working with that, that was  not so nice sticking your hand down
+ in pure rock wool. So Olivier made a really nice redesign where he made like an inside box inside these
+ cable doors  and mounted the electric outlets safely
+ onto the wall. So this new look is really nice 
+for the cable doors. I'm very happy with the general idea 
+of hiding all the cables under the floor,  because it's just much neater. There are different types of acoustic panels. 
+Absorbers eat the sound wave and diffusers explodes the sound wave, 
+making a room sound bigger than it is. So basically the sound wave come
+ to the wall and becoming exploded into a million different parts
+ going all the directions. So here we're adding these black
+ cool looking diffusers  into the live room of the studio. This is the place where we're gonna put 
+drum kits, pianos, vibraphones. It's a part of the music studio where we're
+ gonna have a little bit more room sound, a little bit less dead acoustics and the diffusers
+ are meant to do a good job at that. Olivier calls this "the live room" because
+ the acoustics is going to be more lively in here that's why we're using more diffusers,  that are spreading the sound
+ in a nice way, rather than absorbers that are muting 
+and muffling the sound. So the plywood floor... 
+[accidentally plays long synth notes] Whoa, the synth scared me!
+[laughs] I was a little bit nervous for the plywood 
+floor I'm sitting on, that it would become a hollow box with resonance inside and after the first installation, I felt 
+there was a little bit going that way. So Olivier fixed this by adding this super-cool 
+black backing and more rockwool under each of the plywood parts of the stage. Martin: - Olivier, why are you wrapping 
+the plywood with something black? Olivier: - Yes, this is a dampening mass, we are dampening the resonance of the wood  that could occur when you walk on the floor, but also, it could occur as bass frequencies
+ made by the speakers, for example. So this is very, very heavy, it's like ten kilos by square meter, and it will block the sound. Martin: - The team was here for four full days, 
+and they did so much. They put the floor into the live room, 
+we put acoustic curtains on two rails, we changed the whole light rig around
+ in several places, we're still struggling a little bit with how to
+ put the lights, this is just a work in progress, we sanded in all the floor, and it was really 
+a huge transformation of the whole room. The moment has arrived that I've been
+ waiting for a long time; I'm going to populate my studio desk 
+with all my rack equipment. I have sent my Genelec monitors on repair, and here is two big Focal monitors that I have been
+ borrowing from Olivier. It's going to be very fun trying them out,
+ seeing how they sound. And if you see my sound interface lying on the table, this is basically how I've been working
+ a lot in my life. And now we're going to stop this  by mounting everything neatly
+ in the rack units. I have three full rack cupboards. One here, another full one here, here is my side rack, designed in the same way 
+as my desk, so that's a third one. This is one, two, three Micstasy preamps resulting in 24 channels corresponding
+ to the cable  we just installed in the Marble Machine X. The gain LEDs on these preamps are
+ pretty beautiful when they move. So I'm gonna put these three preamps
+ on the top, right here, so I can have an angle to film the preamps  while the Marble Machine X is recorded
+ in the background. So you can kind of see: Doo, kah, doo, kah. Maybe this is not the most functional placement  but it's going to be a really aesthetical one. There's a kink here in the rack, 
+which means that we can't really put a long unit here, so in the kink I'm going to put a blank shield, and then this power bar. It gives a design character to the whole desk, but you're paying a small price 
+of functionality for that character. This is the actual interface that connects
+ to the computer and puts all the audio in through MADI here. Yeah! This is the sound interface basically. Now comes a 32 channel analog-to-digital interface. It takes all the audio from here and convert it to digital to send into this interface. So, here you can see all the audio 
+is coming in, through these ports and out via a single MADI digital cable
+ into the interface. At the very bottom I'm putting this power strip with eight other power outlets facing inwards and in the remaining space I put this rack shelf. Just an empty shelf to hold any equipment 
+you need to put in. On the shelf, I'm putting my NAD amplifier for the Yamaha NS-10M monitors. So, this
+ amplifier I never have to touch the settings, so it's convenient to put it far down 
+and just forget about it down here. Left rack is finished, let's move over
+ to the right one. This is space time machine reverb, "RaumZeit Maschine" from boutique audio Tegeler audio. Two Neve 1073 preamps clones, 
+two real Neve 1073 preamps. Universal Audio 6176, blank panel, 
+power strip and then this reverb... This reverb is a Lexicon MX400,
+sent to me by Greg Clement. Thank you so much, Greg! Awesome, awesome! 
+I'm looking forward to try it. Here's an another Lexicon, 
+strange reverb unit, the LXP-5. A Fireface interface that I'm gonna use as... 
+analog digital converter for all this, a DMX rack unit for all the lights in the whole studio and a power strip furthest down. Time to start the cable management. I'm going to start 
+with the power cables for all these rack units. I'm using these velcro cable ties. We are under the desk on the left side. 
+There are the power cables. Same thing here on the right side. 
+Let's go check out if this works. Left side is great. So the spaceship feeling is really 
+coming across here. Next step: Connect speakers, both 
+the Focal and the Yamaha NS-10M. This is the classic triangle listening 
+positions when position studio monitor. Me and Olivier has designed this desk 
+to host two screens next to each other, which means that the speakers 
+are kind of wide apart, in this triangle between the speakers
+ and my listening position. So if I feel that the stereo image is a little bit too wide, I can move back a little bit or lay the speakers
+ down with the tweeters inside, but the vertical position seems to be 
+preferred when possible. Another good practice is to not put the speakers 
+directly on your desk, because it can resonate with it. So I'm just using a little bit of this 
+acoustic foam under the speaker. This speaker stand has actually a tilt
+ function, so you can see that I've tilted the Focal monitors 
+a little bit forward. I think that speaker placement look good, now I just have to mirror it on the other side 
+and connect the cables. Underneath the speakers, Olivier 
+has designed a cable input, so we can put the cables through the desk. So the cable that goes into the back side
+ of the Focal can then be routed down here and in through the desk... Here. To choose between the two speaker pairs
+ I'm putting the Focal on output one and two, and then on output 3 and 4 I have this 
+going into the Yamaha NS-10 NAD amplifier. In the mixer here in the computer I have created a "Speaker B" output that I can control from this thing. So this is a digital controller 
+for the speakers, so now I can... If I play a piece of music, I can 
+change the volume and I've linked the volume 
+on the two speakers. By just clicking here I'm switching between
+ the Focal and the NS-10. But this is any cable manager's nightmare. We can't, of course, live like this. So I did some cleaning up of the table,
+ as you can see, and check this out! Me and Olivier have trouble shoot 
+the lighting system. So this is a light control panel. 
+So now when I move... the fader with the mouse, I turn
+ that lamp on and off, see that? [Martin emphasize fader moves]
+Dee-kah, dee-kah, dee-kah! There's also strobe mode. [triumphant laugh] That looks crazy now. So, every light in the studio is going to be
+ controlled by DMX here and I can save a preset and save it here in this panel, 
+so preset "two one". Over here on the right side, I have my
+ Norman headphones plugged into something controversial... This is something for you all to argue about 
+in the comment section,  an headphone amplifier from Neve. Total placebo waste of money, or crucial to make great mixes?
+[laughing] I'm not gonna say! I just bought this 
+as a gift to myself, because it had such a nice feeling 
+of this volume knob here. And it's a nice feeling to have, like, 
+highest-end equipment. They say headphones needs a lot of ohm. I am going to A/B-test it compared to the headphone 
+out of the UFX interface. I have tried to do some A/B-testing, 
+but then I'm plugging it in myself so I know which one I'm listening to. Which... it's not a like double blind 
+experiment or what it's called. I can't really judge correctly. Some people will say that I have bad ears 
+if I don't hear the difference. Some people will say that I have... a bad brain who throws away money.
+[chuckles] [background music]
+[♪ unreleased/The Challenge - Drumbeat ♪] These are the cables to connect all the 24 
+preamps with the analog digital interface. So there's eight channels per cable 
+and three cables for 24 channels. [drum beat music]
+[♪ unreleased/The Challenge - Drumbeat ♪] So, I've also now connected the cable 
+from the Marble Machine X, all 24 channels into the preamps 
+and then out again. And a lot of people have suggested to put
+ a digital interface on the Marble Machine X itself. And they say that we can have 32 channels
+ in a small cable like this. That is true. I didn't want to put all this onto 
+the Marble Machine X, and there are smaller preamps that takes less space, but not 
+as high-end as these preamps. But the point that you can have a digital 
+thin cable is true. This is a MADI cable. So with this cable all the sound will 
+go through this single cable. And it just feels more intuitive to me
+ to treat it like a music instrument and treat the preamp part as a studio. Okay! Everything is connected. Let's see if all the 24 channels are healthy. Yo, yo, yo! I'm gonna make microphone test... No, and actually audio channel test, so I'm connected to the first channel here  through the Marble Machine X. Now I hit record in Logic... 
+24 channels recording. I'm going to head over to the Marble Machine X
+ and connect in all 24 channels and you should see each number 
+popping up at these 24 preamps. This is channel 1. Channel 2. Channel 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Check 20 21. Check it 22! Booyakasha! 23 and it's Christmas eve, or Christmas day 
+depending on which country you live in,  on channel 24. Do we have 24 healthy channels in the house? Checking the recording. [Martins voice played back]
+"Okay. This is channel 1, check. Channel 2..." and look here. This looks wrong. [playback almost inaudible]
+"check. Channel 3." Channel three has not been healthy. "check. Channel 4. Channel 5. Channel 6... 
+Check 21." I get more and more excited...
+[laughing] "Twenty two!"
+Everything but channel three. Hmm. Let's go back and try again. 
+See what happened there. The channel 3 is not working 
+from the machine. I connect myself directly into the preamp
+ and now everything is healthy. Everything after the boa constrictor 
+is healthy, somewhere in the big cable we have 
+an issue on channel 3. I'm gonna talk to Christof to see 
+what he thinks I should look at first. It can be on kind of a lot of places.
+[laughing] [Martin in robot voice]
+"Warning! Main control unit deactivated!" "Preparing for docking." [Martin makes the sound of landing aircraft] "Main control... unit..." "... docking ..." "Insufficient arm power." Whoa, whoa whoa, whoa, whoa. Whoa, that length has been changed. Argh! [robot voice again]
+"Attempt aborted." [laughing] "Re-configuring docking hatch placement." "Youtube clown re-activated."
+"Self-loathing initiated." [chuckles] "Secondary docking attempt of command 
+central initiated, we have first contact." "Command central secure." 
+"Musical instruments digital interface cable!" [makes rocket thrust sound] "Sonic explosion incoming: three... two... one..." [♪ unreleased/Feels Like Home ♪] [no speech] Hannes: - Olivier, could you tell us something 
+exciting about the next installment? Olivier: - Spoiler alert: [laughing]
+[birds chirping on background] It's gonna be very awesome, and... yes, this will be a major visual 
+change in the studio. On installation 3 we are we are
+ focusing on two major goals: bass trapping and variable acoustics. About variable acoustics... You already saw some of the designs 
+we are going to use on other videos. We have three different surfaces 
+that offer acoustic tuning. The wall on the stage with vertical slats, rotating. There will be foldable wood panels above the machine, that will just slide like this, and let sound be absorbed by an acoustic ceiling above. And the third acoustic solution will be
+ on the cyclorama. Cyclorama is installed in front of 
+openings of the room... [wind noises] doors and windows. So it will have some opening wood parts 
+that will be covered with acoustics outside. So, when you open it becomes acoustic 
+and when you close, it's just a cyclorama. So this way we have three different parts 
+of the room, that can have variable acoustics. 
+It's all custom parts. And I'm working with a friend, Clément, which is an engineer in mechanics,
+[♪ music starts again on background ♪] to help with all the mechanical parts, because there is a lot. 
+Hannes: - And I love that in the vein of the machine itself, overly engineered, like, all your solutions now are so cool 
+and overly engineered. Yeah, it mirrors the machine so nicely! 
+[laughing] Olivier: - Yes, yes. It has to mirror a little bit 
+the machine, it's far from it, but... Some... some common DNA... needs... Martin: - I absolutely love this spot 
+on the planet Earth. This is my spaceship to... propel myself 
+into the music stratosphere. So, thank you for following this build series 
+of the Marble Machine X. These kind of projects is a very important
+ part of the Marble Machine X process, but we will be back next week with more 
+build videos on the Marble Machine X, and in August, when we're doing installation 3 out of 3, 
+we will be covering that as well, of course. Thanks, Olivier and Id Acoustique, and thanks 
+to the patrons and the youtube members, and thank you for everyone watching, and an extra thanks to the Marble Machine X CAD team, that are working on discord right now. I think we're above 60 people in the CAD team, and honestly to each and every one of you in the CAD team, I want to say personal thanks for pushing that project, while I'm pushing this project, so, that's really awesome. [music ends in epic chord] Headphone episode, everyone. It's gonna be
+ more of those soon. [the tone glides from bass into treble, then fades] [whispering] 
+See you next week! 

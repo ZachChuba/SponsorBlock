@@ -1,0 +1,46 @@
+Here’s a high plateau on mars, rising up
+above the surrounding landscape. Or… is it a system of valleys and canyonlands
+cut into the surrounding plains? And here’s another – is this text/image
+cut into the wood, or is it bumping out? Like the famous duck/rabbit illusion, it can
+sometimes be hard to perceive both sides of these illusions, so let’s try one more:
+a series of plateaus on earth? Or the grand canyon? These are examples of a multistable perceptual
+illusion that often comes up when looking at shaded relief maps or aerial and satellite
+photos of terrain. So why do we sometimes see these features
+as popping up or out of the image, and why do we sometimes see them as cut or dented
+in? There are essentially two reasons: First,
+the fact that on earth the sun is always overhead, and second, a weird symmetry of light and
+shadows. Ok, so if you’re a human who grew up on
+earth, you’re used to the fact that light mostly comes from above. I mean, the sun is always overhead, illuminating
+things from above, or above and to the side, but never from below the horizon, which means
+that shadows are pretty much always on the bottoms of things. This is so ingrained in us and our culture
+that religion talks about falling down into darkness and being raised up into the light,
+western art exhibits a “top-left lighting” convention, as does computer interface design,
+and the international space station has lights on one side to help give floating astronauts
+a consistent sense of “up” and “down”. And “Shadows on the bottom, light on the
+top” gives our brains a way to perceive the 3D-ness of features just from the position
+of their shadows. If there’s a bump sticking out from a wall,
+the shadow will be on the bottom of the bump. If there’s a dent in the wall, the shadow
+will be on the bottom of the overhang, which means the TOP of the dent. Roughly speaking, when we have no other context
+and see shadows on the bottom of a feature, we perceive it as convex, coming towards us,
+and when we see shadows on the top of a feature, we perceive it as concave, or dented away. But there’s a cruel symmetry in nature:
+a concave feature, lit from one side, can cast very similar shadows to its convex counterpart,
+lit from the other side . A bump lit from above has shadows on the bottom, and a dent
+lit from below also has shadows on the bottom, which makes it easy to misperceive a dent
+lit from below as a bump, or a bump lit from below as a dent. Similarly, a mountain range lit from the east
+has shadows on its western slopes, while a valley lit from the west also has shadows
+on its western slopes. Not really a problem when you’re standing
+next to the mountain or valley. But viewed from high enough above, all our
+brains really have to go on for the concavity or convexity of landscape features is their
+shadows. So we’ll tend to see these geographic features
+as mountains when the shadows are on the bottom, and valleys when shadows are on the top. Which, of course, is only correct if the light
+happens to be coming from the top of the image. In fact, the mountain or valley illusion is
+so strong that shaded relief maps of the northern hemisphere generally show light coming from
+the north, a direction the sun never actually shines in most of those places. Cartographers are more than willing to sacrifice
+the accuracy of the sun’s position to ensure that they accurately communicate the geographic
+features they’re mapping. And it’s good they do – I actually decided
+to make this video after I was looking at a map upside down from across a table, and
+my brain thought that all the valleys were mountains and mountains were valleys! I had to get up, clear my head and go around
+to the other side of the table before I could get them to switch to being the right way
+round. So if you’re confused why a map or aerial
+or satellite photo looks weird, try rotating it 180° to see if it makes more sense! Hey, Henry here, today I thought I’d try
+something different. 

@@ -1,0 +1,145 @@
+Hi everyone, Jade here. Would you like to hear a story? In 1968, the city of Seoul in South Korea built a six-lane highway
+above the Cheonggyecheon River in an effort to improve traffic flow. It worked at first, but as the years passed, more
+and more cars began to appear until finally, if one
+looked over at the highway from their balcony, all they would see were cars jammed back-to-back and the honking of disgruntled drivers. In 2005, the mayor of
+Seoul initiated a project to tear down the highway
+and revitalize the river. This was met with much controversy as if this major road was
+already jammed up with cars, removing it would surely make traffic worse all around the city. But to everyone's surprise, when the road was torn
+down, travel flow improved in the city of Seoul with travel times for its citizens actually decreasing. How? This video is about a phenomenon
+called Braess' Paradox. Discovered by a German
+mathematician, Dietrich Braess, as he was working on modeling traffic, he noticed that contrary to intuition, adding an extra road to a traffic network could actually make travel times longer. Here's how. Imagine there are two cities,
+Origin and Destination. Two roads connect to the cities
+upper road and a lower road. There is a point halfway through each road called halfway point where
+the road changes slightly. From the start of upper road to the halfway point of upper road, The road is quite narrow and travel time depends on the number of cars on the road. The exact time works out to be the number of cars divided by 100. For example, if there are
+1,000 cars on the road, it'll take each car 10 minutes to get from the city of
+Origin to the halfway point. There, the road changes and
+becomes a six-lane highway. Now it doesn't matter how
+many cars are on this highway, it always takes the same
+amount of time, 45 minutes. Lower road has the same
+setup except reversed. Now let's say there are 4,000 drivers who want to get from
+Origin to Destination. If they all take upper road, it'll take each driver 4,000
+divided by 100 minutes, which is 40 minutes, plus the fixed 45 minutes of the highway, making the total commute time 85 minutes. This is obviously a silly strategy. A rational driver has incentive
+to switch to lower road because that would only
+take them 45 minutes plus one divided by 100 minutes, which is roughly 45 minutes,
+a saving of 40 whole minutes. Other drivers on upper road would also want to change to lower road. This pattern would continue
+until half the drivers take upper road and half take lower road, with both roads taking the
+exact same time of 65 minutes. This is a natural equilibrium. A driver on upper road has no incentive to switch to lower road, as
+it will only take them longer. And a driver on lower
+road has no incentive to switch to upper road
+for the same reason. This situation, when no
+one has any incentive to change their behavior, is
+called the Nash Equilibrium in game theory. The key word here is equilibrium, which can be thought of
+as another way of saying when the system is stable, opposing forces are equally balanced and the system will not
+change unless acted upon. For example, this balancing
+stick is in equilibrium. It won't falter unless there's
+an outside force like wind or a monkey. With half the drivers
+split evenly between roads, no one has any incentive to move. So the system will
+continue going on this way. Each driver with a total
+travel time of 65 minutes. Now let's spice things up. Let's add a new highway connecting the halfway points of the two roads. We'll call it Braess Road. It's a very wide highway
+and it takes virtually no time at all to get
+from one end to the other. So for simplicity, we're going
+to say it takes zero minutes. Blanche, a regular upper road commuter, longs for more adventure in life and decides to try out this new highway. To her surprise, it only takes her 2,000 divided by 100 minutes, plus
+2,001 divided by 100 minutes, which is roughly 40 minutes,
+to arrive at Destination. This is a saving of 25
+minutes from her usual route. More upper road regulars catch
+onto Blanche's shenanigans and start to use this new route too. Soon, the number of drivers trying this new route reaches 2,500. So their travel time is 65 minutes, which is now the same total time as the original upper road
+route they all started on. Meanwhile, the regular lower road drivers are slowed to 85 minutes,
+which is a 20-minute increase before these pesky upper road drivers decided to invade their turf. So now they have incentive to
+change to the new route too. With everyone taking this new route, it takes each driver 4,000
+divided by 100 minutes, plus another 4,000 divided by 100 minutes, 80 minutes to drive from
+Origin to Destination, a 15-minute increase from their old route. So, why don't they change back? Well, no one has any incentive to. If people made an agreement to go back to their original routes, there would always be that annoying driver who selfishly uses the new Braess Highway to cut down their own travel time. Soon, other drivers
+will see what he's doing and feel ripped off. So they'll do it too. Before we know it, we'll be
+right back to where we started. Systems tend to move toward
+their natural equilibrium. Just try and stop hot and cold water from mixing into warm water. With the introduction of the new road, the system's equilibrium has changed and become less efficient. This is Braess' Paradox, and when we analyze it, we see that it isn't
+really a paradox at all, but follows from one very simple fact. People are selfish, what's
+best for the individual often isn't what's best for everyone. This same behavior has been
+seen in other parts of life too. One study showed that
+removing the star player from a basketball team can actually improve the team's performance. Adding extra products to the marketplace can often lead to worse
+choices made by the consumers. The effect has even been seen in medicine, whether removal of sudden enzymes can lead to an overall
+improvement in the metabolism. The message of this video
+isn't people are selfish and stop being so selfish, the message is actually
+it's not your fault. See, this counter-intuitive behavior isn't just caused by people's decisions. It's to do with something much deeper about the nature of natural equilibria. Just so we don't have to feel bad about our selfish human nature, I'm going to show you how Braess' Paradox affects even a physical non-living system like this setup we have here, where I'm pretty sure nothing is a conscious decision maker
+capable of being selfish. Here, we have a water
+bottle filled with water, which is acting as a weight. It's hanging from a bar connected to two springs and two strings. Now, the way that the springs
+and strings are connected is a bit hard to see
+and it's very important, so listen carefully. Tied to the bar is a
+regular piece of string which doesn't stretch or
+anything fancy like that. It's then tied to the lower spring, which is connected to the weight. Another spring is also tied to the bar and then tied to the lower string, which is connected to the weight too. However, and this part is very important, the two springs are linked together. You'll see that both the strings are actually slack at the moment. There's no tension pulling on them. This is because they're both longer than the springs right now. And as the springs are linked together, the strings are kind
+of just hanging there. At the moment, our spring-string setup has a total length of
+about 795 millimeters from the bar to the pencil. Now, if I unlink the springs,
+what do you think will happen? Will the weight, A, fall, B,
+rise, or C, stay the same? Pause the video now and try
+to figure it out for yourself. Go back and listen to the
+explanation again if you have to. All right, let's take a look. (drumroll) (bottle rattling) Congratulations to those of you who chose B, the weight rose. If you didn't get it, don't worry. You're not alone. My intuition tells me
+that the weight will fall. The strings were slack, so
+if we unlink the springs, the string should stretch to full length, making the setup longer,
+and so lowering the weight. But that's not what happened. See, when the springs were linked, they alone were bearing the entire weight of the water bottle. There was more tension pulling on them, making them stretch more. When they're unlinked,
+the weight divides equally between each pair of
+string and spring link. So now, each one only bears
+half the weight of the bottle. So even though there was a
+lengthening in the system here, the reduced weight on the
+springs caused them to compress and therefore become shorter,
+making the total effect and overall shortening of the
+system and the weight rising. If you're into circuits, you can think of the before
+setup as being in series and the after set up as being in parallel. For clarity, let's compare this set setup to the traffic scenario so we can see that it is in fact
+Braess's Paradox at play. The length of the strings and springs or the height of the
+weight can be thought of as the travel time of the cars. It's the cost or the thing
+that we're trying to reduce. The weight is analogous to the
+number of cars on the road. It can be thought of as the load that we're trying to
+handle most efficiently. The strings are analogous
+to the 45-minute highways as their length doesn't change
+depending on the conditions. Just as the travel time on
+the highway didn't change depending on how many cars were on it. The springs are analogous
+to the narrow roads. As the length of them
+does depend on the load just as the narrow roads' travel time depends on the amount of cars on them. And finally, the linking of the springs is analogous to the new Braess Highway. Just as the removal of the Braess Highway from the road network
+changed the equilibrium of the traffic network
+to a more efficient one, so too the unlinking of the
+springs changed the equilibrium of the setup to a more efficient one. This same behavior has been seen in other physical systems too, like electrical circuits,
+water pipes, the internet, anything to do with heat flow. Basically anything that can
+be thought of as a network can fall victim to Braess' Paradox. So even though in some
+cases your selfishness makes conditions worse for
+everyone, it's not your fault. It's a fundamental phenomenon of nature and you can't be blamed for that. But seriously, I think it's pretty cool that equilibrium points can
+have such strange behavior. We usually think of them as
+pretty boring lukewarm areas where nothing that interesting happens. Scientists tend to be more fascinated with behavior that happens at extremes far away from equilibrium points, like hurricanes and earthquakes and galaxy formation and
+the creation of life. So, I think it's pretty fascinating that even areas we think of as mundane and normal can exhibit such
+counterintuitive behavior. It really goes to show
+that there's no part of science that isn't interesting. Fascinating as it may be, in
+most cases, Braess' Paradox is an annoying problem
+that we want to get rid of. It could be costing billions of dollars per year in inefficient road networks and slow internet and
+low-pressure water pipes. So ,can we do anything about it? Well, like most things in life, if you want to fix something,
+you first need to identify it. The first question we should be asking is is there a way to identify
+when Braess' Paradox is slowing down a network? Well, the thing about networks is that it's hard to change a part of a network without affecting the whole thing. What's more is that it's hard to see how changing part of the network will affect the whole thing. If we remove this piece of road, it could improve traffic
+in its local region. But how do we know it's not
+making traffic worse over here? There's a common engineering folklore that a local improvement may only transfer the problem somewhere else. The way the system is connected and how different parts affect
+each other isn't obvious. And the only way we've figured
+out how to analyze it so far is by running computer simulations. Removing a road here,
+plugging it into a computer and seeing how it affects
+the overall traffic. Then maybe removing a road here and running the simulation again to see if it's more
+efficient, rinse and repeat. The number of possible variations is given by two to the power
+of the number of roads. So in a small traffic
+network of about 10 roads, this would be fine. There'd be just over 1,000 variations, so we could just plug them
+all into a computer simulation and see which one is the most efficient. A pretty ordinary computer could manage this calculation pretty quickly. However, if we take a city with 100 roads, things get complicated fast. Two to the 100th power
+is this gigantic number. It would take the fastest
+computer in existence today three billion years to run
+all the possible simulations and see which one works best. In reality, there are a lot more than 100 roads in any major city. So the only method
+we've figured out so far to detect Braess' Paradox isn't practical with today's computing power. This sounds like pretty bad
+news, but not all hope is lost. Most approaches to
+solving the paradox so far have focused on figuring out
+the best network structure. But what if instead we focused on changing the way
+that the cars interact? One interesting avenue
+researchers are exploring to reduce Braess' Paradox is the idea of Collective Intelligence. Basically meaning that
+instead of each person acting as an individual,
+everyone acts together as a whole to try and
+reach the optimal state. This solution may be close
+to becoming a reality with the recent progress
+in self-driving cars. Self-driving cars would
+act more like a hive mind, with each car being
+electronically connected to all the others. They could be controlled by some kind of central intelligence whose aim is to optimize traffic flow
+for the system as a whole, getting rid of the whole game theoretic aspect of the problem. What causes the paradox in the first place is people acting selfishly or at least acting as individuals. With the cars acting as a single mind, there are no longer individual
+interests to consider. So in theory, this should
+sidestep the paradox altogether. I think Braess' Paradox can teach us a lot of important life lessons. Sometimes less really is more. Acting selfishly usually makes
+things worse for everyone, including yourself. Your natural state often isn't
+your most efficient state. And sometimes the
+solution you think is best can have catastrophically
+terrible consequences. But I wanna know what you think. What important life lessons can we learn from Braess' Paradox? Let me know your thoughts
+in the comments below. (upbeat chiptune music) 

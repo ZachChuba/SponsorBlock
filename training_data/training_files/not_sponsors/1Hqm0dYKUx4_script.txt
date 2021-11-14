@@ -1,0 +1,44 @@
+Aah, the sound of shaking animal intestines.. I
+mean, strings which are traditionally made out of cat gut but regardless of
+what it's made out of when a string vibrates it does so with the ends fixed to the
+instrument. This means that it can only vibrate in certain waves, sin waves. Like a
+jump rope with one bump or two bumps or three or four or some combination of
+these bumps. The more bumps the higher the pitch and the faster the string has to
+vibrate. In fact, the frequency of a strings vibration is exactly equal to the
+number of bumps times the strings fundamental frequency that is, the
+frequency of vibrations for a single bump. And since most melodious instruments use
+either strings or air vibrating pipes which has the same sinusoidal
+behavior it won't surprise you to hear that musicians have different names for
+the different ratios between these pitches. In the traditional Western scale, 1 to 2
+bumps is called an octave; 2 to 3 is a perfect fifth; 3 to 4 is a perfect fourth, then a major third, minor third some other things that aren't on the scale and from 8 to 9 bumps is a
+major second or whole step. If you play a few of these notes together you get the nice sound of
+perfect harmony. Hence the name for this band of pitches, harmonics. In fact a sound that matches one
+of the harmonics of a string can cause that string to start vibrating on its
+own with their resonant ringing sound. And a bugle playing taps uses only the  notes in a single series of harmonics which
+is part of why the melody of taps rings so purely and why you can play taps with the
+harmonics of a single guitar string. Harmonics can also be used to tune
+string instruments. For example, on a violin, viola or cello, the third harmonic
+on one string should be equal to the second harmonic on the next string up. Bassists and
+guitarists can compare the fourth harmonic to the third harmonic on
+the next string up but then we come to the piano or historically the harpsichord or
+clavichord but either way the problem is this: it has too many strings. There's a
+string for each of the 12 semi tones of the Western scale times seven. If you
+wanted to tune these strings using harmonics you could for example try
+using whole steps that is you could compare the ninth harmonic on one key to the eighth
+harmonic two keys up which works fine for the first few keys; but if you do it six times, you'll get to what's supposed
+to be the original note an octave up which should have twice the frequency. Except that our harmonic tuning method
+multiplied the frequency by a factor of nine eighths each time and 9 over 8 to the 6th is not two, its 2.027286529541 etcetera. If you tried harmonically tuning a piano using major
+thirds instead, you'd multiply the frequency by five fourths three times or
+1.953125, still not two. Using fourths you'd get 1.973 not two. Fifths
+gives 2.027 again. And don't even try using half steps; you will be off by almost 10
+percent and this is the problem. It's mathematically impossible to tune a
+piano consistently across all keys using perfect beautiful harmonics, so we don't.
+Most pianos these days use what's called equal tempered tuning where the
+frequency of each key is the 12th root of two times the frequency of the key below it.
+The 12th root of 2 is an irrational number something you never get using simple ratios of harmonic tuning; but its
+benefit is that once you go up 12 keys you end up with exactly the 12th root of 2 to the 12th or,
+twice the frequency. Perfect octave! However, the octave is the only perfect
+interval on an equally tuned piano. Fifths are slightly flat; fourths are slightly sharp;
+major thirds are sharp, minor thirds are flat and so on. You can hear a kind of "wawawawawa" effect in this equal tempered chord; which goes away
+using harmonic tune. But, if you tuned an instrument using the 12th root of 2 as most pianos, digital tuners and computer instruments are, you can play any song, in any key, and they will all be
+equally and just slightly out of tune. 

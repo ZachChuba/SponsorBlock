@@ -1,0 +1,85 @@
+Vsauce! Kevin here, with two envelopes. One
+of them contains twice as much money as the other one, and you get to choose which one
+you want to take. But before you open your envelope and find
+out whether you’ve won the smaller prize or the larger prize, you have the opportunity
+to switch to the other envelope... so, do you? Do you switch? The answer is… No. Irrefutably, 100% no.  In our scenario, it makes 
+absolutely no statistical difference which envelope you choose. Each
+one could contain the lower amount of money or the higher amount of 
+money with equal probability,  and you have zero information to help you choose one over the other. Right? Wrong. The answer is irrefutably, 100% yes
+-- switch the envelopes. And there’s   a mathematical explanation for why. Right? Wrong. WHAT IS HAPPENING HERE!? Let’s...let’s... let's start at the beginning. The origin of the Two Envelopes Paradox is
+just as confusing as the problem itself. In 1953, Belgian mathematician Maurice Kraitchik
+posed a scenario in his book about recreational mathematics in which two men compared the
+values of neckties their wives bought them, with neither man knowing the prices. Also
+in 1953, a math book credits a similar puzzle using playing cards to physicist Erwin Schrodinger
+-- ever hear of Schrodinger’s cat? Where a cat in a box is both alive and dead until
+you open the box and find out? Yeah, same guy -- and in our problem, the same forces
+at play are the same whether we're using playing cards, neckties, or envelopes. Oh also, I’m wearing my brand new Birthday
+Paradox shirt. I have a floating space baby bracketed by the chart detailing the probability
+of at least two people sharing a birthday vs. the number of people. It’s in my new
+Vsauce2 store -- link below. Wear it, for all the space children. So look. The logic for not switching envelopes
+is pretty straightforward. Given that you don’t know anything about either one -- or
+even what the higher and lower values are inside them -- one is as good as the other.
+But the math in favor of switching is… kinda compelling. Let’s say that the envelope you choose contains
+X dollars. We don’t know how much X is, just that there’s something in the envelope
+we can call X. The probability of that envelope containing the smaller value is ½, and the
+probability of it containing the larger amount is ½. It's 50%. The other envelope either contains twice that
+amount -- 2X -- or half that amount, 1/2X. If X turns out to be the higher value, then
+the other envelope contains 1/2X. If your envelope's X is the lower value, then the
+other envelope contains 2X. Make sense? I’ve talked about expected value in a few
+other Vsauce2 videos. It’s the average of the possible outcomes of a series of probabilistic
+events, which we can use to identify the most advantageous course of action. So, to find
+the expected value of the envelope we didn’t choose, we add the value of 
+the only two possibilities  weighted by their probability. Like this: ½ (2X) + ½ (1/2X) = 5/4 X equals five over
+four X. Half of the time the other envelope will contain 2X, and half of the time the
+other envelope will contain one-half X… which equals an expected value of… five-fourths
+X. 5/4 X is 25% more than just X, so our best
+possible choice is to switch to the other envelope. Cool. We did it. BUT THAT MAKES NO SENSE. You have a simple, clean 50/50 chance of choosing
+the envelope with more money inside. Switching can’t change that... but the math just told
+us that it can. Don’t worry, though. It gets weirder. What
+if I said you could switch envelopes again if you wanted to? Well, then you’d just
+go through the same process over and over again, always switching, never opening, forever
+and ever and ever and erver and nerver and blerver -- those aren't words but you get
+the point. Because switching makes the most mathematical sense, with switching gaining
+you a 25% advantage. And I just proved it. Sooooooo....   Let’s come back to math later.
+It’s time for logic. Logician Raymond Smullyan poses two scenarios
+for the paradox: First, the risk of gaining twice the amount in your envelope is worthwhile
+when the alternative is only losing half of it. You’re gaining X or you’re only losing
+half of X. The potential payoff is twice as high as your risk of loss. Makes perfect sense. But one envelope contains X, and the other
+contains 2X… so you’re either gaining X or losing X. Also makes sense. But both can’t be true. So we’re going
+to do this problem again using economics professor Barry Nalebuff’s variation. Let’s say that we give an envelope to Player
+1, and then flip a coin. If it’s heads, we put double that amount in the second envelope
+and give it to Player 2. If it’s tails, we put half that amount in the envelope and
+give it to Player 2. Neither player knows how much is in their envelope or the outcome
+of the coin toss. Once they open their envelopes in secret, they can switch with each other
+if they both agree to switching. Player 1 opens their envelope and finds $10.
+With equal probability, they think that switching to Player 2’s envelope will get them $20
+(for a $10 gain) or take them down to $5 (for a $5 loss). Player 1 decides to switch because
+switching gives them a greater possible reward relative to what they might lose. Player 2, who’s in another room, opens their
+envelope and finds $5. They think there’s a 50% chance that switching to Player 1’s
+envelope will get them $10 (for a $5 gain) or get them only $2.50 (for a $2.50 loss).
+So… Player 2 also thinks that what they stand to gain is greater than what they might
+lose. They are both absolutely sure that their upside is better than their downside. But it’s obvious that BOTH players can’t
+have an advantage in this game. That’s impossible! If you’re confused at this point… good.
+Martin Gardner, one of history’s greatest puzzle-solvers and paradox-explainers, knew
+the answer but admitted that there just wasn’t a simple way to communicate   the flaw in mathematical
+reasoning. And sadly, that’s where our journey ends…
+NO IT’S NOT. Because we CAN figure this out. Think of it this way: the total sum of money
+in the envelopes is three units -- a small unit, and then a larger value that’s made
+up of two smalls -- that combine to form a total of X. If you’ve got the smaller envelope,
+its value is x/3, and if you have the larger envelope, its value is 2X/3. When you switch
+from small to large, you gain x/3, and when you switch from large to small you lose x/3…
+So, the expected value of switching is: ½ * [(2X - X)/3] + ½ [(X - 2X)/3], which equals…
+0. There’s just no value in switching. It doesn’t
+help us and it doesn’t hurt us -- which is probably what you knew until we got math
+involved. The Two Envelopes problem is a lot more than just X and 2X -- which is what makes
+it a falsidical paradox. Because there appears to be a gain from switching
+when we fail to consider that the states of the two envelopes don’t actually reflect
+simple values of X and 2X. A 2X envelope is only 2X when it’s the larger amount, and
+the ½ X envelope is only ½ X when it’s the smaller amount. Without recognizing that
+difference, basic algebra playing off our common sense fools us into thinking that each
+switch gives you a gain of 5/4, or 25%. It’s really a matter of perspective. Depending
+on which envelope you’re holding, which one you think you have, which one you think
+you don’t have, and which one you want to wind up with, your course of action might
+be incredibly clear… or not. And then clear again. And then not again. Until you realize that no matter if you diagnose
+it mathematically, no matter if you deconstruct it logically, no matter what you do, when
+it comes to the two envelope paradox, you were right all along. And as always,   thanks for watching. 

@@ -1,0 +1,81 @@
+Before we can jump into the crazy advanced
+settings and configurations of the software, you really need to take some time and get
+familiar with the UI – or user interface – of Open Broadcaster Software. Anytime I say this, many roll their eyes,
+think they can just follow along with the tutorials without knowing the UI, and then
+they end up being the ones to post comments asking where I found this setting or that
+setting. The UI doesn’t change super drastically
+across updates, so even if the software updates this guide will be pretty relevant in the
+future. I’m EposVox, here to make tech easier and
+more fun, and welcome back to my OBS Studio tutorial course. I have many, many more videos on the software
+in the playlist linked in the description. Check that before asking questions, and check
+the introduction video to learn how this course works, if you get confused. Let’s take a look at OBS Studio’s UI and
+where you can find the various settings. Specifics will be covered in the relevant
+tutorials, whereas this video will covered how to find areas of settings. The main OBS window consists of the stream
+preview, scenes and sources lists, audio mixer, transition controls, and your start and stop
+buttons. As with every software ever, the top bar of
+menus contains access to literally everything you need from the program. Either at the top of your window on Windows,
+or in your system title bar on Mac or Linux if you have the program maximized. These menus include the obvious “File, Edit,
+View, Tools, Help” menus, but also Profile and Scene Collections menus which are super
+important if you use OBS for multiple different scenarios – such as recording, streaming,
+and podcasting – so we will cover these in depth in a dedicated video in the course. The bottom bar features your recording and
+streaming timers, current frame rate, and a CPU usage indicator. This is super useful for checking your stream
+bandwidth health, recording time, and overall system performance. If your CPU load is high, you may need to
+lower your settings. Typically, the stream preview only has a single
+video window, which just shows your active stream view. However, if you click the “Studio Mode”
+button over on the right, you then have 2 previews, with transition controls between
+them. The preview on the right is the active stream
+preview that your live viewers or recording file sees. The preview on the left is whichever scene
+you select. This is handy for editing scenes on the fly,
+or prepping scenes before you switch. I’ll cover this more in depth in a future
+video. You can use the controls in the menu to set
+up transition options or transition between your scenes. The Scenes and Sources section is for changing
+what viewers actually see. Sources are your individual on-stream elements
+– such as a video source like a capture card or webcam, a still image overlay, browser
+sources for stream alerts, and so on. Scenes are groupings of sources for different
+points of your stream. For example, you can set up a scene for a
+full-screen webcam view for when you’re just talking to your audience, a scene for
+gameplay footage and facecam in the corner, a scene with just gameplay, a still image
+scene with an image saying “BRB” for when you need to run to the bathroom, and so on. You will be using this a TON so it’s worth
+testing out all of the options here. The audio mixer is super important, too. This is where you balance your different audio
+sources – such as your microphone, game sound, extra inputs, and so on. The audio levels are typically green, but
+if you hit 0db and clip or peak they turn red. You NEVER want this to happen, and need to
+avoid it by having things around minus 10 db or so. This isn’t really indicated properly on-screen,
+but aim for your levels to only ever hit here at the HIGHEST point. The most commonly-overlooked part of the mixer
+is the channel assignments. You see, OBS Studio allows you to record multiple
+audio tracks to a file, which you can then balance in editing. By clicking the gear icon next to the each
+audio source in the mixer and hitting “Advanced Audio Properties” - or going to “Edit”
+- “Advanced Audio Properties”, you can change which channel each audio source goes
+to. Most people miss this, and by default, all
+audio sources go to all tracks. If you don’t separate your tracks, all of
+your different tracks will be the same. Again, all of this will be covered in its
+own video. Check out the settings menu. Click Settings in the lower-right. The “General” tab includes system-wide
+and user interface settings. This includes the Dark theme, a more colorful
+dark theme called “Rachni”, an option to automatically start recording when you
+hit Start Streaming, setting up “projectors” to have a full-screen stream view on a secondary
+monitor, and so on. The “Stream” tab is for choosing your
+streaming service and adding your login info. The “Output” tab is for configuring your
+streaming and recording settings. Here you can adjust your codecs, bitrates,
+and scaled resolutions for your audio, streams, and recordings. By default this shows a “Simple” mode,
+but most of this course will involve the “Advanced” mode – selected by the top drop-down menu. The Simple mode isn’t super useful for most
+people. The “Audio” tab is for setting up your
+audio devices, such as microphones, headphones, and so on – as well as enabling push-to-talk
+keys. The “Video” tab is for setting up your
+resolution, frame rate, and scaling settings. The dimensions of your video. The “Hotkeys” tab allows you to set up
+handy hotkeys for quickly switching scenes, sources, and starting or stopping recording
+or streaming. The ”Advanced” tab contains a lot of fun,
+high-level settings to configure your stream. These can be useful for changing “Processor
+Priority” to reduce impact on your processor, set up faster streaming, stream delays, and
+so on. If you don’t like where things are… change
+it! As of version 20.0, OBS Studio let’s you
+move the UI modules around by going to “View” - “Docks” - and then un-checking “Lock
+UI.” Then you can drag the modules around, as desired. I cover this more in-depth in my OBS Studio
+Update 20 walkthrough video, linked in the video description and in the course playlist. That was a lot. There’s a lot of settings in OBS Studio,
+and the wonderful dev team is always adding more. But by learning the sections of settings well,
+you’ll always be able to make adjustments or fixes to your stream config and get it
+working for you. In future OBS Course videos, we tackle each
+of these individual settings and recording scenarios in very detailed guides. Check out the playlist linked in the video
+description and card icon to keep learning. That’s it for this OBS tutorial. Hit the like button if you enjoyed, and share
+with a friend if they also want to learn the program. I’ll see you next time. Thanks for watching this episode of my OBS
+Studio tutorial course. More videos like this and a full master class
+are linked in the playlist in the video description. Click to learn more. Also consider joining us on Patreon to help
+keep tech education free. Go to Patreon.com/eposvox to sign up. 

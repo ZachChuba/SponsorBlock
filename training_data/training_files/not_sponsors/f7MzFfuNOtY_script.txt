@@ -1,0 +1,152 @@
+As the world grapples to eliminate fossil
+fuels from our energy diet, electric cars have seen an incredible boom over the past
+few years. Last year, over one million electric cars
+were sold around the world. The number of Nissan Leafs, Teslas, and other
+electric vehicles in circulation worldwide is now more than three million. And while there are many brands of electric
+car to choose from, there are only two choices when it comes to powering electric vehicles:
+fuel cells or batteries. Both produce electricity to drive electric
+motors, eliminating the pollution and inefficiencies of the fossil fuel powered internal combustion
+engine. Both hydrogen and electricity for batteries
+can be produced from low­ or zero ­carbon sources, including renewable energy like solar
+and wind, and therefore both are being pursued by car manufacturers and researchers as the
+possible future of electric vehicles. However, a great debate is being waged by
+supporters of each technology. Elon Musk has called hydrogen fuel cell technology
+“incredibly dumb,” claiming they’re more of a marketing ploy for automakers than
+a long-term solution. In contrast, Japan has announced its intention
+to become the world's first hydrogen society, with the Japanese government and the auto
+industry working together to introduce 160 hydrogen stations and 40,000 fuel-cell vehicles
+by March 2021. So which is actually better? At first glance, hydrogen seems like an extremely
+clever way to power a car. Compressed hydrogen has a specific energy
+(aka energy per unit mass) of neary 40,000 watt hours per kilogram. Lithium ion batteries at best have a specific
+energy of just 278 wh/kg, but most fall around 167 wh / kg. That's 236 times as much energy per kg for
+hydrogen. And because of its energy density and lightweight
+nature, compressed hydrogen and fuel cells can power cars for extended ranges without
+adding much weight, which as we saw in our last video is a gigantic road block for incorporating
+the technology into the aviation industry. The designers of electric vehicles are caught
+in a catch 22 with energy density and range. Each extra kilogram of battery weight to increase
+range requires extra structural weight, heavier brakes, a higher torque motor, and in turn
+more batteries to carry around this extra mass, This weight compounding limits how far
+a battery powered vehicle can travel, until new technology can help reduce the weight
+of the batteries. For hydrogen fuel cell vehicles, this weight
+compounding is not an issue. Additionally, a hydrogen fuel cell vehicle
+can be refueled in under 5 minutes, where a battery powered electric vehicle, like the
+Tesla model S, takes over 3 hours to fully recharge. When looking at the range and refuel times
+hydrogen can offer, you can see why some car manufacturers are investing in this technology. On the face of it. Hydrogen is a clear winner, but it falls behind
+when we start considering the end-to-end production process. While both batteries and hydrogen fuel cells
+are both forms of electricity storage, the cost differ drastically. Fully charging a Tesla Model 3 with a 75 kiloWatt
+hour battery, costs between 10-12 dollars depending where you live. With a rated range of 500 kilometers, that’s
+between 2 and 2.4 cent per kilometer. A great price. In a previous video, I visited a petrol station
+that introduced a hydrogen pump, fed by its own on-site production facility. which used off-peak electricity to produce
+hydrogen. The hydrogen from this station cost $85 dollars
+to fill the 5 kg tank of the Toyota Mirais on site, which had a range of 480 kms. That’s 17.7 cent per kilometer, 8 times
+the price. And here lies the problem, Hydrogen simply
+requires more energy to produce. To understand the economic viability of hydrogen
+let’s dig deeper into the production process. Before any hydrogen vehicle can hit the road,
+you first need to produce the hydrogen, but hydrogen is not a readily available energy
+source. Even though hydrogen is the most abundant
+element in the universe, it is usually stored in water, hydrocarbons, such as methane, and
+other organic matter. One of the challenges of using hydrogen as
+an energy storage mechanism comes from being able to efficiently extract it from these
+compounds. In the US, the majority of hydrogen is produced
+through a process called steam reforming. Steam reforming is the process of combining
+high-temperature steam with natural gas to extract hydrogen. While steam reforming is the most common method
+of industrial hydrogen production, it requires a good deal of heat and is wildly inefficient. Hydrogen produced by steam reforming actually
+has less energy than the natural gas that the steam reforming began with. And while hydrogen fuel cells themselves don’t
+produce pollution, this process does. So if we want to assume a future scenario
+with as little carbon emission as possible, this method won’t cut it. Another method to produce hydrogen is electrolysis
+- separating the hydrogen out of water using an electric current. While the electricity needed for this process
+can be provided from renewable sources, it requires even more energy input than steam
+reforming. You end up losing 30% of the energy from the
+original energy put in from the renewables when you carry out electrolysis. So we are sitting at 70% energy efficiency
+from hydrogen fuel cells if traditional electrolysis is used, before the car even starts its engine. A slightly more efficient method of producing
+hydrogen is polymer exchange membrane electrolysis. Using this method, energy efficiencies can
+reach up to 80%, with the added benefit of being produced on site, which we will get
+to in a moment. But this is still a 20% loss of energy from
+the original electricity from the renewables. Some experts say the efficiency of PEM electrolysis
+is expected to reach 82-86% before 2030, which is a great improvement, but still well short
+of batteries charging efficiency at 99%. [1] A 19% difference in production costs doesn’t
+explain the difference in costs yet, so where else are we losing energy. The next hurdle in getting hydrogen fuel cell
+vehicles on the road is the transport and storage of the pure hydrogen. If we assume the hydrogen is produced on site,
+like it was for this petrol station, then we eliminate one energy sink, but the cost
+of storage is just as problematic. Hydrogen is extremely low density as a gas
+and liquid, and so in order to achieve adequate energy density, we have to increase its actual
+density. We can do this in two ways. We can compress the hydrogen to 790 times
+atmospheric pressure, but that takes energy, about 13% of the total energy content of the
+hydrogen itself. Alternatively we can turn hydrogen into liquid,
+cryogenically. The advantage of hydrogen liquefaction is
+that a cryogenic hydrogen tank is much lighter than a tank that can hold pressurized hydrogen. But again, hydrogen's physical properties
+means hydrogen is harder to liquefy than any other gas except helium. Hydrogen is liquified by reducing its temperature
+to -253°C, with an efficiency loss of 40%, once you factor in the added weight of the
+refrigerators and the refrigeration itself. So pressurisation is a better option at a
+13% energy loss. Once the hydrogen is produced and compressed
+to a liquid or gas, a viable hydrogen infrastructure requires that hydrogen be able to be delivered
+from where it's produced to the point of end-use, such as a vehicle refueling station. Where the hydrogen is produced can have a
+big impact on the cost and best method of delivery. For example, a large, centrally located hydrogen
+production facility can produce hydrogen at a lower cost because it is producing more,
+but it costs more to deliver the hydrogen because the point of use is farther away. In comparison, distributed production facilities
+produce hydrogen on site so delivery costs are relatively low, but the cost to produce
+the hydrogen is likely to be higher because production volumes are less. While there are some small-scale, on-site
+hydrogen production facilities being installed at refuelling pumps, such as the station mentioned
+in the last hydrogen video. until this infrastructure is widespread, we
+have to assume that the majority of hydrogen is being transported by truck or pipeline,
+where we know that energy losses can range from 10% up to 40%. In comparison, assuming that the electricity
+that we use for charging the batteries comes completely from renewable resources (like
+solar or wind), we just have to consider the transmission losses in the grid. Using the United States grid as a reference
+for typical grid losses, the average loss is only 5%. So in the best case scenario for hydrogen,
+using the most efficient means of production and transport, we lose 20% of energy during
+PEM electrolysis, and around 13% for compression and storage, amounting to a 33% loss. In other systems, this could be as much as
+56%. For battery power, up to this point, we have
+lost just 6% to the grid and recharging. Bringing our best case efficiency difference
+to 27% and our worst case to 50%. The next stage of powering electric vehicles
+is what is called the tank to wheel conversion efficiency. For hydrogen fuel cell vehicles, once the
+hydrogen is in the tank, it must be re-converted into electric power. This is done via a fuel cell, which essentially
+works like a PEM electrolyser, but in reverse. In a PEM fuel cell, hydrogen gas flows through
+channels to the anode, where a catalyst causes the hydrogen molecules to separate into protons
+and electrons. Once again the membrane only allows protons
+to pass through it, while electrons flow through an external circuit to the cathode.This flow
+of electrons is the electricity that is used to power the vehicles electric motors. If the fuel cell is powered with pure hydrogen,
+it has the potential to be up to around 60% efficient, with most of the wasted energy
+lost to heat. Like hydrogen fuel cells, batteries also come
+with inefficiencies and energy losses. The grid provides AC current while the batteries
+store the charge in DC. So to convert AC to DC, we need a charger. Using the Tesla Model S as an example, its
+peak charger efficiency is around 92%. The Tesla model S runs on AC motors; therefore,
+to convert the DC current supplied by the batteries into AC current, an inverter has
+to be used with an efficiency of roughly 90%. Additionally, lithium ion batteries can lose
+energy due to leakage. A good estimate for the charging efficiency
+of a lithium ion battery is 90%. All of these factors combined lead to a total
+efficiency of around 75%. However, hydrogen fuel cell vehicles also
+have some of these same inefficiencies. Any kind of electrolysis requires DC current,
+and therefore, a rectifier will be required to convert the AC current from the grid to
+DC. The conversion efficiency here is 92%. We also need to convert the DC current produced
+by the fuel cell to AC to power the motor through an inverter with an efficiency of
+90%. Finally, the efficiency of the motor must
+be considered for both fuel cell and battery powered vehicles. Currently, this is around 90-95% for both
+of them, which is amazing when you consider that internal combustion engines running on
+petrol have an efficiency of only around 20-30%. If we add up all these inefficiencies and
+compare current generation batteries, to the best and worst case scenario of current gen
+hydrogen. We can see how they measure up. Even with the BEST case scenario. Not taking into account any transport due
+to onsite production, and assuming very high electrolysis efficiency of 80%, and assuming
+a HIGH fuel cell efficiency of 80%, hydrogen still comes out at less than half the efficiency. The worst case scenario is even worse off. So while you may be able to go further on
+one fill-up of hydrogen in your fuel cell vehicle over a battery powered electric vehicle,
+the cost that is needed to deliver that one fill up would be astronomically higher compared
+to charging batteries due to these energy losses and efficiencies. Based on our worst case scenario, we would
+expect the cost per kilometre to be about 3.5 times greater for hydrogen, but as we
+saw earlier it’s actual 8 times the price. So additional costs of production unrelated
+to efficiencies are obviously at play. The cost of construction of the facility is
+one and the profit the station will take from sale is another. For now, these inefficiencies and costs are
+driving the market, where most investment and research is going into battery powered
+electric vehicles. So which wins? Both are equally more green than internal
+combustion engines, assuming equal renewable resources are used to power them. Fuel cells allow for fast fill up times and
+long ranges; a big advantage. But battery powered vehicles might catch up
+in range by the time there are enough hydrogen stations to ever make fuel cell vehicles viable. While fuel cells are efficient relative to
+combustion engines, they are not as efficient as batteries. They may make more sense for operation disconnected
+from the grid or as we saw in our last video using hydrogen for planes actually could make
+a lot of sense, but once again that’s a topic for another video. For now, battery powered electric vehicles
+seem to be the sensible choice going forward in the quest for pollution free consumer transport. As battery-powered cars become more common,
+we’re also starting to see self-driving cars become the norm. If the job of driver is slowly automated away
+and consumers have a bunch of free time to read or watch online video, it may be wise
+to use that opportunity to start learning As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my twitter, facebook, discord server, subreddit and instagram pages are below. I’m about to do a Q&A on the subject matter
+of this video on my instagram stories, so if you are interested in having some questions
+answered the link for that is belo 

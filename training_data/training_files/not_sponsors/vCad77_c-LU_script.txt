@@ -1,0 +1,106 @@
+Around 12,000 years ago, a band of a couple
+hundred mammoths found themselves stranded on a remote island in the Arctic Ocean. This island -- now known as Wrangel Island
+-- was once connected to Siberia by land bridges and ice shelves. But as temperatures warmed and the ice began
+to melt, Wrangel - and the mammoths who had ventured there - became separated from the
+mainland. Now, this wasn't the first time that mammoths
+had become isolated on an island. In fact, we know that this happened at least
+a few times over the course of the Pleistocene epoch, which lasted from around 2.6 million
+years ago until around 12,000 years ago. In Southern California, for example, a population
+of mammoths on the Channel Islands shrank to under 2 meters tall, becoming pygmy mammoths. But the Wrangel Island mammoths were special. The members of this group would end up being
+the last mammoths that ever lived -- the final survivors of a once-widespread genus. And they survived until just 4000 years ago
+— around the same time that like the Great Pyramids of Giza were being built. The mainland populations seem to have died
+out around 6,000 years earlier. But on Wrangel Island, these mammoths made
+their last stand. And their final days - well, their last few
+thousand years - seemed to be … pretty weird. In 2015, researchers sequenced the DNA from
+a molar of a mammoth dating to just 4,300 years ago. And what they found was bizarre. The genome was full of strange mutations, and 
+deletions, and broken genes that weren't seen in the DNA of its mainland ancestors and cousins. In their final years, after having thrived
+in many parts of the world for millions of years, the very last mammoths that ever lived
+experienced what’s known as a mutational meltdown. Mammoths dominated the Pleistocene landscape
+in the northern reaches of Eurasia and North America, roaming the open grasslands that
+covered much of the Northern hemisphere. But, as the planet began to warm near the
+end of the Pleistocene, grassland and tundra was gradually replaced by forests and the
+mammoths’ habitat began to disappear. This habitat loss, probably along with increased
+pressure from hunting by humans, sent them into a steep decline. And by about 10,000 years ago, fossil evidence
+suggests that their mainland populations had vanished. But the few hundred survivors on Wrangel Island
+had found themselves an almost perfect refuge. The island was - and still is - regularly
+battered by intense arctic windstorms, which might not sound like a good thing, but was
+probably crucial for maintaining the mammoths’ habitat. Young trees can’t stand up to winds that
+strong, so the storms prevented forests from spreading and taking over the open tundra There weren’t any big predators on the island
+either, and people probably weren’t braving the arctic waters very much. They may not even have known that these mammoths
+existed. In fact, the oldest evidence of humans on
+Wrangel - a single campsite on the southern coast - is thought to date back to a few hundred
+years after the mammoths were gone. Yet, despite their secluded paradise, the
+mammoths did ultimately die out. And the DNA evidence suggests that’s because
+the population may have just been too small and too isolated to be viable for long When a small group becomes isolated for thousands
+of years in an environment that doesn’t have much room for population growth, a few
+really bad things start to happen to their genomes. One of the biggest issues is that genetic
+diversity drops. That’s driven by generations of breeding
+between distant relatives as well as by a random process called genetic drift. This is where chance events, like a small
+group becoming stranded on an island, change the frequency of gene variants in the gene
+pool, with some variation being lost entirely. Another factor is that in small populations,
+natural selection is way less effective at weeding out harmful mutations, which then
+build up over time. Sometimes they even become ‘fixed,’ which
+means that they become the only version of the gene left in the gene pool. Now, if a new variation is occasionally introduced
+by gene flow from a different population - like if new breeding adults join the group - it
+can be enough to provide what’s known as a genetic rescue. But if the population is completely isolated,
+or is the last surviving population of its species, there’s nowhere to import new genetic
+diversity from. And if the population is small enough, you
+can end up with a mutational meltdown. That’s when harmful mutations accumulate
+so quickly that the population starts to crash - and potentially spirals into extinction. After extracting and sequencing the DNA from
+the Wrangel mammoth, researchers compared its genome to that of another, much older
+mammoth. The older one was from the mainland, and had
+died about 45,000 years ago, when there were still plenty of mammoths across the northern
+hemisphere. And this comparison showed a clear signal of mutational
+meltdown. The Wrangel mammoth’s genome had about 20%
+less genetic variation, where different sequences of the same genes are inherited from each
+parent. It also had a lot of DNA deletions, with whole
+sequences just … missing. There were also many more harmful mutations
+in important genes - which changed the instructions for producing certain proteins, or cut them
+short, or just stopped them from being expressed at all. For example, mammoths had a gene called FOXQ1,
+which is involved in hair follicle development. But the island mammoths’ version of this
+gene had both a deletion and a frameshift mutation - one that changed how the DNA was
+read and translated into proteins. And these mutations would likely have made
+their fur shinier, more silky, and also translucent, which we know from studies of mice with similar
+mutations. Now this sounds nice and a little strange, who doesn't like a nice lush head of hair?  but it might also have made their fur a bit worse at shedding snow - which would’ve been a bad thing for staying warm in their cold, windy environment. In a more recent paper published in 2020,
+another group of scientists went a step further in their analysis of the mammoths’ crumbling
+genome. They actually physically resurrected a handful
+of the mutated genes, synthesizing the DNA and inserting the genes into animal cells
+in the lab, to try to understand their effects. They found that a mutation in one of the mammoths’
+genes could have caused reduced male fertility, and a mutation in another gene may have led
+to developmental defects. Another mutation in a third gene 
+even impaired the mammoth’s ability to smell a family of compounds called beta-ionones,
+which give many flowers their aroma. While it makes me personally sad to picture
+a mammoth that couldn’t smell flowers, that might not have come from the mutational meltdown. Odor receptor genes evolve quickly anyway,
+so this might’ve just been an adaptation to the plant life on the island. It’s also worth noting that all this info
+comes from the genome of a single Wrangel Island mammoth - the only one with remains
+preserved well enough for this analysis. That could change someday as we get better
+at extracting ancient DNA, or if we find other well-preserved remains. But for now, we only have this one genome
+to work with. So we don’t know if all of the strange and
+harmful genetic variants were shared by all of the 300-or-so members of the Island population. But considering the population’s small size
+and low genetic variation, this one mammoth could be fairly representative of the group
+as a whole. And unfortunately, the Wrangel Island mammoths
+may have been doomed from the start. It’s thought that the minimum viable population
+size - the number a population needs to prevent the gradual loss of genetic diversity - is
+at least 500. And the minimum viable population size needed
+to prevent the buildup of harmful mutations over time is around a thousand. Now these are estimates that can vary by species,
+but either way, the Wrangel Island population was almost certainly just too small. And Wrangel Island itself was only big enough
+to sustain a couple hundred mammoths So the group couldn’t really grow to
+meet or exceed the minimum viable population size. So, over time, the mutations just built up and
+got worse. Now we’ll never know if this mutational meltdown
+was the deciding factor in the Wrangel Island mammoths’ eventual disappearance about 4000
+years ago. But it would certainly have made them more
+vulnerable to extinction. Besides offering clues about what happened
+to a long-dead species, this kind of ancient DNA research can actually inform modern day
+conservation Today, there are all kinds of endangered species
+with small, isolated populations and low levels of genetic diversity For example, cheetahs, gorillas and sea otters, my personal favorite, all have fragmented populations thought to be at risk of falling below their minimum
+viable population sizes. Boosting genetic diversity, providing enough
+habitat for growth, minimizing inbreeding, connecting isolated populations
+— they’re all crucial for keeping endangered species from extinction. While it’s too late for the Wrangel Island
+mammoths, these ancient DNA studies mean their story isn’t forgotten - and in it, we can
+find lessons for the future. Now I know you wanna know more about those tiny
+mammoths I mentioned, so watch, “The Island of the Shrinking Mammoths” next! And mammoth thanks to this month’s Eontologists:
+Sean Dennis, Jake Hart, Annie & Eric Higgins, John Davison Ng, and Patrick Seifert! Become an Eonite at patreon.com/eons and you
+can get fun perks like submitting a joke for us to read, like this one from Derek Helling Why do billiards halls hire dinosaurs to work
+tournaments? Because they're veloci-rackers. Ugh I don't get paid enough to read these jokes And as always thanks for joining me in the
+Konstantin Haase studio. Subscribe at youtube.com/eons for more creature
+features. 

@@ -1,0 +1,30 @@
+There’s lots of physics going on in raindrops:
+cohesion, adhesion, air resistance – I mean, falling raindrops often look more like
+jellyfish than teardrops – but perhaps most fascinating is the physics that makes raindrops
+impossible. You might think making a raindrop is easy
+– just cool water vapor in the air past its condensation point, and it condenses into
+liquid droplets, right? But there’s a big problem standing, almost
+literally, in the way: the surface of the droplets themselves. Liquids hate surfaces – they're bound by
+the laws of intermolecular attraction to pull together in an attempt to minimize the size
+of their surfaces. That’s why small water droplets are spherical,
+why you can put a huge amount of water on a penny, and why bubbles form the crazy shapes
+they do. The technical way of saying this is that surfaces
+require more free energy to make than volumes. For example, when you’re condensing water
+in saturated air from a gas to a liquid, every cubic centimeter VOLUME of water you make
+releases energy just from its change of volume and pressure – roughly enough to lift an
+apple a meter into the air. But to make each square centimeter of the
+SURFACE of that water requires an INPUT of energy – not much, but it's equivalent to
+lifting a fortune cookie fortune 1 centimeter. For large amounts of water, the energy you
+get from the volume, which is proportional to the radius cubed, is more than enough to
+make up for the energy cost due to the surface area, which is proportional to the radius
+squared. Cubing tends to make things bigger than squaring. BUT for really small radii, the opposite is
+true – cubing a small number makes it smaller than squaring it. This unavoidable mathematical truth means
+that if a water droplet is below a certain size, then making it bigger requires more
+surface area energy than is released from volume energy, meaning it TAKES energy for
+the droplet to grow, so it doesn’t – it shrinks. For pure cubic and quadratic functions, this
+equivalence point happens at 2/3 – that’s when x^3 starts growing faster than x^2, but
+for water droplets it’s somewhere around a few million molecules; way too many to randomly
+clump together in less than the age of the universe! And thus, raindrops are impossible for the
+precise mathematical fact that x squared grows faster than x cubed – for small numbers. Ok, so obviously raindrops exist, but if you
+want to know HOW they sidestep this battle between quadratics and cubics, you’ll have
+to go watch MinuteEarth’s video about how raindrops form. 

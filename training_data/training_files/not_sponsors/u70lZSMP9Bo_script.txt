@@ -1,0 +1,22 @@
+The Sun and the Moon are about the same size
+when you look at them in the sky, though that’s just thanks to the coincidence that the Sun
+is about 400 times farther away than the Moon and also about 400 times bigger.
+Another fun coincidence is that the radius of the Sun is about twice the distance to the moon, so
+if you put the sun where the Earth is, the Moon would be just over halfway to the surface
+of the Sun. The Sun is also so big that it takes light
+over 4 and a half seconds to travel across its face – though I don't know whether that
+says more about how big the Sun is, or how slow light is, or both. What about the scale of other solar system
+objects? Well, here are Pluto and Charon compared to the Earth and the Moon. And Jupiter; which, as a rough rule of thumb,
+has about 10 times the radius of the earth and one tenth the radius of the Sun. Saturn is slightly smaller than Jupiter, though
+its rings go out twice as far – still only a third of the way to the Moon, though. Mars’ moons are very close and very small,
+which gives rise to another moon-sized coincidence: Phobos is almost the same size in the martian
+sky as the Sun, and can cause annular eclipses just like our Moon here on Earth. If two objects have the same apparent size
+in the sky, like the Moon and the Sun, it means that their radii divided by their distances
+are about the same value. This also implies that the strengths of the objects’ tidal
+forces, which are roughly proportional to the radius over the distance cubed, will also
+be about the same. In fact, ANY two objects of roughly the same density that look about
+the same size in the sky will have tidal forces of similar strengths. So while the apparent equal size of the moon
+and sun in our sky is a coincidence, the fact that they have similar apparent sizes AND
+roughly similar effects on the tides is a consequence - 
+of geometry
+and physics. 

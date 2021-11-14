@@ -1,0 +1,123 @@
+This Filmmaker IQ course is sponsored by HP
+Z Workstations: Limitless Potential to let you innovate without boundaries. Hi John Hess from FilmmakerIQ.com and today we’re going to take a deep look at rendering Computer Generated Imagery or CGI and trace the improvements and techniques that bring us photorealistic imagery. The fundamental question at the heart of computergraphics is this: How do we get what is essentially a super powerful adding machine - a computer - to generate a photorealistic rendering? The answer to that question is math! This
+means Geometry, 3d coordinates, vector math and the matrix. Not quite that matrix - but
+matrices. Now before you run off thinking this is a
+graduate math course, we’re not going to get into the any of math in a meaningful way - this stuff is too far from even what I’m comfortable with. Just remember that every procedure we are going to talk about in layman’s terms has to be not only described mathematically using coordinates, vectors and matrices, but also in a computer language that the machines can understand. So this art is a blend of mathematics and computer science and programing. Let’s get started with the most basic approach to creating 3d graphics. Say we have some empty 3d space and we have three points in that space which defines a triangle which is a very useful and simple
+polygon for CGI. If we’re looking straight at this triangle
+in 2D space, drawing this triangle on a computer screen is fairly straightforward. But we want 3D perspective. In the real world a paper triangle would scatter light rays in all direction. But for a computer to calculate all those infinite scattered
+light rays would be simply out of the question - especially in the 1960s when computer scientists
+first began to tackle this question. The thing is we really don’t care about
+ALL the light rays, we only care about the ones that end up in your eye or camera. So let’s add a camera to our 3d space - a
+point of perspective. And in front of that point of perspective let’s put a screen
+grid where each box is one pixel of our rendered image. Now instead of drawing an infinite number
+of light rays from each vertex of the triangle - let’s only draw the one ray that intersects
+with our camera’s perspective point. Where these rays intersect our screen will
+be the boundaries for our view of this triangle - we’ll mark off a box which we know contain
+our triangle. Because we know there’s only three points we can easily go through each
+of the pixels in our box and ask the computer does that pixel contain a part of the projected
+triangle. If it is, we’ll shade that pixel in based on the materials and shading properties applied to that object. If not, we’ll leave it blank And with that - our triangle which existed
+in a 3D object space is now in Two Dimensional Rasterized image space. This projection rasterization
+method was the main focus of research by computer graphic scientists of the 1970s and is still
+the part of the graphics pipeline of GPUs that run OpenGL and DirectX for modern gaming - although obviously it’s gotten much more sophisticated since then. Ray casting as alternative process to rasterization
+but it was originally considered too cumbersome to employ when it was first presented in a
+paper by Arthur Appel working for IBM in 1968. Let’s go back to our 3d object space but
+this time, we’ll add a second triangle. Where rasterization is object centric - meaning
+we draw rays from the object the camera, Ray casting is image centric - If we’re only
+interested in the rays that actually make into the camera - why not trace those rays
+back out of the camera. This time we’ll start start with our imaginary
+camera and draw one ray through each of the pixels in our image grid. Now we’ll check
+each ray against every single object in our object space to look for intersections. If
+a ray runs into more than one object -we’ll only take closest intersection. This process
+right off the bat solves a potential visibility problem that plagued the rasterization technique. Computers are really dumb if you just rasterized two overlapping objects whatever was drawn last would show up in front even if it’s suppose to be in the back. The solution for
+rasterization was a technique call Z buffer which created a depth map and then checked everything against that depth map. But Ray Casting automatically solves the visibility
+problem. And the math for figuring out intersections between rays and polygons is actually pretty simple in a lot of cases especially for triangles. The problem - the very big problem - was you had to check every ray against every object. Say we had a 1000x1000 pixel image that’s
+a megapixel and a million rays to check and if we have a thouse polygons in the scene,
+which really is very low, then we would have to check those million rays against each of
+those 1,000 polygons. Now there are strategies for cutting down the workload but still there’s
+a lot of calculations that need to be made. And for this reason ray casting was ignored
+for most of the 1970s. But there were three big hurdles that nobody
+seemed to be able to solve really well with rasterization methods: How to simulate really good shadows, reflections and refraction. The solution would be to come back to raycasting
+and add new twist on this old technique, a twist that would require even MORE computational
+power. In 1980 an engineer working at Bell Laboratories
+named Turner Whitted released a paper at SIGGRAPH entitled “An Improved Illumination Model
+for Shaded Display” which single handed solved the shadow, reflection and refraction
+problems. Whitted’s technique, called recursive ray
+tracing starts with a raycast from the camera as before. These are called primary rays.
+But when the primary ray makes contact with a surface, Whitted has us drawing secondary
+rays. To solve the shadow issue, we draw a shadow
+ray by drawing a secondary ray in the direction of the lights in the object space. If we find
+that there are no objects between the light and the surface - then we know that the light
+is directly illuminating the surface. So when we go to color that pixel, we will include
+specular and highlight values created by the light. If we find there is an object that
+is between the light and the surface then we know that surface is in shadow and we shade
+that pixel using only the ambient light value. Now if that surface is reflective, we draw
+a reflection ray using the angle of incidence and see where this reflection ray lands.The
+information from this reflection ray will change how we shade this pixel. If the reflection
+ray lands on an object - we again have to draw new secondary rays from this new intersection
+- so and so on - which is why this is called recursive ray tracing. A similar process is needed if the object
+is transparent. Instead using the angle of incidence we use the index of refraction to
+determine the angle new refractive rays that we have to draw. So as you can see, the solution to making
+ray casting better was then to draw and analyze a whole lot more rays. This was one of Turner Whitted’s very first
+ray traced images from his paper in 1980. In this image we see shadows, reflections
+and refractions. This 512x512 image took 74 minutes to render. Whitted’s paper signaled a fundamental shift in computer graphics research. We now had at least the base for photorealistic rendering in place. Unlike rasterization, Recursive Ray Tracing is actually modeling the behavior of real light rays as they bounce around the real world but it wasn’t perfect. Intensive study began into the field and much of the processing power in computer science laboratories began running ray tracing algorithms
+- The next step to the photorealistic puzzle was to go all in and really simulate the laws
+of light. Even though Raytracing produced very realistic
+shadows, reflections and refractions, there are still a major stumbling blocks before
+we can call an image truly photorealistic. Issues like motion blur and depth field could
+be solved relatively easily but the the most challenging simulation and perhaps the most
+important one is something called indirect illumination Direct illumination is when the light directly
+hits and is reflected by an object. But in the real world light doesn’t only come from
+a light source - light bounces and scatters from practically everything. If you stand
+next to a red wall you will receive some bounced red light. That’s why filmmakers can use
+bounce cards and reflectors to add light to a shot. But a real basic ray tracing algorithm
+doesn’t consider all the sources of bounced light - it really just focuses on the main
+source of light - direct illumination. In 1986 James Kajiya published a paper called
+“The Rendering Equation”. Building on the basics of ray tracing, we now have a mathematical
+equation based on the law of conservation of energy and Maxwell’s equations, to properly
+simulate the light that should be perceived at every pixel of our image. This is physics
+in something that a computer can work with. The reflected light we perceive from any given
+point sum of light fro all directions multiplied by the surface scattering and Bidirectional
+reflectance distribution function. Even though this rendering equation had some limitations
+like it didn’t handle transmission and subsurface scattering well it’s a much better representation
+of reality - but this integral here is massively difficult to calculate. So a number of tactics were used to try to
+find a shortcut to the calculations. The earliest attempts were radiosity which tried to render
+basic raytracing images from a number of different angles and average them all together but this
+wasn’t really great for anything more than previewing. A mathematical process called
+Monte Carlo Integration can be used which is a probabilistic method of approximation
+where you solve the integral by averaging a large number of random values. Monte Carlo
+is part of tactics like path tracing, bidirectional ray tracing, photon mapping, Metropolis light
+transport and many many more which we won’t go into specifics because that is way above
+my scope. But the cost of trying to get closer and closer
+to simulating reality of light is computational power. Even though Pixar’s first full length
+fully CGI Film: Toy Story came out in 1995 it wasn’t until a decade later with Cars
+released in 2005 when Pixar fully implemented ray tracing in their rendering Pipeline - before
+they used scanline rasterization with some clever tricks. That’s how complicated the
+process can get. Still what took Turner Whitted 74 minutes
+to render in 1980 can be done in a 1/30th of a second with today’s real time Ray Tracing
+thanks in part to Moore’s Law - an observation that the number of transistors in an integrated
+circuit doubles every two years. However to balance out Moore’s Law there’s
+something called Blinn’s Law which states: As technology advances, rendering time remains
+constant. The more our machines are capable of, the more we throw at them. At heart - all film is a special effect. From
+the earliest silent shorts to today’s digital creations, it’s just a bunch of 2d images
+flashed in quick succession to trick the brain into seeing motion. But filmmakers, just like magicians, have
+been hard at work making that magic trick better. Introducing cutting, matte paintings,
+compositing, miniatures, puppets and now photorealistic Computer Generated imagery. Unfortunately we’ve gotten so used to the
+magic trick that these amazing models of optics and light physics needed to create stunning
+CGI is now considered lazy filmmaking compared to old fashioned techniques. Don’t get me
+wrong, I love the old filmmaking techniques but how can you look at the monumental task
+of getting a calculator to produce an image and not be amazed by all mathematics, engineering
+and computer science that has been accomplished in less than half a century. But more importantly, these tools enable all
+of us to do what was once only in the realm of a very few well equipped and well funded
+individuals. CGI is a tool, an amazing tool . Every other visual artform involves the
+manipulation of some natural phenomenon but CGI is born completely from the ground up
+out of our human imagination. We said, here’s how we want it to work and we made it. How
+can you not be amazed by the potential of human ingenuity? And when we employ that power in movies to
+enhance and support the story, it can open up whole new worlds of possibility for the
+narrative… We need to change the way we talk about CGI, it’s just a tool like a
+paintbrush or a man in a rubber suit. It can be done well or it can be done poorly. CGI
+can help a filmmaker answer the question of how to get the shot but it can never shed
+light on why. That is ultimately our job as storytellers and that fact hasn’t changed
+over the years whether it’s a completely CGI shot or a completely practical effect.
+All that matters is what’s on the screen - how the magic trick is done is really nothing
+more than a piece a trivia... Go out there and make something great. I’m John Hess
+and I’ll see you at FilmmakerIQ.com 

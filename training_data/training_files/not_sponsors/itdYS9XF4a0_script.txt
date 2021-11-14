@@ -1,0 +1,158 @@
+On March 27th 2019, Indian Prime Minister
+Narendra Modi announced to the world that India had conducted its first successful anti-satellite
+test. Launching a three-stage missile from Abdul
+Kalam island on the north-eastern coast of India, with a trajectory taking it over the
+Bay of Bengal. A trajectory that would eventually lead to
+it intercepting India’s military satellite, Microsat-R, 283 kilometres overhead. The seven hundred and forty-kilogram satellite
+met its end when the kinetic kill vehicle ploughed through it. Shattering it into hundreds of pieces which
+proceeded to spread in earth’s orbit. The test was universally condemned. A completely unnecessary political posturing
+move that added significantly to Earth’s growing space debris problem. This isn’t some far off distant problem
+that we need to worry about, and the probability of collisions occurring is not only continually
+rising, but there have already been several collision events that have damaged the international
+space station and other high-value satellites. We can’t blame the current state of affairs
+entirely on anti-satellite tests like this. Every single time we launch into space we
+generate some sort of unwanted waste. Solid-fuel rockets deposit aluminium-oxide
+particles. Explosive bolts fragment into pieces. Even chips of paint can cause issues. In 1983 the Challenger space shuttle was struck
+by a 0.2 mm chip of paint that managed to gouge this pit out of one of its windows. In fact, in the first 67 Space Shuttle launches
+177 impacts were found in the windows. 45 of which were large enough to warrant a
+replacement window. Post-mission analysis determined all of these
+impacts we caused by space debris, with 44% being caused by aluminium alloys, 37% by paint
+chips, 12% by steel, 5% by copper and 2% by titanium. [11] At fifty thousand dollars a pop, this did
+not come cheap. Based on these numbers, the Space Shuttle
+had 67% chance of impact causing significant damage to the windows during their 10 day
+missions, and these probabilities have only risen over time. In 2007 the likelihood of a collision between
+any satellite in low earth orbit and a piece of debris over 1 centimeter in size was 17-20%
+in a single year. [2] That statistic increased to 25-33% later
+that year when China tested their own anti-satellite missile. By 2010 the chance of a 1-centimetre piece
+of debris striking a satellite had increased to 50% a year, after two full-sized satellites
+Iridium 33, a US communications satellite, and Kosmos 2251, a retired Russian communications
+satellite, collided at 42,000 kilometres per hour. Obliterating both satellites and producing
+over 1000 fragments over 10 centimetres in size, and many more too small to be tracked. So the chances of collision are not small
+by any measure, they are common and it’s only a matter of time before another serious
+incident like this 2009 collision occurs again, so it is prudent that we design satellites
+to be capable of not only withstanding small impacts but be capable of dodging larger ones. The ISS, for example, is designed to withstand
+objects up to 1 centimetre in size [3], and can dodge larger trackable objects 10 centimetres
+wide. The biggest danger to the occupants of the
+ISS are objects in between these sizes. That are untrackable but large enough to cause
+serious damage to the international space station. [3] When the ISS was being planned, NASA laid
+out a basic risk management policy. That the probability of any critical component
+of the ISS being penetrated by space debris would be less than 19% over 10 years. [4][5] A critical component is characterized
+by anything that could potentially lead to a loss of life if it is damaged, and designers
+are careful to correctly categorise each component on the ISS to ensure this is the case, which
+often involves performing hypervelocity impact test here on earth. This resulted in things like batteries and
+ammonia accumulators being categorized as non-critical when they didn’t explode during
+tests, and so received less shielding that other critical components. Space debris is just a fact of everyday life
+on the ISS that astronauts need to be aware of. To get a better sense of what it’s like
+living with this. I spoke with former ISS commander Chris Hadfield
+on the phone. When you are onboard a spaceship you have
+a constant undercurrent awareness of the ever prevalent risk of something hitting your spaceship
+and causing a leak. Sort of like when you are driving a car, you
+always know at some point you could have some kind of accident. Yo u know, It’s not heavy on your mind. You know it happens. You know the odds are that eventually it will
+happen for sure, and you just have to find a way to live with it. And so the way we live with it is to understand
+the risk as accurately as we can. We know the statistics. We know the relatively risk of man made debris
+versus naturally occurring debris, and we know how the space station is designed to
+resist it with the multilayer shielding, and then we also have procedures. So let’s talk about that shielding first. Shielding the ISS with heavy plates, as tanks
+do here on earth, is not an option. This is the damage a 13-millimetre spherical
+bullet will do to a 18-centimetre aluminium plate when travelling at 7 kilometres per
+second. It prevented penetration and only just managed
+to prevent a large chunk of spall to break off from the interior surface. [6] At 13 centimetres a 1 metre squared aluminium
+plate like this would weigh about 338 kilograms. When the ISS started construction in 1998
+the per kilo cost to launch to the International Space Stations orbit using the Space Shuttle
+was about 93,400 dollars. [7] Placing a 1 metre squared shield like
+this at a cost of 31.5 million dollars. This is an extremely inefficient use of material,
+and the ISS uses something much more elegant called a Whipple shield. The Whipple shield uses the debris’ own
+velocity to stop it. At 4 kilometres per second and higher, the
+energies involved are so immense that the projectile itself breaks apart and vaporises
+on impact. [8] Whipple shields take advantage of this
+by creating a shield that is composed of several thin sheets of armour separated by space. So when a meteoroid or debris does strike
+it, it first breaks up into thousands of smaller superheated fragments. Thereby spreading the energy of the impact
+over a larger area for the following shield layer. The European Space Agency conducted tests
+of their kevlar Whipple shields which protect their ATV vehicle. They did this by shooting a 7.5 mm diameter
+aluminium bullet at 7 kilometres per second, which tore straight through the kevlar shield,
+but left only a scorch mark on the 3-millimetre aluminium wall behind it. [9] These kind of impacts occur fairly frequently
+and as Chris Hadfield told me during the call: If you just sit quietly by the wall of the
+space station and wait a while, you can hear things hit your ship. And that’s kind of an interesting thing. It doesn’t happen too often and sometimes
+all you are hearing is the vehicle cooling and heating in the sun, so you are hearing
+the natural popping of metal expanding or contracting, but occasionally you hear just
+like the sound of a small bullet or high speed stone banging into the thin aluminum hull
+of your ship So astronauts are occasionally reminded of
+the space debris problem, and have to be careful not to cut their suits while on space walks
+on sharp impact edges. While this is a highly effective form of shielding
+that minimises the weight of shielding needed, it is only effective for smaller debris. Larger particles would tear right through
+this shield, and for those circumstances, the ISS and other satellites literally have
+to dodge the incoming shrapnel. Ground-based radar like the Haystack Radar
+are the main source of spatial data we have on space debris. It is an X-band radar system that simple stares
+at selected points in space and waits for debris to pass through its radar beam. [12] This gives us size, speed and direction
+information, which is fed into a database that allows NASA and other space agencies
+around the world to predict potential collisions. When a collision is predicted maneuvres can
+be planned to allow the international space station to dodge it, but these maneuvres come
+with a cost, and mission control needs to assess if the risk is worth that cost. They start by drawing an imaginary box around
+the international space station. 50 kilometres squared and point seven five
+kilometres deep. This acts as an exclusion zone and any tracked
+debris that passes through it will send an alert to mission control. From there careful risk analysis begins. If there is a one in ten thousand to one in
+one hundred thousand chance of collision the ISS receives a yellow warning. [14]Which means flight controllers must perform
+avoidance maneuvres if they do not interfere with mission objectives. This can be as simple as interfering with
+microgravity experiments to forcing the Soyuz to miss a launch window. If there is a greater than one in ten thousand
+risk [14], then a red warning is received and the international space station must take
+action. Control momentum gyros can be used to alter
+the stations orientation, while thrusters on the Zvezda module or on docked vehicles
+can be used to provide the necessary acceleration. Boosting to a higher orbit requires expensive
+propellant, but the ISS already needs to perform reboosts every few months to maintain its
+orbit, so these dodging maneuvers will just alter the scheduling of these already needed
+boost burns. These exclusion zones exist for all satellites
+in NASA’s database and on March 29th 2012, Julie McEnery (hup the Irish) the project
+scientist for the Fermi Gamma-Ray Space Telescope received an automated email alert. Informing her of a predicted incursion between
+Fermi and Cosmos 1805, a retired Russian spy satellite, where the two would pass within
+700 feet of each other. The decision on what to do with this information
+was left to her, and the lessons learned from the previous satellite collision were not
+lost on her. In order to ensure they did not collide Fermi
+would need to rotate away from its view of the sky to point its thrusters in the direction
+of travel. It then performed a 1-second burn that would
+separate the two satellites crossing temporally.[15] These thrusters had not been tested before,
+as they were designed to take the satellite out of orbit at the end of its life, and so
+there was significant anxiety within the team that they could malfunction and end Fermi’s
+mission prematurely. Thankfully that did not happen, and Fermi
+continues to give us valuable information about the Universe to this day. These issues are only going to grow as human
+activities in space grows, and it’s time we began thinking more seriously about how
+we manage our cosmic neighbourhood. Mainstream media tends to incredibly alarmist
+about this issue. “So all of that is debris that you are looking
+at there, so your concern for debris is well placed. We maybe putting so much debris is space that
+we will close ourselves off from space travel because of the dangers it would take to get
+through our own garbage heap. Space debris, obviously does not look like
+this, the vast majority of it is too small to see. Occasionally we have massive debris, like
+the upper stage of Apollo 12s Saturn V rocket, which is still in orbit and expected to return
+to earth in the next couple of decades, but this material is easy to dodge. After all, space is a big place. We are not going to be trapped on the planet,
+we are not going to lose all technology related to satellites. Even now, just a few weeks after India’s
+anti-satellite test, a decent amount of the debris will have drifted back to earth. We can take Operation Burnt Frost, the US’s
+own anti-satellite test in 2008, as proof of this. There were multiple similarities between this
+and India’s own test, with similar orbits and altitudes. Data from the Combined Space Operations Centre
+shows that the majority of the debris from this test had fallen back to earth within
+2 months, while other pieces that managed to be ejected into higher orbits eventually
+return to earth about 2 years later [1] This was just the larger trackable debris. Smaller debris decays faster as it has a larger
+area to mass ratio, making them more sensitive to atmospheric drag. Even in orbit, molecules do exist that collide
+with satellites and debris, causing them to lose slow down and lose altitude. This isn’t a reason to ignore the problem. If the problem continues to grow as our space
+activities grow, the potential loss in money from damaging collisions and the potential
+chain reaction this could cause in a busy earth orbit is going to motivate efforts to
+fix the problem. It’s not just the cost of the satellite
+that will motivate efforts. Entire economies have been built upon the
+services they provide. International treaties dictating space operations
+need to be updated to mitigate the issue, ensuring any satellite placed in Earth orbit
+will be required to be capable of bringing itself out of orbit and be capable of dodging
+debris when needed. As we saw earlier with Fermi this is a feature
+of some satellites, but not all. Some satellites simply become giant bullets
+when they retire. This cannot be allowed to continue. This alone will not be enough to ensure space
+debris is kept to a reasonable level, and active clearance may be needed if trends continue. Launching more objects into orbit to solve
+the problem seems to me to be a very expensive and ineffective way to deal with the problem. Someone will have to fund it, which will be
+difficult as most companies want to add things to space not remove them. Not only that, but it will also add to the
+space debris problem with the natural bi-products of launches, while only being capable of taking
+down large objects. A more promising technology will involve using
+high power lasers that will be powerful enough to ablate material from the object, which
+will provide thrust to slow its orbit and thus increase its rate of decay. There are issues with a technology like this,
+as it could be used as an anti-satellite weapon which would not sit well with other space
+faring nations. To overcome that it would need to be a joint
+venture between all space faring nations. [17] Just as the ISS became an international
+effort to unite mankind, cleaning up our cosmic neighbourhood can also become a uniting problem. International cooperation and rivalries have
+long been the driving force for advancement in the field of aerospace. World War 1 and 2 advanced aviation at a unprecedented
+rate, and it’s conclusion led to an international race to the moon. a month. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my instagram, twitter, discord server and subreddit are below. 

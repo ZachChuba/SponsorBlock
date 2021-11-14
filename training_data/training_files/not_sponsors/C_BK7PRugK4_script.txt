@@ -1,0 +1,220 @@
+The aviation sector is on the brink of a crisis. 
+Its future is in limbo as the world moves towards   decarbonisation. Planes are currently 
+only responsible for 2-3% of the world’s   carbon dioxide emissions, but that’s 
+expected to rise to 25% by 2050. [1] Most major polluters have clear technology 
+pathways to a cleaner future. The automotive   industry has batteries and electric motors. 
+The shipping industry has a range of potential   alternative clean fuels to choose from. Our 
+electrical grids are rapidly investing in solar   and wind, and future nuclear energy projects 
+are being researched intensively. There is   still plenty of work to do, but the path ahead 
+for these sectors has been surveyed and marked. However, the aviation industry has no 
+clear way forward for replacing kerosene,   and if the aviation sector can’t find answers 
+to this problem, it’s projected that with the   continued growth of passenger numbers and the 
+expected decarbonisation across other industries,   that it could represent as much as 25% of 
+total world wide emissions by 2050. [1] To understand this problem, and the potential 
+technologies we could see in the future,   we first need to understand the 
+current state of aviation fuel. Today, nearly all jet engines use kerosene,   but internal combustion turbine engines are not 
+actually that picky about the fuel they consume.   Gas powered turbines power grids all over 
+the world [2] , and many of them are being   converted to run on bioethanol [3].Early jet 
+engines were powered by mostly gasoline. If it   burns hot and can be pumped into a combustion 
+chamber, chances are it can drive a turbine. But, it’s not quite so simple for a jet 
+engine that flies and carries humans. There are two main types of jet 
+fuel used for commercial aviation. Jet A and Jet A-1. Jet A is primarily 
+used in the United States and Jet A-1   is used in the rest of the world. [4] 
+ 
+So is this just another case of the United   States insisting on being different because they 
+are too stubborn to admit the rest of the world   may just have a better system? In this case, no. The primary difference between 
+the two is their freezing point,   with Jet A-1 having a lower freezing 
+point of -47 degrees versus Jet A at -40. For domestic flights within the US, Jet 
+A’s freezing point is just fine, but   for colder climates, or colder international 
+routes like those that fly over the arctic,   a lower freezing point is needed to 
+prevent the fuel from turning to wax. So,   a lower freezing point is 
+desirable, but it comes at a price. The United States uses Jet A because 
+it is cheaper. To understand why,   we need to understand how crude oil is refined. Crude oil is essentially just a 
+blend of many different hydrocarbons,   all with different carbon chain lengths. 
+[5] We have short chain gas molecules like   methane and butane, with 1-4 carbon atoms in each 
+chain. Then we have longer gasoline molecules,   with chain lengths between 5 and 10. While, 
+kerosene molecules range from around 10 to 16. We can separate each fuel type from crude oil 
+thanks to these chain lengths impacting the   boiling point of each component, which allows us 
+to separate them with fractional distillation. We simply heat the crude oil up and 
+pump it into a distillation tower.   The longer chain hydrocarbons liquify 
+lower in the distillation tower,   thanks to their lower boiling point, and 
+when they do so, they are tapped off. The shorter chain molecules will remain 
+gaseous and continue rising through the tower,   but the tower gets gradually colder as it rises. 
+Soon Kerosene will turn to liquid and be removed,   then gasoline, and finally the lightest methane 
+and butane gases rise right to the very top. So how does this explain Jet A-1’s lower freezing 
+point? Freezing points and boiling points are   generally linked, so Jet A-1 can lower its 
+freezing point by excluding hydrocarbons   with longer chains, and therefore excludes 
+lower boiling point molecules from the mix. Jet A, in comparison, is less 
+picky about the freezing point   and can take a larger cut of this distillate. 
+Meaning, there is a broader percentage of   the crude oil that can be included in 
+Jet A, making it cheaper than Jet A-1. So, it makes perfect sense for a 
+country like the United States,   that doesn’t need to worry too 
+much about low temperatures,   to manufacture a cheaper wider cut fuel 
+for their domestic airline industry. So, these are our first two properties we need 
+to consider when choosing a future aviation fuel:   freezing point and cost. The freezing point issue 
+rules out longer chain molecules like diesel.   Diesel powered vehicles in Canada 
+and Alaska actually have to cut their   fuel with kerosene to prevent the fuel 
+from freezing in the winter months. [6] This is the same reason a different jet fuel, Jet 
+B, is used in parts of Canada and Alaska. It’s   also known as wide-cut fuel, which gets its name 
+because it takes a much larger cut of the crude   oil distillate, with a mix of 30% kerosene and 70% 
+gasoline, giving it an even lower freezing point   of -60. So if this wide-cut fuel can be used 
+in engines, why isn’t it used in all engines? Gasoline, thanks to it’s 
+shorter carbon chain lengths,   is too volatile for general use in aviation. 
+It’s flash point is much lower than kerosene.   Flash point is the lowest temperature vapors can 
+form from a liquid to create an ignitable mixture   in air. So low flash points make unintended 
+explosions and fires much more likely,   not something airports and planes are particularly 
+fond of. The lower temperature of vaporization can   also cause problems with vapor locks in plumbing. 
+Where gas bubbles can form and cause blockages.   This becomes an even larger issue for jet 
+engines, as boiling points lower as pressures   decrease at altitude. So gasoline is not a 
+desirable jet fuel for general applications. The US Navy and US Airforce even use two 
+different Kerosene grades for a similar   reason. The U.S. Air Force uses JP-8 [1], which 
+is similar to Jet A-1, but with the addition of   corrosion inhibitors and anti-icing additives 
+that are not required for the Jet A-1 standard. While the US Navy uses JP-5. The primary 
+difference between the NAVY and Air Force   fuels is that the navy fuel has a higher 
+flash point. 60 degrees versus 38 degrees.   This makes it much safer to handle during 
+refueling operations on aircraft carriers,   and makes explosions much less likely in the event 
+of an attack. This was a constant worry during WW2   with the predominantly gasoline powered 
+piston engines. Fuel fires were not a   rare occurrence during the war. [7] This is the 
+third property we need to consider: flash points. But we aren’t done yet. We haven’t even 
+mentioned the most obvious. Energy content. The primary function of aviation turbine fuel 
+is to power the aircraft. This is achieved by   igniting the fuel, which releases 
+heat, which raises the pressure,   which causes air flow. To fulfill this role 
+most effectively we want high energy content. We can measure the energy content of 
+a fuel pretty easily. It’s simply the   heat released when a known quantity of the 
+fuel is burned under specific conditions. There are two “quantity” measurements 
+however. Energy per unit mass,   measured in megajoules per kilogram, and energy 
+per unit volume, measured in megajoules per liter. In general a dense fuel with a high 
+volumetric energy content is desired,   especially for military aircraft that always take 
+off with their fuel tanks filled to the brim,   so volumetric energy density is a more important 
+metric. Commercial aircraft only fill their tanks   with enough fuel to reach their destination, 
+with a little extra in case of emergency,   but volumetric energy density is 
+still generally a better measurement. Let’s add this to our shopping list, and 
+start looking at potential alternative fuels.   First, let’s look at the numbers for our 4 
+main identified properties with a typical   kerosene jet fuel. Cost, freezing point, 
+flash point and volumetric energy density.   These will be our measuring 
+sticks for our alternative fuels. The first stop on our proverbial 
+shopping trip is the biofuel aisle.   We have a tonne of options to choose from here. In terms of production volumes, 
+bioethanol and biodiesel   are currently the most available biofuels. Ethanol is a short chain alcohol. Similar to 
+the short chain hydrocarbons, it’s freezing   and flash point is quite low, minus 115 degrees 
+celsius and 13 degrees respectively. [8] The   low freezing point is useful, but the low flash 
+point is a problem. This makes ethanol volatile,   which makes it undesirable as a jet fuel. 
+It’s volumetric energy density is about 61%   of kerosene, meaning range would be reduced 
+if fuel tanks remained the same size. [9] Biodiesel suffers from the opposite problem to 
+bioethanol because it’s carbon chain lengths   are much longer. As a result it’s flash point is 
+very high, between 98 and 150 degrees depending on   the feedstock used, and as expected comes with 
+a very high freezing point of about 1 degrees.   This fuel would turn to wax in 
+the fuel tanks. It’s unusable. However, we can further process these biofuels to 
+create fuels that are so similar to kerosene that   they can even be used in current generation 
+planes with very little modification. [10] Airbus began testing a fuel composed entirely 
+of biofuel this year in an A350 powered by Rolls   Royce XWB engines. [11] Testing the plane's 
+performance and emissions using the fuel,   which was manufactured be Neste. A company 
+that manufactures biofuels from palm oil   and waste oils, like cooking oil. Results 
+of this test have not yet been published,   but NASA has already published data from their 
+own tests with a 50-50 fuel blend or traditional   jet fuel and a similar plant oil derived biofuel. 
+[12] Their tests showed, with only a 50-50 blend,   that particulate emissions in the contrail 
+were reduced by up to 70%. That’s important,   because those particulates have a much 
+larger impact on earth’s atmosphere   than the carbon emissions. This is 
+positive news, but these biofuels   are a long way from being cost effective or 
+even environmentally friendly to manufacture. The main challenges facing biofuels are scaling 
+the feedstocks in an environmentally friendly   way and cost. Waste oil products as feedstocks are 
+fantastic and every country should be working on   ways to collect waste products to feed this 
+growing industry, but sourcing oil from the   palm oil industry is obviously problematic, as 
+the palm oil industry is driving the destruction   of the Borneo rainforest. Sourcing enough 
+feedstocks to completely replace fossil fuels   in the aviation industry is going to be a massive 
+problem to solve, and right now we have no answer. Cost is also a huge issue. Norway announced a 0.5%   biofuel mandate for the 
+aviation sector in 2019. [13] This is a tiny fraction of the total fuel used, 
+but Scandavian Airlines has said that this 0.5%   mandate will add an additional 3.3 million dollars 
+in fuel costs a year. Making it 100%, assuming   prices wouldn’t rise with the extra demand, would 
+cost 660 million dollars extra a year. That would   Completely wipe out Scandinavian Airlines' 
+2019 profit of 84 million dollars. [14] So,   these biofuels currently fail the cost metric, 
+despite being suitable alternatives to kerosene.  Even if we ignore the questionable 
+environmental benefit of the feedstocks,   the real issue here is the difficulty 
+in scaling up feedstocks to meet demand.  So, are there any other alternatives?  Hydrogen is also being explored 
+as a potential future fuel. Airbus has published several concept 
+aircraft that could utilize hydrogen,   because, unlike biofuels, hydrogen cannot be 
+used in existing planes. This would require a   complete overhaul of airlines plane inventories 
+and would cost trillions over several years.  Hydrogen’s main advantage is that’s feedstock 
+is just water, and we are surrounded by water.  However, hydrogen currently needs very 
+pure fresh water to prevent corrosion   to the electrodes that split the water 
+apart during electrolysis. Researchers are   working on ways to extend the life of these 
+electrodes while preventing the salt ions,   like chloride, that are found in seawater, 
+from breaking down the electrodes. [15] The alternative is simply pairing the system 
+with desalination process, but this would draw   even more electricity for what is 
+already a very expensive process.   Hydrogen, right now, does not 
+satisfy our cost requirement.   But let’s move forward with the expectation 
+that we will have massive amounts of excess   renewable energy looking for a home in the 
+future and assume these costs will come down.  Hydrogen has insanely good 
+gravimetric energy density,   at 120 MJ/kg. [16] Completely blowing kerosene 
+out of the water at around 44 MJ/kg. However,   hydrogen’s volumetric energy density, the quantity 
+we actually care about, is complete dog trash.  The only way to get it to a reasonable number 
+is by pressurizing it or making it cold,   but even then it’s volumetric energy density 
+is terrible. At 700 bar, that’s 700 times   atmospheric pressure, hydrogen still 
+only has a volumetric energy density   of 5.6 MJ/L, compared jet fuels 38.3 MJ/L. [17]
+Pressurizing a fuel tank to 700 bar comes with its   dangers, as repeated pressure cycles can lead to 
+rapid failure due to fatigue. This is made worse   by hydrogen’s habit of attacking and embrittling 
+materials, a phenomenon that is also accelerated   by higher pressures. [18] So, most designs for 
+hydrogen fuel tanks instead call for cryogenic   storage. Where the hydrogen is cooled to 
+achieve a higher volumetric energy density   with much lower pressures. [16] This also 
+results in higher energy densities of 8 MJ/L,   but still much lower than the 
+38 MJ/L of traditional fuels.  This low volumetric energy density, and need 
+to pressurize, makes hydrogen fuel tanks a   nightmare to integrate to an aircrafts airframe.
+Planes these days place a large amount of fuel   inside the wings. [19] This is ideal for several 
+reasons. It takes up no useful space inside the   cabin of the plane. Aircraft wings need to be 
+hollow to increase the strength of the wings.   The weight of the fuel being located so close to 
+the center of lift means the plane does not need   to adjust it’s control surfaces during flight 
+to compensate for changes in center of gravity   as the fuel gets used up, which reduces drag.
+Finally, when flying, the wings deflect upwards   due to the upwards lift force they create. This 
+creates stress in the supporting structures   of the plane. So, by putting the fuel in the 
+wings it actually helps the wings deflect less   as the weight of the fuel pushes them 
+down, and as the fuel is used up,   the lift the wings need to generate reduces, and 
+the upwards lift forcing the wings up reduces.  Storing the heavy fuel in the wings is an 
+incredibly elegant solution, and it’s not possible   with hydrogen. There simply is not enough space 
+in the narrow hollow structure of wings to fit   the equipment needed. This space is also getting 
+even smaller as newer generation composite planes   enter the market [19], with their sleek elegant 
+wings being much thinner than older metal versions  Because hydrogen needs to be pressurized and 
+cooled, it requires specialized fuel tanks that   are too bulky to fit into these small spaces. The 
+matter is only made worse because of hydrogen’s   dismal volumetric energy density. Some designs for 
+hydrogen planes simply call for the massive fuel   tanks to be placed inside the fuselage, replacing 
+valuable space that could be used for passengers   or cargo. This just compounds the issue of cost 
+even more, as airlines will now be making less,   while also having to pay more for fuel.
+While some have proposed a more drastic change in   flight architecture, the blended wing. The blended 
+wing offers fantastic drag characteristics and   leaves plenty of space within the wing to store 
+the large fuel tanks. There is a lot more to be   said about this design, but we will explore this 
+kind of plane in more detail in a future video.  Now we need to deal with the safety concerns. 
+Hydrogen is a gas in normal conditions,   so flash point is not a relevant quantity. 
+It’s gases are going to ignite at all ambient   temperatures if exposed to an ignition source.
+It is a difficult fuel to handle for this reason.  Hydrogen also has no odor and it’s flame is nearly 
+invisible, so detection of leaks is difficult.   It’s also difficult to mix odorising agents, like 
+the sulfur odorants we add to natural gas, because   the freezing temperatures of liquid hydrogen 
+would simply turn them solid in the tanks and they   wouldn’t exit with the gas when there was a leak. 
+These odorants would also contaminate any fuels   cells using hydrogen to generate electricity. [18]
+This is a problem because many future hydrogen   powered jet engines, including all of 
+Airbus’ concepts, call for hybrid engines,   mixing electric motors powered by hydrogen 
+fuel cells with combustion turbines burning   hydrogen. [20] Gas alarms will be essential 
+early warning systems and they will need   to be located anywhere large quantities of 
+hydrogen are stored. In the case of a leak,   modular tanks, with shut off valves between 
+each section will be essential to minimize risk.  These storage and handling difficulties are likely 
+the largest barrier for hydrogen moving forward,   and this is why some have proposed an 
+extra step, that will use hydrogen to   generate a new type of hydrocarbon fuel. E-Fuels.
+This would be done by combining carbon dioxide,   which will be drawn directly from the 
+atmosphere using direct air capture,   with hydrogen to produce methanol. This methanol 
+would be liquid at ambient temperatures and   could be further processed, like our ethanol from 
+earlier, to produce kerosene efuels. E-Fuels are   fuels that are created entirely using sustainable 
+feedstocks and renewable electricity. This would   solve the scalability issues of biofuels, but 
+more than likely cost a lot more due to the   sheer amount of energy needed to both create 
+hydrogen and draw carbon dioxide from the air.  It’s hard to make predictions on the 
+future of the air travel industry.   If I was placing bets, I think biofuel mandates, 
+despite their questionable environmental benefit,   will continue to be introduced, and then, as 
+excess renewable electricity floods the market,   energy intensive processes like efuels may 
+take over. Primarily because these fuels are   compatible with current jet engines. Hydrogen 
+has a chance of succeeding, but it will require   massive investments to completely 
+overhaul airport and plane architecture,   which alone will cost trillions of dollars.
+This cost barrier is going to be something   the aviation industry is going to have to accept 
+in the near term. It’s more than likely that air   travel will get vastly more expensive during 
+this transitional period. That cost inflation   can be minimized by a gradual introduction of 
+biofuels and efuels that are compatible with   current generation infrastructure. However, 
+as we saw in Norway, even just a 0.5% biofuel   mandate increased fuel costs significantly. And 
+this may just be a hard truth we as a society   need to accept if we truly want to become a 
+carbon neutral civilisation and save our planet,   that the aviation industry's historic decline 
+in ticket prices may be beginning to reverse.  strange egg laying mammal, or watch my last video 
+detailing the problems with Ethanol biofuels. 

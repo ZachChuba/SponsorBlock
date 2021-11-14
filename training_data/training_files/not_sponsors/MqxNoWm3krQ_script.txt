@@ -1,0 +1,150 @@
+Every so often players come across a discovery
+in a video game that clearly no one was ever meant to find… Even at times creating an
+enormously embarrassing situation for the developer in the aftermath of the discovery. This is why today we’re diving into the
+top ten craziest discoveries in video games that no player was ever intended to find… Part III. ...Bought to you by Dashlane. Atlas. Earlier this year, Studio Wildcard launched
+their massive multiplayer game Atlas.. ..their hugely-hyped second game 
+following their highly-popular prehistoric adventure, Ark: Survival Evolved. Wildcard boasted Atlas as the next big step
+for the studio, touting epic sea warfare and rigorous first person combat against gargantuan
+enemies in a vast environment that could hold forty-thousand players at once. And this is what they actually got… “What the [bleep] is going on?” “About an hour to do…” - “What the [bleep]?” “..It’s pretty rough dude.” Atlas was so not what players were promised
+that the community joked that for Atlas, Studio Wildcard must have just reskinned and copy
+and pasted over their original game Ark: Survival Evovled… which hit a little too close to
+home when streamer Mukka noticed that there was an invisible fourth option hovering at
+the bottom of Atlas’s pause menu… which when selected revealed the settings menu for
+the original Ark: Survival Evolved. “And you’re in an Ark menu!” “Hello!!!” “We are playing Ark: Survival Evolved!!” This discovery quickly imploded the Atlas
+player community, who felt promised a fully-fledged, next-level experience from Studio Wildcard,
+and were instead given a quick mod of an already three-year-old game. “What’s going on?" "How do you like this game so far?” However, Wildcard really began to live up
+to its name weeks later when a number of strange discoveries began to show up all across the
+game’s environment, beginning when Twitch streamer BurkeBlack was suddenly bombarded
+by eight killer whales at the same time… “What the [bleep]!?!” 
+-“Woah!” “There’s whales everywhere!" “They SPAWNED whales!” …which quickly became much more disconcerting
+when a random WWII plane came crashing out of the sky… [explosion] “What the hell was that?” …leaving BurkeBlack in total silence. "..Oh." "Where!?"
+-"Jeez." Meanwhile, Atlas’s subreddit flooded with
+players finding WWII vehicles all across the game world, with many strange AI behaviors
+that outright confused players. In response, Studio Wildcard claimed the WWII
+vehicles were NOT the result of a hack or game mod as players suspected, and instead
+were the result of someone getting into one of the game’s administrative accounts and
+spawning the ready-made game assets in… Because of course there would be ready-made
+WWII vehicles in a game about being a pirate! All I’m saying is: don’t be surprised
+if a Studio Wildcard WWII game comes out next year and we found out it has another Ark menu hidden inside
+of it. “We are playing Ark: Survival Evolved!” Super Smash Bros Brawl. a purple dragon came to me with a discovery
+on my discord server explaining that they wanted to memorize all the costumes of each character
+in Smash Bros Brawl, and decided an easy way to do so would be to go through the files
+all of the characters in the game - when they noticed something that struck them as ODD
+on Princess Peach’s model. ♪ "La la la la la la la." ♪ Apparently, one of the textures for Peach’s
+golf club in the files is actually a pixelated AR-15! Of course, I had to check this out for myself. I downloaded Peach’s model file from Smash
+off of the Models Resource and sure enough! ..There it was right there in front of my face
+under the file PlyPeach5KGolfS! Well, I guess its true what they say: 'Don’t
+mess with the princess unless you wanna get pressed to the chest with an AR-15!' Not sure why Peach ever needed Mario’s help
+if she was packing that kind of heat this whole time. Halo 2. Thanks to my friend and YouTuber gamecheat13 for sharing this discovery with me on my discord server. Gamecheat13 found that by modifying
+Halo 2’s data, he could reinstate a cut sprint ability that was originally supposed
+to be in the game, a feature that didn’t actually appear in the series until four games
+later.. While giving the cut sprint ability a go with every weapon in the game, he came
+across something never meant to be found when he used the cut ability with two dual-wielded
+SMGs.. [laughing] Nice! While this discovery was likely intended as
+a joke amongst Bungie, the whole thing shows once again that Bungie has always been on
+the cutting edge, as sprinting didn’t become a staple in first
+person shooters until way after Halo 2’s release… ..And the ability to give the bird during
+gameplay is essentially the precursor to the Fortnite emote. True genius when you think about it that way! Oculus. In April of this year, Facebook’s Head of
+VR Product Development issued an apology on Twitter after being brought to the attention
+of several disturbing hidden messages that were printed on the innards of tens of thousands
+of Oculus controllers that actually made their way into retail! Messages included “This Space For Rent” “The Masons Were Here” and “Big Brother Is Watching”... ..a reference George Orwell’s
+dystopian, over-surveillance novel 1984, as well as a rather bold reference to Facebook’s
+own controversial practices concerning the handling of its users’ data.. “Would you be comfortable sharing with us
+the hotel you stayed in last night?” “Um…” [uncomfortably cringeworthy laugh] Although Mitchell claims the joke occurred
+somewhere in assembly as a “process error” it's definitely not reassuring to know that
+Facebook is being so callous about poking fun at the expense of its users’ privacy. Well, gives me enough reason to go ahead
+and delete facebook. Final Fantasy XV. While I previously discussed Final Fantasy
+XV players finding a way to a glance at some unintended fanservice, dataminers were also
+in for a surprise when they went through all the character models in the game and found
+two mysterious, highly-detailed nude models that couldn’t be found anywhere else in the game. The first one belonged to Genitana, which
+if I had to guess is only here as the result of some really lonely late nights in the developer
+office. However, things take a shift when we look
+at the second highly-detailed nude model which belongs to the random, much more mature non-player
+character, Camelia Claustra. Ahh, I know you probably weren’t wanting to see that - sorry. Why of all the FFXV characters in the game
+was Camelia one of two characters found in this fully-detailed nude state left the FFXV community
+questioning what the models’ purposes even were, perhaps even suggesting an easter egg
+that’s never been found to this day. Unfortunately, I don’t think that’s an
+easter egg anyone’s super eager to find. Shin Megami Tensei. Thanks to KaseyTheSage for also sharing this
+very odd discovery with me on my discord server. Shin Megami Tensei is the extensive 3 decade
+old international RPG franchise, more popularly known for its Persona sub-series. This find takes us all the way back to the
+very first game on the Super Nintendo, where dataminers found in the game files these especially  
+disturbing sprites of Mickey Mouse and Donald Duck that don’t appear anywhere else in
+the game. Fortunately, it's pretty easy to piece together
+this time why these horrifying versions of Mickey and Donald are here and why they were
+removed. Exclusive to the Japanese PC-Engine build
+of the game, players can enter Tokyo Destinyland, an obvious parody of Tokyo Disney World, and
+come across two enemies only on the PC-Engine version... which are clearly much more ambiguous
+design versions of the original bloodcurdling Mickey and Donald. Considering no one’s had more influence
+over Copyright Law than Disney in the last one hundred years strictly over the copyright protection
+of the Mouse alone, it's pretty clear why the developers didn’t want anyone to find these
+disturbing designs. But Mickey’s copyright is due up in 5 years,
+so unless Disney manages to somehow intervene again with the copyright law again, looks
+like Atlus will finally have the chance to make their own twisted version of Kingdom
+Hearts here soon. Fallout 76. Previously, I discussed how players found
+access to the developer room of Fallout 76 and received instabans that sparked a backlash
+in the 76 community, not like it was the first. Well shortly after - a few months ago - redditor
+McStaken found access in the still unreleased, clearly unfinished Vault 96... which he said
+he managed to fall in as a complete accident ... right - assumably as an attempt to protect
+himself against Bethethsa’s heavy-handed banhammer. Inside they found an environment with some
+things clearly not meant to be found, with terminals featured unused developer text including: “Flavor text to be written” and "Nice work, Assholes.” Damn, is this how Bethesda communicates to
+each other? No wonder 76 is such a mess. Homefront: The Revolution. In 2015’s Homefront: The Revolution, in
+the restricted zone area of the game, players found an arcade cabinet at the top of the
+map that featured 2 levels from the original Time Splitters 2. While players thought this was a pretty nifty
+easter egg, dataminers uncovered a much more unusual mystery regarding the inclusion of
+the two levels, as they were able to find the entirety of Time Splitters 2 in the data
+of Homefront: The Revolution with every single asset of the original game completely remastered
+from the ground up, all just sitting right there all unused on the disc of Homefront. No HD remaster announcement of Timesplitters
+has ever surfaced to this day, and curiously similar remastered files could be found in
+Homefront relating to the games Future Perfect and Second Sight. Ironically, in 2018 Homefront publisher Deep
+Silver announced they had acquired the rights to the Time Splitters series. So just know if they soon announce a Time
+Splitters HD remaster, we might just have another Atlas situation all over again. Walking Dead. On day one of Season 2 Episode 5’s launch,
+the Walking Dead player community was shocked and confused when PS3 owners discovered a
+third option during this scene that couldn’t be executed on any other platform, in which
+Clementine could shoot Mike. "Oh!" Wow, that looked great! Why this hidden execution was an exclusive
+feature to the PS3 was a mystery until the next day… as the discovery was immediately
+patched out of the game by the developer the implying that the sequence was never
+meant to be found in the first place. Although why the scene was removed was never
+given an official answer, a simple explanation would be they decided killing Mike off was
+a bad idea at the last minute. Or maybe they just thought it looked dumb
+as hell… I’d believe it. Shadow of the Tomb Raider. One week after the release of Lara Coft’s
+latest adventure, Shadow of the Tomb Raider, a user by the name of Tombstone posted a mystery
+on the official Tomb Raider Forums asking, “Nobody’s brought up the letter Lara gets
+from Natla yet?" "Would Natla be the villain in the next games
+maybe?” Given that Natla was the villain of the first
+Tomb Raider and hadn’t had a reference or an appearance in a Lara Coft game in a
+decade, nobody had any clue what the hell Tombstone was talking about, and proceeded to
+lambasted him as a troll for several hours. Finally, after hours of endless roasting, Tombstone
+remerged with a new video and a new post stating “I had to replay the whole damn game again so I hope
+you cows calling me a troll and liar eat some humble crow pie!” In the link Tombstone provided, they watched
+an alternate post-credit sequence, where, indeed, a swift moment in the scene revealed
+Lara receiving a letter from Natla. Still not convinced, many players still believed
+the footage was faked or modded in some way, as there was no way nobody else had found
+such a discovery up until this point. It wasn’t until developer Eidos Montreal
+came forward with a statement did those dubious change their tone. Turned out the ending was never meant to be
+found at all, as it was actually patched out of the game with the game’s day one patch. And it turns out Tombstone only found the
+ending himself because of problems regarding his internet. The official explanation left the community legitimately
+confused by the last-minute omission of the sequence, as well as legitimately embarrassed
+by their own treatment of Tombstone after the discovery turned out to be true after
+all. While Natla’s future fate in the Tomb Raider
+series at this point isn’t looking particularly hot, Tombstone’s fate in the Tomb Raider
+forums was met with apology and praise as excavating Shadow of the Tomb Raider’s most
+elusive ending is definitely a discovery that would have made Lara proud. Even though he only found it cause his internet’s
+[bleep]. Just as none of these developers ever wanted
+any of these discoveries to be found, don’t forget that some pretty strange stuff went
+down on Atlas like a whale plummeting out of the sky and crushing a random streamer’s
+ship, all because somebody managed to get into one of the accounts over at Studio Wildcard. So far it’s made for an incredibly awkward
+situation for the studio, which may be why you’ll want to save yourself from the same
+embarrassment with the extra level of security that Dashlane provides. Dashlane can be your one-stop-shop for your
+digital identity by managing all your passwords so you don’t have to. Dashlane works across all devices including
+all Apple products, PCs, Android, Safari and Chrome. Dashlane also has a secure autofill feature
+that works for personal information and credit cards saving you time when shopping online,
+a vpn to prevent prying eyes from tracking and helping you access content anywhere, plus
+dark web monitoring to see if your information is being bought and sold illegally. To give it a try for free go to Dashlane.com/oddheader
+and use my promo code oddheader to get 10% off If you want to upgrade to premium." If you enjoyed this video and want to see
+more content like this, please subscribe. And if you know of any video game discoveries
+or mysteries that shouldn’t have been found, please submit in the comments down below or
+submit to oddheader.com. And in the comments, please leave the hashtag
+#odddiscoveries it will make it a lot easier finding your comment if you have something
+to share. Definitely let me know any haunting discoveries
+you may have for the upcoming Halloween season. This video is especially dedicated to Vanyel…
+hope I got your name correct. [patrons] Stay Tuned. 

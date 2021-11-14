@@ -1,0 +1,22 @@
+Airplane jet engines have gotten bigger and
+bigger over time - and it’s not just because planes are getting bigger: the Airbus A350
+is a smaller plane than the Boeing 747 but has bigger engines. The reason? Bigger engines are simply more efficient,
+up to a point. Modern jet engines actually consist of two
+propulsion systems working together: the jet core, which provides the power and a small
+amount of thrust, and the fan, which is just a big propellor driven by the jet core that
+provides most of the thrust. Pure jet engines can be incredibly powerful
+(which is why they’re used for fighter jets), but they’re also horribly inefficient because
+they shoot out their exhaust at super high speeds, which equates to huge amounts of kinetic
+energy, since kinetic energy is proportional to the speed squared, so accelerating exhaust
+to twice the speed takes 4 times the energy. In exchange for power, they literally blast
+energy away as a bunch of hot air. Of course, you do have to shoot some air out
+of the back of an engine to generate thrust, but it doesn’t have to have lots of energy. Instead of accelerating a little bit of air
+a lot, you can achieve your desired thrust by accelerating a lot of air a little bit
+- you get the same momentum boost but save a ton of energy. Essentially, if you make an engine too small,
+it has to accelerate the air so much as to be a waste of energy – kind of like using
+a machine gun to propel your car. But if you make the engine too big, then it
+starts to cause too much drag. An ideal engine is somewhere in between – rough
+estimation puts the ideal engine somewhere around 4 meters in diameter, which is just
+slightly bigger than the current largest engines. So you can expect jet engines to continue
+growing in size... but not forever. I’d like to thank Audible.com for supporting
+this video. 

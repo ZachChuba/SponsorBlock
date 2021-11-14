@@ -1,0 +1,140 @@
+What does the strong nuclear force, the fundamental
+symmetries of nature, and a laundry detergent have in common? Well, they’re all important parts
+of the tale of the axion - a tale which may take us beyond the standard model and
+solve one of the most vexing mysteries in astrophysics. The history of the axion is a classic physics
+tale: intrepid scientists delve deep into trackless mathematics in search of answers
+to a mystery. And there, against all expectations, they find the hint of a completely new and
+unexpected denizen of the natural world. In this case the mystery was a subtle inconsistency
+in the behavior of the fundamental forces. And the unexpected discovery? A brand new
+particle - the axion - which, while not yet proven to exist, may explain a much more famous conundrum. The axion may explain dark matter. To understand the origins of the axion we
+need to go back and look at one of the most powerful concepts in physics: symmetry. We
+expect the laws of physics to be symmetric with respect to certain properties of the
+universe. If the equations describing a given physical process do not change when you transform
+a particular property of the universe, we say that process is symmetric to that transformation. For example,
+most of physics is symmetric to mirror reflections - the world mostly works the same when you
+flip the sign of the x, y, and z axes. Another example is flipping the charges of particles
+- positive to negative and vice versa - most of the equations of physics hold under that
+flip. But not all. In a previous episode we talked about how the weak nuclear force is
+NOT symmetric under combined charge and mirror inversion and - or in physics-speak, the weak
+force is not CP symmetric - its behavior changes if you flip charges and do a mirror or parity
+reflection. Okay, so what has all this got to do with
+axions? Well hold on, we’ll get there. Given CP violation in the weak force it’s natural
+to ask if it happens in the strong nuclear force also. The strong force is the fundamental
+force that binds quarks together into protons and neutrons, and is mediated by the gluon
+particle. Our best theoretical description of the strong
+force is quantum chromodynamics - QCD. That’s a deep and rich subject that will get its
+own episode before long. For now it’s enough to know that the equations of motion of the
+strong force, derived with QCD, actually allow violation of CP symmetry. In fact they almost
+demand it - and yet no such violation has ever been observed. Here’s one example - if the strong
+force is CP violating, it’s predicted that the neutron should exhibit an electric field
+like you’d get from a pair of positive and negative charges - an electric dipole field.
+Our very sensitive measurements have found that no such field exists- or if it is there
+then it’s a trillion times weaker than predicted by a CP-violating QCD. This
+discrepancy between theory and experiment is known as the strong CP problem and is currently
+unsolved. One of the a proposed solutions to the strong CP problem is going to give us the axion. But before we can see how that happens, we
+need to understand why quantum chromodynamics predicts a CP violation in the first place.
+Compared to quantum electrodynamics, which describes electromagnetism, QCD is complicated
+to say the least. For one thing, the vacuum in QCD is full of
+weird structure. You might ask how can a vacuum, aka “nothing” have structure? Well, in
+quantum field theories, the vacuum isn’t really nothing. “Vacuum” is the word we
+use to describe the lowest energy state of a field - which is what you’ll find when
+there are no actual particles around, and as we saw in previous episodes, the vacuum is a very
+lively place! Particularly in QCD, where there isn’t just one lowest energy state - there
+are infinite lowest energy states. And the vacuum can hop between these different
+states. But because they're all the same energy, quantum weirdness allows the QCD vacuum
+to sort of simultaneously occupy all of those states at once. This bizarre structure for the vacuum
+alters the equations of motion that come from QCD, new terms get added and the strength of those terms is governed by a new fundamental constant - theta. It’s tricky to describe what theta actually signifies
+- in fact there are different physical interpretations - but one way to describe it is that it’s
+a phase offset picked up by the quantum field as it moves between the different possible
+minimum energy states of the vacuum. And it’s these new terms - the ones added
+by the weird vacuum - that appear to violate CP symmetry. That means the strong force should
+show CP violation. So why doesn’t it? One possible explanation is that this theta value
+- the constant in front of the CP violating terms - is just equal to zero. That would cause
+those terms to vanish. But there’s no good reason why theta should be zero - at least
+not within the standard model of particle physics. This fundamental constant may have
+ended up very close to zero just by chance, but physicists hate using random chance to
+explain the precise refinement of a value - what they call fine tuning. In 1977 Roberto
+Peccei and Helen Quinn proposed another solution: what if theta isn’t a constant, but can
+change in value, both over space and over time. In other words, make theta a new type
+of field - a dynamic field rather than a fundamental constant. Theta will then naturally fall to
+zero - because that reduces the overall energy of the vacuum, and the universe always seeks
+the lowest energy configuration. By the way, there is actually another solution
+to the strong CP problem its's that if any of the quarks are massless, CP
+symmetry is automatically conserved. However, as far as we can tell, none of the quarks
+are massless and so this solution is not generally accepted - turning theta into a quantum field
+is the most promising solution. So you might recall that in quantum field
+theory a particle is just an oscillation in a quantum field. So with a new field - this
+theta field - we have the potential for new particles. Theta can oscillate very slightly
+around its value of zero - and that oscillation gives us the axion. It was actually that of
+two titans of physics - Frank Wilczek and Steven Weinberg - who first realised that
+this new field could be quantised to give rise to a new particle. Wilczeck once explained how they chose the name for their new particle. They named it after axion detergent
+because it seemed to ‘clean up’ the CP problem quite well. This hypothetical axion particle
+would have no electric charge, no quantum spin, be extreme ly light - a tiny fraction
+of the mass of the already tiny electron. It would interact very weakly via the strong
+and weak nuclear forces, and via gravity. So how can we expect to detect such an elusive particles? Well, even though axions have no electric charge, they can still interact with the electromagnetic
+field and produce photons via the strong force. They would do this by generating pairs of
+virtual quarks which then decay into photons - the so-called Primakoff effect. This would
+look like an axion turning into a photon - typically in the presence of a strong magnetic field.
+And photons can turn into axions in a similar way. And this actually gives us an experiment. It should be possible to shine a light through a solid, opaque wall. It goes like this: a light is
+passed through a strong magnetic field and then blocked by a metal wall. But some photons
+get converted to axions in the field, and so pass directly through the wall before turning
+into photons again, where they can be detected. At least in theory - so far several experiments
+have not confirmed axions this way, at least so far. One issue may be that we just can’t make
+sufficiently strong artificial magnetic fields. So why not let nature do at least half of
+the heavy lifting? Well that's precisely what the CERN Axion Solar Telescope (CAST) in Switzerland
+does. If axions exist then they should be produced in reasonable quantities in the core
+of the sun. There, X-rays are constantly bouncing off electrons and protons in the presence
+of strong electromagnetic fields. Perfect conditions for producing axions, among other
+things. So the Sun’s core may spew out countless axions. CAST forms the detector part of the
+apparatus and uses strong magnetic fields of its own to try to turn those axions back
+into detectable photons. No luck yet, but the range of possible properties of axions
+is being narrowed down. There are other spacey tests for axions. Magnetars
+- highly magnetic pulsars - and quasars may convert some of their own gamma ray output
+into axions - and that dip in gamma ray output may be measurable. In a separate phenomenon,
+there does appear to be a slight overabundance of gamma rays from very distant astrophysical
+sources like blazars. A lot of those gamma rays should be absorbed traveling through
+the vast, not-quite-empty tracks of intergalactic space on their way to us. It appears that
+too few of those gamma rays are absorbed, and so some astrophysicists have hypothesized that some gamma rays get
+converted back and forth between axions and photons by the magnetic fields of entire galaxies.
+That makes them invisible for part of their journey, so less likely to be blocked. Experiments thus far have not given a reliable
+positive results, but it may be that axions are just lighter or more weakly interacting
+than we think and so not detectable by current experiments. But new experiments and upgrades
+of existing experiments will whittle away the parameter space of possible axion properties
+- and eventually we’ll either spot it or decide it’s a lost cause. This all seems like a lot of work for a hypothetical
+particle predicted from speculative math. But there’s a good reason for the effort:
+axions may be ... dark matter. They have all the right properties - no direction interaction
+with light, and only weak interactions via the other forces. And although these particles
+are extremely light, axions, if they exist, are likely to have been produced in prodigious
+numbers in the Big Bang. That means there could be enough of them to explain the invisible
+source of gravity that seems to dominate the universe - what we call dark matter. If axions
+do turn out to be real they may clean up two of the most vexing problems in modern physics
+- the strong CP problem AND the nature of dark matter. Not bad for one of the tiniest
+and most elusive potential particles in all of spacetime. Last week we tried to figure out whether a
+universe that is infinite in size should contain infinite repetitions of everything it contains,
+including you. Infinite comments ensued, of which I'll now answer a finite number. Revolver Ocelot pointed out a Medium article
+by Ethan Seigel that claimed that even if inflation proceded for the entire age of the
+universe, the universe would still not be large enough to get duplicate regions. I want
+to thank you for giving me the opportunite to pick a fight with Ethan Seigel, who is
+almost always right. Almost. Ethan calculates that if the universe was inflating for its entire current age, than after those 13.5 billion years it would be around 10^10^50 times the size of our observable universe. And that sounds about right. He then compares that
+to an estimate of the number of possible configurations of particles in the universe - 10^90 factorial.
+Now, I assume Ethan got that number by imagining swapping around every particle in the universe in all
+possible combinations. Well, many of those particles are indistinguishable from each
+other - swapping two electrons or two photons doesn't change anything, so that number might be an over estimate. But at any rate, 10^90 factorial is around 10^10^90 - within a few orders of
+magnitude. And I actually gave a larger number - the universe's Bekenstein bound - which is around 10^124
+- giving something like 10^10^123 configurations. At any rate, it would therefore take way longer than the age of the universe for inflation to make a volume 10^10^90 or 123 times our obserable universe. So Eathan is right there. But inflation would get you there eventually as long as it never ended - and that's pretty
+much the definition of eternal inflation. Ethan also points out that eternal inflation
+must have had a beginning, so it hasn't yet lasted for infinite time - well also true, but
+there's no reason to imagine we are near that beginning, and actually 13.5 billion years would be pretty close the beginning of an infinitely-long-lasting eternal inflation. Of course all of this is assuming that the universe is spatially finite. The simplest interpetation of the cosmological
+equations derived from general relativity tell us that it it may be truly spatially infinite - in which case 10^10^90 is a piece of cake. Paul Gaither asks how far away are these duplicate
+universes. Very, very far away. Roughly speaking you'd need to travel all the way across a
+greater universe that is itself large enough to fit all possible configurations of observable universe sized regions. The
+volume would want to be 10^10^123 (or 90) times our universe's volume, so the distance is the square root of that.
+Let's say 10^10^60-ish times the diameter of our universe until things start to 
+repeat again. In last week's comment responses I corrected
+my pronundiation for Newton's book - and then lots of people corrected my correction. Principia
+Mathematica, Prinkipia mathematica, princhipia mathematica - many people swearing by each
+of these pronunciations. So from now on it's "that thing Newton wrote". Anyway, it seems like some of you
+are, let's say... quite detail-oriented. And so I was terrified you'd be mad that the infinite
+typewriter monkey we showed was actually a chimpanzee - so, a great ape ... totally different
+thing to a monkey. But no one even commented on it. C'mon guys, if we're gonna nerd, why
+not nerd all the way? 

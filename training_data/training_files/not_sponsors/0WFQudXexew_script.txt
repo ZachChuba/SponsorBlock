@@ -1,0 +1,127 @@
+This video is brought to you by Dashlane. Get 30 days of a convenient and safe internet
+experience with the link down bellow. AMD Zen or Zen+ APUs. They are so thoroughly dominating the entry-level
+new parts market that I am honestly a bit worried and hoping the new Intel architecture
+can compete. But for consumers, that means that for now
+there is a very cheap set of options for building a gaming pc with competent integrated graphics
+on a socket that is easily upgradable. Of those components, the Athlon line has been
+the one I have focused more on for obvious reasons. At just $50 they tend to be the cheapest way
+to get into gaming if you are buying new components and avoiding the used market. This is no secret, I use Athlon APUs so much
+that it literally seems to have become part of my internet reputation. On more mainstream pc gaming circles, however,
+these parts get a bit of a rep. For example, recently Linus from Linus Tech
+Tips tackled this issue and while he gave the Athlon a fair chance he ended in some
+of the conclusions Take a look at what you are giving up Compared to what we would consider to be the best bang per buck chip on the market The AMD Ryzen 5 3600 A Ryzen 3600. A 200 EURO CPU. WHY? Now I love Linus. I say this very honestly. We all look up to him in different ways and I am really looking forward to going to LTX
+this year. And I think this is less: LINUS IS WRONG And more of a certain lack of perspective,
+a lack that is rather common on forums and discord conversations I see around so I can
+perfectly use this as an example. So. Why should you use a dual-core $50 Athlon
+APU instead of something with better "bang for buck" like the six-core $85 Ryzen 1600 AF or the... *sigh*... the $200 Ryzen 3600? The answer is... context. Let's me show you something: When I was thinking about this I talked to
+my friend and Spanish speaking tech YouTuber Nate Gentile that I wanted to make an experiment
+on his channel to prove this point. You can see the full video linked in the description
+and if you see me using lots of clips with this background, this is why: Let's consider 4 countries on which to build
+a PC: Spain, where I live, Chile, Mexico and Argentina. When considering PC building in different
+countries it is important to consider how 50 Euro does not feel like 50 Euros on every
+single place. Average monthly income is useless as a measurement
+of common salaries, these numbers will appear stupidly high or low if you are in any of
+these countries, but they are useful as a tool for relative comparisons! And so, you can see that these developing
+countries tend to have lower the purchasing power than I would have in Spain so for Mexico
+my $50 could feel $80 or more. Keep that in mind. Let's make a build list for the cheapest gaming
+PC possible using new components: Case? Literally, the cheapest available when I checked
+in all the options. Is this a not very sturdy, not fantastically
+made piece of plastic and metal? Correct Would you just be more efficient putting the
+build in a box? Possible if you are crafty enough and you
+can get the airflow working. Can you spend $10 more and get a case with
+proper cable management? Eh... At this level, something as small as $10 could
+make the difference between meeting a budget or not and remember, purchase power changes
+between countries so that difference could feel like double. RAM? Interestingly enough most 8 GB dual-channel
+kits are usually labelled as gaming and hiked up in price. Lucky for us if you search in each of the
+countries for the cheapest 4 GB DDR4 stick and then buy two it will work just great. Do not concede to the temptation of buying
+a single cheap 8 GB stick even if it sounds faster. Since integrated graphics use RAM and video
+memory if you are running on single-channel you might run into bandwidth issues that might be the
+difference between 26 FPS and 30 FPS in some games and at this level that is a huge deal. Now, Motherboard and Power supply. So... something that I have learned is that
+if you are going to Overclock (and believe me, you are going to want to Overclock this
+thing) ideally you need a high quality and stable power supply and a good motherboard
+to filter that voltage. We do not have the budget for that so realistically
+we can either do an ok motherboard and "eh" power supply or the other way around. The cheapest chipset than can do am4 overclocking
+is b350 so I recommend you get the cheapest b350 you can find in your country as long
+as it has a heatsink along the VRM, that should be enough to filter stable enough
+voltage for the Overclock we will do. Often this was found for around the equivalent
+of 60 to 80 Euros in all my test countries. As for the Power supply... there are a lot
+of options with suspiciously low prices which I highly, highly encourage you to avoid. My rule of thumb is usually to buy the cheapest
+with at least some level of certification, which in all of my test cases was around 40
+Euros. This is not exactly a guarantee of quality,
+only a bit of a better chance not to end with something that burns itself. Power supplies at this level our terribly
+inefficient so be sure to get something with 500 W or more because in practice you are
+going to get way less and it often will not allow you to overclock the maximum your CPU
+can do but as long as you avoid these you can make do if you understand the sacrifices
+you are making. And for storage, I would just go for the cheapest
+SSD with 300 GB or more. The introduction of a lot of Chinese brands
+into the market has made low-end SSDs incredibly cheaper during the course of the last couple
+of years. These cheap SSDs have low-quality memory controllers
+that make them much slower... for SSD standards. Even the shittiest SSD is going to be faster
+than a mechanical hard drive and to get windows usable that is all you need. So far the build is up to something between
+200 and 250 Euros. Let's give it some life and pick a CPU and
+GPU. And that is when we get to the Athlon 3000G
+APU. A very inexpensive dual-core, 4 threads and
+Vega 3 Graphics APUs. Now the criticism that most usually throw
+at this part is its low fps-per-dollar/Euro. People in tech space love the idea of optimizing "bang for buck" in the sense of finding just
+the right component that gets the most performance per dollar possible. Problem is that when you do the calculation
+that usually ends up being something like the Ryzen 5 3600g which Linus used as a comparison,
+which is part price about 4 times more than the Athlon and remember... relative income in some of
+the example countries is way lower so that difference feels waaaay stepper. Bang for buck means nothing when it ends up
+pointing you to a component that you just will never be able to afford. I can say that by experience But hey, hey, Alex, hey. What about the Ryzen 5 1600 AF. AMD released a new version of an old six core
+CPU for just $85 dollars! Except that I have only seen it in Spain for
+a 100 Euros and just plainly not available on the websites I was using for the other
+countries. Funny story about these bargain parts, somehow
+they tend to be much harder to find outside the US but Athlons? Athlons are everywhere. Except for Venezuela because... you know... Venezuela! Not to mention a key issue with the 1600 AG and 3600. They do not have an integrated GPU and would
+necessitate buying a GPU on the first purchase. One of the great things about APUs is that
+their integrated graphics are competent enough to essentially function as a stop-gap solution
+to divide your purchase into two parts. You can just buy the APU and use it to power
+your entire PC until you can also afford a GPU and then upgrading is just adding something
+to the PCIe slot. Easy. Hey, hey, hey Alex. Why not then buy a 2200G? That's much better and should be cheap. If you can find a 2200G close to an Athlon
+price, get it. That's a great freaking deal. In practice being an older part I often saw
+it was just not available or as developing countries tend to add a premium for anything
+labelled as gaming, putting it close to the 3200G in price... so in other
+words almost double the price of an Athlon. And remember... "just 50" euros feels like
+a great deal more when your average income is... ok, you get the point. I have hammered on that long enough. With an Athlon 3000G on board and just the
+anaemic mini included cooler I was easily able to overclock the CPU to 3.9 GHz and the
+GPU to 1.7 GHz. You might notice this is a bit lower on the
+CPU than I did on the dedicated video and you can blame the cheap power supply on that. But still, this stop-gap solution does just
+fine for a variety of gaming scenarios. For example, competitive games like Overwatch
+on low settings and a 50% resolution scaler play at 60 FPS with minimal issues. You can expect similar results for a variety
+of light e-sports titles. Even well-optimized games like Devil May Cry
+5 on similar settings work at 60 FPS with little issue. I have raved about the performance of the
+Athlon lots before so I am not going to linger. Games like Apex Legends start hitting some
+issues but mostly still keep it over 30 FPS. I have seen better results on Apex Legends
+with this part on the part but on much, much faster RAM so vram bandwidth is 100% a problem
+here but it can still be done with some patience. However, as I mentioned before APUs are great
+stopgap solutions. Let's say that since you manage to purchase
+and use this first, months pass and you can get enough to add a GPU to it. What happens now? While my idea was to add something very inexpensive. The now almost 3-year-old AMD Polaris architecture
+is still surprisingly in production and very often recommended in budget circles due to
+its great performance. In fact, they are often so cheap I suspect
+they are the reason why AMD has not made a sub $150 GPU on their current generation. Interestingly enough their problem in developing
+countries is availability. In Chile, Argentina and Mexico if you sort
+new GPUs by price on the stores I was checking you mostly would end with super low-end GPU
+like the GT 710 which I do not recommend as an upgrade for this build since it is not
+much different from the integrated GPU. For something like this I would suggest something
+like the RX 560, however the cheapest AMD GPU from that generation
+that I consitenly saw as easily available in all countries was the faster and more expensive
+RX 570. While this is Overkill for what I had in mind
+and it is going to be by far the most expensive part of the build it is going to illustrate
+very clearly just how well the Athlon can do as just a cheap CPU one you upgrade. For example, the 3 games that I have shown
+so far. Since Overwatch and Devil May Cry were both
+working at nearly 60 FPS on integrated it is not a surprise that with a great dedicated
+GPU both games are locked to 60 FPS on higher settings with no problem. Apex Legends, the game that causes the APU
+the most trouble during combat, is now squarely a 60 FPS deal on the higher setting with literally
+no issue. How is that for an upgrade. Now the concern a lot of people have with
+going for a dual-core is that it is going to become a problem with any newer heavy game,
+and why it is true that reaching 60 FPS is going to be difficult in some titles if you only have a dual core the heaviest games in terms
+of CPU usage that I know which are Red Dead Redemption 2 and Assassin's Creed Odyssey
+could perfectly maintain a 30 FPS lock through a session which, worth noting, is the framerate
+you get on consoles, even on the fancy pro ones. And thanks to the dedicated GPU you can either
+used a low balanced preset on red dead redemption or a high preset on Assassin's Creed. Look, there are better "bang for buck" parts
+that can do 60 FPS but the reality is that when you are in a country where those components
+are simply not a possibility entry-level parts like the Athlon provide an easy path for PC
+Gaming when the used market is just out of question. Which is often is less developed countries. The decent integrated GPU allows to segment
+the purchase in two parts and its reputation as a general use brand makes it surprisingly easy to find at decent prices  in countries where other budget options are either priced up or just not existent. As a CPU it can do 60 FPS on a variety of
+games and at least consoles framerates on the heaviest stuff out there, and as a stopgap
+GPU it can pretty well on a lot of the lighter and medium titles and for the heaviest ones...
+well, I got other videos for that. you for watching. 

@@ -1,0 +1,86 @@
+Hi! Have you ever wondered what happens when 
+a huge magnet comes close to a plasma ball?   I have since the electrically charged particles 
+in a plasma should follow a magnetic field.   Can I bend the plasma streamers 
+with a strong enough magnet?   I will also measure the light from the 
+plasma to figure out what gases are inside.   I was surprised by the output from one of 
+the plasma balls. And not in a good way... Don't play with strong magnets and high voltage
+unless you know what you're doing. I will also face some invisible, high 
+energy radiation. More about it later. Here, we have one of my 
+plasma balls doing its thing.  Now, let's see what happens to the plasma 
+as I put my biggest magnet near it.  A monster of a neodymium magnet 
+weighing in at 13 kilograms. Will we see any bending of the plasma streamers? Hmm. I don't see any noticeable bending.   Instead the filaments weaken and 
+disappear as the magnet comes closer.   It looks astonishing
+but not the effect I expected. Will a smaller plasma globe do the same? Whoops. Almost shattered it there. But it seems to react in the 
+same way to the magnetic field. Odd. Third time's a charm. This is a lively one and 
+does not lose its streamers.   Until my arms get tired from 
+the weight and lower the magnet. Now, it does the same as the other two. And that may be a big clue. The magnet is closer to the 
+base of the plasma ball. A base containing some electronics. Perhaps something in there reacts to the magnet? Looking into one of the bases
+it is clear that the wire delivering the high voltage to the plasma is coming 
+directly from an electrical transformer. Maybe the magnet is messing with this transformer 
+in a way that lowers the power output? I believe there's an easy way of testing it. The plasma globes have an AC 
+adapter for the electronics and this heavy one has a good 
+old-fashioned transformer inside it. Will it have a similar effect on the plasma 
+if I put this transformer near the magnet? It's a lot of iron to put near such a big magnet
+so this will be interesting... Were you too busy 
+watching if I lost a finger? - Going closer - Watch the plasma. The exact same thing happens. Looks like the power slowly fades away
+when I let the magnet near either of the transformers. *Relieved laughter*
+- Crazy. I'm not doing that again! - To explain why, I have built 
+this model of a transformer. A simple transformer has two coils of 
+wire with an iron core going through them. When an electric current passes through one coil  it works as an electromagnet 
+and magnetizes the core. The magnetic field goes through the 
+other coil where the opposite happens.  The change in the magnetic field generates 
+a pulse of electricity in the second coil. With an AC input there's a constant interchange 
+of magnetic pulses between the coils. Generating an AC output of another voltage due to 
+a different number of windings in the second coil. This works well until I put a 
+magnet near the transformer. Now, the permanent magnet magnetizes the iron core
+- making it harder for the coil to do it. When the external magnet is 
+very close to the transformer the core can be magnetically saturated. Meaning it is not possible for the coil 
+to magnetize the core even further. The transformer has stopped working. I can show this drop in power 
+by doing the experiment again. - I'm not doing that again! - You have to. This time with a voltmeter 
+showing the transformer's output. This is rather scary and painful 
+in real life. One final attempt. Yep. There's a clear loss in output. Sadly, this transformer is no longer working at all. The magnet's path of destruction is getting longer. - Ooohhh, we have a hard drive failure  - And it doesn't even care. At least we now know why 
+the plasma acts like this. But why are the streamers not bent by 
+the magnetic field before they fade out? The charged particles should react. Like demonstrated with the 
+electrons in this old CRT TV. Well, because the electricity used to ionize the 
+gas into a plasma is high frequency AC - not DC. Let me show you a little trick. Take the negative lead off of a multimeter 
+and set it to measure AC voltage. When you point this at the 
+plasma globe... nothing happens? Switching to a more sensitive - but still 
+low budget multimeter - this happens. When set to AC
+it detects the electric field. When set to DC it measures nothing at all. On the table it appears to be 
+a better electrical circuit. However, with the lead having 
+no angle towards the plasma ball I'm detecting next to nothing. Pointing towards it I measure up to 170 volts. I am basically using the lead as an antenna to pick up the radio-frequency electric field emitted. The high frequency AC - and low amperage -
+makes the plasma ball safe to touch. Despite the high voltage inside it. But it also means the electrons and ions in the plasma are not moving in a line from one point to another. They are just vibrating in the 
+same place with the AC frequency. Not following a path that the magnet could bend. After a short message I will test 
+the plasma on a spectrometer. This way I can figure out what gases are inside. And I will tell you about the 
+bad surprise in the experiment. If you want to learn more about how 
+to set up experiments and conduct them   then I have a great tip for you. Brilliant is a problem-solving 
+website and app that teaches you   how to think like a scientist with 
+interactive courses and challenges. In their course 'The Chemical Reaction' you'll learn the fundamentals of chemistry 
+from the perspective of reactions. You'll work through puzzles and patterns 
+to see how charge, energy and probability combine to determine the basic behavior 
+of molecules undergoing chemical reaction. By the end you will be able to make 
+predictions about simple chemical systems. I'm a fan of science and always 
+like learning more about it. If you are like me then I highly recommend you go 
+to brilliant.org/brainiac75 and sign up for free. As a bonus the first 200 people using the link
+will even get 20% off the annual premium subscription. Then you can do more crazy stuff 
+without any safety warnings from me. Alright. Because of the electric field I keep 
+a distance between the laptop and plasma ball. And I turn off the room light so only 
+the light from the plasma is picked up. The large one emits mostly infrared and some 
+visible light from the blue, red-tipped streamers. There's even a tiny amount of ultraviolet. The infrared and blue peaks match 
+well with spectral lines from xenon  while the red and ultraviolet match with neon. Not a big surprise since a common mixture 
+for modern plasma balls is neon-xenon. Still it is a nice feeling to confirm 
+the gases by just measuring the light. Thank you, patrons! Now for the smaller one which has 
+violet streamers with orange tips. Surely it has a different gas mixture. Uh oh. Look at that spectrum. Barely any visible light. Only a little 
+infrared but a whole lot of ultraviolet. I did not expect this to primarily 
+be an ultraviolet light source. Even with output in the UVB range. You should wear sunscreen near this! Feeling skeptical, I tested if the ultraviolet 
+output is enough to make things fluoresce. And sure enough: The white paper clearly fluoresces blue
+from the ultraviolet near the small globe. Same story with a high visibility vest. What gases did they choose for the small one? The infrared matches with argon
+while the violet and ultraviolet match with nitrogen. They used an argon-nitrogen mixture. Probably the same as used 
+inside incandescent bulbs. A cheap, easily available gas mixture. They combined the cheap gas with more valuable 
+low-iron glass that lets the ultraviolet pass. Not the best design choice. Though it does look pretty pretty... I'm not sure about the origin of the big 
+UV peak around 308 to 309 nanometers. My guess is hydroxyl being generated 
+from water vapor by the nitrogen plasma. Comment with your guess. Thanks to my awesome patrons for helping out with 
+the expensive but well worth it spectrometer. I wouldn't have it without your support. If you want to help me keep 
+going with the videos too   I have a link for my Patreon page 
+in the description under the video. Thank you. Don't forget to click like and 
+subscribe for more discoveries. Thank you for watching. Bye for now. 

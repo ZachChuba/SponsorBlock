@@ -1,0 +1,26 @@
+The temperature of regular stuff is basically
+just a measurement of jiggliness of the atoms and molecules that make that stuff up. More jiggling, higher temperature. Less jiggling, lower temperature. Of course, when something's at a high temperature,
+it feels hot, and when something's at a low temperature, it feels cold. Right? mmmjhyyaaanot exactly If you touch a piece of metal and a book that
+have been sitting in your fridge, the metal will feel much colder than the book - Derek
+of Veritasium did a great video on this, but you really have to try it for yourself to
+believe it! The metal and the book are honestly at the
+same temperature as measured by a thermometer, but the metal FEELS colder. This isn't just a trick of the mind, though
+- we experience the metal as "colder" than the book for a very physical reason: metal
+is a conductor, and paper is an insulator, so the ENERGY, or jiggliness of the molecules
+in our hands, is absorbed more quickly by the metal than by the book. Even though the book and the metal are at
+the same temperature, the metal causes the temperature of our hands to go down faster,
+and thus, we experience the metal as being colder - because the temperature of our hands
+is what we really feel. It's like how, technically, a mercury thermometer
+really only measures its own temperature and you can only indirectly measure temperatures
+of other things by putting them in thermal contact with it. Similarly, the thermoreceptive nerves in our
+skin can only directly measure the temperature of the skin itself and not of anything else. So when we touch something, we don't feel
+its temperature, but rather, we feel its effect on our skin: that is, how much and how quickly
+it transfers thermal energy - that's the jiggling of molecules - to or from us. The capacity to transfer thermal energy is
+also why a blast of steam from your stovetop can feel so much hotter than a blast of hot
+dry air from your oven, even though the oven has a higher temperature: water vapor transfers
+more molecular jiggling to your skin than air by itself. In fact, it's tempting to say that "hot" and
+"cold" are fundamentally different concepts from "high temperature" and "low temperature",
+even though we usually use the words interchangeably. "Hot" really means "it gives off a lot of
+energy" while high temperature means "it has a lot of energy" - and as anyone who's tried
+fundraising knows, just because somebody has a lot of something, doesn't necessarily mean
+they give a lot  

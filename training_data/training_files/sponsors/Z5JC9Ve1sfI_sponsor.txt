@@ -1,0 +1,21 @@
+I’ve used a password manager for years, and if you’re techie enough to reach the
+end of this video, you should too. And I’m not just saying that because this video is
+sponsored by Dashlane, a password manager, and if you go to dashlane.com/tomscott, you can get
+a free 30-day trial of their premium version. Why should you use Dashlane? Well, first,
+reusing passwords is a terrible idea. If you’re like me a few years back, then you’re reusing very similar passwords
+that have a few letters changed, or have the site’s name stuck somewhere in them. It’s not great. One data breach at one of those sites, and it’d be time to start worrying. These days, Dashlane sits in my browser,
+and when I want to log in somewhere, I unlock Dashlane with the single
+password that I have to remember, and it autofills it for me. Dashlane also stores and autofills credit cards and
+address information across your devices, and it’s got a VPN to encrypt your traffic on public wifi networks if you want to. If you are the kind of person who can remember 20-character unique symbol-filled passwords
+for dozens of different sites, congratulations. But if you’re not superhuman,
+then your choice is basically: use insecure passwords or
+use a password manager. Now, you could use post-it notes on your
+monitor as a password manager… or you could use Dashlane, which generates, stores, and autofills
+long, secure, different passwords for every site. I don’t have to try and type in a 20-character password filled with symbols on my phone any more. I pull up Dashlane instead. Everything just works, synchronised on all my devices, across Windows, Mac, iPhone, Android,
+all automatically. It plugs into Chrome, Firefox, Edge,
+Safari, Opera, even Internet Explorer. And despite the fact that it’s all
+synchronised in the cloud, Dashlane themselves don’t know what
+those passwords are and based on their security architecture,
+can never find them out. I’ll explain that next time. So: dashlane.com/tomscott for a 30-day
+free trial of Dashlane Premium, which includes unlimited password storage and sync. And if you like it, you can use the code
+“tomscott” for 10% off. 

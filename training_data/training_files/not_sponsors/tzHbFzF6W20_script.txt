@@ -1,0 +1,116 @@
+- It's a beautiful
+Saturday morning in May. The sun's shining, a
+gentle breeze is blowing and I've got big plans, to come to work and stay inside and finally fix our broken UPS. Yes my friends, the battery backup in our server room lit on fire and it has taken us until now, but we finally got it, our
+replacement unit from Eaton, so we're gonna be pulling that one out, putting this one in and
+all with the help of everyone's best friend,
+Brian, The Electrician. ♪ Brian the electrician ♪ ♪ He's electrifying and helpful ♪ ♪ Such a helpful man ♪ So Eaton had some complaints about the way that we had our original UPS configured. They kinda went, number one, you guys did not have enough
+airflow around that unit. They were particularly unhappy about that. Number two, there is
+absolutely no way to get this thing out of there
+and get a new one in. So, we installed magnetic doors into the back of the server room. Isn't that cool? So they're these nice, thick, heavy doors so they actually still block the sound in there extremely well, but
+now we've got easy access. So this is the noise absorbing material that I haphazardly installed inside the server room a little while back, you might've noticed, it
+only goes to about here. That's because this wall used to be the back wall of the server room, but the technician from Eaton came here and was like "Hey, you guys need to have a bunch of clearance behind the unit." so we ripped out this
+wall, which is great, 'cause it means I'm gonna actually be able to put like some bins and stuff, so I can have all of my
+server room specific cables and junk right back here. So I'm actually loving this. Okay so, you're up dude, how
+do we remove the tag cable? Now something I actually didn't tell Brian is that Eaton all but
+blamed our installer. Those of you who were there will probably remember our installer. - 'Cause I remember doing this, but I don't remember doing this. - I mean I could be wrong actually. - Huh?
+- Huh, yeah, I could be wrong. I used the top of the UP, Ow, I'm fine, just that thing dropped on my foot. My perfectly adequately protected foot. I use the top of the UPS to store our cold spare 10 terabyte drives and then apparently I've also
+got a network card there, should probably put
+that back in inventory. Okay, Ow, aw dangit! Right now, because our UPS isn't running we don't have enough
+circuits in this room. So we're actually just grabbing power from other circuits around the office and running extension cords
+in here, its a super bad time. Actually, we should just turn them off. The craziest thing about
+all these batteries is that if we have all the
+servers running full tilt, I think it only goes for like an hour. Eaton actually worked out
+a pretty nice deal for us. Even though we were
+slightly out of warranty they agreed to cover the main unit as long as we bought our own,
+I think it was, batteries, which these were coming up on time to replace them anyway so. And I think we had to buy
+warranty and service plan as well just, I dunno, maybe they don't trust us. The other part of the deal
+was we had to talk through some of the things we
+did wrong to make sure that other Eaton customers
+don't make the same mistakes. The UPS trains a'coming, choo choo. Hold on, lemme just lift
+up and over the cable. This is the new generation
+replacement for this. (laughing in disbelief) - [Brian] You had a
+bonfire going on in there. - Do you wanna give us a short explanation of what we're looking at here. What are busbars? - Well, they serve the
+same function as a wire its just it's a lot more convenient. Its just a straight piece of metal and - Thick
+- yeah, well not necessarily. - Well some of them are. Like damn, look at that one. - [Brian] Though whatever
+happened here with these busbars, their connections likely were loose and over time, in this case, it looks like it just started to hurt
+and caught the PCB on fire. - Now that's another thing
+that Eaton gave me heck for, because we should be having this serviced I think it's either every
+six months or annually to make sure that everything
+is hunky dory inside. So this is the kind of thing that a regular service should of caught. What do you mean by loose though, there isn't even a nut on them. - [Brian] (laughing) Exactly. Where did that go? There should be fasteners on there. - Is it possible that that's something that is supposed to happen
+at the time of installation, but we just didn't know? - I don't think so, 'cause again, how would this thing go for three years with no fasteners there
+and not be an issue. And keep in mind too
+that this being in place where the electrician is supposed to tie in covers that generally. All the electrician has to do is, they enter the cable and
+tie it in, that's it. Anything else, is generally pre-done. - I can tell you now that Eaton blamed it on installer failure. - Okay.
+- And then you're looking at it blaming it on Eaton's failure. - Yeah. - Well, I see both sides of this. 'Cause to me what this looks like is Eaton's intent is for these to be either hooked up or capped
+off by whoever's installing it and they say there's supposed to be an Eaton technician
+present or to check it over before you actually flip the switch. So we're doing that this time. But I can see why you would look at this and go, well that's a
+colossally stupid design to not have these at least
+with placeholder nuts on them for any of that I'm
+not actually connecting 'cause its got this cover plate in place where everything that I'm
+supposed to hook up is here so what, I'm supposed to open this up and make sure they put
+locking nuts on these things. I see it both ways. This here is the 9PXM,
+it can be configured in, let me see, yup, okay, four, eight, 12, 16 and 20 kilovolt amp configurations. I guess they assume
+you're gonna want at least one of the bays left for
+batteries or rather, that's two. So this is the 12 bay unit. We've configured it in a, man it's heavy, in a 12 kilovolt amp configuration. So this right here, list price, is about nine grand (gasping) for the 12 kilovolt amp config you're gonna need three of
+these modular power modules. That lists for about 11 grand. We've got six battery
+modules to take up the, here we go, the bottom three sort of bays here or rather, six bays. That's worth about 2500 bucks and then rounding out the configuration is our $1500 startup commission, which we are definitely paying this time. The $2000 for the warranty and of course a $600 gigabit network card. They really do getcha on that, you know, enterprise specialty
+stuff because let me tell ya, a gigabit network card
+under normal circumstances would be worth about $6, not $600. Is that a sim card? Oh that kinda makes sense,
+if you wanted to have like always, for sure,
+definitely connectivity, aw that's really cool. That brings our total to about $30,000 for everything you see here, but it's hard to say how reflective of the real world that really is because these kinds of products are rarely sold at list price. In fact, our invoice has like a list price and then a customer price and you gotta remember that this is in Canadian monetary units, so. Around back you can see we've got these gorgeous 30 amp
+connectors over here. I figured out what EVM is for, so that's if you wanna get
+another one of these units and just have it full of batteries, so that might explain
+why you would do like, a five power module unit,
+because you've just got like one giant one next to
+it that's full of batteries. Getting access to the
+inside is as simple as opening up a hinged door. And they've switched from locking nuts to nuts and washers. I wonder if I'm the only
+one who ever had that issue? While Brian's looking
+for hole saw big enough to put our tech cable through the bottom of one of these covers here, I'm actually going to put on all the ones that we are not gonna be using. (drilling) That is the coolest drill attachment ever, look at this thing. Its an impact gimbal, so you can get at tight spot, like that. That is so cool, you
+have the coolest toys. I mean, I have the coolest toys but you have the second coolest toys. All right, should we put this in there. - Aw that's not bad.
+- Why you gotta emasculate me like that? You always do this. You specifically went
+around to the heavy side, you could of just as
+easily taken the light side or one of these sides
+- You can take the heavy side. - Or where it's equal. Oh God that's heavy,
+we can put it down now. (laughing) - That's why I took
+the heavy side on this. - We'll slide, no problem! No problem buds, it's all good. this is like cable management for men. Cable-men-agment. - (laughing) I like that. - Crazy idea, we drill
+this into some two by fours and we lift it up by four inches. - Yeah, you have two by fours? - Yes I have two by fours! Does this pallet have
+any two by fours in it? Oh, you have a hammer. I can do it, you can do something else, don't supervise. - Its you with a tool, that's (laughing) - Well yeah, I didn't wanna
+host the video by myself. Eh got em! 'Kay, well lets see if it actually works before I congratulate
+myself too much here. You know your ring connector is hardcore when you literally need
+a hammer to tighten it. - [Brian] I believe they do actually make like funky wrenches to grab the locknut. - Great work Brian. You know he's not even a
+real electrician anymore. - I do refrigeration now (laughing). - Its okay, that's great though 'cause he's gonna help me
+air condition my house. Stay tuned for that, make
+sure you're subscribed, its gonna be great. I ordered the wrong
+air conditioner, twice. Here it is, the $600 gigabit network card. An environmental monitoring probe gen 2. I don't remember paying for this so this must just be something they sent 'cause they were so unhappy about the deplorable conditions of the old one. Maybe they're gonna
+come by with the sensors and explain to us how this hooks up. Well these are fancier than the old ones. Man those are deep. All right, here we go. These actually double stack and then they are two wide in each bin. - That's cool!
+- So yeah, this thing is dense! - [Brian] Hey, if you've got the room. - I replaced my six
+batteries with six batteries thinking that like, that'd be fine. But yeah, if I'm going one,
+two, three power modules I could put another six
+batteries in this thing. Wait, what is this? Is thing only half full? (laughing) - I mean, assuming everything
+is the same capacity. - And they've got twice as
+many cooling fans on them now, I believe the old ones
+only had one cooling fan. These are enormous
+compared to the old ones. So here's one of the old ones, this is by comparison absolutely thinner. The difference in depth and height more than make up for the, sort of skinnier profile that it has. Now that its in I can see why they want about six inches of space on this side because you can see the
+ventilation of the back 'cause of the AC output
+is kind of impeding and those fans from the power modules, which can only go the
+side are pulling air in from the front so what
+we should really be doing - Moving it to the center.
+- Is shoving it over a little bit but the problem as I notice from the front is that its
+not really movable anymore. Really! Aw yeah, there you go, easy. (laughing) Shut up Brian! 'Kay these aren't actually
+plugged into anything we're not gonna be drawing
+any power from it so. - Maybe back up a little, just in case. - No no, if you're gonna go kaboom, I'm gonna go kaboom too, lets do it. - [David] I'm not. - All right, well this ones definitely got some cooling fans
+in it, they're goers. But is it actually delivering any power? - All the switches on the back
+here look like they're off. - Okay, load not powered,
+press power button to turn on. - Eh, the fans on!
+- Online mode, so it works! - Yes it does. So you're gonna be very tempted to move the whole server rack onto
+this thing now, aren't you? - Very tempted, not
+having a battery backup has been making me very uncomfortable. With the inspection done, it's moving day. This comes off the top of
+the rack and goes back here in the back of the server closet now. All my excess hard drives,
+so these are my cold spares in case something fails
+and I need something to quickly throw in there
+to rebuild the array. And all the accessories for the Eaton UPS. Actually these don't need
+their own box do they? Ah, does anyone have a Sharpie
+marker on them by any chance? This was so awful. And you can pull this red one too. To be clear, I love power squids, this is just, I don't want
+them in my server room. And that's it, everything's back on and battery backed up. If you guys enjoyed this
+video maybe check out the one where Brian and I install
+a car charger in my garage. That one was lots of fun. 

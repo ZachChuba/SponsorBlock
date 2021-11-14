@@ -1,0 +1,30 @@
+There's a famous scene in the Lord of the
+Rings where the elf Legolas claims to be able to count the exact number of horsemen 5 leagues
+away, and on top of that can tell that their leader is very tall. But even with the most
+perfect eyes possible, would anyone be able to see that far? When we see, we're looking at light that's
+traveled outwards from a light source, bounced off an object, passed through the lens in
+the eye, and been focused into an image on the retina. Except... light isn't a particle
+traveling in perfectly straight lines - it is a wave. And therein lies the problem, both
+for us, and for Legolas. Because any wave - whether water, sound or
+light - that travels through a small opening will become spread out by a process known
+as diffraction, which for light, essentially blurs the image. You can see this with a telephoto camera lens
+where the camera aperture has been made very very small - small details in the photograph
+start to become spread out, blurred, and even indistinguishable! Or, if you hold the edge
+of a piece of paper in front of your eye and try to read past it, small words will become
+blurry! The blur that a small point of light spreads
+out to become is called an Airy disk, and the size of the Airy disk for distant tiny
+objects depends only on the wavelength of light in question and the size of the opening
+you're looking through. So for visible sunlight and a human-sized pupil, diffraction limits
+us to at best be able to distinguish objects that are bigger than seven one-thousandths
+of a degree, for example, an object one centimeter in size a hundred meters away,. Another way
+of putting this is that everything 100m away and smaller than 1cm gets blurred so that
+it appears to be about 1cm in size, no matter how small it really is - subtle details smaller
+than 1cm blur away. So when Legolas, who has very human-sized
+pupils, looked at the riders of Rohan 24 km away, diffraction tells us that everything
+smaller than 3 METERS would have been blurred to about three meters in size - perhaps he
+could still count the number of horsemen, but he definitely couldn't distinguish their
+heights to within a few centimeters... Unless Legolas could see in ultraviolet. Shorter
+wavelength light diffracts less, so if he could see in the extreme UV, then he'd be
+able to distinguish objects 10 cm in size, almost enough to discern the height of a man. Except that pretty much any kind of air absorbs
+extreme UV light - so even if he could see UV, Legolas would have been left in the dark.
+Or maybe it's just... magic. 

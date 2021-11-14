@@ -1,0 +1,13 @@
+If you’re wondering how I calculated the
+efficiencies of converting mass to energy, you can just divide the energy any reaction
+releases by the mass energy of the things involved – for example, when radium radioactively
+decays into radon and helium it releases 6.6 MeV of energy, and the mass energy of a single
+neutron or proton is about 940MeV, so I’ll leave it to you to figure out how efficient
+alpha decay is at converting mass to energy! Or you can learn more about nuclear fission
+and fusion by finishing this quiz on Brilliant.org, which is this video’s sponsor and is full
+of interactive quizzes and mini courses on physics and math. If you really want to understand physics deeply,
+you have to work through calculations and solve problems yourself, and Brilliant offers
+an interactive online way to do just that. You can check out their course on black holes
+for free using the link in the description, and if you decide to sign up for premium access
+to all of their courses, you can get 20% off by going to Brilliant.org/minutephysics. Again, that’s Brilliant.org/minutephysics
+which lets Brilliant know you came from here. 

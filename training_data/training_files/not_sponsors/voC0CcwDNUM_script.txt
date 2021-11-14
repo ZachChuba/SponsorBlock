@@ -1,0 +1,79 @@
+The Internet comes at you fast.  Mere hours after a French guy posted
+ a plausible looking video of unidentified objects orbiting the moon, captured,
+ of course, by an anonymous friend, hordes of keen-eyed
+ cyber citizens analyzed every detail. They confirmed the phase and orientation
+ of the moon against the time and place the footage is claimed
+ to have been taken. Checks out. They identified the big crater: Endymion. They even calculated the size
+ and speed of the objects: 10 to 20 kilometers across, traveling
+ at a mere 300 000 kilometers an hour. Whoa, take it easy, nerd patrol. That's a lot of speculative math.  How about we let a certified
+ expert weigh in? Like science communicator and allegedly
+ bad astronomer, Dr. Phil Plait. Hi, Phil. Hey Captain. So, how fast should an object
+ be orbiting the moon at this altitude? Well, a lot slower than 300 000
+ kilometers per hour. There is a formula that lets you calculate
+ how fast an orbit is. First, you take the mass of the ob— So you're telling me, the only way
+ these things can be going that fast is if they're powered spacecraft
+ operated by an alien intelligence? What?
+No, I'm not saying that at all.  You're looking at this the wrong way.  You have to take a step back
+ and look at the big picture. When a lot— Hold that thought, Phil. I just realized, we need to look
+ at the big picture. It's not just the UFOs.  This entire video could be artificial!  Creating a CG moon seems easy enough. There's got to be a tutorial
+ on that out there somewhere. Ah! Let's make a moon.  Add a UV sphere and give it a subsurf
+ modifier. Smooth! Light the sphere from the side,
+ all dramatic like. It already comes with a handy UV map.  All we need are some textures.
+ Hey, look at that.  NASA's got us a whole CG moon kit. Aw, NASA, how'd you know? Plug the color texture into the base color
+ input, run the displacement textures through the height input of a bump node  into the normal, and adjust
+ the strength to looks about right. Neil deGrasse Tyson
+ might have something to say,  but the mute button is right there.  Play with more settings. It looks great!  You're a good person.  Now just model some stars,
+ a galactic portal, a fleet of starships, map the whole thing
+ onto a screen in a futuristic pipe room, 3-D, track your green screen
+ actor into it, and you're on your way to approaching a fraction
+ of my unfathomable artistic prowess. Kneel before your Blender GOD. You know, those tutorials aren't
+ as lazy as I thought. Still, some artists have made their own versions of the moon UFO video
+ that are pretty on-point. This one by Mendezmendez 
+is a close approximation. And this one by Katherine
+  A. Ross imagines a different perspective It's almost as good
+ as I could make if I wanted to. Sorry, Phil, you were saying? Thank you. What I was trying to say is there's no need to focus
+ on all of the details when there's a more fundamental reason
+ why this video is obviously a hoax. Of course, getting down to the
+ fundamentals, observing the unobserved. You know the famous video experiment
+ where you're asked to count how many times students pass the ball
+ and you don't even notice the gorilla that walks in
+ and makes out with one of them? No one has ever noticed the gorilla.  That's why the comments are turned off.  Just goes to show,
+ sometimes you got to look past the obvious and take a holistic view. So let's strategically ignore
+ the sexy moon and instead pay attention to its friends, the clouds. In these expensive stock shots
+ captured around the world, real clouds crossing
+ the moon flow in arbitrary directions. But in the UFO video, they scroll
+ on a perfectly horizontal axis. I guess that could be a coincidence.  Let's line them all up, average
+ the moon's scale, and retime the clouds to move
+ at the same speed. In the stock footage, the shapes of
+ the clouds are pretty static. But in the UFO video,
+ they undulate wildly everywhere at once, the familiar simmer of expression-driven
+ procedural noise. Same with the supposed heat
+ distortion, which wobbles uniformly all over the image
+ until suddenly vanishing completely on frame 856. It's as if someone forgot to extend  an After Effects
+ adjustment layer to the end of the shot. Hate when that happens.  And what about the optics of it all?  The moon is 384 000 kilometers away, and we're zooming in on a zip code
+ with a telescope. At this focal length. Even the slightest camera bumps should
+ cause us to lose it out of shot entirely. This looks more like the shaking  of a moderately long lens
+ aiming at a neighbor's window. But the big shake at the start
+ reveals something else. Most things that stretch
+ the height of the frame in homemade video usually skew in lateral motion
+ because of rolling shutter. But here, the moon's crescent shape
+ stays perfectly solid during the shake. We already know that
+ global shutter cameras, which avoid this problem,
+ are hard to come by these days. So which kind did this anonymous
+ amateur astronomer use for their hundreds
+ of hours of moon footage? Probably the virtual kind inside
+ animation software, which might also explain the motion blur 
+length consistent with the usually default perfectly calibrated cinematic 180
+ degree shutter angle. The clues were all there, in plain sight. Isn't that right, Phil Plait?  Oh, I can talk now?  Yeah, that's not what I meant
+ at all Captain. Huh? I was talking about
+ corroborating evidence. You can analyze the imperfections
+ of this video all you want, but at any time there are thousands of people
+ observing the moon through a telescope. Right. So...  So if objects
+ dozens of kilometers across moving at dozens of kilometers per second are flying around
+ off the edge of the moon? I'm guessing somebody
+ else would have seen them. Yeah, that makes sense. But couldn't you have told me
+ that earlier, before I did all this work? Oh, for F— Jeez, astronomers. Well, you heard it here last folks. Professionals and amateurs alike have been staring at the moon
+ continuously since it was invented. There would have been more videos.  And I would have been tagged in each
+ and every one of them. "Paging Captain Disillusion"
+ or "Get on this Captain", or just @ my name and nothing else like I'm being CC'd on an internal memo, like I'm a virtual assistant
+ in Microsoft Debunk 95. Do I look like a damn paperclip to you? 

@@ -1,0 +1,107 @@
+This video is sponsored by Ting. Start paying only for the data you actually
+use and get $25 off with the link in the description. Life in Zimbabwe has never been easy. Since its independence, the Southern African
+country has seen factional violence, international sanctions, and rampant political instability. But in the mid 2000’s, it lost something
+even more fundamental: its currency. Surviving meant waking up as early as 2 in
+the morning, trekking to the nearest ATM, and then waiting in line. On a good day, you’d be able to withdraw
+the equivalent of about one or two US dollars - the maximum allowed by the government. Or, you might find, after losing sleep and
+waiting for hours, that no more money was left. That’s because, around 2007, Zimbabwe experienced
+the second highest inflation in history, after Post-War Hungary. It’s hard to know exactly how bad it got,
+as the government stopped reporting numbers after 100,000% inflation, when a loaf of bread
+cost 30 billion Zimbabwean dollars. Employees stopped going to work when their
+annual salary wouldn’t even pay for their bus ride home. And vending machines were put out of service
+- unable to hold the billions of coins that a single can of soda would cost. To keep up, the central bank kept printing
+bigger and bigger banknotes - a million dollars, one hundred billion, and, finally, one hundred
+trillion - worth a whole 40 US cents. So, how did Zimbabwe get here? And how did this devastating economic crisis
+help launch Africa’s financial technology revolution? Zimbabwe is home to the largest waterfall
+in the world: Victoria Falls - over twice the height of Niagara, and whose tumbling
+water can be heard 40 kilometers, or 25 miles away. Further South are the intricate stone ruins
+of an 11th century palace city. And savannas everywhere in between hold Africa’s
+Big Five: lions, leopards, elephants, buffalo, and rhinos. Unfortunately, few will ever get to see these
+wonders. Because, in addition to being blessed with
+natural beauty, Zimbabwe is also cursed with an abundance of gold, platinum, coal, and
+diamonds. All things which led Cecil Rhodes of the British
+South Africa Company to invade the land with the newly invented Maxim Gun at the end of
+the 19th century. The company-run territory was almost entirely
+governed and exploited by the tiny white minority. Years later, two rival factions emerged: Zimbabwe’s
+African People’s Union, supported by the Soviet Union, and the National Union, backed
+by Mao’s China. In 1980, Zimbabwe gained its independence
+and the National Party won its first election. Almost immediately, with the spirit of nationalism
+strong, leader Robert Mugabe began doing what all good dictators do: consolidate power. His army, trained by North Korea under Kim
+Il Sung, began murdering dissidents. He granted himself the power to dissolve parliament,
+declare martial law, and removed all term limits. Mugabe’s authoritarian rule lasted 37 years,
+just 4 short of Africa’s record, and teemed with corruption. He once accidentally let slip that his opponent
+had won 73% of the vote in the last election before quickly correcting himself. This insatiable thirst for power had more
+than political consequences. In 2000, his government began forcibly seizing
+land from white farmers for redistribution. Officially, the goal was to correct for the
+country’s unjust colonial past. In reality, the policy help him buy political
+support. The effects were devastating. The new farmers usually had little or no experience
+and sometimes no interest in agriculture. From 2000 to 2009, total agricultural output
+was cut in half, with some farms producing only a tenth as much as before. By wiping out two of its largest crops: corn
+and tobacco, land reform both singlehandedly destroyed its economy and decimated its food
+supply. Meanwhile, many of its skilled farmers fled
+for safety. As farms became less productive and demand
+for the little food left rose, so did prices. And fast. Daily inflation reached 98% and Zimbabwe’s
+economy totally collapsed. Shops, if they were still open, increased
+prices multiple times a day as 12 million people struggled to find food, water, and
+power. Now, to slow inflation, a government must
+do two things: First, it has to stop printing money. Basic economics says increasing money in circulation
+simply decreases its value. Second, and much harder is a government has
+to convince people that its currency has value. Mugabe did neither. To fund its involvement in the Second Congo
+War, the Reserve Bank kept printing new, higher denominations. But it just couldn’t keep up. The bank spent $500,000 US Dollars a week
+ordering new banknotes, which, by the time they arrived from Germany, were already worthless. Twice it redenominated - removing 10 zeros
+from all banknotes in 2008 and 12 in 2009 - but, to no avail. Zimbabweans didn’t believe their currency
+had value, and, therefore, it didn’t. In other words, prices kept rising largely
+because people expected them to. And soon, no more money was left. There just weren’t enough bills to go around. And that’s when Zimbabwe got creative. Like much of Africa, the vast majority of
+its population is unbanked. In advanced economies, about 92% of people
+have some kind of bank account, but that number is only 20% in sub-saharan Africa. Here, where the number of transactions are
+high but balances are low, branch locations and ATMs just aren’t very profitable - leaving
+Zimbabwe with 6.5 ATMS per 100,000 people, Uganda with 4.2, and Niger with 1.7, compared
+to the United States’ 174 or Macao’s 324. Zimbabweans lacked the infrastructure necessary
+to keep money safe or transfer it between people. Not only does this hide the flow of money
+- granting cover to criminals and making it impossible for the government to regulate
+or tax it, but it’s also physically dangerous. Many who live in cities regularly send money
+to family members in the country, requiring they take a one or two day journey themselves
+or hire someone to do it for them - and risk having it stolen. But while this lack of banks would ordinarily
+only slow the continent’s technological progress, African entrepreneurs turned it
+into an advantage. What it does have a lot of are phones. In many of it countries, total mobile phone
+penetration stands at 80%. These two things allowed countries like Zimbabwe
+to leapfrog over checks and credit cards, and then surpass more advanced economies in
+mobile payments. In places like the U.S., the ubiquity of banks
+and credit cards actually holds back new technologies. Tapping or texting would make sending money
+much easier, but first, you and I need the same app. Hence why there are so many competitors - Chase
+Pay, Google Pay, Square Wallet, PayPal, Apple Cash, Cash App, Zelle, and Venmo. The hard part isn’t building the app, it’s
+hitting a critical mass of users. In Africa, the selling point was obvious:
+Either take a two day bus ride, or send a text. And because many of its countries are dominated
+by a telecom monopoly - that company can ensure quick and universal adoption. In 2007, for example, Kenya’s largest mobile
+network operator, Safaricom, launched M-PESA, ’m’ for mobile and ‘pesa’, meaning
+money. Each M-PESA user is associated with a SIM
+card, allowing them to text anyone else money. There’s no charge to sign-up or deposit,
+and fees are minimal. But what’s truly revolutionary is that it
+doesn’t require a bank account. To deposit or withdraw, you simply find an
+agent - over 100,000 middle-men who get paid to collect and then bring cash to banks, or
+take out cash for when users withdraw or transfer money. It’s so convenient that it’s used for
+almost everything - school fees, water, electricity, food, and so on. In Zimbabwe, the preferred app is called EcoCash,
+which in 2017, had 6.7 million users compared to its two million bank accounts. That year, the Reserve Bank reported digital
+payments accounted for 90% of its $97.5 billion dollars in total transactions, making its
+economy virtually cashless. Even digital currency, however, isn’t immune
+to political incompetence. As a landlocked country, Zimbabwe relies on
+its powerful rivers for water and electricity. The Kariba dam alone provides over half of
+the nation’s electricity, making its frequent droughts extremely dangerous. In July, Econet generators failed to start
+after a power outage, disabling its mobile payment platform, and, therefore effectively,
+the national economy. Lifting a nation out of poverty is so difficult
+not for a lack of resources but rather because solutions require deep, political changes. To rebuild its economy, Zimbabwe must first
+manage its inflation. To manage inflation, it has to build confidence. And to do that, its government requires reform. That hope came in 2017, when Mugabe was deposed
+after nearly 4 decades of economic ruin. Fear promptly returned when this year Zimbabwe
+reintroduced its Dollar and inflation again, began increasing. Yet, even while countries like Zimbabwe and
+Kenya clearly still have plenty of unresolved challenges, they’re also model examples
+of how those very same challenges are the necessary ingredients for innovation. Mobile money is, at best, a convenience for
+most of us. But for the world without bank accounts, it’s
+life-changing. By making transactions faster and more secure
+- apps like M-PESA literally increase the value of money. Theft is reduced, there’s less waiting in
+line or time spent delivering money, credit is more accessible to entrepreneurs, it increases
+savings, and improves accountability. Africa is the world-leader in mobile money
+precisely and only because it previously had so far to come. And as the youngest continent, on the receiving
+end of massive amounts of loans, its financial revolution is just the beginning. What’s genius about M-PESA is how it piggybacked
+on existing technology - phones were widespread, and SIM-cards and carriers were well established
+in Africa. Likewise, the expensive part of cell service
+- towers and equipment has already been built by big companies like T-Mobile and Sprint. 

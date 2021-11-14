@@ -1,0 +1,121 @@
+- Hey there, Jade here. During my physics degree one sentence that was
+repeated to me over and over by numerous professors was
+that physics is a model. Now I have to tell you that this idea never
+really resonated with me. To me, the physical laws
+of nature that we learned weren't simply a way to describe reality they were reality. There really were forces and fields influencing how an object moved. But my professors kept trying to tell me Jade, physics is just a model. And I think one of the main reasons why I couldn't internalize this idea is because we're only
+really taught one model, Newtonian mechanics you know, Newton's three laws of motion. Objects move at a constant velocity unless acted upon by a force. Force equals mass times acceleration and every action has an
+equal and opposite reaction. It wasn't until I started to
+get deeper into quantum physics and learned some really abstract math that this whole physics is a model idea really started to make sense to me. So today, without talking
+about quantum physics or abstract math I'm going to try to
+convey to you the gravity of this statement, that
+physics is indeed a model. I'm going to share with
+you an alternative model for Newton's laws, which is
+actually mathematically simpler. So that's nice. This, it's very interesting
+because it messes completely with our intuition about how
+the past affects the future and it extends right down to the fundamental
+building blocks of physics. But before we jump right into that I want to first outline
+a particular scenario. You've got a presentation in half an hour but you're running late. You can't bear the
+thought of not being able to give your talk on
+the Promethea silkmoth you worked so hard on. So you're driving as fast as you can. In other words, you want to
+get from point A, your house to point B, work in the
+fastest time possible. What path would you take? Hopefully most of you said a straight line since that's the part that
+takes the least amount of time. Now, what if we make the
+problem a little harder and say that point A is
+on nice, smooth, concrete and point B is sitting
+in a big muddy puddle where your car will move slower compared to on the concrete. Is the fastest path still a straight line? Common sense will tell you that if you go further on the concrete you can spend less time in the slow mud and save time overall. However, spending more
+time on the concrete makes the total distance
+you traveled longer. So to get from A to B in
+the shortest amount of time there seems to be a trade off between creating the
+shortest possible path and minimizing the time
+spent in the slow mud which results in a path,
+something like this. So what is all of this have to
+do with fundamental physics? Good question. So instead of you driving a car, imagine a particle of light and instead of traveling
+on concrete and mud the light is traveling
+through it and water. Water is denser than air
+so light travels slower in the water. The question is now what Path will the light take
+between point A and point B? Amazingly it was Pierre de Fermat Sorry, I can't say that Lemme get my husband
+to say it he's French. - Pierre de Fermat. - Amazingly it was - Pierre de Fermat - Who in 1662 noticed that
+light behaves the exact same way you do when you're late for a presentation on the Promethea silkmoth. So math found that between any two points light will take the path that takes the least amount of time, meaning that it bends around the boundary making the same trade off
+between total distance traveled and time spent in the slower water, just like you did with your car. Now, if you take the view that I once did that this is what's really happening. It's kind of freaky, right? I mean, you knew where you wanted to go and chose the path that would
+take the least amount of time. Is that what light is doing? Does a beam of light
+really choose anything? We'll come back to this but so far we've looked at lights and seeing how it takes the
+path that minimizes travel time. But what if I told you
+that all physical objects in the universe, protons,
+electrons, stars, planets, galaxies all
+follow a similar rule that given a starting
+point and an end point they all take the path
+that minimizes something. Now, given the sneaky
+way that I said something you'll hopefully wondering
+what that's something is. Now, obviously it can't be travel time as it is in the case with light because that would mean that
+matter moves the same way light does only in straight lines and although matter does
+sometimes move in straight lines it also moves in curves and arcs and spirals and basically any way at all. So what is this something
+that matter wants to minimize when it goes from one path to another? Well, it's a number that
+physicists call, the Action. So what is this action thing? Well, the action for a particular path is found by taking the kinetic energy and subtracting the potential energy of the object along the entire path. That's what this integral sign means. If we break this equation
+down even further we can get a better idea of
+what we're talking about. The kinetic energy is
+the energy associated with a particles motion,
+how fast it's going. And the potential energy
+is the energy associated with its position. The action therefore depends
+on the kind of system that the particle is traveling along. A gravitational field, empty space, attached to a spring, et cetera. What this means is for any
+crazy trajectory we can think of between point A and point B we can assign that trajectory a number and that is the action. We do that by imagining an
+object moving along the path. And at every point you take the kinetic minus the potential energy and add them up for all
+the points along the path and that's the paths action. Now, the path that the
+particle will actually take is the one which has the smallest action. This phenomenon is very
+appropriately called, The Principle of Least Action. This should make you
+think back to our example of our particle of light taking or choosing the path of least time. The idea of minimizing things relates to a lot of rich ideas in physics, from circuits to electrostatics
+to quantum mechanics to general relativity. But the key way of looking at
+things that I want to focus on is that all objects in the universe behave in the same way
+that our light beam did. Now compare this to the picture
+that Newton's laws paint where what tells us how an object moves are the forces that are
+present at each moment. What the Principle of Least
+Action seems to tell us is they seem to choose ahead
+of time what path to take given some future location. So an interesting question is can the fundamental
+building blocks of matter somehow see into the future? No, Anticlimactic, Yes. But the answer is no because the predictions that you get from the Principle of Least Actions are exactly the same as the
+ones you get from Newton's laws. You can actually derive the
+Principle of Least Action from Newton's laws and vice versa. This means that they're
+equivalent descriptions and so they inherit these
+kinds of fundamental properties like causality and
+determinism from one another. Put in other way, if you had some particle with initial conditions, let it move according to Newton's law so that it traces some trajectory and finishes at some final outcome you would get the exact same trajectory if you fit the particles,
+initial conditions and final outcome into the
+Principle of Least Action. So to a physicist, the
+Principle of Least Action is just another way of representing the same classical
+Newtonian laws of motion. On top of that since
+Newton's laws are large-scale approximations of small-scale
+quantum mechanical laws so too is the Principle of Least Action the large-scale approximation
+of a quantum analog the Feynman Path Integral, which also display similar seemingly future pathfinding weirdness. So right now the younger more naive me would be full of all
+kinds of questions like which one is right,
+Newton's laws of physics or the Principle of Least Action and if the Principle of
+Least Action is right, how do we explain all the paths that the particle didn't take? This is where we come back to that idea that physics is a model. To a lot of modern day
+physicists asking what is real, isn't really an important question. what's important is that this
+is a new mathematical tool that makes calculations easier. At least that's what
+Richard Feynman taught. However, if you're somewhat of a romantic and are not satisfied with that answer a more philosophical interpretation dates back as far as at Aristotle and is that nature does
+in fact have goals. Things move in such a way
+to satisfy nature's goals and the Principle of Least Action is a manifestation of this idea. Other physicists like Fermat, Euler and Leibniz saw the
+Principle of Least Action as a kind of example of
+the perfection of God for creating such economic
+and efficient laws of nature. A few years ago, I would have
+probably been more inclined to agree with the likes
+of Aristotle and Euler in that the Principle of
+Least Action does imply some kind of Supreme elegance of nature. But I think over the years,
+cynicism have sunk in and now I'm more on the
+same page as Richard Feynman maybe embracing the whole
+physics is just a model idea a little too much. Then again, the two
+views don't necessarily have to be mutually exclusive but I want to know what you think. Do you think that this
+is some kind of example of the perfection of God or
+it's just a interpretation? Lemme know in the comments I am open to having my mind changed. Just like the idea of
+physics being a model didn't really sink in for me
+until I experienced it myself, hearing about a concept in
+a video usually isn't enough to really understand it. True intuition comes from spending hours agonizing over problems and taking the time to form
+new pathways in your brain. Thanks for watching
+until after the ad guys. So in the past few weeks I've become kind of more of a recluse like I've been spending
+a lot of time in my room just kind of buried in physics textbooks and I'm watching like
+online physics lectures. It's been like old physics
+and I've kind of become a bit out of touch with the outside world. And I just want to make sure that my videos are still
+accessible to all of you. The whole point of Up and Atom is to make hard things less hard. So I would hate to be
+kind of spreading the myth or the idea that physics
+is just for really smart, super elite, geniuses
+or something like that because I'm definitely not like that. But as I said, I've been kind of out of touch with the outside world so it's very hard for me to
+kind of know where everyone is in terms of like what you
+know, your background. So I just wanna make sure that my videos aren't kind
+of going over your heads. So please lemme know if that is the case and how I can help make it better and help make the videos
+more understandable. Let me know and I'll see you next time. Bye. (upbeat music) 

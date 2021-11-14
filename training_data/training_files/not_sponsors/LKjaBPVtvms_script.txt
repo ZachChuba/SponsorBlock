@@ -1,0 +1,45 @@
+In our universe, when you change from a non-moving
+perspective to a moving one, or vice versa, that change of perspective is represented
+by a what's called Lorentz transformation, which is a kind of squeeze-stretch rotation
+of spacetime that I've mechanically implemented with this spacetime globe. The spacetime globe illustrates many of the
+features of special relativity, like length contraction and time dilation and the twins
+paradox is... The twins paradox is a linguistically confusing
+situation that can arise in special relativity when somebody learns about time dilation - the
+fact that in our universe,...(that) things moving relative to each other each view the
+other's time as passing more slowly (which is called “time dilation”). As the paradox goes “if each person views
+time as passing more slowly for the other, then if my twin travels away from earth for
+a while and then comes back, who's actually younger when we meet again?” When you have a potentially confusing situation
+in relativity, it's really helpful to actually draw a spacetime diagram to understand what's
+going on. So we'll use the spacetime globe. The situation is this: you're sitting on earth
+for, let's say, 12 seconds. Your twin travels out at a third of the speed
+of light for what you measure to be 6 seconds, then they turn around and come back at a third
+the speed of light for what you again measure to be 6 seconds. So what does your twin think? Well, to understand the situation from their
+moving perspective we need to transform the spacetime diagram so they no longer appear
+to be moving – that is, so that their worldline is vertical. That's what it means for the spacetime diagram
+to represent their perspective. Having done so for the outward leg of their
+journey, it's clear that your twin would say that leg of their journey took them – I
+dunno, what's that look like? About 5 and 2/3 seconds? And then they turned around and headed back
+to earth, which corresponds to a different moving perspective. Let's transform things to see how they look
+from that perspective; that is, so that the worldline of that leg of the journey is vertical. Having done so, it's clear that your twin
+would say that the return leg of their journey took them – again, looks like about 5 and
+2/3 seconds. So from the perspective of your twin, their
+whole journey takes 5.66+5.66=11.3 seconds, while for you it took 12 seconds. So you, who stayed put, are older. The key to why the two of you do in fact age
+differently is that your traveling twin has two separate perspectives during their journey,
+while you, staying put, only have one. And that's the resolution to the linguistically
+confusing twins situation, demonstrated with a hands-on spacetime diagram - I want to say
+that even though I knew and understood the math and physics behind this, my belief in
+the true-ness of the solution to the twins paradox went up a million times the first
+time I actually measured the times each twin experienced with my hands, in real life like
+this. So I hope that I've managed to capture even
+a small percentage of that gut level belief in this video. You also don't have to use Lorentz transformations
+to figure out the solution to the twins paradox if you know about proper time (spacetime intervals),
+because spacetime intervals are/proper time is a way of calculating the time that passes
+for somebody according to their perspective. So in the case of your twin, on each leg of
+their journey they take 6 seconds to travel the distance light would travel in two seconds
+(or, 2 light-seconds), and taking the square root of the difference of those numbers squared
+gives a proper time of 5.66 seconds for each leg of their journey – exactly what we measured
+on the spacetime globe! If you're interested in a little more insight
+into how the “each person views time as passing more slowly for the other” part
+of the paradox actually makes sense (and I promise, it does), I have another pair of
+videos diving into more detail on the twins paradox that I highly recommend you check
+out! 

@@ -1,0 +1,150 @@
+This episode of SciShow is sponsored by Brilliant! Go to Brilliant.org/SciShow to learn more. [♪ INTRO] It usually isn’t possible to simply glance
+at a sick person and instantly know exactly what disease they
+have. In order to diagnose diseases and assess risks,
+doctors often rely on biomarkers, a broad category that basically represents
+anything they can measure to learn something about your health. And one of the easiest things to collect and
+measure is blood. But blood is fairly exceptional, in that it
+doesn’t only tell you about blood-related diseases. It can reveal information about everything
+from your brain to your unborn fetus. Here are five things your blood can tell you
+about your health that you might not expect. Doctors are working on ways to predict if
+your baby will be born up to two months prematurely based on patterns
+in your blood. Premature birth is one of the leading causes
+of infant death worldwide. Around 15 million babies are born before 37
+weeks every year. But one way to help this at-risk population
+is by knowing their gestational age: exactly how long they’ve been developing
+in the womb. While being born prematurely carries risks
+no matter what, the chance of medical complications increases
+as gestational age decreases. So if a baby is born prematurely, a solid
+idea of how developed it is will help doctors prepare for those complications. Technologies like ultrasound can help us find
+gestational age, but they don’t give us as much information
+as we’d like on how likely a baby is to be born early. Recently, scientists have turned to things called
+cell-free RNA transcripts, or cfRNA for short. These are bits of the fetus’s genetic information
+that make their way into the parent’s blood. Different genes are expressed at different
+times during pregnancy, so depending on the amount of cfRNA we find
+from different types of tissue, we can get an idea of the fetus’s gestational
+age and risk for premature birth. One 2018 study attempted to determine the
+genetic patterns in more detail, in order to develop a cfRNA-based blood test
+to estimate the risk of preterm birth. They saw some things they expected, like increased cfRNA from the placenta and
+liver as the fetus developed. Then they used those patterns to make a model
+and estimate when the baby would be born. While the resulting model was fairly accurate
+at measuring gestational age, it didn’t do any better than ultrasound. And it could only accurately predict the delivery
+date for full term births, not preemies. A few different things can trigger a preterm
+birth, and since we don’t totally understand how
+they work yet, the research group thinks those unknown factors
+might be why their estimate isn’t super accurate. This new blood test isn’t quite ready for
+the clinic yet. The first experiment only tested a small number of white and African American people at risk
+of preterm birth. In the future, larger and more diverse samples may be able to help develop a truly usable
+blood test. Hitting your head is serious. And if you hit your noggin just right, you
+might experience memory loss, dizziness, or other mental alterations, all of which are signs of a traumatic brain
+injury called a concussion. But no two concussions are diagnosed the same,
+so doctors need some objective markers. Recently, they’ve used a blood test in combination
+with imaging like CT scans to help them diagnose head injuries. When someone presents with signs of a concussion,
+doctors first give them a blood test, and they’re looking for two biomarkers in
+particular, GFAP and UCH-L1. They’re great biomarkers for head injuries
+because the amount we can detect increases with the severity of the injury,
+so how much there is tells us how bad it is. Plus, GFAP is only expressed in the brain, which makes it a very specific marker for
+head trauma. So that’s great for concussions. But if someone hits their head and doesn’t
+show concussion symptoms, we’d still like to know how bad their injury
+is. Repeated smaller head injuries can still carry
+long term health risks, like for athletes who experience repeated
+minor head trauma. So doctors need a way to track these milder
+injuries. A study published in 2019 looked at GFAP and
+UCH-L1 in people with head injuries. Participants were categorized as either having
+concussion symptoms, head injury without symptoms, or body trauma
+only. The researchers tracked these biomarkers at
+different times after the injuries to see if any patterns emerged. They found that both biomarkers were elevated
+after head trauma, although the level of UCH-L1 in someone’s
+blood was higher after even minor head injuries, meaning it wasn’t useful for showing how
+bad the injury was. GFAP, on the other hand, scaled up more consistently
+with the severity of head trauma, even when the person didn’t show symptoms. This means that while both are still good
+markers for diagnosing concussion, GFAP was more informative when it came to
+showing how bad. While many doctors’ offices already test
+for these biomarkers, the researchers say that a wider range of
+measurement devices, like for ambulances, may be available very
+soon. By now you probably know that heart disease
+is kind of a big deal. Heart disease is still the biggest killer
+in the world, and having narrowed or blocked coronary arteries,
+otherwise known as atherosclerosis, is one of the many risk factors for that. But as you can imagine, no single test predicts
+your risk for this disease perfectly. For instance, we already have plenty of biomarkers
+for cardiovascular disease risk by itself. But if you have narrowed arteries, some of
+those biomarkers all of a sudden aren’t as accurate. There are a few ways to measure how blocked
+those vessels are, though. This includes stuff like echocardiograms and
+exercise. In early 2019, research out of Duke University
+Medical Center tried to develop a test that used both exercise
+tests and biomarkers. Using a combination of tests would give them
+a better idea of what happens chemically around ischemia,
+when the heart doesn’t get enough oxygen. Specifically, they wanted to see what happened
+to those biomarkers over the course of an exercise test and pick
+out any interesting patterns. The researchers were interested in about 60
+chemicals related to the heart’s energy usage. In particular, a group of chemicals called
+acylcarnitines. So they recruited participants who were already
+patients in the emergency department with heart disease symptoms like chest, jaw
+or shoulder pain. Researchers took blood samples before and
+after the exercise test and did an echocardiogram to get a picture
+of how blocked their coronary arteries were. Their results narrowed it down to four acylcarnitines
+and one amino acid that might be good at predicting atherosclerosis
+in the future, and identified which ones change after exercise. The researchers claim their method is a better
+predictor of atherosclerosis than the blood tests we have now, since it gives a
+snapshot of conditions before and after ischemia. The catch is, we don’t yet know how much
+better. It’s still too early to say when this will
+be used more regularly. A study with a larger sample size is still
+needed to validate these initial findings. It may seem strange that a chemical in your blood could be used to diagnose a mental health
+condition, but it’s totally a thing. For how widespread depression is, we still
+don’t really understand the physiology behind it. Having some kind of biomarker for depression
+would allow doctors to come up with more consistent diagnoses
+and more targeted treatments. But what chemical are we looking for? Recently, a chemical called acetyl-L-carnitine,
+or LAC for short, has been getting some attention thanks to
+its antidepressant action in rodent studies. LAC is involved in a chemical pathway that
+ultimately regulates the release of a neurotransmitter
+called glutamate, one of the chemicals that neurons use to communicate
+with each other. Now, as far as we can tell in animal models,
+adding LAC to their diet can work as an antidepressant if that animal
+had a low level of LAC to start with. But that doesn’t necessarily mean it works
+in people, so researchers have started looking into that, too. In a 2018 study, researchers recruited over
+100 participants from two different medical centers, gave them all clinical psychiatric exams,
+and drew some blood. On average, participants with diagnosed depression had lower LAC concentrations than the control
+group. And among those participants with moderate
+to severe depression, things like childhood trauma and a younger
+age of onset were associated with even lower LAC levels. The research so far only supports LAC for
+diagnosing depression, not as an oral supplement to treat it. Although that hasn’t stopped companies from
+trying to sell it for that purpose. However, researchers were optimistic that
+with more clinical validation, patients with depression and low LAC might
+one day benefit from LAC supplements. But it won’t ever be a one size fits all
+mood boosting pill. Alcohol use disorder, or AUD, is a potentially
+life-threatening condition, and detecting it is trickier than it seems. There are different types of drinking behavior
+associated with AUD. Binge drinking in particular is especially
+common on college campuses. But researchers aren’t gonna follow college
+students to the bars on Saturday nights, so they gather data by having their participants
+fill out questionnaires. All of these questionnaires ultimately try
+to get information about how much and how often these folks are drinking. One of them, the Alcohol Use Disorders Identification
+Test, or AUDIT, is the best at actually identifying binge
+drinking in college students. But questionnaires are still subjective. And using a concrete number, like a measurable
+biomarker, would allow for more objectivity in screening
+for AUD and getting help for those who need it. We already have urine tests to see if someone
+abstains from alcohol, but no tests that define alcohol use disorder. One of the best candidates for an AUD test
+is a biomarker called phosphatidylethanol, or PEth, a molecule that only shows up in the blood
+when alcohol is present. But finding a little bit of PEth in someone’s
+blood doesn’t diagnose AUD, and a single alcoholic beverage doesn’t
+raise PEth levels any noticable amount. Unfortunately, because each study that measures
+PEth and alcohol use has been designed differently, it’s hard to compare them side by side and
+come up with a definitive range of PEth levels. The only thing we can really say is that the
+more you’ve been drinking lately, the higher your PEth. So a study published in 2015 tried to double
+up the diagnostic power and tested the AUDIT questionnaire with PEth
+levels in the blood. To do this, they recruited young adults from
+college campuses and had them complete the AUDIT to learn about
+their alcohol consumption behaviors. The questionnaires put them into one of three
+groups: binge drinkers, moderate drinkers, and abstainers. Like in past studies, the researchers found
+more PEth in the blood of binge drinkers than moderate drinkers and none in the abstainer
+group. That makes PEth an extremely sensitive and
+objective measure for alcohol consumption. But again: details. What that really tells us is that PEth is
+associated with how much alcohol someone drinks, not how often, what time of day, or their
+relationship with alcohol. In other words, there’s a bunch of variables
+that it can’t pin down. This study still depended on self-reported
+questionnaires, so it isn’t enough evidence to say that
+PEth levels can identify if someone has AUD. With all of these biomarkers, it’s important
+to remember that they’re adding to the pool of information that healthcare
+professionals use during treatments. One marker isn’t necessarily the end-all,
+be-all test for diagnosing a condition. But with more in-depth research into each
+of these chemicals, doctors get a more precise picture of their
+patients’ status. And that information can be used to help improve
+their outcomes. [♪ OUTRO] 

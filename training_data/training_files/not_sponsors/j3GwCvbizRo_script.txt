@@ -1,0 +1,119 @@
+- So, in April, I made a video about the Nintendo Switch LAN adaptor, and I titled that video
+Don't Buy a LAN Adaptor for Your Nintendo Switch, because something just wasn't right. It wasn't working as intended. We already knew that the USB 3.0 port on the back of the Switch's dock doesn't work as a USB 3.0 port, and I was getting the same, if not better speeds from my WiFi. Now, with Smash Ultimate
+out and Sakurai himself suggesting players go out
+and buy a LAN adaptor, and also all the countless comments telling me I'm a goddamn idiot and that I should kill myself, it's time to revisit that LAN adaptor. That old video is now very wrong, but there is definitely some
+tom foolery happening here. In that last video, I give a
+lot of technical information about how playing games online works, and the differences
+between USB 2.0 and 3.0, and despite all of the comments telling me that I don't know what I'm talking about, all that information is accurate. In fact, I think it's a
+very informative video. If you wanna learn more
+about that kinda stuff, I think you should go watch that video after you watch this one. The only thing that I
+wish that I drove home just a little bit better
+is that if you have a (censored) WiFi connection,
+then a LAN adaptor will absolutely help. I don't know why I have to say that, but apparently I do. WiFi can be unstable or inconsistent. This can affect your ping,
+which is what measures the responsiveness of your device. Ping is a lot more important
+for playing video games than internet speeds. This is something that I
+did not say in my video. I screwed up and I'm sorry. You didn't have to be so
+mean to be about it, jeez. If you have (censored) WiFi,
+ping is going to be a problem. If you have halfway decent WiFi, then ping isn't going to be a problem. Despite all the IT guys
+coming out of the woodwork telling me wired is always better, we're just playing video
+games on a Nintendo Switch. We're not transferring 8K
+video files, all right? Calm down, Linus Tech Tips. I'm always looking at products from the lens of a consumer who doesn't know what the
+hell they're looking at, and most people are gonna
+see a LAN adaptor and think, oh, internet speeds,
+this will be good for me! It's not gonna be good for everybody. Nobody knows what your home
+internet situation is like, only you do, and that
+was the biggest criticism of that video, people telling me I need to learn more about netcode. Do you even know what netcode is? Netcode is a blanket term
+for anything that somehow relates to networking in online games. According to this same wiki, netcode as a term tends to be used only in the gaming community, as it is not recognized as an
+actual computer science term, which explains why I
+never heard that term used in my high school CISCO networking class, which I did very poorly in. But goddammit could I
+calculate a subnet mask, which I've never had to
+use in the real world 'cause it's all automatic now. Anyway, I had to get through all of that because I thought that the biggest problem with the Switch's LAN adaptor was that the Switch only supports USB 2.0. Even though it has a USB 3.0
+port on the back of its dock, that port only works as a 2.0 port. The Switch itself only recognizes USB 2.0. USB 2.0 isn't the best
+for internet connections for two reasons. One, its theoretical max speed is about 10 times slower than USB 3.0, which isn't that big of a deal, given we're talking
+about video games here. But the bigger problem is that the USB 2.0 device has to
+pulled by the computer, or in this case, the Switch,
+in order to send information. That means the Switch has to go, hey, you got any of
+that information for me? And then the LAN adaptor will go, where have you been,
+there's been so much data! April Bob wasn't endorsed
+by Dollar Shave Club. I feel like I have to
+keep reiterating this throughout the video as
+kind of a disclaimer. Even with all these shortcomings, USB 2.0 might be better for you than what you currently have. But if your Switch's network connection is already fine as is, then a LAN adaptor isn't gonna make things
+that much better for you. So, when I tested this hoary
+LAN adaptor back in April, the speeds were absolute trash, to the point where my WiFi was faster, and I never noticed any low
+ping or instability issues when using WiFi in the past, so I thought this LAN
+adaptor was complete trash. I rationalized these low speeds by blaming it on the USB 2.0 bottleneck. The theoretical max speeds of USB 2.0 are 480 megabits per second, but everybody knows that
+you never get up that high. It's just a theoretical cap. Especially with game consoles. There's some weird phenomenon
+where console manufacturers will limit their internet speeds. The PS4 is know for doing this. It's super annoying. Anyway, this isn't the problem, because as far as we know,
+Nintendo still has not updated that port on the back to be a 2.0 port instead of a 3.0 port. In fact, on the spec
+sheet on their website, they just say it's straight up a 2.0 port. They don't even pretend like
+it's a 3.0 port anymore. Despite all this, after
+testing the LAN adaptor now a whole eight months later, it works. I'm getting 100 megabit per second speeds. That's blazing fast. I'm gonna leave it connected
+to my dock all the time now. Initially, I thought that maybe they just enabled the port on the
+back to be USB 3.0 finally, but nope, the ports on the sides give me the same exact speeds. So what changed here? I don't know. I managed to get my hand on a Switch that hasn't been updated since July, thinking that maybe Nintendo
+snuck out a firmware update in anticipation for Smash Bros Ultimate. No, that's also getting
+100 megabits per second. I tried an old dock too, just in case it could receive firmware somehow. Nope, same speeds. I even tried it on the same
+exact router that I used before, and nope, same 100
+megabit per second speeds. There's some tomfoolery happening here. I wasn't the only person
+to get those slow speeds out of the official Nintendo
+network adaptor in the past. So, it wasn't just me, but
+I definitely should have tested this more vigorously
+if I was gonna make a bold claim like that. Maybe I should've tested it on other people's networks or something, not that my network speeds
+were that low at the time, but again, I have no idea why any of this happened. I clearly didn't understand why my Switch and my network adaptor were
+acting that way at the time, and I still don't. I'm using all of the same hardware. Now, Sakurai himself suggests that you buy this LAN adaptor so that you'll have a better connection. If you aren't happy with the connection that you have right now, then you should absolutely buy a network adaptor. If you have a decent connection already, shelling out that 30 bucks
+isn't 100% necessary, unless you wanna make
+downloading games faster. And this is where I'll get
+in trouble for this video. Just like every other
+fighting game on the planet, Smash uses a peer-to-peer
+connection when playing online. That means that, if the
+person you're playing against has a (censored) connection, you will also have a
+(censored) connection. If you're playing a four player match and one person has a
+(censored) connection, then everybody will have
+a (censored) connection. Eric playing on your mobile hotspot. Eric said, I'm using your phone internet 'cause I'm not at home. It shows 14 down and
+5.6 up, which is great, but it's phone internet. - [Man Off Camera] I mean,
+all things considered, four player match with phone internet, it was running pretty
+good, now that I know that. - He said it doesn't work
+like when I watch streams and play at the same time. He was also watching the stream. And this is the reason
+for all of the problems that people have been complaining about. If everybody in the
+world buys a LAN adaptor for their Nintendo Switch,
+then Smash's online might be a little bit better, but that's not going to happen, and that's not going to help the people in the middle of Kansas who have a (censored) connection to their ISP. A lot of people in the
+fighting game community like to think that
+peer-to-peer connections are the best connections to have because they're the fastest. These people think that dedicated servers add a third computer into the mix that could slow things down or add an additional
+variable that could go wrong. This isn't true in the slightest. A dedicated server acts as a buffer. It's the middle point
+between the two connections. If one person's connection is crappy, the other person's connection
+will be unaffected. This stops people with garbage connections from ruining the game for everybody else. I'm trying to make sure that I do my best not to leave anything out in this video. Another argument for
+peer-to-peer connections in fighting games is the input lag. If there's no dedicated server, then your input will automatically be transferred to the other player. If you've ever played Smash for the Wii U, you know that this isn't the case. I'll below, I'll write a post
+that describes it better. Actually, I'll also put
+it on screen real quick so you can just pause it. Okay, goodbye. The only reason that fighting games don't have dedicated servers is because it would be really expensive, and all of the games are one-on-one, so there's so many
+games happening at once. The difference between Smash Bros and every other fighting game is that that there's four player matches, but also, it's on track to being the best selling fighting
+game of all time. The current top two best
+selling fighting games are Smash Bros Brawl and
+Smash Bros for the 3DS. I get why there's no dedicated servers, but latency isn't the excuse. It's the worst excuse. So, I've been playing Smash Bros online with and without the LAN adaptor, and there really haven't
+been too many issues. The LAN adaptor isn't gonna make you miraculously impervious to slow down. That will still happen. But playing Smash Bros Online isn't as bad as everybody says that it is. Just stay away from four player battles. You're about three times more likely to run into problems if
+you do four player battles. The official LAN adaptor
+for the Nintendo Switch isn't as bad as I once thought it was. It does its job and it does it well. I also tested the
+aftermarket USB 3.0 adaptor I used to use on my Wii U, and that got pretty much the same speeds, so you don't need the
+official Nintendo one. If you wanna increase
+your download speeds, or if you have stability issues
+when playing online games, or if you just wanna ensure that you have the most stable connection possible, then a LAN adaptor will do the trick. My opinion has changed. I will now change the name
+of my previous video to My Problem with the Nintendo
+Switch's LAN Adaptor, parentheses, Update in the
+Description, close parentheses. Does that make everybody happy? (booing) Yeah, I saw that coming. So what do you guys think
+about network stability on your Nintendo Switch? How has Smash Bros Online been for you? Is there anything you've done that noticeably makes it run better, like for example, buying a LAN adaptor? Or are we just forever doomed to sometimes play games in slow motion? Leave it in the comments
+below, at me on Twitter, all the social media garbage. I'm sure you're gonna do that anyway. What about the whole point of this video? Are you just like me, did you
+have a LAN adaptor in the past that had terrible speeds,
+but now all of a sudden it has great speeds? I wanna hear from you the most, 'cause maybe I'm not crazy, maybe that's a thing we
+can get to the bottom of. I just wanted to take a minute to say how dope my outfit is. When you wear something
+open over this shirt, it looks nice as hell. You can get that over
+at wulffdenapparel.com, along with the other stuff. People love this hoodie. Of course, we got new videos
+all the time over here. Schedule's in a pinned
+tweet over on Twitter. We've got livestreams here at YouTube and livestreams over
+on twitch.tv/wulffden. Come on down to one of those livestreams and we can talk to each
+other live, live, live. But of course, the most important things that you can do to help
+support this channel is just subscribe, that's
+it, that's all we need. And chances are, you're
+watching these videos through your suggested feed on YouTube. One day, YouTube's just not gonna suggest them to you anymore, so you wanna subscribe
+so you keep seeing this. That was a bad sell. But of course, share
+this video with a friend. That's the other important
+thing you can do. A friend who has an awful connection, a friend that you've been
+playing Smash Online with and it's just, it's slow
+motion the whole time. Thank you guys very much. You have yourselves a good week. 

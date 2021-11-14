@@ -1,0 +1,62 @@
+Fusion of hydrogen or helium normally requires at least the conditions found in the the cores of stars . High temperatures and densities
+allow hydrogen and helium nuclei to get close enough to fuse together into bigger nuclei
+and release a TON of energy, powering even more fusion while releasing enough extra to
+power the star, or if you set this situation up on earth, you might have a hydrogen bomb. But it’s actually possible for fusion to
+occur at temperatures much, much lower than the core of the sun - like, room temperature,
+for example. Now, I’m not talking about the infamous
+“cold fusion” of the 1980s that hasn’t been shown to work or involve any, well, fusion
+- no, I’m talking about the room-temperature fusion of the 1950s that actually does work:
+fusion with the help of muons! Nuclear fusion, of course, happens when atomic
+nuclei, like hydrogen nuclei , come close enough together that their strong nuclear
+attraction can overcome their electric repulsion, and they fuse together into a single,
+bigger nucleus - like helium . This typically happens in a plasma, that is,
+a super hot soup of electrons and atomic nuclei, where if it’s hot enough every once in a
+while two nuclei bump hard enough into each other to fuse . But fusion can in principle
+happen in regular, non-plasma molecules, too - like the hydrogen molecule, in which two
+hydrogen nuclei are kept relatively near to each other by sharing electrons . The nuclei
+don’t stay separated a rigid distance apart, though - they vibrate and wiggle and every
+so often, they can, in principle, get close enough to fuse together. But with hydrogen - or nitrogen, or oxygen,
+or pretty much all other molecules - this happens exceedingly rarely (which is why our
+atmosphere, which has a fair amount of molecules, isn’t a giant fusion bomb). However, things are different if you replace
+the electrons with particles called muons, which are basically exactly the same as electrons
+except 200 times heavier .  Muons, being essentially heavy electrons, form atoms and
+molecules in almost the exact same way as electrons, but since they’re heavier, their
+orbits are much closer to the nucleus than an electron with the same energy and angular
+momentum would be . And this means that atoms and molecules held together with muons instead
+of electrons are about 200 times smaller, and their nuclei are correspondingly about
+200 times closer together. And being closer together makes nuclei many
+many many times more likely to fuse together, so much so that hydrogen molecules made with
+muons can fuse together at temperatures much lower than the core of the sun - even room
+temperature!! Which was predicted in 1947 and experimentally
+achieved in 1956 . Physicists have even managed to achieve muon-aided nuclear fusion at temperatures
+close to absolute zero. So at this point, you’re probably asking
+yourself: if room-temperature nuclear fusion exists, why aren’t we using it to power
+modern civilization? Well, while muon-facilitated fusion is indeed
+fully legit nuclear fusion at non-crazy temperatures, there are some major problems which prevent
+it from being used as a power source. First, muons don’t live very long . Unlike electrons which have an in principle infinite lifespan, after
+about 2 microseconds muons spontaneously decay into an electron and some neutrinos, so if
+you’re going to do anything with muons, you have to do it real quick! This turns out not to matter much for the
+purposes of facilitating fusion, but because of their short lifespan, there aren’t a
+ton of muons around - so if you want a reliable supply of muons, you pretty much have to make
+them with a high energy particle accelerator , which takes a lot of energy per muon - at
+best about 5 giga electron volts , or about 50 times the E=mc^2 mass-energy of a muon itself. Now, luckily you don’t need a muon for every
+single pair of hydrogen nuclei you want to fuse, because after a pair of nuclei fuses
+into helium the muon can go off and help more nuclei fuse …and then help more… and more…
+and more…. EXCEPT, every so often , the muon doesn’t
+- it’ll get stuck as part of the newly fused helium atom , and can’t facilitate any additional
+fusing. This means that each muon only helps an average
+of 150- fusions of nuclei before it gets stuck . And since each fusion of nuclei releases
+about 18 mega electron volts of energy , this means that, after 150 fusions, each muon facilitates
+an average of 2700 mega electron volts, or 2.7 giga electron volts, of energy generation. Which means that, unfortunately, the numbers
+don’t add up - Remember it currently takes around 5 GeV of energy to produce a muon, but each
+muon only generates about two and a half GeV of energy before getting stuck to a nucleus. That is, muon-facilitated fusion is a net
+consumer of energy (rather than being a source of energy). This is the best case possible with current
+technology, and the numbers are still off by a factor of 2 before even reaching any
+sort of break-even where muon-facilitated fusion could generate as much energy as it
+consumes. And we’d need to be much better than just
+breaking even, energy-wise, to make a viable commercial power plant. Pretty much the only hope for muon-facilitated-fusion
+is to figure out how to make muons for less energy, or figure out how to have less of
+them stick to the helium nuclei, or how to unstick them once they’re stuck - which
+are all hard problems limited by the unchangeable physical properties of muons and nuclei, and
+so we’ve made quite slow progress in over 70 years of research. The summary is that muon-induced fusion exists,
+it’s fascinating science, but it’s not going to be powering the world any time soon. 

@@ -1,0 +1,106 @@
+- Today we're talking about laptops that are powerful as frick, So here it is, this is
+the laptop I've been doing all my editing on for
+the last couple of weeks, and it's been awesome. Whenever I was shopping for computers, one of the issues I would always have is figuring out what exactly do I need and what don't I need, and personally all I care
+about is being able to get footage shot, downloaded,
+cut, color graded, a few effects maybe,
+rendered out, uploaded, and nap time. All that, as fast as possible, most importantly, that nap part. and out of habit if I'm
+editing on a laptop, I go straight to here
+and I drop the resolution to pretty much low as it can go. Now at this resolution, the picture quality looks pretty blurry, but at least it doesn't
+freeze up like this. Imagine just editing
+footage that's this choppy for hour and hours. It would drive you nuts, you would want to jump off a cliff. And I was like, okay, let me edit this and see how long this will take before I get infuriated at the choppiness, and actually I was able
+to edit the whole thing in full resolution. Even the more complex stuff like this, which is a 4K video with a color grade and then a few layers and there's another inserted
+4K frame inside of here. Again, full resolution,
+playing back two 4K videos on top of each other, zero dropped frames. If you see that green dot right there that means literally every
+single frame in the video has been played properly. This isn't pre-rendered or anything, this is literally
+processing the color grade and overlaying all this
+stuff just on the fly. This is great. I was so sure that at some
+point I was gunna have to at least drop it into half resolution, because even half resolution is fine. We're recording 4K, so half of that, you're still pretty
+close to full HD screen, so that's not a problem. But what was really dope
+is rendering it out. I rendered out a 12
+and a half minute video in just over 9 minutes with
+effects and everything. Which is crazy 'cause
+it's faster to render out a 4K video than to watch it back. I mean that's, yeah. So what exactly is going under the hood to make this so powerful. Well first of all, we
+have our i7 processor, which has 6 cores, and then we also have our GPU, which is the NVIDIA RTX 2080, and that has 2,944 cores. So the way they work, or
+the microarchitecture, is how the smart people like to say it, but basically they work very differently. The way I like to look at it, I think of the CPU as
+like a sports car, right? And then I look at a GPU like a train. So, let's say I've got a
+package about this big, and I need to deliver it to San Francisco, right, I'm gunna throw it
+into the sports car and just-- (car engine revving) But, let's say you have 2000 boxes that you have to get
+over to San Francisco. That's so many trips, you
+could only fit 15 at a time, and you have to go back
+and forth, back and forth, opposed to a GPU, or a train. So, sure, the train is gunna take, maybe, double the amount
+of time to get there, but you can take everything all at once. So a lot of the time it makes sense to use your CPU, or sports cars, to just kind of get there fast, and sometimes you need
+to get that freight train and just load it up and just
+go do this big ole task. But really what it takes to turbo boost my experience is a good balance between putting certain tasks to the CPU and certain tasks to the GPU, and it's like a perfect little marriage, when a couple is happy, this is the most powerful. It's really over the last 5 to 10 years where the power of the GPU
+has really become realized, and utilized 'cause back
+then it was all about having a fast CPU, have some RAM, have some hard drive space, and try not to melt the
+computer along the way, but now by utilizing some
+of the tasks to the GPU it doesn't bottle neck
+your main processor, and it just gives us a
+very fluid experience. A good example is color
+grading for Lumetri, if you think about it, every time you make an
+adjustment to a shot, it's millions of calculations
+that need to take place to adjust the millions of pixels, right? Perfect example of what
+a GPU is useful for, so, obviously, we've seen
+that this is super smooth, but you can actually turn
+off the GPU acceleration. Right now, we're using all this
+super powered acceleration, but if we go to software only, now we're not utilizing the power that's available to us from the GPU and this how it used to be. Remember having to color grade and you have to render everything, if I try to play it back, look at this. Oh my gawd, this is terrible. This is terrible. If we didn't have this GPU in here, this is literally what
+would we be working with. So, that's when we have to take it and drop it to eighth resolution. Does that even work, at eighth resolution? This is, oh gawd. Okay, at eighth, it looks blurry and it's still skipping
+a couple of frames here. Because of how fluid this is, just working off the straight 4K files with zero dropped frames. I don't have to take any extra steps like making proxies and all that stuff. I'm a Youtuber. I just try to get my videos
+out there as fast as possible. This is super easy, you just cut the 4K, render, upload, done. But let's go into some
+professional work flows, I shot some 5K footage on the RED. Let's drop it in. I added a little bit of color grading and it generally, even at full resolution, this is 5K, 24 frames per second, it's playing fine. I added a little Lumetri
+color grade on here just to make it look, and look, see that, zero frames dropped. But, with this kind of footage I definitely don't recommend
+actually using full resolution, because 5K, that's more pixels than this display can even show, if you can even perceive
+the difference, right? So, I'd at least go down
+to half, or even a quarter, and to me I can't even tell the difference between a quarter and full resolution, because of how sharp
+these RED cameras are. So, remember this is RED RAW footage with a color grade applied to it and it is very seamlessly
+gliding through it all, so I love that. How long
+do you think it will take to render out 5K RED footage into 5K ProRes, color graded, 422 HQ. Sorry if that's a lot of technical words but I'm really curious. Time lapse mode, let's go. (upbeat rock music) While we wait for this to wrap up, let's talk about this giveaway real quick. Canon M6 Mark II, really
+impressive camera. That's what my last video was all about. This is going out to a lucky winner in the notification squad, so just drop a comment within the first 10 hours of this video going live and one of you will get this in the mail. You'll get some awesome footage with this. 4K, it's super sharp and if you have graphics card like this then you'll be able to
+edit it, no problem. And it's done. 11 minutes and seven seconds. We're talking about some heavy,
+dense professional codecs and five minutes of a color
+graded render out in 11 minutes. The days of waiting hours and hours for a professional render to
+get kicked out, it's over. The file is 37 gigabytes,
+that it made, but wow. Now here's some more sample
+footage out of a ARRI ALEXA, another super professional camera, playing back at full
+resolution, zero dropped frames and the responsiveness is fantastic. 4K footage out of the DJI Mavic drone, no issues here. This is when I ate it on the
+motorcycle, you see that? Anyways, let's not show that. Finally, let's get into 8K footage. This is RED RAW 8K footage. I don't even have 8K footage,
+because my RED only shoots 5K. But just like the 5K, it
+doesn't really make sense to preview and edit in full resolution. 'Cause 8K, that is so many pixels. Like, literally, I could drop
+it down to quarter resolution, and to my eye that looks perfectly sharp. Crystal clear in full screen. I mean, that's just how many pixels 8K is. It looks nice and sharp,
+and it's responsive and it's playing back
+without any dropped frames. Let's try to blow up this computer and actually there's
+like a little marker here in the effects panel that
+says accelerated effects. So an effect like sharpen,
+that's a GPU accelerated effect. So let's drop that in. I'll add a little bit of sharpening, a little bit of Lumetri
+color grading on this clip. Lookin' nice. Oh my god, even with
+these effects applied, it's playing back without dropping frames. Again, we are at quarter resolution, but you could edit 8K
+footage on this thing. I'm gunna leave these effects on here and I'm gunna put it
+up to full resolution, and I'm just gunna play it back. It does still play, somewhat,
+but it does hiccup a lot and does lock up quite a bit. Again, you would never need to
+play back at this resolution, but what's interesting
+is NVIDIA told me that this actually isn't a hardware limitation. The thing is the GPU is only useful if the software running
+it utilizes the GPU. And NVIDIA is working very
+closely with all the top dogs in software, like DaVinci and
+Adobe, and all these people to help enable using
+more GPU acceleration, but a good example is REDCINE-X
+in their latest update. They enabled heavy GPU acceleration, and here watch this. This is without GPU acceleration. If you try to playback an
+8K clip at full resolution, it's just absolutely terrible. Imagine trying to edit a video where every second it just pauses. It plays, pauses. Plays, and then loads. This would drive you nuts. We're gunna pop on GPU acceleration, and playing back full 8K resolution. So, this really shows the capability of what this hardware is capable of, we're just kind of
+waiting for this software to utilize it more and once they do that, this is gunna be unstoppable. Anyways, lets wrap this up by reading a few comments from my last video, which was all about this camera, the Canon M6 Mark II. A surprisingly powerful camera and possibly a great option
+for Youtubers and vloggers. Top comment from Ryan Garcia, "Potato sack. The fact that
+I'm seeing Gene with Peter now, makes me such a proud subscriber. They grow up so fast." How unreal is that? I still remember when I was
+just starting the channel, I would always watch
+Matty and Peter's video and I would've just never guessed that I would ever have
+a chance to meet them and now like Matty came
+to visit me a week ago, and we're gunna go to Hawaii next month, and then this week Peter comes to visit and we get to hang out. Sometimes I still feel
+like I'm just gunna wake up from a dream and just be like, aw man, I gotta get back to sleep. Sebastian says, "I love
+the fact that my comments are almost always appearing on the screen, but are actually never read." Well, congratulations Sebastian, I'm gunna read your comment, and not only that I'm gunna
+stalk you for a second. Wait, are you a subscriber? You're not even subscribed
+to my channel, bro? Sebastian Kisiel you better subscribe. Tell you what, I'll trade
+you a heart for a subscribe. Good deal? "Gene is hitting puberty
+with that deep voice." Okay, literally the last
+video and this video, my voice has been kind of messed up. Literally, from that little
+rock and roll segment. I wasn't kidding, I actually
+lost my voice from that. Literally, if I just shout
+once like that I lose my voice. Which makes me wonder, we
+just went to a haunted house and literally there's people hired there that just sit in like a little
+cabinet and they just go, "Bah!" "Bah!" How do you not lose your voice after the first hour of your shift? (upbeat electronic music) 

@@ -1,0 +1,143 @@
+The fastest way for humanity
+to expand into the stars might not involve rockets at all but giant gravitational machines. Let's get technical.
+(upbeat techno music) How are we gonna get to other stars? If humanity is to ever expand
+beyond our own solar system and become a truly interstellar
+species, simply put, we're gonna need more speed. Our fastest rockets move
+very quickly of course, moving at many kilometers per second, but for cosmic distances, moving at 10 or 20 or 30 kilometers per second just won't do. For example imagine
+traveling to the closest star and the closest planet outside
+of our own solar system. It's Proxima Centauri B, 1.3 parsecs away, which is 4.3 light years for
+all you Han Solos out there. Strap yourself to something
+like a Saturn V rocket, and there is no way we could
+ever get to this system within even dozens of human lifetimes. It would take 79,000 years, and
+this is simply unacceptable. To explore the rest of the
+universe, we must go faster. Yeah, we must go, yeah, I
+know, I'm going, I'm going! All right, all right, because
+of current technology, even when we travel within
+our own solar system, we have to use all the
+physics and engineering tricks that we can to bring travel times down and go as fast as possible,
+and one of these tricks that we use to get extra velocity for free is called a gravity assist. Very generally speaking,
+a gravity assist is when an object like a spacecraft
+intentionally flies very close to and around a
+much, much larger body in space, slingshotting around it, ending
+up on a different trajectory with extra speed, however, if we look at this whole situation from the planet or body's perspective, we can see the spacecraft
+slingshot around us, but it has the exact same
+speed it entered with when it leaves. These vectors are exactly the same. And if we think about
+what space-time looks like during this maneuver, it
+kinda makes sense, right? If we imagine the planet or body creating a depression in the fabric of space-time, our spacecraft enters the
+gravitational influence, it picks up speed as it
+gets closer and closer to the deepest point of the gravity well, and then as it leaves the gravity well, it must lose all that
+extra speed to return to how much speed it had when it entered, but we know that a gravity assist can give spacecraft extra oomph, so what are we missing here? What we're forgetting is that during a traditional gravity assist, the planet or body that
+we're using is moving, too, and moving really, really fast. If we change our perspective
+during this maneuver from being as though we're
+standing on the surface of this planet to being
+an outside observer watching everything happen, we can see that the planet
+in question has a lot of velocity, too, velocity in orbit. As you can see, the added
+velocity of the planet changes our math when we do
+what's called vector addition. The resultant velocity
+when we enter the planet's gravitational influence gets much bigger when we leave the planet's
+gravitational influence. This is the gravitational
+slingshot effect. It's like jumping on
+a giant merry-go-round that's already spinning,
+and then jumping off with some extra velocity. The reason we can get away
+with this trajectory trick is because of the
+conservation of momentum. Think back to jumping on a regular, person-sized merry-go-round. If you were to jump onto a
+merry-go-round as it's spinning, you would increase the mass of the system, and so to keep everything conserved, the rotational velocity of the
+system would have to go down, and you wouldn't get an extra velocity after you jump off, but in
+the case of a gravity assist, what you're using as your
+merry-go-round, so to speak, is trillions and trillions
+of times heavier than you, if it's a planet, so when you enter its
+gravitational influence, you do slow down the planet,
+but insignificantly so, and you add a significant-to-your-scale
+amount of velocity to your movement, and
+this stealing of velocity is why I call my ship the Velocity Thief. You can't use that; it's trademarked. Ha ha, thief away!
+(rocket rumbling) When a gravity assist is done
+with precision and intent, it looks like this. Here are the Voyager I and
+II probes using Jupiter in separate missions to fling themselves to other points in space. No extra propellant required, no crazy sci-fi engines needed. Just math and science working together. The promise of free
+velocity is why in the 60s, a prolific scientist came up with maybe the ultimate gravitational assist, one that could bring
+interstellar travel times to acceptable levels.
+(rocket rumbling) My head's not that big. Slingshotting around
+space has everything to do with mass and velocity,
+momentum, and so you may suspect that moving yourself around
+some celestial object with more mass and more velocity would make for a better slingshot. Well, that's exactly
+what legendary physicist Freeman Dyson thought too,
+yes, of Dyson Sphere fame, and that's why in a 1963 paper, he came up with a way to
+slingshot yourself around something with ridiculous
+velocity using a body much larger than Jupiter
+and moving a lot faster, white dwarf stars, but
+this idea wouldn't involve just any old stellar remnant
+fighting off collapse through electron-degeneracy
+pressure alone. No, this would involve a pair
+of binary white dwarf stars orbiting each other, either naturally, or placed in an unnatural orbit by some ridiculously-advanced civilization and orbiting each other
+really, really fast. No, no I know, really
+fast, I'm getting to it, just a second, yeah yeah, geez, all right. Yeah, I'll do the math, geez, stop it. Gravity assists are so promising
+as a transportation tactic because of how the math works out, to let's imagine that we
+want to move our spacecraft around our slingshot star in question in a path that looks like this. When the two gravitationally
+meet and interact, they're gonna interact with
+each other in relation to their relative velocity between them, so if down is positive
+in our picture here, we can actually add these
+two velocities together. And on the other side of this maneuver, our spacecraft will actually
+add the star's velocity to its own which sounds a little weird, but you can think about it
+like throwing a tennis ball at an oncoming train and
+having the tennis ball bounce off at the train's velocity plus the relative velocity between them. A lot of textbooks use that example, but don't throw things at trains. With the right slingshot, a spacecraft could add twice
+a star's orbital velocity to its own, and if that
+star is going fast enough, this might all get us
+quickly across the cosmos. The original paper, entitled
+"Gravitational Machines," envisioned a gravity assist
+that looks like this. A spacecraft would enter this looping path in a binary white dwarf star system, and then fling itself out of the system with twice this velocity, and for orbiting stars like this, all we need to know to
+figure out what velocity they're orbiting at is
+their radius and their mass. Dyson envisioned for this
+scenario white dwarf stars with one solar mass, the mass of our sun, and radii of 20,000 kilometers each, and you have this equation, and you can look up Newton's
+gravitational constant and the mass of our sun, so pop quiz! If a spacecraft could
+leave a white dwarf system with twice their orbital velocity, how quickly could this slingshot
+get our spacecraft going? You can look up these values. Here's your equation. I want you to try the math
+yourself; it's empowering. I'll, I'll wait.
+(Caribbean techno music) The correct answer is C,
+almost 1% the speed of light. This is the true power
+of a Dyson Slingshot, a gravitational machine
+that could get us to the nearest star in under
+500 years instead of 79,000, but why stop here? If these assists want even
+more mass and more velocity, why don't we use the densest
+objects in the universe and make them move even faster? If you squeeze a white
+dwarf star down even further so that the only thing
+keeping it from becoming a black hole is neutron pressure, then you get one of the
+most extreme objects in the universe, a neutron star. When gravitational machines
+were first conceived, neutron stars were only theoretical, but the math was done on them anyway. You remember our equation, right? Well let's give our neutron
+star some realistic numbers. Let's say they each have again, one solar mass, the mass of our sun, and each are just 20 kilometers in radius. This star wouldn't even
+over all of Los Angeles, so I'm not gonna just
+tell you what velocity we could reach in relation to light speed because pop quiz! You have the variables,
+you have the same equation. I want you to try to get
+the right answer for this. It feels really good when you get it, and I'll just wait here, hyah!
+(Caribbean techno music) The correct answer is A,
+a little over a quarter of the speed of light. This is the true power of a theoretical neutron star slingshot,
+a gravitational machine that can get you going so quickly, you could reach the nearest
+star, not in generations, but in under 16 years, and
+as you made this journey, because of time dilation, you
+would age seven months less than everyone else in the universe. This is interstellar travel made possible. And it gets even more sci-fi from here. Gravitational machines could
+in theory be so effective that we could imagine
+an advanced space-faring civilization rigging up a
+network of them across a galaxy. Think of a ship bounding across the galaxy from one neutron star binary
+to the next artificial system traveling at a quarter
+of the speed of light between distant destinations
+carrying goods and services and people, making
+interstellar life possible, and if we couldn't do this, we still might want to look for these suspiciously-specific binaries because if we could find them, it might imply some advanced extraterrestrial intelligence out there. Of course, like any sci-fi-sounding idea, there are a lot of problems here, too, the first being we are talking about solar-system-scale engineering here, something we may be hundreds, if not thousands of years away from, or we just may never get there. And we didn't even mention
+how incredibly dangerous it would be to manipulate
+something like a neutron star, something that would spread
+you across its surface into a thin film of protoplasm
+just with its gravity alone, and we're not talking about something that is orbiting slowly. In this binary star system, the orbital period isn't like a year like how long it takes the
+earth to go around the sun. It's like five milliseconds,
+extremely quick, and this kind of orbit would
+of course rapidly decay and explode and rip itself apart if not constantly tended to. Hey, hey, hey, hey, hey. Trying to run an
+interstellar operation here. We would need a real
+mastery over the cosmos to make Dyson Slingshots a reality, a humanity advanced enough to move whole star systems around, and right now, we kinda have trouble just moving rockets and satellites around, but if we did ever get to this
+fantastically-advanced point, gravitational machines
+could be a realistic way to extend our cosmic
+horizon from what planet should we explore next to which star? Because science. (laughs) (upbeat techno music) The reason you can get twice
+a star's orbital velocity with a gravitational machine
+like we were talking about is kind of a weird
+gravitational interaction that mimics a perfectly elastic collision. This is the exact same thing
+that happens when you drop, say, a golf ball and
+a basketball together, and they both hit the ground, and then the golf ball
+goes shooting way off because of the conservation of momentum, because the basketball's so much heavier, the velocity gained by the
+golf ball is so much more, and again, you could prove
+this by throwing a tennis ball at a moving, oncoming
+vehicle, but don't do that! (logo chiming) 

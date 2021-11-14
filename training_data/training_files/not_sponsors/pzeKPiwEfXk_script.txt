@@ -1,0 +1,95 @@
+- Antivirus software is notorious for slowing down computers
+to the point where, without even thinking about it, it's the first thing that
+I remove when I get a new system with, you know, McAfee, or Norton pre installed on it, but while anti malware apps
+have grown in sophistication, along with the nefarious programs
+they're intended to fight, modern computers are also
+a lot faster than the Pentium 166 MHz that I was
+running when I formed that habit. So then, is running
+antivirus in the background still like driving around
+with the handbrake on? Wow, that sounds horrible. Horrible, unlike our sponsor. Thermal Grizzly! Thermal Grizzly's
+conductonaut liquid metal thermal interface material
+offers maximum cooling performance for your PC. Check it out, and keep your
+CPU cool at the link below. (upbeat music) (music fades out) To understand why security software would have any effect on system speed, we need a little bit of background. As I talked about in this
+Fast As Possible episode from, 2014, antivirus and anti malware software, are not quite the same thing. Antivirus programs primarily focused on garden variety bad guys, like viruses, worms, trojans, and key loggers. And they would run
+constantly in the background so that nothing could slip through, sapping precious system resources
+that could have been used to render Lara Croft's, (clears throat) tank top in more detail. But because antiviruses
+focused more on a specific set of known threats, they could
+miss some newer malware. Kind of like that famous
+attention experiment with the gorilla. That is where anti
+malware programs came in. They were designed to
+do periodic deeper scans of the entire system looking
+for patterns of behavior, or for symptoms that might
+indicate an infection, rather than a specific
+identifiable nefarious program. These deep background scans, obviously take up some CPU usage, and especially in the days
+of mechanical hard drives, would cause your disc to thrash around, reducing system responsiveness
+while they were running. Making matters worse, most
+good anti malware suites, included antivirus features, like real time threat monitoring, and downloaded file scanning, so that's like a textbook
+triple resource hogging whammy. On top of that, as the
+types and numbers of malware expanded, so did the
+databases of known threats, so it took more and
+more time and resources to check through a list that was growing longer
+than a CVS receipt. That is why PCs were slowed down by security applications in the past, but how bad is it today? To find out we ran some
+tests, choosing a few common security apps, and without protection. You know, as a control. Our test setup was designed
+to be representative of a high performance gaming rig, but one from a few years ago, and we ran it with, and
+without Windows security, the built in protection that
+as far as we know has a fairly minimal performance impact. We also used two of the most
+dread inducing anti malwares to ever haunt the prebuilts
+and laptops of PC enthusiasts; McAfee, and Norton. (angry computer noises) We focused on mundane everyday activities. You know, how long it
+takes to download, install, and launch an app. Unzipping, transferring
+files, and booting windows. That sort of thing. We also ran a handful of more enthusiast performance benchmarks, and there are actually a few surprising findings in our results. First up, is that a modern quad-core CPU should be enough to handle
+basic background scanning. Our gaming tests were pretty much a wash, and our worst outlier in Cinebench, compared to our control was McAfee, with only about a three
+percent performance difference. Here is what blew my mind though. Even with a PCI Express and DM SSD, workloads that hit both CPU and storage were almost across the board slower
+with anti malware running, than without, and both Norton and McAfee had measurably higher performance impacts, compared to Windows Defender. Unzipping a file took 35% longer with Norton installed on the system, compared to our baseline, and launching Adobe Premiere Pro, was anywhere from 5 to 30%
+slower with Windows Defender, and 25 to 35% slower
+with McAfee and Norton, compared to nothing at all. Nothing at all, nothing at all. Granted, in most cases this
+equated to just a few seconds, but percentage wise it's
+just way more than I expected to the point where I think
+there is still a strong justification for the
+outrage about system builders bundling the software, especially
+on entry level machines. I mean, even places where I didn't expect it to matter at all. Like, I would have told
+Riley not to bother with a file transfer speed test, we ended up seeing a shocking impact. All of our anti malwares were within a few seconds of our control when we were transferring
+a one gigabyte file to a server on our local network. But remember, that's a
+scenario where the bottleneck is our ethernet connection. When transferring to a local SSD, the difference was eight
+seconds with Norton, and over 12 seconds with McAfee
+running in the background. What the actual f- (bleep) In fairness though, this
+is a lot better than things used to be, where a scan
+would start in the background and you would literally go
+and make some hot chocolate or something while you
+wait for a game to fire up. So, how have we gotten here? Well first off, as I
+mentioned, PCs have gotten exponentially more capable then
+they were when I was a kid, and tasks that used to take up a significant portion of the CPUs power, now take a fraction of a percent. Second, remember those big malware databases we were talking about? Well they used to be
+hosted locally, on your PC, but now anti malware companies
+host them in the cloud, where servers can take
+some of the processing giving your personal computer
+some sweet sweet relief. Mitigating some more of the
+performance sucking effects, the first time that we launched an app, or downloaded a file, or did whatever, it actually took longer
+than subsequent tests. This makes sense, since once that app, or that process has been scanned, the security software knows
+that it's probably still safe the next time that you launch it. And it's nice that this
+feature worked because even if there is a
+performance impact initially, at least it doesn't carry
+on scanning the same thing, slowing slowing down every
+task, every single time. So in conclusion then, we're not saying; "Hey, go bareback, it's
+great, you're gonna love it" protection is important,
+especially for people who engage in high risk behavior online. We're just saying that this video has definitely inspired us to
+be more cognizant of our background tasks, because even ones that I have
+generally come to accept as just part of the package,
+like Windows Defender, could be a digital boat anchor
+on your PCs performance. If you want to learn more about this, there are entire websites
+dedicated to exhaustive anti malware testing, so if you have a few seconds, and those few seconds matter to you, we're gonna have some
+links in the description so you can check out which
+ones will let you stay secure, and speedy at the same
+time, like some kind of tortoise-hare hybrid. Not sure anybody wants that, at least not as much as they
+want to hear about our sponsor; Private Internet Access. What's in your online security toolkit? Adding a VPN helps you mask your IP, and encrypt traffic to
+and from your devices. PIA has reliable service
+with over 30,000 servers in more than 30 countries. They have no bandwidth caps, and they've got configurable encryption with and internet kill switch
+that keeps you in control of your connection. When combined with private browsing, PIA can make websites think
+you're in a different country, with all kinds of benefits
+like accessing content that would normally be geo-blocked, or getting cheaper prices on flights when flights are a thing again. You can connect up to five devices at once with a single account with
+clients for Windows, macOS, Android, IOS, and Linux, and
+they've got a free trial. So check them out at the link
+in the video description. Don't wait, it's great. Speaking of great, if
+you enjoyed this video, maybe check out our- hey, we did a bold stuff
+that manufacturers say. Normally I would say the actual word and just bleep it in post, but my sons here watching
+me record right now so that's why I'm not doing that, but we did one of those, you know, some
+things manufacturers say about Windows game mode and
+whether it makes a difference. I'm gonna link that one down below 

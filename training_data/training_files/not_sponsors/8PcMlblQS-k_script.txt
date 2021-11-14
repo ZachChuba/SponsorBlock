@@ -1,0 +1,86 @@
+- This is a NUC and kind of a large one. But at what point is
+a NUC no longer a NUC? (Alexander chuckles) Well, this is the Beast Canyon NUC. And Intel has given us
+room for a full blown, 12 inch of GPU in here. But is it small enough to be a NUC? Or should you just have built your own small form factor computer? We'll see, but not until I build a segue to our sponsor GlassWire. Instantly see your current
+and past network activity, detect malware and block
+badly behaving apps on your PC and Android device. Use offer code Linus and
+get 25% off GlassWire at the link below. (upbeat music) I've always had a soft spot for NUCs and this one is no exception. Meet the Beast Canyon. Sure, the eight-liter chassis
+is bigger than A4 Dan Case, but Intel has used it to cram some truly impressive hardware in here. But what I've got here has an i9-11900KB. Basically, a jacked up
+10 nanometer laptop CPU with eight cores and a
+juicy 5.3 gigahertz Turbo, as well as 32 gigabytes of RAM,
+half a terabyte of storage, a teeny tiny 650 watt power
+supply and an RTX 3060. That's pretty impressive
+but if it's so big, yeah, can we call it an NUC? Well, instead of calling the
+motherboard a motherboard, Intel called it the compute element. And in fairness, it is
+quite a bit different than your average motherboard. Basically, everything
+needed to run the computer so CPU, RAM, storage and even cooling, is taken care of by this tiny little box. It plugs into the
+baseboard, which allows you to connect other things
+to a PCIE connector, like our RTX 3060. Other than that, this thing
+is basically, just a small PC, it's kinda cute. It's like a slightly
+more phallic Ghost Canyon with its extension taking it
+from five liters to eight, with the goal of adding more power and bigger graphics cards. The Barebones kit doesn't come with a GPU, but Simply NUC's website
+has a Mini 3060 Ti and a full size 3070
+as ad-on card options, with support for up to a 3080. They've also added a third
+fan for better cooling and trust me, you're gonna need it. Just like you're gonna need one of our reflective Heatsink T-shirts to stay cool on these summer days, lttstore.com. But that extra fan doesn't mean
+you can put this laptop CPU under too much stress. In Cinebench, we were able
+to beat the Ghost Canyon NUC, despite it being overclocked
+to within an inch of its life. This thing was running at
+98 degrees, the poor thing. We were hoping the addition of this shroud around the Beast Canyon
+CPU cooler would help, but even on stock settings, it got up to a toasty 95 degrees. Although, once the turbo was
+done, it settled in around 75, which is, you know, pretty good. It's an 11900KB versus an
+11900HK so we're not surprised that the new one beat it,
+but it is still nice to see. If you want to play it safe, you could go for the i7 Compute element, but forget about dropping it down to an i5 because that's just not an option anymore. Apparently people didn't buy it. (Alexander chuckles) In games we see another
+marginal improvement with the Beast Canyon. The 3060 they sent us
+reached a high of 68 degrees during a one hour loop of F1. So it's just shy of a 70 degree mark, we'll start throttling back. On the other hand, the Ghost Canyon's 2070 reached 70 degrees very frequently. So it's got slightly better
+cooling and newer hardware, but why would you want a Beast Canyon NUC? Well, it's cool. I like it and it's cool. (Alexander chuckles) From the way you open it to the layout, to the upgrade path. If you're the sort of person who wants a small form factor PC, but doesn't want to actually build one. Let's be real, that can
+be an absolute nightmare. Then the Beast Canyon is
+well, an absolute beast. How to build a PC, the last
+guide you'll ever need. And I mean, just look at it. There's so much room for activities. The front end is mostly
+unchanged from the Ghost Canyon, it just moved down a bit. While the rear IO gets
+a couple more USB ports and upgrade to two and
+a half gigabit ethernet, the Thunderbolt ports have
+been upgraded to 4.0 from three and the wifi has gone up from six to 60. And before I open it up, check this out. (engine car starting) It's got underglow! A young Brian O'Conner would shed a tear. (Alexander chuckles) What we're looking down
+here, there's a super easy to access M.2 slot, bringing
+the total in the system up to four. If you do want to fully assemble it, it's not all that difficult. (Alexander chuckles) We've got four screws back
+here, they're all captive. Now this should just come right off. Yep, easy. I think these come out, ha-ha! Now the top peels off,
+this one's kind of tough, but you just need to give her and this one goes up and out. You're in. You can get it all of it now. Okay, here we go. And this is why we're actually in here. We wanna rip this GPU out, RTX 3060s, they're just kind of, you
+know, NVIDIA's one mess with RTX 3000. And get it out, there we go. So long Mr. 3060. So we have a 3080 Ti here,
+are you sure about this? (Alexander chuckles)
+- [Nick] Yeah! - So in the past, if
+you had a power supply that was kind of marginal,
+it was totally fine and you could sort of just do it. In this situation, the problem is that small form factor power supplies, because they're small have less capacity. So if you have something like a 3080 Ti and you chuck it in
+there, it draws 500 Watts, the power supply doesn't
+like it, it goes, boom. (loud explosion) That happened to Andy's and James' and the Billy Billy PC, I think. We've killed a lot of small
+form factor power supplies lately. We're just doing the 38.
+(Alexander chuckles) - [Nick] Yeah, we're playing it safe. - Yeah, we're playing it safe. It will fit. Will it suck? I guess we will find it out. (Alexander groans) (Alexander chuckles) That's fine. Nope. Got it. That was pretty simple. All right, let's game on this thing. Do you think it's gonna be fine? - [Nick] Yeah, it's gonna be fine. - I don't think it's gonna be fine, - [Nick] It's only a 3080. - But it's right up
+against the power supply. I think it's gonna run
+real fast and then just go. (Alexander blows raspberry) So idle we're looking at
+under 40 degrees on the GPU. CPU's already hit 95 degrees, great start. (Alexander chuckles) All right, here we go, here we go. It's getting toasty fast. 320 Watts, power consumption. GPU temperature did not take long, it looks like it's gonna hit
+70 degrees here very soon. Memory's at a casual 88. All right, we hit 70 degrees, it might start pulling
+the clocks right now. Currently at 1900 megahertz
+really quick, fast, actually. How long can it sustain it? It's hot but like in a good way, I think it's actually working. I'm honestly surprised
+that this 3080 is just fine in this little computer. (Alexander chuckles) So if I'm honest, I didn't
+expect the founder's edition 3080 to be happy in this thing,
+but it is so good job Intel. If you do wanna buy one
+of these and upgrade it, make sure that you pick
+out a two slot card and you can't go past 12 inches in length. So basically founder's edition
+that's kind of what you get. Now, there is a big problem though. The price. The base model with an 11900
+KB starts at 1600 US dollars. Once you upgrade the
+memory, storage, add a GPU, it'll set you back like (cash register sound) $3,000, pretty fast. (Alexander chuckles) Small form factor
+components do usually cost a little bit more than
+their standard sized ones. But we recently did a small
+form factor built, in the joke, that had very similar performance
+for nearly half the price. That's using a standard motherboard
+and a really big cooler. The cooling I think was impeccable. So yeah, at the end of the day, the Beast Canyon is super
+cool and if you're rich get it or if you enjoy a challenge
+and having an extra $1,500, maybe just build one yourself. What you're not gonna
+build yourself though, is a pair of shoes. So thanks to Vessi for
+sponsoring this video. Vessi footwear is known
+for being waterproof, they're lightweight, easy
+to pack and breathable. You don't need to worry
+about the weather anymore with a dual climate knit material, keeping your feet warm in the
+winter and cool in the summer, they have super easy slip on and slip off and are comfortable for traveling and fit almost any occasion. Some of us are wearing them right now, and they're also 100% vegan. Get $25 off each shoe using
+our code Linus Tech Tips at checkout. Check them out down below
+at vessi.com/LinusTechTips. Well, if instead of, you
+know, wasting all your money on this thing and wanna learn how to build a small form factor PC. Well, this video won't help
+you, but it's really difficult and an absolute nightmare
+and quite amusing. (Alexander chuckles) Watch it here. 

@@ -1,0 +1,9 @@
+Fasthosts are a British web host who've been
+in the business for twenty years and host more than a million domains. They're offering viewers from the UK the chance
+to win a trip to SXSW 2020 in Austin, Texas,
+including flights and accomodation. To enter the draw, you need to answer this
+techie-test question that I've written: this JavaScript code is meant to simulate
+a coin flip, but it's not working properly. Where's the bug? There's one big error that means it's only
+returning heads. If you reckon you know, click the link in the description and you
+could be off to SXSW. All the terms and conditions are over on
+Fasthosts' web site. Good luck! 

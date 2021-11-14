@@ -1,0 +1,120 @@
+Kylo Ren has a badass lightsaber not
+only does it have a unique cross guard but according to lore, Kylo constructed
+it with a craft Kyber crystal giving it a violent unstable appearance and sound. I'll let you in on a little secret we've actually been developing our own Kylo
+Ren lightsaber behind the scenes for well over the past year we even have a
+few ideas how to create the crack crystal look as well. So why don't we
+catch you up on the progress so far. If you've been following our channel, you
+know that lightsabers are nothing new for us. In fact our very first lightsaber
+build was already almost three years ago. Look at that red-hot steel oh my god it
+works, guys, guys it actually works! And thankfully that first build was the only
+one that resulted in emergency services showing up. Since then we've been through
+several iterations and with each version we've learned something new. Our first experiment used pure tungsten as a blade running over 10 kilowatts of electricity
+through it resulted in a hot yellow glow but we discovered that tungsten flakes
+off material at this temperature, releases a lot of potentially poisonous
+gases and gets floppy. Our second iteration featured a stainless steel
+ball screw threaded core, covered in a ceramic insulator with nitonal wire
+wrapped around the grooves. This glowed a solid orange yellow, but the longer it
+was on, the weaker the steel core became resulting in a floppy lightsaber. Not unlike the Schwartz lightsaber rings from Spaceballs. Oh, and it was high voltage DC
+which is rather dangerous as you can see we had some rather bright arc flashes
+when the whole blade shorted out. Which brings us to our third iteration. A titanium shell over a ceramicly insulated tungsten core. By running about
+20 kilowatts of electricity through it the titanium glows yellow white-hot at
+around 1500 Celsius but because tungsten has a much higher melting point than
+titanium, the blade remains rigid and solid. Since this discovery we've refined
+both the manufacturing process and the size of both the titanium and tungsten
+for optimal performance and we're quite happy with how robust the new blades are
+compared to our first attempts. If you want an in-depth look at our entire
+development process make sure you check those videos out. Once we were happy with our finalized prototype it was time to build a second
+lightsaber so we can live out every Star Wars fans fantasy, a lightsaber duel. I mean what's really the point otherwise? Make sure you check out that video as it
+was one of the most dangerous things we've ever done... On camera anyway. That's enough of a history lesson it's time to
+build a lightsaber. I've actually been working on this for over a year now
+right after building the first titanium lightsaber I started thinking if I can
+get one blade red-hot, why not three? All I would need to do is
+electrically connect the three blades and series in such a way that it fits
+inside of the hilt and can handle a couple thousand amps without melting. Pretty simple, right? With a series configuration each blade will heat up the same amount because they all have the same current. I decided to go with
+metal 3d printing because well, printing titanium is really cool and it lets me
+create some interesting geometry that would be really difficult to machine. Okay the design is done now we just need to get a metal 3d printed luckily James
+used to work with Mark Barfoot who is the director of additive manufacturing
+at EWI. Mark and EWI were instrumental in making this possible. We just sent them the CAD model and he took care of the rest. Oddly enough EWI
+didn't actually print any of the parts themselves because we couldn't get any
+machine time. Instead they got EOS in Germany to print the copper parts. And then got Renishaw to print the titanium parts. Renishaw actually has a Kitchener
+office meaning that we got to go see the parts being printed firsthand. Alright we're at Renishaw and I'm super excited
+because the parts are coming out of the machine today! Oh! There it is! Looking good. So basically we work through the glovebox to get all the powder out of the machine. I'm gonna self isolate, you guys can look through the
+window and I'll just vacuum the bolts. Pull it out and then you guys come back in when I get on the bench and do some shots of the parts. When you're working
+with metal powders, things can be quite explosive or dangerous so, because
+of that we have to be outside of the room right now while
+he's just finishing up processing the parts. It's really coarse right now. I'm hoping that we can keep that finish. Yeah this looks really nice
+though go I'm excited to put it together. I'm really hoping my tolerances fit well. Ok so this slots onto this, and then this piece screws onto
+both of them and holds it all together So the interesting thing is: this is
+the kind of thing you can do with 3d printing that's more difficult with machining. Is that both this piece and this piece are threaded separately and then this
+threads on over top. Aright so as you know Kylo Ren's
+lightsaber is a little bit different than every other lightsaber we've seen
+in Star Wars. In addition to having the cross guard it also uses a cracked Kyber
+crystal which gives the blade a very unstable crackling effect. Well I've got two commonly available chemicals here, cupric chloride and strontium chloride. These are used in fireworks, cupric chloride glows a nice green and
+strontium a red it's used in road flares as well. And to demonstrate I've got some
+on the table right here. Alright let's try the cupric chloride first. Nice blue green, look at that! Cool and then we have the strontium. Which burns- whoo nice
+and red. What we've done is we've taking these basic chemicals which are actually salts technically and we've mixed them with a binder. So I don't know
+if you can see that but we have the cupric chloride over here and we have
+the strontium chloride over here. So hypothetically we're gonna get red flame
+here, green flame there, which means we'll be able to have a colored
+lightsaber. Ready? Don't breathe this...! Will it ignite that is the question or will
+it just suffocate us with poisonous fumes? Well it's on fire but not in color. Well that's disappointing. So to answer the question now we cannot color the
+lightsaber blade. Unless we make one out of plasma. We do all of our shopping online
+these days which is why it's important to find the best deals but why is it so
+hard to find coupon codes that actually work? Well with honey it doesn't have to bee. Honey is a free online shopping tool
+that will find the best promo codes and automatically apply them to your cart to
+save you money. It works at tons of sites like Amazon, eBay, Newegg, Best Buy, Walmart
+and more and when you check out this little box drops down and all you have to do is
+click apply coupons, it'll scan available codes across the internet and you can watch
+the prices drop. Since we love Star Wars and it's May the fourth we wanted to
+give something back to our audience so let's go shopping at Zavvi. A site where we buy a lot of props for our
+projects. I've always wanted a Darth Vader helmet, Boba Fett t-shirt? Why not?
+How about an official medal of Yavin? Finally Mace Windu's lightsaber, let's
+see how much we saved. 20 pounds! Not bad, I love saving money! But as a special treat for our viewers I've negotiated an even bigger coupon you can
+use at Zavvi. Install Honey today to automatically apply this coupon on your
+next order. Plus if you install Honey and sign up using the link below you'll be
+entered to win these Star Wars items in a giveaway. I know, I know, you were hoping
+we're gonna give away one of our real-life proto sabers. But I spoke to
+our lawyers and unless we wanna get sued to oblivion we simply can't give away
+something so dangerous. Besides the Mace Windu lightsaber has
+full sound effects you can hit your friends without cutting their heads off
+and it's an officially licensed Star Wars product. Honey supports over 30,000 stores online and has saved it's 17 million members
+over 2 billion dollars so far. By not having honey you could literally be
+passing up free money, it's free to use and installs in just two clicks. Get Honey for free at joinhoney.com/hacksmith That's joinhoney.com/hacksmith Thanks Honey for sponsoring today's
+video. Alright I got all the 3d printed parts and they look amazing the next
+step is to remove all the support material, this stuff here and that might
+be difficult because it's also titanium so cutting off titanium is difficult,
+we'll see how that goes. Okay that was difficult to say the least,
+turns out titanium is very hard... Very difficult to work with in general so, I
+managed to get it out. I went through several grinding discs, endmills, all sort of drill bits it just destroys everything. But, we got it. The next step is to- I still need to machine this surface off. Drill them out and then tap
+these holes and then machine some of the inner components. Let's get started. Well that doesn't seem to be working. Alrighty... I've probably destroyed that bit and
+I've taken pretty well nothing off. Okay, I swapped it out for a bigger tool
+hopefully this will work. Seems to be working so far. I'm making these Teflon brackets in order
+to hold the copper emitters. These electrically insulate it from the
+rest of the system while holding it firm. Which is what I need, firm... Okay so the
+next step is to tap this hole right here, and it's going to be very difficult
+because, again, titanium is just very hard. Last time I did this was aluminum and it
+was still very hard I've gone ahead made a custom tool. Just a big bar to give me
+lots of leverage. Let's see how this goes. It's easy so far but I'm only just
+getting started. And I have a lot of leverage. Alight then. My next step is to tap this hole and I'm worried about that because the
+last time I tapped something on it, that was this one right here, I broke the tap. This is a much finer tap so I'm concerned it's not going to go well. But let's give it a go. So that actually worked. But I think I've ruined
+my tap, but it did work. I'm just going to give these copper
+parts a quick shine with the wire brush. I'm making some battery bus bars so that I can connect the eight Gens' tattu batteries in parallel. That is awesome just need to wire it up
+and then we can turn it on, I've got some stainless steel sheathing which
+I'm gonna use to protect the wires. Last time I used fiberglass but I thought
+this would look nicer. Alright this is the final step just
+need to plug in these wires. Which lead to the battery terminals and then we'll be ready to test. It's all done, all I need to do is plug
+it in. I'm gonna use the same battery pack as the last lightsaber for our
+lightsaber duel you should check out that video, just need to plug it in. Of course the circuit diagram is the same as the last one, I'm using the same
+contactor if you missed that you can check it out on maker.io. Super excited to turn this on for the first time I started this project way before
+the quarantine but since then I've been working on weekends so... All alone here, might as well try it out. Here we go. Heating up. Oh yeah! Look at that. Yeah, that's pretty hot. Aright I'm happy with that. You happy
+with that? I'm just gonna leave a note here for James so he can find this on Monday. I think he'll like it. Ian said he left a
+surprise for me here. Did he finish the Kylo Ren lightsaber?! Don't burn your hand off. Who do I look like? Anakin? Let's turn this thing on! Alright here- I should probably wear safety glasses. Knowing Ian made this. And I should probably turn off the lights. Hey Jarvis! Can you turn the
+lights off? Oh, that's got some weight to it. The three tungsten blades, it is
+pretty heavy. I'm kind of nervous to turn on. You can see it's just starting to heat up there... And now that- Oh... That is freaking cool. A bright, glowing, Kylo Ren proto-saber. Man I thought the heat off the old proto sabers was a lot but like, ohhh! This is highly dangerous. Let's go test her out. Hey, what are those? Who left these balloons here? That's frickin sweet! Alright this just might be my favourite
+lightsabre we built yet it is freaking awesome, the 3d printed titanium looks
+amazing, I think it's probably our most authentic Star Wars project we've done. Now you guys are gonna want to make sure you subscribe to our channel because
+we're not done with lightsabers yet. First of all we may or may not be
+collaborating with a certain famous youtuber to let him try out this
+lightsaber. And second of all, we've already started designing a retractable
+plasma based lightsaber. Which will be the world's most realistic lightsaber. And we figured out how to make that one a different color. So make sure you're
+subscribed, hit that notification bell and if you want to win that Star Wars giveaway make sure you guys sign up for Honey using the link below. 

@@ -1,0 +1,103 @@
+Adobe Flash is a multimedia technology that 
+powered some of the most iconic websites in   the internet’s early days like Newgrounds 
+and Homestarrunner. It allowed content to   be viewable whether you were on Mac, PC, or 
+Linux, and it became so popular that almost   every website had some form of Flash technology. 
+But today, the internet looks a lot different.   Flash has gone extinct, and Apple had a lot 
+to do with its demise. So in this video,   I’m going to explain the history of Flash, 
+and how Apple accelerated its demise.   This is Greg with Apple Explained, and I want 
+to thank Squarespace for sponsoring this video.   If you’d like to help decide which 
+topics I cover, make sure you’re   subscribed and voting polls like this one 
+will show up in your mobile activity feed. So Flash has a long history, starting in 1993 as a 
+piece of software called SmartSketch. Designed as   a graphics editor for the Mac that was optimized 
+for pen computing, which was a popular trend at   the time. But the stylus computing hype fizzled 
+out after a couple years as the internet became   the next big thing. So SmartSketch was rewritten 
+as a web animation tool called FutureSplash,   released in 1995. It allowed web developers 
+to add custom animations to their websites,   which was a novel concept at the time. And 
+FutureSplash eventually attracted the attention   of a software company called Macromedia in 1996, 
+who purchased FutureSplash and shortened its name   to ‘Flash.’ Macromedia was vital in modernizing 
+the software and encouraging widespread adoption.   In fact, Flash became so capable that it 
+wasn’t only being used for website animations,   but to create entire websites themselves. 
+Although there were drawbacks.   Search engines couldn’t read content that 
+was hidden inside a Flash website. So search   engine optimization was severely crippled. And 
+because the entire website had to be pre-loaded,   Flash sites ended up being much slower than 
+HTML. But because of its expansive functionality,   Flash was quickly adopted by web designers 
+looking to do more than what HTML and CSS allowed. This Flash uprising gave way to experiences 
+never seen before on the Internet.   Websites like Newgrounds and YouTube were 
+possible because of flash game, animation,   and video technology. The importance of Flash 
+in the internet’s history cannot be understated.   In 2005, Adobe acquired Macromedia and 
+became the sole owner of Flash. The   technology had become ubiquitous. Web browsers 
+automatically included Flash in their downloads,   and it was the #1 tool of web developers. 
+But despite its popularity, Flash still had   problems. And that’s what discouraged Apple from 
+including the technology on their mobile devices. You see, the Mac had supported flash just 
+like PCs, but when it came to the iPhone,   Apple decided not to support it. And they 
+had some good reasons why. Adobe actually   tried to get a mobile version of Flash working 
+on the iPhone before its launch, which would   optimize power consumption and patch it security 
+flaws, but the product failed to materialize.   This put Apple in a difficult position. They could 
+support flash anyway, giving users access to many   of their favorite flash-based websites, but those 
+sites would quickly drain the iPhone’s battery   and even crash it’s web browser altogether. So 
+to prevent this instability, Apple decided not   to support flash on the iPhone. And Adobe appeared 
+to be okay with the decision, at least initially. Users also weren’t too upset 
+with the lack of Flash support,   likely because they used apps to access websites 
+rather than the Safari browser. But the drama   between Adobe and Apple came to a head with the 
+release of iPad. Steve Jobs called the tablet the   most important thing he’d ever done, and based 
+on its sales success, he was right. One million   units were sold in just 28 days, compared to the 
+iPhone’s 74 days. iPad was actually the fastest   selling electronic device ever. But there was one 
+problem analysts and journalists kept bring up:   it’s lack of flash support. And Adobe wanted as 
+much attention brought to the issue as possible.   With mobile web browsing on the 
+rise, and desktop browsing declining,   the relevance of Flash was being threatened. Apple 
+had been focusing their efforts on encouraging   development of HTML5 as not only an alternative 
+to Flash, but also an eventual replacement. Alright now Apple didn’t push for Flash 
+to be replaced because of some personal   vendetta against Adobe, it was simply because 
+HTML5 offered a better browsing experience.   Especially when it came to mobile devices. 
+With HTML5, there are no plugins to install,   it doesn’t require as much processing power, 
+and it consumes less power. But perhaps the   biggest benefit is that HTML5 is open source. So 
+Apple can directly contribute to its development,   without relying on Adobe to fix 
+security holes or optimization issues. But Adobe wasn’t going to let Flash go down 
+without a fight. They immediately began   criticizing Apple’s devices, saying they 
+can’t access “the full web” because 75% of   videos online are in flash. But Apple pushed back, 
+asserting that most video content was available in   other formats or as iOS apps. And while that was 
+true when it came to the iPhone, many iPad users   browsed the internet with Safari, rather than 
+downloading individual apps. This made its lack   of flash support more visible than on iPhone, 
+since users would see holes in websites where   flash content should be. Steve Jobs was actually 
+asked about this issue directly during the All   Things Digital conference [clip] So while Jobs was 
+right in saying lots of flash content was being   updated to HTML5 and therefore become visible on 
+iPads, he avoided answering the question of entire   flash-based websites not even being accessible. 
+It sounded like a really big flaw in the iPad at   the time, and competitors like Samsung used it to 
+their advantage when promoting their own tablets.   While Adobe used it as an opportunity to 
+create as much bad press for Apple as possible. They regularly attacked Apple by claiming their 
+decision to not support Flash was anti-competitive   and potentially illegal. That Apple was protecting 
+the App Store by preventing content from being   delivered through Flash, and that Apple preferred 
+closed systems, unlike Flash which is open. But in   reality, the opposite was true. Flash was wholly 
+owned by Adobe, who had control over every change   made to the product. While HTML5, the technology 
+Apple was encouraging developers to adopt,   was literally open source. Anyone could contribute 
+to it, make changes, or add features. Adobe   never filed a lawsuit against Apple, but their 
+accusations were strong enough that Steve Jobs   was forced to publicly respond. He wrote a letter 
+called “thoughts on Flash” where he thoroughly   outlined why Apple decided not to support the 
+product on iOS. He wrote, “Flash was designed   for PCs using mice, not for touch screens using 
+fingers. For example, many Flash websites rely on   "rollovers", which pop up menus or other elements 
+when the mouse arrow hovers over a specific spot.   Apple's revolutionary multi-touch interface 
+doesn't use a mouse, and there is no concept   of a rollover. Most Flash websites will need to 
+be rewritten to support touch-based devices. If   developers need to rewrite their Flash websites, 
+why not use modern technologies like HTML5, CSS   and JavaScript?” He ended the letter by saying, 
+“New open standards created in the mobile era,   such as HTML5, will win on mobile devices (and PCs 
+too). Perhaps Adobe should focus more on creating   great HTML5 tools for the future, and less on 
+criticizing Apple for leaving the past behind.” And while Jobs managed to predict 
+the future with stunning accuracy,   that letter didn’t include all the 
+reasons why Apple ditched Flash. Six years later, it was revealed in 
+a series of tweets from Bob Burrough,   who used to be a software development manager at 
+Apple, that the technological issues with Flash   was only one part of the equation. The other, 
+had everything to do with their CEO Shantanu   Narayen. According to Burrough, Apple's stated 
+reasons for not supporting Flash were poor UI   and excessive power consumption. However, 
+Steve Jobs explained to the team at Apple   that the main reason was that Shantanu 
+Narayen would not take his phone calls.   He conceded that fixing bugs in the software 
+were mere engineering problems. However,   without an open dialog with Adobe, 
+he couldn't count on them to do it. But despite all of the drama surrounding 
+the lack of Flash support on iPad,   it didn’t seem to stop customers 
+from buying it. The iPad continued   to dominate the tablet market and the 
+issue became less and less relevant   as websites started transitioning away from 
+Flash, to HTML5. Just as Jobs predicted. Eventually, Adobe faced the 
+music and announced in 2017   that they’d stop supporting Flash in 
+2020. Which they did on December 31st,   and they blocked Flash content from 
+running completely on January 12th, 2021. So that is how Apple helped kill Flash. 
+Thanks for watching till the end,   and don’t forget to subscribe to help 
+decide which topics I cover in the future. 

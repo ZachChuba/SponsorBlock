@@ -1,0 +1,167 @@
+- On paper today's project is pretty much the simplest thing ever. After many hours of troubleshooting I've identified the problem
+with my VR gaming PC. The onboard USB ports are not compatible with the Vive Trackers
+that I'm using to enable full body tracking when I'm streaming VR. Now the solution to this on the surface is very straightforward. You need to just install
+a PCI Express USB card that uses a different chipset and run the Trackers off that. Unfortunately because it needs to fit inside my tiny home theater console, my VR gaming rig uses an ITX motherboard. So, I went out on the prowl for the smallest Mini ATX
+case that I could find. And this is it, the Sliger Cerberus. Now on the surface this project
+is super straighforward. Take a basically working computer and transplant it from
+one case into another with a different motherboard. But with how much has gone wrong with all of this so far. What the (beep) (beep)
+why are they drifting? I think it's pretty safe to
+say that I should probably have a camera rolling for it. So, why don't you come along for the ride? Okay I misrepresented the ease of this project a little bit. I am also going to be adding
+water cooling to the rig, and the reason is that this right here is the RTX 2080 Ti that
+was used for the, ah yes, Hydro dipping a graphics card project. In the process of hydro dipping it what happened was the PCB
+that handles fan control was actually damaged, or one of the connectors
+was loosed in some way that makes the fan ramp up
+and then ramp down constantly. It's super annoying. That is literally the only reason that I'm going water cooling. To quiet down this now defective card. This case is not really built as a water cooling focused product, but I've seen enough builds from other users online that
+have water cooling in them to suggest that it shouldn't
+be too challenging. Front I/O is already a bit
+of a hassle for my setup just because these are coming out the top and I think this is basically exactly the height of my media cabinet. The cold hard truth is
+there's no way around it because you can see here, the motherboard is gonna
+be basically the entire height of the case. All they've added that might
+be considered extraneous is this fifth PCI Express slot which actually could come
+in handy for me big time in the future if a motherboard arrives that has a PCI Express
+16x slot on the bottom. Because then I could put my graphics card right down at the bottom of the case and that would give me
+three more expansion slots. That's a bigger factor for
+me then you might think, because one of the other
+things that I might want to add to the system in the
+future is a wireless card for wireless VR. So, that's already two right there just for USB and wireless. Crap. This is my first time
+hands-on with this case. It's reasonably solid feeling but the construction is very basic, like pretty much every piece of it is some kind of table cut steel. That's about it. Really easy to get it opened up so you can start working in it though. I opted for a few accessories, there's a handle kit in here. We've got a handle bracket, SFX power supply adapter. Oh no! Did Jake screw me over already? He didn't send me an SFX-L power supply. I'm gonna give him the
+benefit of the doubt, maybe I don't need it. Anyway first order of business is to get all the old
+hardware stripped out of my VR gaming rig. This two terabyte hard
+drive has gotta go for sure, I'm gonna replace that
+with a high capacity Solid State Drive. You probably assumed I have
+a lot of this stuff, I don't. I actually love bottom mounted SSD. Kind of wish I had another matching industrial fan for this system. Jake sent over a FF12 so I'm just not sure of they're
+gonna have enough gusto. 2080 Ti and a Radeon 3900X. This project is frustrating
+for a couple of reasons, One is that it feels pretty stupid to have to upgrade a motherboard because the onboard has a compatibility problem. But that's what you lock yourself into when you buy a system with no expansion, whether it's a compact ITX or
+other DTX based one like this. Or whether it's a laptop with all the stuff soldered onto it. But that's the trap that
+you stick yourself in. And another is the timing. We are a month away from
+B550 boards being available and here I am picking up a B450 board. B550 is gonna be way better. PCIe Gen 4 bifurcation support, I mean probably better support
+for upcoming processors. Just it's a bad time to
+buy a budget motherboard 'cause it will probably be
+at a kind of a similar price. If I'm stuck with it, the B450M Steel Legend from
+ASRock looks pretty good. Couple of M.2 slots, the two expansion slots I need and it's reasonably priced. I know people get triggered
+my reusing thermal paste but it's well established that it doesn't make a
+performance difference at this point so. For memory I'm reusing this
+3200CL16 kit from TEAMGROUP. It's nothing particularly special but I'm also not going for bleeding edge performance
+here necessarily. If I miss a frame or two
+then it is what it is. Normally I wouldn't go straight for putting the motherboard in the case but in this instance I'm gonna
+kinda need to put it in there to visualize what's going on and how everything else is gonna fit. The Cerberus is also extremely open so I'm not expecting that
+putting the motherboard in is gonna limit my options
+too badly as we go forward. And I remember how hard
+we all used to cringe at the camo colored schemes on
+motherboards back in the day. Who's laughing now? Motherboard manufacturers
+selling motherboards to kids that's who. Oh that's cool. I don't know what this
+is but it's cool so. Interestingly it looks
+like I've got a fair number of options for radiator mounting, like can I even put one on the side if I really wanted to? It just comes down to finding the best way to tetris your own components in. So, let's keep putting stuff in and then see we what we end up with. So, we came up with the
+idea of salvaging parts from an all-in-one so
+that we could just get a CPU block with a pump built into it, and putting that on there. But I'm actually worried that this is going to interfere with
+a full ATX power supply. Oh man if this fits it is going
+to be absolutely borderline. Holy smokes. Hold on. Wow, that might actually fit. Okay. Jake took one of the fittings
+off this for me already just to make sure that
+they were barb fittings that we could adapt to custom
+water cooling equipment, but he left the other one for me to do and it's like really hard to remove. Now if there was ever a time I was likely to slice my hand open this would be it. All right we chewed it up a little bit. Not too bad. So, it goes on this way, which is gonna have these tubes come up right away from the power supply here. That's lucky, and I know for a fact we didn't plan that because I know that Jake
+did not open this case before he sent it over to me so. There we go. Let's go ahead and throw this on the CPU. Do you wanna go get me
+a power supply actually? I bet you could be back by
+the time I need to install it. - [Yvonne] You want me to go to the office to get a power supply? - What are the odds that
+you feel like doing that? Slim, got it. Dang it, we're gonna
+try and build this thing without a power supply. While normally I wouldn't
+put the graphics card into a machine until
+at or close to the end. In this case it makes sense because I need to be able to
+see how we're gonna plumb up the loop before I can decide
+where to mount the radiator. It's a shame though because
+the front of it was actually the more successful part of the hyrdo dip. Now for the special sauce, this is a really cool USB card. It has not one but four
+independent controllers so each of these five
+gigabit per second ports is actually a full five
+gigabit per second port, without being shared between
+any of the other ports. That's why it actually requires the PCI Express 4x interface. There we go, the solution to my problem, now I got all the USB. Oh you know what's crazy? I didn't even think of this, this board's got two M.2s
+and an extra PCI slot. So, even if I don't put a
+graphics card in the very bottom I could actually still squeeze another PCI Express slot out of it. Wait is this even gonna fit? Oh, right there. Three millimeters maybe? Nice. For ease of plumbing I
+would actually prefer to have my barbs on the bottom, but to make it easier
+to bleed the air bubbles out of this loop, 'cause I'm gonna have kind
+of an underpowered pump. I actually think I'm gonna
+put them on the top up here. Now that is a color scheme
+and a half. (laughing) It doesn't seem like much but I actually really like this cutout in the
+back here where the SSDs go, that is a really nice
+touch because it means that you'll have access
+to plug or unplug it, even if you've got a
+radiator installed there just by reaching around from the back. That is awesome. The SATA data cables are cramped
+behind the radiator here, you can easily access them like that. And then they plug into the motherboard right under the graphics card. You can barely even see them. The madman did it, just got back from the office with an SFX-L power supply. Among the Silverstone's SX800-LTI it's an extremely efficient and really cool power supply. It's 800 watts and it's just
+this teeny tiny little thing, like I would have to be actively gaming for that fan to even spin up
+which is pretty freakin' cool. Silverstone doesn't get
+enough credit sometimes and we're at the point now
+where if you've got an 800 watt 80 PLUS Titanium unit
+available in this size. It kind of raises the question
+why we need a bigger ones. Another advantage to going this route is I now have tons of
+room around my CPU cooler, so that's good. That gives me room to run the tubing and all that kind of
+stuff as well, very nice. Tha fact that all the
+panels in this case pop off makes it a lot easier
+to work with than I was letting myself believe there. Look at that, all right. No problem. This really is such an
+ingenious way to handle these. I've talked about it already
+but I can't get over it. I really like it. I'm using a tubing standard
+I don't normally use for this partly because Jake sent it over and partly because it makes sense for such a compact build. But these are 10
+millimeter inner diameter, 13 millimeter outer diameters. Just helps it take up
+a little bit less space which is gonna be at a bit of a premium once all this is in there. These are CORSAIR fittings and if I recall correctly
+they partnered with Bitspower on them which was a good move 'cause these are super nice. Putting a little of spare
+tubing over the fitting and then using that to get a better grip while you're tightening it is
+a pretty good little trick. My loop is gonna be really simple, first I'm gonna go straight down there then I'm gonna go out out from here, to this guy over here. And then out from here over to this one back here. It's not gonna look like anything special but it should work pretty well. Now the keen-eyed among
+you might've noticed I cut that a little short. That is because I have a
+pretty clever trick planned. I had wanted to use a proper T fitting but not being able to find
+that I'll settle for this. This is just a nice little
+EK multi-fitting block here. So, I'm gonna open up the top of this and then I'm gonna open up the other side, both of them up at the top of the loop. And I'm gonna use that to
+allow the air to come out while I'm filling the
+other side with water, and then to allow me to top
+it up once the air settles up in the top there. It's funny some of the things
+I'm doing here feel wrong. Like this a pretty ugly
+way to implement this considering how nice the
+hardware I'm putting in it is, but like it or not this is
+water cooling done practical. Another not pretty but practical thing, using zip ties to secure tubing on barbs. This is what peak performance
+looks like all right? My brilliant theory is that if I just pour water into this, it will fill. Okay we're dripping a bit. Fortunately that is what paper towels and GPU backplates are for. Oh you spilled your water cooling? Surprise Pikachu face. I was a fool, Our water bottle is for
+hydrating humans not computers, lttstore.com. All right. These tubes are full of water now, so I'm just gonna tip this back. Ooh okay. Here we go, and we're gonna see the water
+run down the other tubes. Hey there we go. My theory was that filling
+it this way would make it so I won't have to power on the system in order to bleed the air bubbles. So, let's see how well that's
+working out for me here. Actually it looks like
+there's still some air bubbles in the graphics card but not too bad. Really wish I had a couple more fittings, 'cause if I could just
+run tubes over to the sink and then into the faucet and just kind of fill it and flush it. I wonder if I do have them. Test time. That's pretty good. Now I now masking tape's
+not ideal for this but I need the wife not to wake up and be like, "Hey why is
+there a bunch of tape residue all over our faucet?" Here goes. Ooh, ooh it's splashing. Oh wow, there were definitely
+lot's of bubbles in there. Oh sweet. Okay this is officially how I'm bleeding every loop from now on. I ended up having to wiggle
+the case around a fair bit to get it all out but
+I'm pretty sure this loop is completely bled of air bubbles now. That is a full water cooling loop. And the system doesn't boot. Already tried a new power supply, already tried different RAM. That leads me to believe that I probably need to swap out the CPU for an older one and update the BIOS. So, it's daytime now and
+I'm back from the office with another CPU. If you wanna help come on over here kiddo. So, you wanna do a CPU swap do ya? - Yeah, please. - All right. Step one, remove this power supply 'cause we need to get at the CPU socket. Oh that's gonna take the fan off we don't wanna do that. - Oh. - Good try though, back here. Four screws. Okay careful don't touch
+the pins on the bottom, those are very fragile and if we break that I
+have to drive all the way back to the office to get another one. This is a pretty tight build
+and there's not a lot of slack. - Three cable thingy, some radar sensors. - Radar sensors what
+ware you talking about? - I'm talking about radar sensor cables. Okay let's go test this, see if it works. Think it's gonna work? - [Boy With Black Hair] Oh it's-- - [Man] Hey it's workin' nice! - [Girl With Brown Hair]
+Daddy what are these things? - Those are packing foam for the case. Hey you can't stand right in
+the front there sweetheart. - [Girl With Brown Hair] Daddy how can-- - And this is why I wanted
+to stay up late last night to get this finished. I think there might be
+a ghost under my table. - [Girl With Brown Hair]
+What's it gonna do? Bad ghost things presumably. (screaming) Does anyone wanna put on a panel for me? - [Girl With Brown Hair]
+Me please, me please! - [Man] You gotta push so hard. Go for it. Okay good job. Yeah you're gonna go last. You don't have to punch it you can just push on it. You just push on it, you gotta use your weight you gotta push. No you don't have to punch it. (giggles) All right little man you
+wanna give it a shot? - [Boy With Black Hair] I'm
+not a little man anymore. - You sure are you're my little man. Now that I'm closing it up, what's more impressive than
+how much stuff I have in here is how much stuff I
+could still fit in here. I could put a 120 or 140
+mil rad on the bottom with some 90 degree fittings without too much trouble. If this isn't enough cooling that's what I'm gonna do. I could put another fan here blowing down on the system memory. That could also be a good idea, I didn't even explore the handle kit just because I found the
+clearance was so tight in my media console that I wasn't going to be able to add that. But I think there's a fan
+mount that's part of it. Just a really thoughtful
+case with a ton of options, I actually really like it. And simple construction but top notch. That's it, that's a lot of
+power in a tiny container. In comparing the size to
+the old case I realized that height shouldn't
+have been my only concern. It's actually quite a bit deeper as well. Now for the big conclusion, the system performs admirably. Temps are around 75, 76 degrees on the GPU very nice. Not great for water
+cooling but remember guys this is only a 201-20
+radiator in a tiny case, and our CPU tops out at
+around 79, 80 degrees. Remember though that's
+with both components heating up the loop to
+the max at the same time, for about an hour and a half. So, this is an absolute
+worst case scenario. That means it's finally
+time for us to play some video games. You guys wanna play Takelings? - [Children] Yeah please! - I'm goin' for it, I'm goin' for it boys. Get wrecked. - Mine, no! Yours nothin'. Get wrecked my literal son. (laughing) Well that was a lot of fun, this video is brought to
+you guys by Manscaped. Manscaped makes manscaping safe and easy with their Perfect Package 3.0 kit. It includes everything you need to take your grooming
+routine to the next level. Including most importantly
+their Lawn Mower 3.0 trimmer. It's got skin safe
+technology with replaceable soft ceramic blades that
+cut course hair at 7000 RPM. It's got a rechargeable 600 milliamp power lithium ion battery for cord free use. It's waterproof so you
+can use it in the shower and it's low vibration
+so she won't steel it. Excuse me, so that it operates quietly. Grab this or their Perfect Package 3.0 that includes the trimmer and more, using code TECH to get 20% off and free shipping at the link down below. Get it the link's down below, for the product, you know you guys get it. You get it. If you guys enjoyed this video maybe check out, I don't know check out my
+review of the Valve Index. I really like this headset, my only complaint is
+that it's not wireless. I guess that's sort of the review. But I promise I get into
+more detail in the other one. I'll link that down below too. - Daddy are you right? 

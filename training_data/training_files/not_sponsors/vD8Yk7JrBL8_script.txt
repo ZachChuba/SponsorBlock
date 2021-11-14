@@ -1,0 +1,75 @@
+- We all know the drill by now, a new flagship CPU launches,
+everybody gets hyped, and then the lower end stuff
+comes out and nobody cares. And I get it, quad-core
+processors that lag behind the competition
+aren't exactly headline news. But stop! Because this time, everyone should care, because AMD Zen 2 architecture outperforms Intel's Coffee
+Lake clock for clock. And not only that, but
+today's new Ryzen 3 chips, the 3100 and 3300X, run more
+threads than the competition with higher clock speeds to boot. And that's not even all that AMD is doing to dick over Intel. So stick around, 'cause
+it's gonna be a wild ride. Brought to you by GlassWire. GlassWire shows you which apps are slowing down
+your connection in real time. It's used by security pros
+to monitor for malware, block bandwidth wasters, and
+detect suspicious activity. Get 25% off today using offer
+code LINUS at the link below. (upbeat electronic music) No, my friends, the biggest
+move here is the price. The Ryzen 3 3100, at $100, is about 20 bucks more than an Intel 9100F, and
+looks to be a steal of a deal for anyone who's looking to
+put together a budget gaming or content creation rig, a secondary rig or a first-time build,
+thanks to its extra threads and affordable price. Meanwhile, at just $20 more, and $30 less than the Core i5
+9400F that it competes with, the Ryzen 3 3300X is maybe
+even more interesting. On paper, it doesn't actually seem that different from the 3100. And, while it has more threads than the core i5 it competes with, it's actually got fewer physical cores. Four versus six. And while it has more
+threads than the Core i5, it's got fewer cores. But as it turns out, there's
+a big differentiating factor. The 3300X uses a single CCX layout, compared to the 3100's two CCX layout. If you're not too familiar
+with CCXs and their importance, don't worry about it. Basically, what it means
+is better performance, because it reduces the amount of time that the cores have to
+wait to talk to each other. That's really important for modern games, and render tasks that might take advantage of four or more threads. Enough talk though, our
+benches were equipped with DDR4-3600 memory across the board, fresh installs of Windows, and
+the latest patches available to make things as fair as they can be. And right away, boy, did we see what a difference Zen 2 makes for gaming, compared to our Zen+ Ryzen 5 3400G. Frame rates are anywhere
+from 20% to 60% higher than AMD's previous budget offering chain. Intel's Core i5 9400F does pull ahead by a few frames in a couple of cases, but overall it seems pretty comparable. But remember guys, this
+is at over $30 more. And the good news for
+team red keeps coming. Even within AMD's own line-up, third gen Ryzen 3 ends
+up being disruptive. For just a machine that's
+just for gaming, on a budget, man, it's hard to convince
+me to spend another 50 to $80 on a Ryzen 5 3600 over
+one of these new Ryzen 3s. Like, wow. For productivity, once
+again the new Ryzen 3's absolutely embarrassed the last gen 3400G, with a 25% higher Cinebench score, and a clean 15 to 20 minutes shaved off the Mozilla
+Firefox compile time. And, the 3100 consistently performs on par with even the more expensive Core i5, even at heavily threaded workloads. It is worth noting that, here at least, the extra budget for a Ryzen
+5 makes it a much better value for content creators, though, at least, in my opinion, compared to either the new Ryzen 3s or
+team blue's current offerings. But lots of people don't care about that, and only upgrade their
+computers for gaming. So, we're gonna try something
+a little different today. The Core i7 7700K still goes for as much
+as 250 to $300 on eBay, thanks to its reputation as
+a great, high FPS gaming CPU. Incidentally, it matches the four core, eight thread layout on our new Ryzen 3s. And yet, the gaming experience
+with these new Ryzen chips manages to be incomparable territory. (note rustling) For around $100. The Ryzen 3 3100 is typically within 80% of the Core i7's performance level, and the 3300X managed to
+stay essentially on par. And this is at a lower
+rate of power consumption. And then making matters
+even better for AMD, productivity tells us the same story. Ladies and gentleman, this
+is what it used to feel like. This is what we used to see after two and a half
+years of CPU innovation. Feels good, doesn't it? Both of the new chips ran cooler on our AIO water cooler
+bench than the Ryzen 5 3600, but something to watch out for is that, despite the identical 65 Watt ratings, it's clear that the
+3300X outputs more heat and draws more power
+than its little cousin, at nearly 70 Watts peak. That means that, while the box cooler
+easily handles the 3100, you may need slightly better cooling if you wanna max out the
+boost clock on the 3300X. To be clear, though, I'm
+talking about upgrading to an inexpensive aftermarket heatsink, not a pricey water cooler. So then, for budget gamers who plan to use a dedicated graphics card. These are some seriously
+potent little CPUs. And the news get even better. Alongside these new chips
+comes the announcement of the B550 chip set, which
+is going to allow motherboards with not only full PCI-E
+Gen4 on the CPU lanes, but also bifurcation. So that means we're gonna
+see multi-GPU operation by splitting the primary
+16x slot into two 8x slots for the first time on a budget chip set. It even uses less power
+than the outgoing X470 does, meaning that it no longer
+needs active cooling. I am expecting our holiday
+buyers guides this year are gonna have some very
+good things in store. The only question left, then, is which third gen, budget AMD CPU to buy? At just $20 more than the Ryzen 3 3100, the Ryzen 3 3300X takes the crown for me. $120 for what is
+essentially a Core i7 7700K without the overclocking headroom
+is a breathtaking concept. And it seems like, unless
+Intel's 10th Gen processors significantly improve performance, or slash their pricing, AMD
+has now got the very high end, the not-quite-as high end, mobile, and even the budget
+segment on lockdown now. Speaking of lockdown, what's in your online security toolkit, locking down your privacy on the internet. Adding a VPN lets you mask
+your IP and encrypt traffic to and from your devices
+and private internet access, has reliable service with other 3300 servers in 30 countries. They've got no bandwidth caps, and they've got configurable encryption, and an internet kill switch to keep you in control of your connection. When combined with private browsing, a VPN can even make websites think that you're in a different country, allowing you to get cheaper
+flights, aha, not right now, but maybe someday, and take
+advantage of other benefits of being somewhere else. Try it risk-free with our
+30-day money back guarantee, it works on Windows, macOS,
+Android, iOS and Linux, and you can check it
+out at the link below. 

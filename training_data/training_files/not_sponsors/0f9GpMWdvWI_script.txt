@@ -1,0 +1,137 @@
+This video will be a little different. I’m not sure if it’s exactly correct to
+call this an opinion piece, but this is largely a story about my personal energy management techniques, the lessons I’ve learned from them, and how we might apply them in the near future. I’ve also been motivated to make this video
+by headlines that paint the technique in a pretty bad light, when in fact the horror stories
+have everything to do with bad management decisions, and nothing to do with the idea itself. That idea is load-side energy management. It’s gotten some nasty press lately because
+the way it’s used today is usually reactive and rarely proactive. As the frequency of extreme weather events goes up, we’re finding more and more instances of energy demand on the grid outstripping its ability to supply it. In those cases, grid operators often have
+no choice but to shed load, or shut off the power to certain areas to prevent the grid
+from being overloaded or in particularly extreme cases, collapsing altogether. That nearly happened in Texas in the winter storm of 2021. But shedding load by disconnecting customers in rolling blackouts is a rather blunt instrument. It sucks. For a long while electric utilities have been flirting
+with more precise and less disruptive load-shedding techniques called demand response. Even before internet-connected smart thermostats
+were widespread, some utilities including mine offered discounts if you allowed them to remotely disable your air conditioning or perhaps clothes dryer using a lockout device
+during peak consumption periods. That could of course lead to some mild discomfort
+and annoyance occasionally, but at least you still had power. And so did your neighbors. See, heating and cooling is by far the biggest
+energy consumer of a home or building in general. And on hot days demand can suddenly explode when
+everyone’s air conditioners start running at the same time, so being able to ease the total demand on the grid by temporarily shutting off a few thousand air conditioners is a very useful tool for utilities. Now I know what some of you are thinking - "that sounds terrible and I would never, ever want that!" But these days, we have more flexibility than we ever have. What if the utility could turn your air conditioner
+ON before there was a supply problem? Now that smart thermostats are so common, utilities have plenty of customers who have installed much more sophisticated equipment
+than the air conditioner lock-outs of the past. And if done correctly, we can tap into a huge
+source of energy storage that you may have never realized we had. We often talk about the need for energy storage
+on the grid. Whether that’s to increase the viability
+of renewable sources of energy like wind and solar power or to help meet intermittent peak loads, having a reserve of energy on hand is a very good thing. In fact the idea of temporary energy storage
+isn’t new at all. Of course the trendy thing now is to talk
+about huge banks of batteries that are charged up when there’s lots of energy available,
+and discharged when that energy is needed later. Electric vehicles are likely to become a big
+piece of this strategy as time goes on. But we’ve actually been doing this for a
+very long time, just more crudely. For the most part we’re doing this because
+the load on the grid is variable and tends to peak in the afternoon. You may have heard this before but the trickiest
+thing about electrical generation is that supply and demand have to be equal all the time. Whenever demand goes up supply must increase to meet it. And when that’s not possible things start breaking. That’s been a challenge for the grid since the beginning, and is the reason pumped hydroelectric storage facilities exist 
+and have for many decades. These facilities consist of two water reservoirs
+at different elevations. Sometimes they’re natural and other times they’re engineered. When supply is greater than demand, we use that spare supply to pump water to the higher reservoir. That makes a store of gravitational potential energy. Then, when demand starts to outpace supply, we just let the water fall back down and capture its kinetic energy as it does so in turbines which generate electricity, thereby helping to meet the new demand. It’s just like charging and discharging
+a battery, except the battery is made of water and gravity. The biggest problem with this technique is
+that it is very geography dependent and tends to be ecologically destructive unless you get a really lucky pair of lakes on a mountainside or something. In the case of pumped hydro and other storage, we’re taking care of demand fluctuations entirely on the supply side. That’s pretty much how it’s always been done, and that seems to be the framework that many people are still thinking in. There are lots of clever ideas floating around
+to make energy storage more viable and scalable, from towers stacking concrete blocks, to molten-salt and flow batteries, to massive spinning flywheels. All of these strive to be a place to put excess energy when we have more or perhaps cleaner generation available so that it can be used later when we don’t. Now of course we don’t have as much storage
+on the grid as we’d perhaps like, so many utilities offer (or in some cases require
+the use of) tiered rate-structures. Again, that’s not a new idea. Just ask any British person. But in my particular case, I’ve volunteered for an hourly rate that’s set based on the cost my utility pays for energy in real-time. They offer this to encourage shifting demand
+away from high-stress periods which cost them more, and you could argue they’ve almost
+gamified it which, honestly, is kinda fun. This is what a typical summer day looks like
+on this rate schedule. This varies from day to day, and on milder
+days it often doesn’t even go above 6 cents per kilowatt-hour. You can actually see, too, that on particularly
+windy days the rate’s pretty cheap all day. We’ve got a lot of wind power around here. Now, this isn’t the actual rate I end up paying - there is a fixed cost of about 4 cents per kilowatt hour so realistically this bottoms out at about between 5 and 7 cents, something like that. But that’s still a lot cheaper than in the afternoon where the cost can easily be more than double that. Anyway, demand is lowest in the middle of the night and at least with today’s energy mix that’s when it costs the utility the least to purchase electricity from its suppliers. That’s because with this low demand cheap and efficient baseload generation is the only supply that’s needed. And, so that I can take advantage of these low rates
+at night, I use a roughly 16 kilowatt-hour battery that I just happen to have lying around. I charge it up overnight starting at 10 PM on the dot and it’s done charging usually by 3 or 4 in the morning. I keep it topped off until around 7:00 and then I start using it during the day and it doesn’t need to be recharged again until the evening. Now, the reason I just happen to have that battery lying around is because that battery is my house. Confused? Well, who’s to say a battery needs to store electricity? Now, before I explain this, let me acknowledge that this is somewhat situational and I get that. Not every building will be able to do this, but efforts to make this possible for more people could go a long way to providing a massive source of energy storage right now. This house is about 10 years old, is well-insulated, features low-E windows, and is shaded by trees in the morning and evening. All that means that even on sweltering hot days, it takes many hours for the indoor air temperature to rise. On a typical summer day, between 6 AM and 10 PM the air temperature only goes up by 7 or 8 degrees Fahrenheit, or about 4.5 Celsius. So, I just don’t cool my home during the day. At all. I don’t need to, because I charged the battery
+that is my house by overcooling it at night. Sure that might sound odd, but it’s not
+like I’m living uncomfortably. Quite the opposite, in fact. For how I like to sleep, which is nice and cool, this works out perfectly. And even with no cooling from 6:30 AM to 10:00 PM, it’s rare that it ever gets above 74 degrees in here. That’s 23.3 Celsius. This is even on sunny days and with heat from
+using the stove and oven for cooking. If I cool the house off at night, I simply don’t need any cooling again until the following evening. The worst it has ever gotten in the nearly
+two years I’ve been doing this is 76 degrees. Here’s what my thermostat schedule looks like. And before I go on, I want to be clear that I’m not suggesting
+ everybody should have this particular strategy. I’m just explaining my tactic which is based on pricing. However, if you’re in an area that is prone
+to rolling blackouts, you might consider being similarly strategic with 
+when your air conditioner runs during heatwaves. Anyway, at 10 PM the set point drops to 70
+degrees and the air conditioner comes on. On a milder day the air conditioner may be
+able to satisfy that within three hours, giving it a short break. But at 1:00AM (which is technically the next day) the set point drops again to 66 degrees or 19 Celsius. That may seem excessively cold but remember my goal here is to offset 
+my entire cooling need of the day. And this works! I’ve turned this house into a battery, a thermal battery. Although since it’s cooler than the outside
+it’s a negative battery but the concept is the same. Because my utility has provided me with an incentive to do so, and since my home is designed and sited well enough to make it possible, I’ve successfully shifted all of my cooling demand 
+exclusively to off-peak hours in the middle of the night. And I do mean all. At 6:30 in the morning the set point goes
+to 70 before going up to 77 (that’s 25 celsius) at 11. I’ve done that just in case there’s an unusually
+hot evening and the temperature rises quickly in the morning, but I’ve yet to encounter a day where the AC 
+actually comes back on between 6:30 and 11:00. The indoor temperature just doesn’t rise
+that fast, meaning that all my cooling happens between the hours of 10:00 PM and 6:30 AM. Here’s what that usage looks like according
+to my thermostat over a variety of days. On July 6 and 7 
+the temperatures were near 90, or 32 Celsius and didn’t drop below 70 or 21 Celsius at night, yet just over 7 hours of cooling in the middle of the night kept the indoor temperature from ever getting above a comfortable 75. (24 C). Of course, it’s not like this doesn’t
+have any downsides. Mornings are pretty chilly in here, and when it’s humid enough outside
+I wake up to windows that I can’t see out of because they’re all fogged up on the outside surface. This also means I don’t get any dehumidification
+except overnight, although I’ve always needed to run a separate dehumidifier in the basement because it’s just so forking humid here. And although my HVAC system won’t cool during
+the day, I do have it run a fan schedule so it circulates the air around 
+for 15 minutes every hour. That, combined with the dehumidifier, keeps
+indoor humidity below 60% even on rainy days. And because I’m a Midwesterner through and through, the dehumidifier is on a timer which will disable it during the worst of the peak hours, between 1 PM and 8 PM. I mean the pulls 500 watts and that’s not nothing! That timer probably saves me $0.40 a day. But honestly, it’s not just the cost savings
+that motivate me to do this. I mean, it’s certainly fantastic that even with
+an electric car and plenty of cooling my power bills rarely go over $150. And that’s also with a conventional electric
+water heater and clothes dryer (heat pump units coming soon). But sentimental me simply enjoys the knowledge
+that when the power grid is working its guts out to meet the demand of my neighbors, I’m
+not making that any worse. For most of the day the biggest consumer of
+power in this house is the fridge. And the dehumidifier... But not between one and eight! Now I know that one idle air conditioner among
+millions isn’t doing anything. But that’s why the utility offers this rate plan. They hope they can get some of the more adventurous
+people to sign up for it, shifting demand away from the times it can be hard to meet. If you do it like I’m doing it, you're creating energy storage! I said my house is a 16 kilowatt-hour battery. Here’s how - my 2.5 ton air conditioner
+consumes about 2.2 kilowatts when it's running. Over 7 and a half hours that’s just shy
+of 16 kilowatt hours. I used all of that energy in the middle of
+the night so that I wouldn’t need it during the day, and as far as I’m concerned
+that’s the same exact idea as energy storage. Pulling energy now when you have it so that you don’t need it later. So now let’s tie this back to the idea of
+load-side energy management. Utilities are increasingly offering schemes
+similar to the AC lockouts of the past, but utilizing smart thermostats. For some sort of discount or other incentive, you can grant your utility access to your thermostat remotely so they can shed load when necessary without entirely shutting off the power to your neighborhood. I mean that alone is good, but the trouble is that’s a reactive approach. And when you see headlines like this, loudly shouting that the utility raised your thermostat temperature ohmigod, well of course that’s gonna make people leery of the idea. But here’s the thing. We can forecast electrical demand because we can forecast
+the weather. That also means we can forecast generation output
+of renewable sources. I mean, this flexible rate structure that I’m on? Those prices are determined a day ahead. We like to make fun of meteorologists for
+getting stuff wrong but you gotta admit we’ve got the next day pretty well figured out at this point. And rather than simply shedding load when
+the grid gets close to capacity, a smarter idea is to proactively take on loads before that even happens. What these energy management programs should do is recognize when there will be a lack of supply in the afternoon, and in the time leading up to that, they should remotely *lower* the thermostats of the people who are signed up for them. That will store some energy exactly how I’m
+doing it now. I’m not saying they should set the thermostat
+as far down as I do, and besides that won’t make cooling happen faster - you’re limited to the system’s capacity. But lowering it a few degrees in the hours
+leading up to a forecasted energy shortfall can buy a few hours of time where no cooling
+is needed by those customers, or at the very least lessen the felt impact of a period with restricted cooling. And of course we can apply this tactic to
+heating as well, assuming your heat source is electric. Heat pumps for the win. If it’s looking like there’s gonna be
+an energy dry spell thanks to lack of wind output or even something as simple as everyone getting home and starting to cook dinner in the same three hour window (that’s a large part of why this time is so expensive), well just bump the thermostat up a few degrees
+an hour or two beforehand, and store that energy in the form of deferred need. And now that is literal energy storage - 
+in the form of heat energy. This could be a lot smarter than how we manage
+energy right now. Take for example the very idea of
+programmable thermostats. They’re great at saving energy for the individual by altering the setpoints when nobody’s at home or in the office. But a huge portion of us all leave home and
+return at similar times, so utilities have to deal with millions of air conditioners
+all starting back up in the same hour. Actively tweaking the set points based upon
+available energy could do an awful lot to ease these challenges of the grid. And, in case you haven’t already realized it,
+this is a great way to take advantage and increase the practicality of wind and solar power. One particular issue with solar power is the duck curve. This is what we call the challenge of solar
+output falling to zero right as energy demand starts to peak. A large criticism of solar power is this very
+problem - without storage other plants will need to start up to take on this load, many of which are natural gas. But what if we simply ran everybody’s AC
+when the sun was abundant? Assuming the buildings are somewhat modern, 
+well-insulated, and have good windows, there’s some energy storage right there. Cool it now so that when people get home, it’s a few degrees colder than what they set it to, and they won’t need to run the air conditioner for a few hours. And in fact some utilities are already doing
+this sort of planning ahead and not simply reacting to "oops we’re running out of juice!" And good for them. And here’s the best thing. Because so many of us have already installed
+smart thermostats of our own accord, this is possible at scale NOW. Sure, some people aren’t gonna be thrilled
+with the idea for various reasons, but they don’t have to participate if they don’t want to. And besides, if this is managed well-enough, you might not even be able to notice it. If my utility offered something like this
+I would definitely sign up for it, but as it is I’m able to offset the entire day’s
+cooling need to off-peak hours and I’m very pleased to continue doing that. Our local energy mix still favors shifting
+demand to the middle of the night, and that ends up utilizing a fair bit of nuclear power
+so in theory the carbon emissions from my air conditioning are fairly low. Which feels nice. Now of course, this is not 
+“The One Thing That'll Fix the Grid!” A heatwave like the pacific northwest just
+experienced is gonna make everybody’s air conditioners run constantly. Well, the people who are fortunate enough
+to have one in the first place. And we’ll run into the same problems in extreme cold. But I think this idea has a lot of potential
+and that we should be using it. With such granular control over some of the
+largest loads present on a power system, we can optimize for just about any situation
+all without impacting individual comfort beyond a few degrees. And frankly if you can’t tolerate your thermostat
+being bumped up or down a couple of degrees for the benefit of your neighbors, well I don’t think we’d be very good friends. It’s worth pointing out that although this
+idea may not work in many older homes and buildings (for example it certainly would not have worked where I used to live) retrofitting these structures with better windows and more insulation will do a heckuva lot to reduce our energy needs in the first place in addition to making them better candidates for this energy storage idea. I’d also like to point out that my parents
+are utilizing the same strategy that I am, in fact they’ve been doing it for nearly
+a decade, and their house isn’t nearly as shaded as mine. Plus it’s a little older. Yet the idea still works for them. They’re only limited by the fact that their
+home’s air conditioner is a little bit undersized, so even starting at 8 PM it sometimes can’t
+get the house down to even 68 by the next morning. But the time it takes to rise back up is pretty
+much the same as in my home, even though their house is in direct sunlight for many hours daily. Insulation is pretty neat stuff. In fact better building design with concepts
+like the passive house are also great areas of interest. However, that’s a different topic altogether. This is about more wisely using what we have now. I also want to touch on the fact that if we
+decide this idea is worth pursuing, we probably should reevaluate how we determine HVAC system capacity. An ideally-sized system won’t be able to
+drop or raise the temperature quickly. In the case of air conditioning this is on purpose because short-cycling can reduce the life of components 
+and doesn’t provide much dehumidification. But these sizing guidelines are all based
+on more-or-less constant thermostat set points, so 3 hours of continuous cooling may only drop the temperature by 3 or 4 degrees. With the advent of multi-stage and variable capacity systems, we can have the best of both worlds these days, and so if we are going to start using a building’s thermal mass as a source of energy storage at a large scale, oversizing HVAC systems might be wise. We’re probably going to want to do that
+anyway with these deadly heat waves we’re getting for some reason. We should also discuss, because I’m sure
+I’d never hear the end of it if I didn’t, ideas such as storage heaters and ice storage air conditioning. These are technologies that allow us to store
+heating and cooling energy but with a bit more control. Ice storage air conditioning involves freezing
+a large volume of water into a giant block of ice when electricity is cheap and/or available, and a series of pipes traveling through this ice block slash water bath reject heat picked up in a building’s air handlers and put it into the ice. Over the course of a day it melts providing
+active cooling while using very little energy. The biggest benefit, of course, is that you
+retain most or all of the temperature control while using minimal energy. Typically these systems are only found in
+large commercial buildings, however. Then there are storage heaters. These have been around for a long time, with notable use in Britain during the Economy 7 energy tariff period. During overnight hours when electricity is
+cheaper, electric heating elements heat up something like a stack of bricks in an insulated box. Then during the day, the box is opened allowing
+the heat from the hot bricks or whatever to escape. Stupidly simple yet very effective. Though some may say inelegant. But anyway, the point is there are a lot of
+ways we could be implementing energy storage on the grid that don’t actually involve
+storing energy on the grid itself. The biggest consumers of electrical energy
+will always be pretty predictable, and although some of the energy technologies we’re likely
+to rely on as the decade progresses are intermittent, they are pretty predictable, too. While I certainly think there’s a lot more
+work to be done, I hope that this video has made you a little more optimistic about the future. There’s more we can do right now than perhaps you ever thought. Thanks for watching. ♫ proactively smooth jazz ♫ (weird mouth noises) This is going pretty well. This is what happens when you actually rehearse by reading the script beforehand. And if done correctly, we can tap into a huge amoun... shoot! That probably wasn't audible, but whatever. My.. my toe, it clicked. ...doing this for a very long time. Just more crudely. Crood-i-lee.   Crood-i-lee. Did I say it like that? Well I'm not sure so I'm gonna record it again! I charge it up overnight starting at about 10:00P - no! It's not "about!" Stop it! Stop it! ...sentimental me simply enjoys the knowledge that when the power grid is working. Its guts out. PBBBTTPT So, neat idea, huh? Oh I bet the comments will be interesting. "I'D NEVER LET SOMEONE WHO ISN'T ME MAKE MINOR ADJUSTMENTS TO MY INDIVIDUAL COMFORT THAT'S AN AFFRONT TO MY GOD-GIVEN CONSTITUTIONAL RIGHT TO LIVE UNCOOPERATIVELY AS IF SOCIETY ISN'T REAL AND INTERCONNECTED" Stuff like that. 

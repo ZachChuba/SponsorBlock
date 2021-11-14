@@ -1,0 +1,51 @@
+The International Astronomical Union defines
+Brown Dwarfs as balls of gas in space that are too small to be bona-fide hydrogen-burning
+stars, but large enough to burn deuterium, which anything bigger than about 13 times
+the mass of Jupiter can do. Because of this, brown dwarfs are often called
+“failed stars” or “super Jupiters.” However, there’s a major problem with this
+deuterium-burning-based definition: it doesn’t make any scientific sense. First, unlike how hydrogen fusion is huge
+since it means you can shine brightly for millions or billions of years, burning deuterium
+doesn’t appear to affect an astronomical object in any particularly meaningful way,
+which is probably why you haven’t heard much about it. I mean, on this density vs mass plot, hydrogen
+burning is a cutoff that clearly distinguishes stars from non-hydrogen-burning things, while
+deuterium burning doesn’t appear distinguishing at all. So it may seem like there is no distinction
+between things that are slightly-too-small to be stars (which we call brown dwarfs) and
+giant gas planets, and that they’re all really the same kind of object. However, just because deuterium isn’t a
+good cutoff doesn’t mean there aren’t other options. So, let’s briefly list the features that
+DO scientifically distinguish brown dwarf-like objects from gas-giant-like objects (And a
+caveat here: some of these statements are still being debated within the astronomical
+community, but for each one there are at least some researchers arguing in favor of it): 1. Movement: Brown dwarfs (whether above or below
+the deuterium limit) and stars appear to be located and move in similar ways: in loose
+clusters with other similar objects moving with roughly the same relative speeds. Planets, on the other hand, move around stars
+in orbits, and are much closer to the nearest star – which can even be a brown dwarf. 2. Formation: Brown dwarfs (whether above or
+below the deuterium limit) and stars appear to follow the same distribution of masses,
+suggesting they form the same way: the gravitational collapse of a cloud of gas and dust. Planets appear to follow a different distribution
+of masses, suggesting they form in their own way: by accreting from the protoplanetary
+disk of gas and dust leftover around a star (or brown dwarf) after it forms. 3. Metallicity: The dust and gas leftover from
+star formation has higher concentrations of metal, so the atmospheres of gas giant planets
+have elevated levels of metal. Brown dwarfs (whether above or below the deuterium
+limit) have around the same amount of metal as stars. 4. Size of Orbits: Protoplanetary disks around
+stars typically don’t extend much farther than a few hundred times the distance between
+the earth and the sun, so that’s about as far out as you find planets. However, brown dwarfs (whether above or below
+the deuterium limit) often orbit stars or other brown dwarfs in binary pairs at significantly
+greater distances . 5. Mass Ratio: Protoplanetary disks are pretty
+much never more than 10% of the mass of their parent star (or brown dwarf), so a planet-to-star
+mass ratio is almost always more extreme than 1 to 10. However, brown dwarfs (whether above or below
+the deuterium limit) and stars regularly orbit in pairs with mass ratios much closer to 1
+to 1, suggesting they formed from their own clouds of gas and dust. Basically, a lot of evidence points to two
+separate populations of objects: things that form from gravitationally collapsing clouds
+of gas, and things that form from the leftovers. It appears an unfortunate coincidence that
+the overlap in these two populations is roughly at the mass where deuterium-burning becomes
+possible. I mean, IF we didn’t have any other good
+ways to distinguish between brown dwarfs and planets, sure, deuterium burning might be
+a reasonable rule of thumb. It’s also possible, as some researchers
+contend, that there IS no real, clear way of distinguishing between brown dwarfs and
+giant planets, and that they really do just exist on a spectrum. But either way, deuterium is more or less
+a distraction. So, among those who think that the evidence
+suggests brown dwarfs are different from giant planets, what supposedly distinguishes them
+is how they formed, their consequent behavior, and their composition. The claim is this: planets, no matter how
+big, appear to be the leftovers of star formation. And brown dwarfs, no matter how small, appear
+to be failed stars: they started off the same ways stars do by gravitationally collapsing
+from a cloud of dust, but failed to capture enough mass to burn hydrogen. Perhaps in the end it doesn’t matter how
+badly they failed – that is, it doesn’t matter if they also can’t burn deuterium
+– what matters is that they aspired to be stars, and fell short. 

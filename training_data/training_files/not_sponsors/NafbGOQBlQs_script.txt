@@ -1,0 +1,25 @@
+The sky is not blue – it’s mostly transparent
+air which is, at best, the color of whatever light it scatters. Sure, it does scatter blue
+light more than red light; in fact, the higher the frequency of light, the more it gets scattered
+by the atmosphere, so ultraviolet scatters more than blue, which scatters more than green,
+more than yellow, more than red, more than infrared – but still, only a tiny bit of
+light scatters while most of it goes straight through, which is, you know, how the sun can
+light up the ground, why we can see the moon and stars, etc. The sun itself actually emits a wide range
+of frequencies of light, and our human eyes perceive this particular combination as "white”
+or neutral in color. The vast majority of the sky appears blueish because sunlight that
+was trying to go somewhere else got scattered by the air and instead ended up in your eye.
+Bummer. It still has a wide range of frequencies in it, but with slightly more blue than in
+white light, roughly the same amount of green, and less red. You can see a simple demonstration of this
+on a computer if I take a white background, add a bit of deep blue and subtract a tiny
+bit of pure red: I get a nice sky color! And the reverse effect happens when you look
+near the sun – light that was trying to get to your eyes gets scattered away, and
+so the remaining light has a lot less blue and slightly more red compared with white
+light, which is why the sun and the sky directly around it appear yellowish during the day!
+At sunset, there’s even more air for the light to scatter off of before it reaches
+you, hence the even richer oranges and reds. And of course you can do the computer demo
+again, this time subtracting pure blue and adding a little red: voila! Noontime sun.
+Subtract more blue and add even more red? Sunset orange. So, the sky is not blue; it’s a stage upon
+which all colors dance. Red colors tend to dance in straighter lines, green colors more
+randomly, and deep blue colors dance the most frenetically of all. Yet at some point, they
+ultimately dance their way into your eyes, and my eyes, and to the earth and into space,
+so that everyone everywhere can appreciate the grand ballet 

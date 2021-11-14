@@ -1,0 +1,37 @@
+Before we do so, I just wanna tell you a little bit about this video's sponsor, and that is Brilliant. Brilliant is an amazing, active learning, problem solving community
+with online courses and daily challenges
+for things like, maths, science, physics, computer
+science, that sort of stuff. They've got a load of
+courses that you can take to help understand concepts like, computer science fundamentals,
+programming with Python, data structures,
+algorithms, search engines, neural networks, machine learning, so that's in the computer science segment. And we've also got
+things like probability, how casinos work, the
+fundamentals of statistics, and just like, a load of really, really well-produced courses. And the nice thing about
+these courses is that, it's not just a passively
+educational video like this one. What it does is that they
+guides you through the concepts and then it forces you
+to use active recall to apply those concepts
+to certain problems. And recently they've introduced this new daily challenges feature where, it only takes about five or 10 minutes, but everyday there's a new challenge, based on maths, or physics,
+or computer science. And what they do is that
+teach you a little bit about the topic, and then
+they throw you into a problem, and then you try and grapple
+with the concepts in the topic, and then you solve the problem. And this is actually a similar format to how the education system works at universities like Oxford and Cambridge. And as part of their interviews, what the supervisor or the professor does, is that they would give
+you a little snippet of information, sort of,
+introduce you to a topic, and then they'll ask
+you a question about it, and then you have to, kind of,
+use your brain to figure out and, sort of, kind of
+actively go from step A to B. It's not the case that, you just kind of get spoon-fed information and then you have to
+regurgitate it back out. So, I really like Brilliant,
+I've been going through their computer science
+fundamentals course 'cause I can sort of code myself and I've been coding since I was very young,
+since I was about 11. But I've never really taken the time to actually understand
+how algorithms work, or like, the real basics
+of how computers work. And this, there's a
+lot of stuff these days about like, neural networks
+and machine learning, and AI, and Brilliant gives a really
+good, accessible introduction to all of those topics. So, if any of that sounds up your street and you're interested in, kind of, actively supplementing your learning with these interesting
+problem solving courses, you should go to Brilliant.org/ali. And the first 200 people
+to visit that link will be getting 20% off
+an annual subscription. A few of the courses are
+free, you can check 'em out, you can see what you like. But yeah, Brilliant.org, thanks
+for sponsoring this video. And let's move on. 

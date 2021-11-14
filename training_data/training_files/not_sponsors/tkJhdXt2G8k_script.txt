@@ -1,0 +1,64 @@
+[♪ INTRO] The first time you visit a new doctor, they’ll probably ask about your family history. Everything from heart disease to certain cancers to type 2 diabetes—if one of your close
+relatives has had it, they want to know. And for good reason. These family histories can give your doctor
+a sense of whether you, too, might carry an increased
+genetic risk for those diseases. Not a complete sense, though—because it
+turns out family history doesn’t tell you everything
+about the risks that can be hidden in your genes. And to understand why, you have to look at the complex genetics of disease. Sometimes, understanding disease risk— even beyond family history—is pretty straightforward, because in some cases, a mutation in a single
+gene can greatly increase your risk for a given
+disease. Take the genes BRCA1 and BRCA2, for example. Variants or mutations in those genes can give
+you a 45 to 65% chance of developing breast cancer at some point in your life. Not 45% increased risk, 45% chance. That's no joke—and something your doctor
+can help determine based on your family history. They might recommend that you take a genetic
+test, for example, if you have relatives with BRCA
+mutations or who have had breast cancer. But most people who get breast cancer don’t actually have those mutations. They’re only present in a very small percentage
+of the population. Researchers used to chalk this up to a hard
+and fast line between sporadic and hereditary
+disease. Hereditary disease is one that you, you know,
+inherit. A sporadic one isn’t inherited—it’s
+seemingly caused by something in your environment, or something
+else. Except that distinction is starting to break
+down the more we learn about our genomes. See, sometimes a single gene can confer a huge risk all by itself—like BRCA1 or
+2. Other times, though, it’s more like a thousand
+little cuts, because lots of genes are involved in increasing your disease risk. Basically, a large number of gene variants
+each contribute a teeny tiny amount to your risk of heart
+disease, cancers, or other conditions—and, the more of them you inherit, the greater
+your risk. That’s true even if your parents or grandparents
+never got sick. So from the point of view of your family history, it wouldn’t seem like you’re at risk—even
+though you are. We can detect the genetic part of these many-gene or polygenic diseases, though, now that we
+have the sequence of the human genome. One of the most important tools that whole
+genome sequencing has given us is a type of study
+called a genome-wide association study, or GWAS for
+short. These studies examine genetic data from a
+huge number of people—though, usually, there’s no
+need to sequence their entire genome. Instead, researchers look for genetic variants called single-nucleotide polymorphisms, or
+SNPs. These SNPs aren’t necessarily the variants
+causing an increase in your disease risk, mind you. They may just happen to lie in close proximity to the ones that did, and because of that, they’re inherited alongside them. By surveying for SNPs and inheritance patterns in these large studies, we can finally see
+the thousand cuts —metaphorically speaking of course. And “thousands” isn’t an exaggeration. Sometimes, we can identify literally thousands of variants associated with genetic risk. GWAS have identified genomic variants that
+can contribute a tiny amount to your risk of a
+given disease, even when you account for your lifestyle and
+your environment. Though, figuring out just how at-risk a person is of developing a given condition is not
+as simple as adding up the risky gene variants. Risk variants can synergize or cancel each
+other out in complex ways, so researchers have to
+do some heavy-duty math. The result of this math is something called
+a polygenic risk score: a number that assigns a person’s risk for
+a given disease based on the combination of genomic variants
+they have. And these numbers are helping us to understand the genetic nature of diseases we used to
+think were sporadic. Consider a study published in 2018 in the
+journal Nature Genetics, for example. They calculated a polygenic risk score for coronary artery disease and found that 8%
+of their study population had a three-fold greater
+risk compared to the rest. That’s twenty times more at-risk people
+than previous research could identify based on
+looking for known familial forms of the disease. Or, consider another 2018 study which calculated a polygenic risk score for aggressive prostate
+cancer. In that study, the polygenic risk score outperformed family history and widely-used screening tests
+in predicting who would develop prostate cancer, and at what age. Point is, these scores could be calculated long before a person develops the actual illness —maybe even at birth. Then, those patients could be encouraged to practice healthier lifestyle habits, or given
+targeted drugs —because, like most things in genetics, polygenic risk scores are not destiny. Your lifestyle and environment still matter,
+a lot. So tools like this could help us spot huge
+numbers of people at risk of getting sick and then help them
+never get sick. There’s a huge caveat to how useful these polygenic risk scores are, though. You see, the people who have been studied
+in GWAS so far are overwhelmingly of white European
+ancestry. And that means, when polygenic risk scores are calculated using existing data, they’re most informative for white folks. Many scientists are aware that the field of
+genomics has a diversity problem and are taking steps
+to fix it. But such data are only now being collected. Some researchers believe this diversity problem is the single biggest obstacle to getting polygenic risk scores into the clinic where they can actually help people. If that hurdle can be overcome, though, these scores have the potential to help patients
+head off diseases before they have a chance to manifest. Which could be great news for lots of people. And even before then, understanding how all
+these genes work together in tiny ways will help
+us unravel the intricacies of genetic diseases they help
+cause. [♪ OUTRO] 

@@ -1,0 +1,28 @@
+One of the most revolutionary things we learned
+in the 20th century was that time is not absolute – the rate at which time passes for you
+(or anything else in the universe) is different depending on how fast you're moving and how
+much you're accelerating. In particular: time passes slower the more
+you're moving. This fact has been confirmed experimentally
+countless times – fast-moving muons take longer to decay, light emitted from a moving
+source has a lower frequency , and so on. But relativity of time can at first glance
+seem somewhat contradictory. Suppose we're flying past each other; from
+my perspective it seems like you're moving (and so time should go more slowly for you),
+and from your perspective it seems like I'm moving (and so time should go more slowly
+for me). It seems crazy that we can both think time
+is going slower for the other person – someone's time must actually be slower, right? Well, no - take a look at my giraffe. It's 3 meters tall. And your giraffe is 3 meters tall, according
+to you. But you're rotated relative to me, so you
+only measure my giraffe to be 2 meters high. And I'm rotated relative to you, so I only
+measure your giraffe to be 2 meters high. So we each think the other is measuring distances
+in space as longer, but it's not a contradiction. It's just that we've rotated height and width
+relative to each other. And similarly, when you change your speed,
+you rotate the direction of time – I have another video explaining why. But it looks like this: if every passing second
+I move to the left, then my clock will tick like this. And if every passing second you move to the
+right, then your clock will tike like this. So when three seconds have passed on my clock,
+I'll measure only two seconds having passed for you. And yet when three seconds have passed on
+your clock, you'll measure only two seconds having passed for me. So we each think the other is measuring distances
+in time as shorter, but it's not a contradiction, it's just how time behaves when it's rotated –
+it affects not just the passage of time, but also our notions of "the same time" . However, there's still an unanswered question:
+what if I stay on earth and you go off into space and then come back? Will one of us have actually aged more, or
+will we both have aged the same amount despite constantly thinking the other was aging less? This conundrum is called the Twins Paradox,
+and I'll explain the solution to it in my next video. But in the meanwhile, can you use rotating
+time to figure out why the twins paradox isn't a paradox? 

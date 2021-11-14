@@ -1,0 +1,29 @@
+If you know the explanation for why the sky's
+blue, you've heard that sunlight is white light composed of many frequencies and that
+higher frequency, bluer, light scatters in the air more than lower frequency, redder,
+light. So, you might ask "why isn't the sky violet,
+since violet is an even higher frequency than blue?". First off, ultraviolet light and x-rays are
+also higher frequency than blue, and that doesn't mean the sky is the color of x-rays… Both because we can't see them and also because
+the sun doesn't make very many of them and then the atmosphere blocks them all - which
+is probably why we didn't evolve to be able to see them. And secondly, the color violet in the rainbow
+is the "roses are red, violets are BLUE" violet. Not purple – it's dark blue. To see why, check out this Chromaticity Diagram! It's a graph of all possible colors as perceived
+by non-colorblind humans, ignoring brightness and context. The color displayed on the diagram is just
+to give you a rough idea – unfortunately your computer can't display all possible perceived
+colors – it can just display the ones inside a triangle like this, and is pretending for
+the rest. Single frequency light like that from a laser
+or from splitting white light into a rainbow is graphed around this outside edge, while
+any color anywhere on the inside or along the bottom edge can only be made with a combination
+of various frequencies of light. As you can see, pink, purple and magenta can
+only be made using multiple frequencies of light - there is no single frequency of light
+that's pink - and of course, white light is a mixture as well! Which is why you don't see any of these colors
+in rainbows made from prisms. But back to the Chromaticity diagram! See this line in the middle? This shows what color hot objects glow - we
+have red hot, then white hot, then blue hot. All of these "hot" colors are made up of a
+broad range of frequencies, since that's what hot objects emit. The sun, for example, is white hot before
+it hits the atmosphere, then its light is split by scattering off of air molecules so
+the sun looks slightly red hot and the rest of the sky looks kind of blue hot. Like this picture of a sunset! And the thing is this - if you notice the
+line for hot-object color, well, it stops in the middle of the diagram near whitish-blue. It never goes beyond that. And that's because the spectrum of light from
+an object hotter than the sun always has a decreasing tail, with slightly more blue than
+green than red, so you never get the right combination of frequencies to push the color
+towards purple, or for that matter, even towards a pure, deep violet blue. Kind of like how you can mix flour and water
+in different ratios to make bread, pancakes, or vegetarian gravy, but as long as you have
+flour in there, your gravy won't be gluten free. And that's why the sky appears blueish white. It's basically gravy. 

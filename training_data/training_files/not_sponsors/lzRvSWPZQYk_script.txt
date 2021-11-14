@@ -1,0 +1,159 @@
+The humble disc record is not often properly
+recognized for the impact its development had on the modern world. On the face of it, these records are just
+consumer products that allow music to be sold to the masses, a concept that itself only
+reached the mass market about 100 years ago. The truth is the impact of this technology
+goes way beyond consumption of pop music. In some way, the record’s closest comparison
+is the printing press. The printing press is often considered one
+of the most important inventions in history due to its ability to quickly and accurately
+reproduce ideas in written word; which in turn, greatly accelerated the transfer and
+exchange of knowledge. The ability to press audio to record so that
+it can be reproduced in scale did the exact same thing for audio. It functioned as a vector for cultural exchange
+and the revolution in recording technology ushered in by electronic and audio engineers
+that developed the technology is the foundation upon which modern communication systems stand
+upon. Of course, these days most of the music we
+consume is digital. The internet has changed not only the way
+we consume music, but also the amount of music [1] and the music itself [2]. Curiously while this is happening vinyl is
+seeing a year on year increase in sales [3,4]. Even more curious is the fact that half of
+the people who buy an album on vinyl stream it first [4] It remains a point of contention
+whether analog formats, such as vinyl, are actually superior to their modern day digital
+counterparts. Is vinyl’s resurgence just consumers seeing
+yesteryear’s technology through rose tinted glasses, a yearning for a physical connection
+to their music or does the music really sound better on vinyl? To understand the differences between these
+two we need to first understand the commonalities. No matter which format is used, analog or
+digital, both require audio data to be created by a recording device. The simplest of these would be the microphone
+which turns air pressure (sound) into a either a digital or analog signal, which can then
+be replayed as an electrical analog signal. This process was first put into use in 1877
+by Thomas Edison. While working on the telephone, Edison decided
+that it may also be worth investigating if sound could be recorded for later reproduction. Edison designed a rotatable cylinder disc
+wrapped in thin foil which was turned by a hand crank. Attached to the disc was a needle, which in
+turn was attached to a mouthpiece which adjusted the pressure of needle on the disc. Edison talked into mouthpiece while turning
+the hand crank at a constant rate and as predicted, the pressure of the soundwaves imprinted a
+proportional indentation which was analogous to the sound his voice created. When he finished recording, he returned the
+needle to the start. The indentations which were caused by his
+voice could now be played back by rotating the cylinder. Playback of audio while showing phonograph
+working…. This invention, the phonograph, was the first
+example of playable recorded sound and for all intents and purposes the vinyl record
+is essentially an iteration of this technology. The first vinyl recorded was pressed in 1948
+by Columbia - specifically, it was this recording on 12 inch: - Record plays -
+Mendelssohn's Concerto in E Minor by Nathan Milstein on the violin with the New York Philharmonic Vinyl records work on the same basic principle
+as Edison’s phonograph. A 3d representation of a soundwave is physically
+pressed on to a vinyl record. An impression is first created by a cutting
+head. The cutting head creates an impression that
+is a direct analog of the soundwave. This process creates a master that will go
+to create a stamper that moulds each record. When a record is played the frequency of the
+wave that you will hear will depend on how stretched out the wave is on the media and
+the volume will depend on the size or amplitude of the wave. This audio information will be pressed on
+to vinyl in one of 3 fashions: via horizontal modulation
+Vertical modulation OR via a compromise modulation of 45 degrees
+Horizontal modulation is always preferable over vertical modulation. This is because vertical modulation leads
+to more distortion and allows for less amplitude due to an inability for the stylus to track
+the groove and also a propensity for the needle to bound off the wave if the amplitude is
+too high. But if we run with only horizontal modulation
+we can only play audio in mono and we don’t have stereo separation of sound. Accordingly, we use a compromise modulation
+of 45 degree in order to allow for separation of audio from mono to stereo. As the stylus follows the groove, it moves
+a magnet wrapped in a small coil of copper wire, this causes an electric current that
+corresponds to the groove on the vinyl, which in turn corresponds to the physical sound
+waves that were originally recorded. The electric current can now cause a physical
+movement of the speakers which will reproduce that sound pretty faithfully. Some vinyl enthusiasts argue that this smooth
+continuous reproduction of sound from analog to analog is more faithful than digital music
+Part of this argument stems from the difference in how digital music is reproduced - high
+quality digital audio data is typically sampled 44,100 times per second and this data is recorded
+in binary format. Close inspection of the wave function produced
+from binary code shows that rather than the audio data being smooth and constant like
+real life, the audio data is jagged and technically non-continuous. Because there is an infinite amount of data
+between each second of audio, we have to sample the audio in regular intervals to minimise
+the size of our digital file. Comparing this to the smooth continuous waveform
+that is imprinted in vinyl you would think this might cause some loss in information. Whether there is loss of information or not
+depends on whether the 44,000 sample rate is high enough to be functionally the same. An answer to this was proposed in 1928 in
+a pivotal paper published by Swedish American
+electronic engineer Harry Nyquist [5], and was subsequently proven by Claude Shannon
+in 1949 [6]. They simply found that to recreate a frequency
+we only need to sample each individual wave at least twice. If not, the frequency will be digitized with
+a lower frequency. The maximum perceivable frequency a human
+ear can detect is 20,000 Hz, and so digital recordings with a sampling rate of 44,000
+Hz can capture even the highest frequency possible, thus the sound produced by a speaker
+using digital audio is effectively the same sound as analog recordings. In this case, the argument that analog recordings
+are more “faithful” does not meet the scrutiny of science and in theory digital
+and analog music recordings should sound functionally the same if played on the same equipment. The argument does not end here though, there
+are some constraints to how sound can be recorded on vinyl. Interestingly, these constraints largely explain
+both vinyl enthusiasts preference for the media and also why some might argue that digital
+recordings are a superior format for storing audio. The major constraint that impacts vinyl is
+simply its limit in data storage. This is simple to understand - A 12 inch record
+can only hold so much information in the format we’ve described. Each rotation of the record takes 1.8 seconds. The next question is how many times each 12
+inch can record rotate. Two things affect this, the frequencies found
+in bass notes require the groove of the record to swing out wider, just as the speaker also
+thumbs out wider when it plays base. Waves of higher amplitude that produce louder
+sound also require wider grooves. This means that both low frequency sounds
+and loud sounds both eat up valuable vinyl real estate. This in turn means that if you’re record
+has bass or is loud, like most contemporary music, there’s not going to be a whole lot
+of space on the record for your songs. The net impact of this is that there is a
+volume and time constraint on vinyl record that does not apply to digital music, which
+has huge ramifications for how we listen to music, and how music is created and mastered. Vinyl’s limitations do not end here. If the frequency is low and the amplitude
+too high (loud), the stylus can become prone to bounding off of the wave due to path the
+stylus has to take up the wave at speed. This can cause the record to bounce around
+and skip if not accounted for. Accordingly, bass needs to be center panned
+in the mix and a specific mix has to applied to music recorded to vinyl to stop this from
+happening. High frequency sounds also need to be taking
+into consideration while cutting a vinyl record. The issue is commonly referred to as the “Sibilance
+Issue”. Sibilance is that unpleasant hissing sound
+associated with s sounds and other high frequencies, that anyone who has watched my older videos
+will be painfully aware of. High frequency waves cause two fundamental
+problems in vinyl. High frequency sounds mean the waves are very
+tight together, the stylus has to surf these waves and turn extremely tight corners. When the curvature of the groove becomes tighter
+than the tip radius of the stylus, the stylus will begin to plow through the groove and
+you will end up with distortion. On top of this, extremely high frequency waves
+can lead to the cutting head that cuts the record to overheat. This is simply a matter of the cutting head
+having to take a longer path and having to do more work to cut these waves. The overheating can lead to inaccuracy in
+the cutting process and in turn to noise and distortion on the final record. To counteract the negative effects that extreme
+low end and high end frequencies have on vinyl, a group of American engineers developed what
+became to be known as the Recording Industry Association of America (RIAA) curve in the
+40s and 50s [7]. The RIAA is a equalization scheme that is
+applied to the sound before the master lacquer is cut. In essence, this curve reduces bass content
+and boosts treble in the record. Without this curve, low frequencies take up
+so much space that each 12 inch LP would only allow for 5 minutes of music. In addition, boosting the treble hugely lowers
+the surface noise that vinyl can produce due to the path the stylus takes. This is also why a turntable requires a special
+phono preamp – in addition to amplifying the tiny voltage created by the turntable’s
+cartridge, the preamp applies the inverse of the RIAA curve, perfectly restoring the
+music’s natural balance and minimizing the size constraints that are intrinsically linked
+to the nature of the media. So we’ve painted a complicated and grim
+picture for vinyl as a storage media. The actual truth here is that there is no
+functional difference in audio quality between digital and analog formats...and studies show
+that the human ear and brain is not sufficiently equipped to distinguish the difference between
+sound produced from analog signals when compared to a digital counterpart [8]. At the very least, this is enough to debunk
+the notion that digital music formats are a lesser quality format than analog formats. An important question to ask here is why are
+people, that understand these concepts, still drawn to vinyl? There’s a number of simple answers to this
+question: Part of it is the nostalgia factor - people
+have positive personal associations with the vinyl format from their youth and these associations
+invoke an emotional state that induces a sense of comfort [9]; and although there are no
+discernible differences in theoretical audio quality, vinyl does have a specific sound
+that is imparted due to the mastering process. Mastering is the process by which the final
+song is mixed for the final device it will be stored on. Over the past 36 years, due to the removal
+of the physical limitations of vinyl media and the spread of digitized music, songs have
+become increasingly louder and increasingly more compressed [10]. In essence, this means that the sound wave
+becomes compressed, forcing the quieter parts of a song to become relatively louder and
+the louder parts relatively quieter, the net effect being a louder, noisier song. As a result of this trend a vast majority
+of commercial music releases have been subject to a somewhat arbitrary loudness war that
+has forced them to increase loudness to keep pace. It has also resulted in increased use of compression
+of the music which some would argue has result in a loss of detail and nuance in the final
+sound. This development has been criticized by a
+number of prominent audio engineers [11] and is part of the attraction towards vinyl. Some people prefer vinyl for this reason,
+music properly mastered for the medium is to a certain degree immune to the effects
+of the music loudness wars and in some cases, this can mean that the more nuanced parts
+of the song are easier to pick out for a trained ear. Really though, given that this same information
+can be recorded on a digital format and replayed exactly the same, the answer to this question
+is that digital and analog formats are functionally the same in the quality of sound produced
+and any preference for one media or the other, is really just that, a preference. The longevity and iconic status of the vinyl
+record as a music format cannot be ignored though. Despite the shortcomings we’ve described,
+it is an incredibly durable and elegantly simple medium. This is probably best exemplified in the golden
+plated record sent on the Voyager 1 In September of 1977. It’s hard to believe but 12 billion miles
+away from here this record is floating through space. It’s cover contains simple instructions
+for playback based on certain universal constants and the record itself contains a high resolution
+snapshot of 200,000 years of human culture. Unless the Voyager 1 suffers a direct impact
+or encounter heat that may melt the record, this record in theory, should out survive
+even our species. Just as the technology for storing music has
+advanced the technology mixing and mastering music has, it has never been easier to get
+into music production, thanks to programs like FL Studio and Ableton which give you
+a virtual production room with all the tools you need to create a song of your own. first 1000 people to sign up with this link
+will get their first 2 months for free. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my twitter, facebook, discord server, subreddit and instagram pages are below. 

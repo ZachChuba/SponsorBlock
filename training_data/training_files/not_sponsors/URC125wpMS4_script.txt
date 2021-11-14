@@ -1,0 +1,76 @@
+Water bodies are a major part of the landscape. Oceans, rivers, and lakes are often beautiful,
+but they’re not necessarily convenient places to build things. Most of our tools and construction materials
+- not to mention our labor force - work better in the dry. And yet, many types of the infrastructure
+we depend on every day, including wharves, bridges, and dams, are founded below the water. How do they do it? Hey, I’m Grady and this is Practical Engineering. On today’s episode, we're talking about
+different types of underwater construction. One of the major costs of large construction
+projects on or near bodies of water is how to manage that water. The first thing you might think of when you
+consider underwater construction is divers. Humans can survive and even accomplish work
+underwater with the help of SCUBA equipment that allows them to breathe and stay warm. Professional divers can accomplish a wide
+variety of tasks like welding, cutting, and erecting formwork and other structures. But, professional diving is dangerous, and
+the types of tools and equipment that both function underwater and can be used safely
+by a diver are fairly limited. Remote vehicles and submersibles can take
+some of the risk away, but they’re also limited in the types of tasks they can accomplish. So, a lot of underwater construction actually
+involves getting rid of the water so you’re not building under it at all. In the industry, this is called dewatering,
+or sometimes just “care of water,” and it includes a wide variety of construction
+equipment and techniques that all have a single goal in mind: to allow construction to happen
+safely and soundly in areas that would otherwise be infeasible or impossible to build because
+of water. The heart of many site dewatering plans is
+the cofferdam, a usually temporary structure built to hold water back from a construction
+site. Obviously, a cofferdam needs to be a structure
+you can build in the wet, otherwise, you’d need another cofferdam to construct it. In many cases, this is simply an earthen berm. You can just dump soil into the water until
+it creates an embankment tall enough to serve as an impoundment. Once your construction area is enclosed, you
+simply pump the water out. Of course, soil is somewhat permeable, so
+you need to constantly pump out the water that manages to seep through. And, uncompacted and saturated soil is not
+very strong. A collapse could be extremely dangerous for
+any workers below the cofferdam, so these types of structures require careful design
+by an engineer to make sure they’re safe. Besides earthen embankments, there are a huge
+variety of cofferdam designs used on construction sites. Some use sheet piles, thick steel plates that
+interlock together. These are driven into the subsurface soils
+using a huge hammer to create a watertight barrier. If the soils are too rocky to drive sheet
+piles, or the depth is very high, sometimes sheet piles are used to create small individual
+enclosures filled with soil called a cellular cofferdam. There are also cofferdams built of steel frames
+with a membrane and even water-filled rubber bags. No matter what they’re made from, cofferdams
+are almost always built to be dismantled and removed after construction. One important use of cofferdams is to build
+actual dams. In this case, often two cofferdams are necessary
+to block off the river on the upstream and downstream ends. But, when performing construction across a
+river, obviously impoundment isn’t the only necessary activity for dewatering. You also need a way to divert the normal river
+flows around the construction site. This is why many dams are constructed in phases. You can build most of the structure away from
+the main channel, then divert the river through the recently-constructed intake or spillway,
+and finally construct the closure section of the dam. The Hoover Dam was built in a narrow canyon
+and needed massive diversion tunnels through the rock on either side. The lower entrances to these tunnels were
+sealed off after construction, but the rest of the tunnels became part of the spillways. For certain types of structures, the foundation
+can be constructed off-site and floated in by barge, commonly called a caisson. A hollow box or cylinder is lowered into its
+proper location, and then the soil is excavated and removed from within until a sound layer
+of rock or strong soil is reached. Finally, the caisson is filled with concrete. Of course, that part about excavating down
+to a sound rock layer isn’t as easy at it sounds. In the past, this was often done by workers,
+which meant that the inside of the caisson needed to be dewatered. And when you dewater a caisson, you create
+a difference in pressure between outside and inside, with only soil in between. This means that a constant battle of seepage
+flowing in from the bottom of the caisson, or much worse, unstable soils that can rapidly
+erode and allow the caisson to flood. These problems are what led to the pneumatic
+caisson, a variation on the original design where compressed air is injected into the
+structure to balance pressure from the water below. In a pneumatic caisson, the air pressure is
+maintained equal to or higher than the water pressure at the bottom of the structure so
+that seepage and soil instability can be avoided. It works just like when you turn a cup upside
+down before putting it under water, except in this case the cup is much bigger, and the
+pressures inside can be much higher than normal atmospheric air pressure. This is why workers on underwater foundations
+often got “Caisson Disease,” the same decompression sickness that divers get if
+they surface too quickly. The use of pneumatic caissons is fairly rare
+today because of all the safety issues. In fact, most advances in construction technology
+with regard to water have been not toward better dewatering methods, but in how to avoid
+dewatering altogether. One of those advancements is the use of drilled
+shafts. With special equipment and construction techniques,
+you can excavate hole, install steel reinforcement, and fill it with concrete to create extremely
+strong foundation system without any dewatering required. Concrete is a lot denser than water, so if
+you can do it without much turbulence which can dilute the cement paste and weaken the
+final product, concrete placed underwater will cure and harden just as well, if not
+better, than if it were conventionally placed. The main way we accomplish this is through
+the use of a tremie, a tube through which the concrete is pumped or gravity-fed to the
+bottom of the form. The end of the tube stays below the top of
+the concrete as it fills the excavation, preventing the water from washing away the aggregate
+and diluting the cement. Whether the construction site is on the bottom
+of a lake or river, or simply located in the floodplain and only at risk during extreme
+weather, engineers and construction contractors put a significant amount of thought and consideration
+into the feasibility and costs of managing this water. Of course, this video can only scratch the
+surface of a topic that is as varied as the types and locations of construction sites
+around the world, but I hope it helps you understand a bit more about how we build infrastructure
+around water. 

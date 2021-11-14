@@ -1,0 +1,74 @@
+Hello, I'm Gavin. Welcome to this solo-hosted
+Slow Mo Guys video. There is a set of stills photos online, by a German photographer
+called Markus Reugels, I think is how you pronounce his name. He's done a bunch of droplet photography. So as the droplet falls into the water, and then rises back up and
+separates from its column, he'll take a picture, and
+it will refract an image, through the droplet behind. So he's done the earth and other planets. And we're gonna basically replicate that but have a video element, so you can actually see it in motion and hopefully see the
+separation of the droplet, and it'll just look like the planet Earth. As a little globe in a
+tiny droplet of water. Now, in order to make this work, we need to flip the world upside down, and that is because the droplet of water will be flipping the image. So, all of the information down here will be seen in the top of the droplet, and all the information from up here, will be seen the bottom. Kind of like how your eyeballs work. Now I didn't actually have a
+big map of the earth like this, so I printed one out, it's
+like 15 pieces of paper, cut them out and stuck into this board. It looks pretty terrible, but hopefully because it will be seen through a droplet about here, you won't be able to notice
+how shoddy my map is. We'll start at 12 and a half
+thousand frames a second, and the V2640 which means
+we need a lot of light, let me stop you down there. And this could take many, many attempts. Because this is such a fiddly shot, and this camera's very
+loud to stand next to, I'm gonna play it back on the 8K OLED. While we watch these back, I'm gonna turn off the on-screen display so, we don't have anything fixed. So this time I focused
+on the droplet itself. Yeah, and it does seem like the map is too far away from the droplet, to be in focus at the same time. So, I'm gonna have to figure out a way to add some depth here. I do love how the 12,000 frames, the separation here should
+be really, really nice. What do you think Smith? Oh, yeah, do you like that? It's cool, ain't it? What do you think of the droplet? What do you think of the droplet? It's good, ain't it? Yeah! So this is the opposite,
+the map is in focus, but the actual definition of
+the droplet is very blurry. That one went a little bit
+too high, just out of frame. So I'm just gonna tilt up, try again. So stopped the lens down here, that's why it's a lot darker. But it has brought this
+map slightly more in focus, I think we have to stop
+the lens down even further, to get that sharp-looking,
+which will make it even darker. But, this is currently
+at 12,000 frames a second and I think it might
+be slower than we need. God I love the way it
+stacks them like that. So, we could probably get away with dropping it to 6000 frames a second, and stopping the lens down even more. Reset the old syringe here. This is 6000 frames a second. so we've gained an entire stop of light, and I've been able to add
+a little bit more depth, it's still dark, so I'm
+gonna add another light. But this is just testing it. Yeah, so now the actual droplet itself is showing sharpness as well as the map. Getting there, wanna get
+just a bit more light now, so I'm gonna turn on
+this very bright torch, which may result in an
+extremely bright Africa. To my eye at the time, this one made the map look
+the sharpest I've seen. Definitely at the cost of the sharpness of the droplet though. Wow, you can actually see how
+bad my map is in this one, you can see that line. At the cost of even more speed, I think I've got the map and the droplet as sharp as I want them at the same time. We're only 3000 frames a second though, so it is a little bit briefer. Still long enough to see it. Oh, I'm liking this. I really enjoy videos like
+this, just experimental ones where you can just change
+one variable each time. Currently, the only light is on the map, and I'm wondering whether to get this to appear a little bit
+more spherical in 3D, I should actually shine some light to give it all highlights
+on the edges of the droplet. So maybe hitting the droplet
+with some light at some point, might be worth doing. So now I've taken the light that was blasting the top of Africa, and I've shined it
+directly on the droplet. So we have these glistening parts, it looks more like a marble, wow. Not sure if that's what we want, but that's definitely a different look. Not a huge fan of all
+these glasses putting in. I think for the next shot, I'm gonna get off this macro lens, and just pull back slightly, maybe get a shot of the
+glass, a bit of a wider shot and the map a little bit more in focus. So this will now allow me just to be a little bit further back, see the whole fall of the
+droplet, see the crown, see the column the
+separation of the droplet, and also the entire glass
+and the map at the same time. It's a lot easier when it's not macro. Back at 12,000 frames. Yeah, I feel like 12,000 is actually pretty perfect for this. It's incredibly leisurely,
+like it's not too slobby, really do see everything's
+happening there. And the shot has a lot more context, than the super duper macro stuff. So far there's still, in every shot, there's been sort of like a black border, on the whole thing, And I think that's mainly because my light is so close to the map, it's leaving very dark areas which I kind of need the
+light to be that close, although it's not intense enough. Such the glaring error in the shot. The light that's lighting me over there, is not a high speed
+light, is two low-power so it's flickering
+because of the AC current. And you can see it in the reflection. That is as high speed 101 really, up Next up, I'm gonna take this lens off, and the mount off as well. So it accepts a PL lens,
+one of these cinema lenses. This a 200 mil, so I'm gonna put this on, move the camera really far
+back to its minimum focus. And what that should do,
+is bring the background and the droplet, closer
+together in the shot. Perfect. Never in my life had a monitor this big. Just gonna top up the water a little bit. I can see stuff floating in it. So now I'd love to tell you
+a little bit about this TV. This is the world's first
+LG signature 8K OLED TV. It's 88 inches diagonally, which is bigger than my wingspan. I don't think you'll ever get old that they use the screenshot
+from one of our videos, as the YouTube sign in page on Android TV. I literally just press
+YouTube and that popped up. Let's put the resolution
+of 8K into perspective. If this was an HDTV, it
+would be 1920 by 1080 pixels which is about two megapixels. And if it was you HD, it
+would be 3840 by 2160, which is about eight megapixels. This TV is 7680 by 4320, which is about 33 megapixels. Every frame is 33 megapixels. Just for laughs, I've
+connected a PC to it, and I've set the
+resolution to 7680 by 4320 and it currently has scaling of 300%, which makes everything look normal sized. I'm just gonna set to 100%, 'cause then everything
+will be pixel for pixel at 8K resolution which... Well, that should be
+comical, to be honest. See how big the start menu is? So small! You could honestly sit here
+like this, do some work. Now, you might be wondering, what can I watch in 8K
+on a screen like this? Well, let me show you. We've actually been shooting
+a lot of our videos in 8K, for quite some time. So, you can watch our videos if you want. This one's available in 4320p50. See how it looks. If my GPU doesn't explode. I can see the bald spot
+on the top of my head. That's the downside of 8K I guess. In the last TV video I was showing how an LCD panel looked
+different to an OLED panel, under a macro lens. This is what the 77
+inch 4K OLED looked like under five times magnification
+through the macro lens. And just to show the
+increased pixel density, this is the 8K, 88 inch OLED
+under five times magnification. And that just about does it. Hopefully you enjoyed that footage, big old thanks to LG for
+sponsoring this video. And do make sure you
+subscribe to The Slow Mo Guys. We have a second channel
+too, I recommend it. 

@@ -1,0 +1,120 @@
+hello welcome to video game animation
+study today we're continuing a miniseries looking at the five
+fundamentals of video game animation as proposed by Jonathan Cooper in his book
+game on him video game animation explained this episode is sponsored by
+Squarespace a place to build your online presence in the last episode we covered
+the five fundamentals in a general overview and lightly inspected their
+relation to the existing 12 principles of animation as complementary offering a
+new light onto current emotion skills in the video game industry today we're
+going to look deeper at the fundamental of feel I could lead the most important
+of the five fundamentals of game animation feel is how a character
+handles during gameplay and can mean the difference between sluggish unresponsive
+gameplay and unrealistic detached gameplay feel directly links to the
+function over form philosophy that games I think should adhere to you want to
+feel in control of your character and animation that doesn't align with this
+will ultimately ruin your experience the player is going to be making different
+choices on the fly so if you're having to wait for an action to finish this is
+going to lock you out of that decision-making until it's done for
+instance a bigger or stronger attack may take longer to perform than a smaller
+weaker attack while if you're looking to make everything as responsive as
+possible you'll want to avoid sacrificing the weight of a character or
+the force of an action you'll want your character to read well and feel good to
+play fighting games are a classic example of where responsiveness is
+important the feel of your game let's compare my favorite fighting game
+skullgirls to that of something like Soul Calibur one is sprite based and one
+is 3d model based one has smaller and weaker moves that can play on Twitch
+faster and one has slightly slower modes that must be tactically planned
+one isn't better than the other but they both feel different to play because of
+the responsiveness of the characters another example could be when
+controlling Sonic the Hedgehog or Megaman one of them takes ages to build
+up to a top speed and one of them has a constant running speed from the second
+you touch your control one of the jewelry's when controlling these
+characters is the different skill involved from knowing the inertia and
+momentum of a character you know that you can control Megaman down to the
+exact pixel and change his direction midair multiple times
+whereas with Sonic you know you can do a little run up to gain some extra height
+to get to a new platform let's take a look at Batman from Arkham Knight now
+Batman is a tough brute his large frame he wears armor has got lots of gadgets
+readily at his disposal but he's still relatively responsive and fast moving
+the responsiveness of his moves are probably most apparent when you're in
+the middle of a brawl the Arkham series free flow combat system is something
+that feels subjectively satisfying to take part in you can tap a variety of
+buttons for a variety of attacks and dodges and you'll generally punch the
+nearest enemy no matter how far away they are or which direction you're
+facing there's a complex system of rigs and rules that decides which animation
+pose Batman or a part of Batman will need to be in depending on if near an
+enemy which direction they're in and what attack is going to do this can feel
+great to play you might occasionally get this little
+sliding around happening but it's debatable whether it's detrimental to
+your enjoyment of the gameplay because Batman is still in your control you
+could complement this with Marvel spider-man which uses that same free
+flow combat system spider-man is very light in slender when
+compared to Batman but he still fits this style of combat
+you've got more opportunities for a bit of a meanness to allowing moves such as
+zipping across with enemy with your web shot and staying up in the air while you
+pull up a thug to smack him around a bit free flow combat works well in both
+these games and only slight adjustment is needed to alter the feel of the
+character but what's important is that you build up a kind of trust of that
+character you know that if you make a mistake it's generally because you
+haven't controlled that character well enough it feels good to be able to
+control a character with all these varying possibilities to a fine
+precision that's some good animation think about this though in Batman you
+can control the Dark Knight himself and you can control his banner bill but you
+can control it in car form or in tank form with both having different controls
+and different feeling when playing some games have many variants of what you'd
+feel good to play the bat tank should feel heavier and more precise because it
+needs to move around and 360 degrees and be able to dodge and shoot whereas the
+car should feel like it can escape quickly and be able to turn corners in
+the way you'd expect a car to in other games like GTA and the fact you can
+switch from car to tank in a second is something they'll need careful
+consideration when designing how responsive these elements will feel
+let's look at this transformation in Yoshi's Island there isn't a run button
+but you do often take while to build up to running speaking however when you
+turn into a helicopter your controls were much more drawn-out turning and
+even staying up requires an extended press for button for the desired action
+to finally come to pass this feels massively sluggish compared
+to when you control Yoshi but this isn't necessarily bad because this is adding
+an element of challenge to a stage you'll probably need to get to grips
+with how this feels to control but once you've got it then you just need to
+perfect it it'd be a different issue if the entire game controlled like this but
+because it's a minor gameplay gimmick it's being designed with challenge in
+mind additional animation tricks can be used to aid the feel of a character such
+as follow-through and multiples for a big action if a big or slow action is
+taking place it might help the player still feel in control of a character if
+there's some visual feedback before the action takes place perhaps if your
+character is turning and it will feel weird and unrealistic if they're able to
+turn around from a fast movement really quickly then you can add in a bit which
+shows them looking to where they need to go just so it doesn't feel that the
+action itself is sluggish or unresponsive other feedback tricks
+include camera shakes and frame holds on impact or actions such as landing a
+heavy hit or taking damage there's no right or wrong way of applying field
+into your character the game will feel how you want it to it's very much like
+the traditional animation principle of appeal in that it's a difficult thing to
+measure and teach the feel is an important thing to nail down first
+because how your game feels to play will be how much your audience enjoys playing
+it and likely how much they'll remember it I've mentioned in my HoloNet video
+that team cherry wanted to nail down how it felt to jump before anything else and
+based the rest of the movement around that perfected action
+and Halle Knight is a game that's often remembered for feeling good to play
+here's a nice story just to tie this fundamental up as fancy as the
+animations are the developers of Streets of Rage 4 are trying to match the feel
+of the gameplay to that of the original Mega Drive games and they achieve this
+by literally playing the two games side-by-side and until they fill the
+same something as nostalgic a Streets of Rage is right for scrutiny and as such
+nailing that feeling is important for fans of the series and animation will
+come second to gameplay because of that of course that doesn't mean you can't
+add some fantastic visual flair to the animations around that gameplay feel now
+I look forward to playing you and that is the fundamental of feel thanks to
+Squarespace for sponsoring this video if you're an animator or creative mind
+and you're looking for them then professional-looking websites then go on
+right ahead and click that link in my description just there I know you see
+around all the time but having a Squarespace website is pretty neat I
+mean literally you can organize everything easily you've got a whole
+load of tools that enable you to share things that the platform's tech
+donations and so your analytical data and it looks professional to it which
+really helps if you want to impress a potential employer so use my link in the
+description to start a free trial to check Squarespace out for yourself and
+when you're ready to launch use my coupon code for 10% off your first
+purchase for a website automate okay random patron shoutout Aaron s Aaron s I
+like it sounds like some sort of DJ or music remix artist catch you next time
+love you bye 

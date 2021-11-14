@@ -1,0 +1,129 @@
+Hey guys, I'm here, let's get technical. This is fire. It’s the visible effect of a combustion
+reaction, which is a reaction between oxygen and some fuel source (in this case, the match),
+releasing heat and various combustion by-products. But, what if I were to tell you we didn’t
+always think this? I mean, we have evidence that human-controlled
+fires have been around for hundreds of thousands, if not, millions of years, and oxygen was
+only discovered in 1774, so surely we had to have some sorta robust explanation for
+fire before that date. We did. Introducing: phlogiston, or the chemical we
+thought was the cause of fire before we knew what fire really was. Get ready to embark on the story of when science
+was wrong about fire for 100 years, and how the discovery of oxygen completely changed
+the way we think about chemistry. Our story begins with this guy; German chemist
+Johann Becher. Chapter One: The Origin of Phlogiston
+No one better captures where science was in the 17th century than Johann Becher. And by that I mean Becher believed, if he
+had the right materials, he could turn himself invisible. Alchemy was a large part of chemistry, and
+Becher’s theories reflected that. As he explained in his 1669 book Physica subterranea,
+Becher believed everything was made out of some combination of three elements: earth,
+water, and air. Air, a term that encapsulated all gasses,
+was the catalyst that allowed water and earth to mix and make all sorts of compounds. Earth itself was divided into three subgroups:
+terra lapida, or the vitrifiable earth, terra mercurialis, or the mercurial earth, and terra
+pinguis, or the combustible earth. For a substance to be able to catch on fire,
+it had to contain terra pinguis, which was released from the substance whilst ablaze. After something’s completely burned and
+all the terra pinguis left, terra lapida was what would be what remained. 9000 IQ. Chapter Two: The Creation of Phlogiston
+This is Georg Ernst Stahl, born in 1660. He fell in love with chemistry at a young
+age, and, by the time he was 15, he was studying college-level chemistry lectures. By the time I was 15, I could successfully
+make Annie’s Mac and Cheese. Well, depending on how you define successfully. Stahl built off Becher’s theories; he renamed
+terra pinguis, the element behind fire, to phlogiston, from the Greek phlogos or flame. Phlogiston was born. Instantly, Stahl was passionate about expanding
+the phlogiston theory. Phlogiston wasn’t necessarily fire itself
+per se, but, rather, the element that was lost during combustion. The flame itself was merely the twirling motion
+created by liberation of phlogiston. Phlogiston is colourless, odourless, and tasteless,
+kinda like iocane powder. >> I smell nothing >> What you do not smell is called iocane powder. It is odourless, tasteless, dissolves instantly in liquids, and is the more deadly of poisons known to man. >> A substance infused with Phlogiston is phlogisticated and, after it’s burned and all the phlogiston
+is released into the atmosphere, it’s dephlogisticated. By that logic, ash of a substance that’s
+burned, known as a calx of that substance, is its true form because it doesn’t have
+any of that pesky phlogiston in it. Once phlogiston is released into the atmosphere,
+it’s responsible for stuff like lighting, and can be found in every corner of the Earth,
+from clouds to rain to plants soaking up that rain to animals eating those plants. There’s the phlogiston cycle, just like
+the water cycle or the carbon cycle. The properties of phlogiston are a bit different
+depending on if a certain substance falls into the natural world (like animals or plants)
+or if that substance falls into the mineral and metal world. For the natural world, the removal of phlogiston
+is irreversible; once you burn a leaf, say, you can’t inject phlogiston back into the
+leaf and un-burn it. But you can with metals, thus giving rise
+to this chemical equation: metal is calx + phlogiston. So, zinc, for example, is actually made up
+of calx of zinc and phlogiston, and you can make regular old zinc by combining burned
+zinc with phlogisticated air or another phlogiston-rich substance, like oil. You might be thinking that this sounds absolutely
+absurd, but Stahl’s theory of phlogiston caught on pretty quickly, because, frankly,
+it fit. Not only was it the first consistent theory
+to explain combustion and, really, just any chemical reaction in general, it fit with
+everything we knew about chemistry in 1600s. Phlogiston would come to the be the reigning
+theory of combustion for the next century, but that doesn’t mean it was without skepticism. Chapter Three: The Problems with Phlogiston
+Your mystery solving skills don’t have to be as good as Shaggy’s to deduce there are
+a fair amount of flaws with the theory of phlogiston. Let’s take a look at two of its biggest
+flaws, and how phlogiston supporters responded. The first problem? When a metal is burned, it actually gains
+mass. This is because, at high temperatures, metals
+combine with surrounding oxygen to form oxides, which is just a compound that involves oxygen. Waaaaait a second. NANI? If phlogiston is supposed to be released during
+combustion, then the original substance must be getting lighter; after all, it is losing
+something. Well don’t worry folks I’ve got three
+different people with three different explanations, so one of them has got to be correct, right? Louis-Bernard Guyton de Morveau, a French
+chemist whose name I just butchered, proposed phlogiston was lighter than air itself and pulled objects up, much like
+how a helium balloon floats. Friedrich Albrecht Carl Gren, a German chemist,
+thought gravity didn’t even interact with phlogiston. Gravity took one look and was like “nah,
+this ain’t for me chief” laughs The final explanation for this, and probably
+the closest to our current understanding of this phenomenon comes from German chemist
+Johann Heinrich Pott. He was the student of one of Stahl’s students,
+so you could call him… Stahl’s grand-student! Humour! *I'm so sorry* Crab Rave will never be a dead meme don’t
+@ me. Post predicted that during the dephlogistication
+of a metal, heavy particles of air would get trapped in the metal and increase its weight. The second problem? Check this out. If I light this candle And then I put it... Press F to pay respects If I light 
+this match in an enclosed space, it goes out after a couple seconds. Wack. We know why this happens now; fire needs oxygen
+to burn, and once it’s all used up, it can’t burn anymore. But how do you explain this with
+the phlogiston theory? Oh my bad, sorry, of course phlogiston must be carried away by air from the thing that’s
+burning by air (that’s why fire doesn’t work in a vacuum), and a certain amount of
+air can only hold so much phlogiston. Perfectly understandable, have a nice day. More and more evidence against phlogiston
+began to stack up, which is what makes this whole story really fascinating; even when
+presented with so much contradictory evidence, most people didn’t conclude the theory was
+incorrect, but rather kept slightly modifying it, to the point where the theory itself became
+even contradictory, just so they could preserve their worldview. Hmm. So what was the tipping point? What caused the theory to finally fall? Well to learn about that, we actually have
+to learn about a big supporter of phlogiston: Joseph Priestley. Chapter Four: The Death of Phlogiston
+You have Joseph Priestley to thank every time to crack open a Coke with the boys, because
+he invented soda water, and his work with gasses didn’t stop there. In 1773, he did that same cup experiment we
+just did, but threw a mouse in the cup while he was at it. Priestley noticed that, after the flame went
+out, the mouse would die from suffocation. BUT, when he put a mouse AND a plant next
+to a window with sunlight in that cup with the flame (musta been a big cup), the mouse
+was just fine. In that moment, Priestley discovered photosynthesis. Buuuut he didn’t know what photosynthesis
+was, so he didn’t think much of it and moved on with his experiments. In 1774, he conducted a similar experiment,
+with a mouse in a jar, but, this time, used a footlong lens to direct sunlight onto a
+lump of mercuric oxide. He realized that the gas the lump gave off
+when heated up could keep the mouse alive for around 4 times longer then if he had just
+left the mouse in the cup. He realized that air isn’t an element itself;
+rather, it’s made up of many elements, and, by heating up mercuric oxide, he just isolated
+one of them never isolated or even known of before: oxygen. But can he make Annie’s Mac and Cheese? I bet not. I can do that. Just saying. Priestley, however, didn’t know this. He was in uncharted territory, so he thought
+he had just discovered dephlogisticated air, and was quite pleased by it, at that. He wrote it was five or six times as good
+as regular air (whatever that means), and said quote, “The feeling of it in my lungs
+was not sensibly different from that of common air, but I fancied that my breast felt peculiarly
+light and easy for some time afterwards. Who can tell but that in time, this pure air
+may become a fashionable article in luxury." My man Jojo Priestley out here predicting
+that pure oxygen will one day become a hypebeast item. Can you imagine if that was true? Yo, you see the new Supreme drop? Yeah man I copped that Supreme x O2 I hear
+it’s going for quadruple on StockX. Oh, and, uh, in case this needs to be said,
+don’t breathe in pure oxygen; it’s really not good for you. That’s actually it’s slogan:
+“Pure Oxygen: it’s really not good for you." Priestley was hyped about his discovery of
+dephlogisticated air, and hit up his boy Antoine Lavoisier. Lavoisier is a level 35 mafia boss; he’s
+done so much to contribute to science, he’s known as the father of modern chemistry. Among many other things, he pioneered the
+metric system and the fact that elements like we know them today exist. He published the first ever chemistry textbook,
+entitled long French name which I’m gonna mispronounce… Entitled Traité Élémentaire de Chimie,
+which included what came to be known as the Law of Conservation of Mass (the concept that
+mass can’t be created or destroyed), yet another thing Lavoisier discovered. In the early 1770s, Lavoisier and his team
+were studying combustion, looking for an explanation to a dilemma we discussed earlier; when metals
+burn, they gain weight. He correctly hypothesized that it was air
+that was interacting with these metals and causing the weight changes, so he focused
+all of his and his team’s research around that. In 1774, Lavoisier was doing lots of experiments,
+but just couldn’t get that final piece to oxygen. Meanwhile, Priestley decided to bop over to
+Paris and invite Lavoisier to a dinner held in his honour at the Academy of Sciences. The two bros were big fans of each others
+work, so they got to talking about what they were working on. Ayo, Lavois, what’s up my man? Oh nothing much Elvis Priestley What? That joke will make sense in 200 years. Ahh ok. So what have you been up to? Ok, so I found out about this new thing called
+dephlogisticated air. It’s like pure air; it’s amazing. You get it by heating up some mercuric oxide
+(except it’s not called mercuric oxide cuz we don’t know what oxides are yet). Oh my god. I gotta go. What? I gotta go! That dinner changed everything. Lavoisier dashed back to his lab, did Priestley’s
+experiment, and named this new gas the Greek for “acid-maker”: oxygen. In 1775, Lavoisier presented his findings
+to the French Academy of Science, which put the nail in phlogiston’s coffin. Lavoisier, along with some of his colleagues,
+would go on to publish “Méthode de nomenclature chimique” in 1787 which got rid of the old
+system of four elements: earth, water, air, and phlogiston, and replaced them with 55
+new ones, including stuff like the new and neat oxygen, hydrogen, carbon, and others. The kicker: Priestley, however, stood by his theory of
+dephlogisticated air until the day he died and refused to accept oxygen and the rest
+of the chemical revolution that would follow. As a result, he was disgraced from the scientific
+community. I love the story of phlogiston, because even
+though phlogiston doesn’t exist, it’s still applicable to our daily lives. It’s a reminder that sometimes, we’re
+wrong, and the best way to learn and get closer to the truth is to prove ourselves wrong. It’s kinda funny that Georg Stahl, the dude
+behind the wildly popular yet incorrect phlogiston theory, wrote that his personal motto was
+this, which translates to “Where there is doubt, whatever the greatest mass of opinion
+maintains is wrong.” Heh. The more you’re wrong, the more you grow. Embrace that. I put a ton of work into these video; this
+one took around 40 to 50 hours, so, if you liked it, it’s so helpful to click that
+like button and subscribe if you haven’t already. If you want to check out more videos on natural
+science, I recommend my video on the Leidenfrost effect or these beads that become invisible
+under water. Also, my Hamilton video is this close to a million views, which is utterly mind-blowing, so, if you wanna check that out, that's on-screen too. Thanks to all my patrons at Patreon.com/Techicality,
+especially these super awesome people on screen right now. Thanks for watching, DFTBA, and explore on. 

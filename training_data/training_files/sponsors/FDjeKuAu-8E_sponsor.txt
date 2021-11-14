@@ -1,0 +1,8 @@
+Thanks to NASA’s James Webb Space Telescope
+Project at the Space Telescope Science Institute for supporting this video. JWST is literally the perfect telescope for
+studying brown dwarfs: it sees best in infrared light, and guess what brown dwarfs mostly
+emit: yup, infrared! Unlike stars which are super hot, the smallest
+brown dwarfs are about the same temperature as you and me, and they give off infrared
+light right in the middle of JWST’s spectrum. This also means that if you and I were in
+space, we’d shine out like a beacon to JWST even with no stars nearby. So JWST will be able to find and study human-temperature
+brown dwarfs and compare them with super Jupiters to help settle the brown dwarf debate. 

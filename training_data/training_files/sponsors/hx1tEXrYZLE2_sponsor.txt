@@ -1,0 +1,9 @@
+For example, say there are two types of people
+- knights, who always tell the truth, and knaves, who always lie. You say “If I asked if you were a knight,
+what would you say”? and they respond “No”, which are they - knight or knave? To see the answer and solve other problems
+like this one, check out the interactive logic, computer science, and math courses on Brilliant. You can even do them offline with their iOS
+and Android apps. If you want something more bite-sized, Brilliant
+also has Daily Challenges in math, science, and engineering. You can use the link in the description to
+start learning for free, and the first 200 people will get 20% off the annual premium
+subscription, so you can view all Daily Challenges and unlock dozens of problem-solving courses. Thanks again to Brilliant and to you for watching
+this video. 

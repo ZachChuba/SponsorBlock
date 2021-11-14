@@ -1,0 +1,52 @@
+- If you're a smartphone enthusiast, you've probably heard about big name Chinese phone
+manufacturers like ZTE and Huawei being restricted from the US market. So, it may not be terribly surprising that a Chinese app has now
+come under fire as well. I'm talking about none other
+than TikTok, the app best known for poorly singing teenagers
+and viral dance offs. (laughing, exclaiming) But why is TikTok, of all things, suddenly under so much scrutiny? Well, certain US officials
+have described it as a potential national security threat. (silly music) But how could that be? (silly music) Well, the reason the US
+and some of its allies are so concerned about Chinese technology is the possibility that back doors could be built into Chinese-controlled
+software or hardware to allow mass spying against
+Western citizens and interests. And although Huawei, for
+example, is a private company, they've faced criticism in the past for getting too much support from China's communist government, leading some to worry that
+their communication technology could be used for shady doings. Now, TikTok is also owned by a private Chinese
+company called ByteDance, and, like Huawei, they're not officially an arm of the government in Beijing. But the concerns about undue influence from Chinese authorities remain. For example, China forced
+ByteDance to shut down a different app centered around
+memes and videos in 2018, simply because it didn't like the content. ByteDance then issued a
+statement in which it attempted to appease the Chinese communist party, and promised to hire party
+members, as well as increased the number of employees
+working as censors. So it looks like fears that ByteDance might end up becoming pressured to be a tool of the Chinese government aren't completely unfounded. And while it's true that US tech companies have gotten in hot water with the American government
+before over content, not to mention the NSA
+surveillance revelations that came out some years back, Chinese lack of data protection laws or an independent judiciary
+with due process guarantees, as well as China Internet security law, which gives the government
+very broad powers to collect data from tech companies, has raised concerns that it would be far easier for the Chinese communist party to get its hands on any data it wants from ByteDance and other
+domestic technology firms, even if the data itself was collected and stored outside of China, as ByteDance claims is
+the case with TikTok. But, of course, that's
+a lot of speculation. Is this actually what's
+going on with TikTok? Well, so far, there's no evidence that the Chinese government
+has collected data en masse from TikTok or its users. And even if it did, it's
+important to look at what kind of information
+they'd be getting. TikTok does collect IP
+addresses and location data, but lots of apps do the same thing. Instead, it's far more likely that more valuable information, such as financial records
+and physical addresses, would come from other sources, such as security breaches
+of government agencies, as well as the Credit Bureau leaks that we all found out about in 2017. But another potentially
+huge issue with TikTok isn't related to data collection or the use of the app as a way
+to hack phones or networks. Other huge social media platforms, namely Facebook and Twitter, have faced criticism for
+being slanted politically, or not doing enough to control the flow of misinformation about sensitive topics. And there's a fear that
+the Chinese government is already using TikTok to
+control and spin conversations about issues that people care about by forcing ByteDance to,
+well, dance to its tune. In 2019, there was a report that TikTok moderators were being forced to restrict negative comments
+about the Chinese system, as well as content related to
+the Hong Kong protests and, unsurprisingly, about the
+Tiananmen Square Massacre of 1989. But, regardless of what TikTok does or does not have
+the potential to become, both the US army and
+Navy have banned the app, and the State Department
+is said to be looking at a nationwide prohibition. India, which has also been at loggerheads with China recently, has already banned TikTok, citing similar national security concerns. I just wonder what will happen if it does get banned in the US. There's probably gonna be a
+lot of really upset Gen Z-ers. But, instead of voicing their
+displeasure at the ballot box, maybe they'll find a
+way to resurrect Vine. I miss Vines. I'm kidding, I don't miss Vines, that was just in the script. I never really got it. But I'm old. Speaking of old, these
+sponsor segues never get old. Check out Private Internet Access, the VPN that masks your IP address and encrypts your Internet traffic. PIA has reliable service,
+with over 2,700 servers in 47 countries, and no bandwidth caps. They offer configurable encryption and an Internet kill switch
+to keep you in control of your connection and your privacy. And when you combine PIA
+with private browsing, you can even make websites think that you're in a different country. You can connect up to 10 devices
+at once with their clients for Windows, Mac, Android, iOS, and Linux, and you can stay protected with MACE, their built-in malware
+and tracking blocker. Try it out risk-free for 30 days, just go to lmd.gg/piatechquickie. 

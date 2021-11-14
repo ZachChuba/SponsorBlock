@@ -1,0 +1,42 @@
+This episode of Primal Space is supported
+by Skillshare, an online learning community where you can learn just about anything! Sign up using the link below to get your first
+2 months for free. On the 21st of December 2015, SpaceX made
+history by landing their first Falcon 9 booster back on land. After years of development and testing, SpaceX
+were one step closer to dramatically reducing the cost of spaceflight. Since then, over 45 boosters have been landed
+with over half of them being reused. But how many times can a Falcon 9 be reused? And what does it take to refurbish each booster
+between flights? In this video, we’re going to look at how
+SpaceX upgraded the Falcon 9 to be more reusable, we’re also going to look at what goes into
+refurbishing the Falcon 9 and how it will eventually be replaced by Starship. In April 2018, SpaceX launched the new and
+improved ‘Block 5’ Falcon 9. This new version brought a number of upgrades to the engine heat shield, grid fins and landing legs, with an aim to reduce the amount of
+refurbishment and maximize the number of flights per booster. Although this upgrade cut out the need for a lot of refurbishment, the average turnaround time for a booster has only dropped from 356
+days to 107, with the quickest turnaround time being 72 days. The Space Shuttle on the other hand achieved
+a record of just 55 days between flights back in 1985, with regular refurbishment times
+of less than 100 days. However, after the Challenger disaster, the
+safety standards increased and this put extra pressure on refurbishment. The process became an enormously expensive
+task, requiring over 9,000 employees to make the Shuttle ready for flight. With SpaceX aiming to achieve a refurbishment
+time of just 24 hours, they will need to match the turnaround process of airliners, with
+each rocket only needing a quick inspection between flights. When the first stage booster returns to Earth
+either by land or by sea, it’s lifted onto a trailer and transported back to the SpaceX
+hangar. This can take multiple days to complete since each of the four landing legs need to be removed manually. Although they are designed to be quickly retracted, SpaceX have only been able to do this on two occasions. Once the booster is back in the hangar, the
+refurbishment process begins with each engine going through a number of rigorous tests to make sure that every component is ready for flight. According to Musk, each Merlin engine could
+perform up to 1000 flights without major refurbishment. The hydraulic grid fin system—which failed
+during a landing last year must also be checked for any leaks. The fuel tanks and pressure vessels go through
+a series of ultrasonic tests to check for tiny cracks that could lead to a failure once
+the rocket is pressurized for flight. Once the booster has passed the inspection
+process, it performs a static fire test with all 9 engines, before being attached to the
+payload. At the moment, all of these checks still need
+to be completed as they venture into the unknown territory of multiple reuses. Each mission will give them more knowledge
+on how many flights each booster can perform, and over time, the refurbishment process should
+become more refined. So far, there are three Falcon 9 boosters
+that have each completed triple launches. SpaceX currently has around eight Falcon 9
+boosters in their fleet, but eventually they aim to grow that number to 20. Although the Falcon 9 could theoretically
+fly up to 100 times with minimal refurbishment, each booster is only expected to perform a
+total of around 30 flights over the next decade. However, with SpaceX working on a much more
+powerful and fully reusable rocket, the Falcon 9 could become obsolete much sooner than expected. SpaceX is currently building the first prototypes of their ‘Starship’ rocket in Texas and Florida. And with customers already lined up, they
+aim to launch their first commercial payload in 2021. Not only will SpaceX use Starship for Mars
+and commercial satellite missions, they also want to use Starship for travel here on Earth,
+providing flights to anywhere in the world in well under an hour. Unlike the Falcon 9, Starship is designed
+to be fully reusable with an aim to complete thousands of flights before any major refurbishment
+is needed. If SpaceX can get Starship up and running,
+it could replace the Falcon 9 all together since it would be capable of launching much
+heavier payloads for a fraction of the cost. Thank you very much for watching and I'll see you in the next video! 

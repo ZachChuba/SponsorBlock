@@ -1,0 +1,91 @@
+This episode is sponsored by brilliant.
+From ripples in the sand to the stripes on a zebra, all the way down to the
+sodium and chlorine atoms in a crystal of salt, repeating patterns in nature
+remind us how even the most chaotic systems can produce their own form of
+order. While the patterns we see around us are cool to look at, things become
+very interesting when we go down to the atomic level. The combination of these
+patterns and quantum mechanical effects give rise to the beautiful colors we see
+in butterfly wings, peacock feathers, and the way a chameleon changes color when
+it's... excited. In this video we're going to see the exact quantum physics
+involved, and how our chameleon Bernard here uses it to his advantage to find
+love. Or at least to woo a girl chameleon. To understand this we first
+have to understand this salt crystal. If we zoom into the atomic level we see a
+very neat and periodic arrangement of atoms with electrons orbiting around
+them. This structure is called a crystal lattice because it's common to all
+crystals. Now the key idea is that these electrons can't have just any energy
+level. Okay guys things are about to get real. This is the infamous Schrodinger
+wave equation and it's kind of the holy grail of quantum physics. I did a whole
+video about it, but quickly this equation tells us everything we can possibly know
+about a quantum particle, like an electron. Now this funny-looking
+pitchfork here is the Greek letter psi and it stands for what's called the wave
+function of the electron. See electrons are a bit elusive in that you can't
+pinpoint exactly where they are like regular objects, you can only predict
+where they might be with more or less probability. This probability is modeled
+by a wave, hence the name wave function. Now the thing is only certain
+wavelengths can exist in a confined space.
+If you imagine a string on a guitar only certain wavelengths are allowed because
+the ends need to be attached to the guitar. For example this wavelength is
+fine but this one doesn't work. This one is fine, this one, nope. That's why two
+strings of different lengths can't produce the same sounds. It's the same
+thing going on with our electrons in the crystal lattice.
+Only certain wave functions are allowed while others are banished because of the
+fixed lengths within the lattice. The energy of an electron is intrinsically
+linked to its wave function, so if only certain wave function values are allowed
+only certain energy levels are allowed, and indeed when we solve the Schrodinger
+equation that's exactly what we get. This equation gives us the energy levels
+allowed for an electron. Notice how all the terms are constant values except one.
+h-bar is Planck's constant on 2 pi, M is the mass of the electron which doesn't
+change, L is the length of the lattice spacing which doesn't change, and pi is a
+constant. n is the only value that changes and needs to go up in whole
+numbers, therefore if n can only increase in whole numbers and the rest of the
+values are fixed the energy levels must also increase in discrete chunks. But
+what's the point of all this math if it doesn't result in a happy chameleon?
+These calculations apply to just one particle but things get pretty
+interesting when we have a party of particles. The periodic structure of the
+crystal lattice means the atoms are really close together so the electrons
+are all whizzing around and interacting and their energy levels start
+overlapping, forming into kind of energy bands. These energy bands and the gaps
+between them decide which electron energies are and are not allowed inside
+the crystal. Now let's imagine everything blown up one or two hundred times.
+Instead of atoms say we have some periodic structure and instead of
+electrons we have particles of light, photons. It turns out that similar band
+structures appear when we have microscopic patterns which have a period
+in the range of the wavelength of visible light. These are called photonic
+crystals because of their similarity to regular crystals. This structure leads to
+the formation of optical bands just like electronic bands which allow some
+wavelengths of light to pass and others to get reflected. This makes objects
+appear a certain color and different structures allow for different colors.
+Now you might be wondering how is this different from regular colors? How is it
+gonna help our boy Bernard here impress his date? The big difference is that with
+photonic crystals the color is dependent on the structure of the material, while
+the regular colors that we see around us are dependent on the chemical
+composition of the material. Take leaves for example. Leaves look green because
+the electrons in the shaded region of the chlorophyll molecule get excited
+when light hits them and due to their chemical bonding
+they absorb blue and red light and reflect green. Fun fact: if you ever want
+to grow plants inside and use indoor lighting try using a purple light. Purple
+is a mixture of blue and red which the plants need to grow. Shining green light
+on leaves does little to their growth because it's reflected and wastes energy
+so purple light is energy efficient for plant growth. So that's how color usually
+works but in photonic crystals the color comes from the interaction of light with
+the physical structure of the material, not the chemical bonds. Take for example
+this CD. Now I don't know if this is considered vintage these days but it's
+basically something that plays music. Notice the beautiful colors that we have.
+The multicolored pattern isn't caused by a colorful coating, it happens because of
+the underlying pattern or tracks where the data is written. The track spacing is
+comparable to the wavelength of visible light and so different wavelengths of
+different light diffract at different angles giving multicolor patterns. Chameleons, butterfly wings and peacock
+feathers all have photonic crystals in them, and these microscopic interactions
+manifest themselves in a pretty cool way at the macroscopic level. For one thing
+the color can be tuned. Chameleons change their body color by adjusting the
+crystal patterns to indicate when they're excited. By stretching or
+compressing the lattice they can change the color of light which is reflected,
+going from a dull camouflage to a vibrant hue, and what girl wouldn't be
+impressed by that! Another cool thing is that photonic crystals reflect different
+colors depending on the angle you look at them. This is why you see those cars
+that go from green to purple as you walk by them. They have special paint with
+photonic crystals. Today lots of research is being done to mimic the bio photonic
+crystals found in nature for a range of applications from camouflaging and even
+optical communication. In fact one of the main technologies of solar energy, solar
+panels, use the same physics of structural color we find in Bernard and
+peacocks. By engineering the thickness of okay bye 

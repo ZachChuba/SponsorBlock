@@ -1,0 +1,69 @@
+Hello, there I'm Gav. I'm Dan. We're the slow Mo guys. It
+should be a nice, simple video. How fast is glass crack? I actually don't know,
+but we did that one video with the pyrex jug where we saw it. Yeah, but it was actually quite difficult to figure out the speed 'cause the crack was
+going through a curved Pyrex jug handle. It was about this big. It's almost like we need a
+really long piece of glass with foot markers on it. Where could we get one
+of those? Do you think? Oh here's one. Look at this. I wonder what this is doing here. So in theory, if we break this at one end, the crack should rush through it. I'm going to put foot lines on it and we'll be able to determine the exact speed of a glass break. What I've done here with our seven per foot piece of glass is I've spray painted exactly
+a foot along the glass. Now the foot's gonna start and from the camera's point of view, the left hand side of the blue So this edge is going to
+be exactly a foot from here and this one's going to be
+back here from here, et cetera. So we should be able to
+calculate the exact speed. For glass. As we know,
+we need very high speeds. The Phantom flex 4k only does
+a thousand frames a second. Not worth it. Won't see it. Maybe couple of frames maybe, if that. Maybe if that we've got
+the 2512 here today, we usually use the 2511. This is the next revision
+has a different cinema. Much bigger internal
+memory but other than that, it's the same camera. So we'll start at 28,500 frames a second. A bit nerveracking, this. Oh yeah. You're telling me. All right you stand there. A bit of foam I see you've
+got there for protection. Yeah. You got to protect the glass. Or else it'll smash before we're ready. Oh cool. So I'll hold it here. Okay. You got it? I think so. I'm going to bung in
+a ton of shutter here. 45 degrees. Oh, that's naughty. You never do that. Bloody naughty yeah. Let me just grip this with this and see if I can smash the glass
+with just a pair of pliers. Ready?
+Go for it. That worked. That really worked. It just vanished. Whoa. Gosh, I didn't expect
+it to be able to do that. And then it just went poof. You really framed up on
+the edge there aren't you. Yeah. Three, two, one snap. Whoa, cool. That's really cool. I'm surprised you can even
+see that much with the 28,000. Yeah.
+It's because it's so big. This is our starting frame rate. We plan on going much faster. I also like the fact that
+if I speed it up a bit, it's like irrelevant of gravity. It splits up and down at the same time, because I guess the pressure
+being released just goes bing. It also shot forwards and at me. So once when you crack
+it, it sort of explodes. Yeah. That's why it makes that like sort of sound where it pops. 'Cause it like, has the pressure built up I'm glad we did this with
+paint instead of tape. Oh, Whoa. Yeah. Cool. 'Cause then yeah, You could see it separate and
+you can actually kind of see where everything was even in the air. It stays directly in line
+underneath each other for ages there. A bit faster? Oh yeah. Faster. So the way you can increase the frame rate on the Phantom cameras is you
+just lower the resolution. And as you may have noticed
+the top and the bottom of the frame here, are complete
+garbage they're a waste. So what I can do is
+keep the width the same, but lower the vertical resolution. So maybe something like that. And that way we're keeping
+all of the useful area, but it will give us
+the chance to go to 63. It gets a bit darker. We'll
+open up a shutter to compensate. That should be additional information. So this time we got some
+different colors on the go. Yeah I'm gonna start by
+spraying each foot marker with a different color. Painting with Dan.
+Yay. I'm just gonna get it on the table here, but we're in a rush so. That's red done. I like that you're doing
+this across two tables. So you ranked both at once. I wanted to return one of them as well. I enjoy that. Lovely. So the right hand side
+of these or your left will be a foot long. This is pretty satisfying. Slip it in there. When you get a chance. Okay. Let me try and fill
+the frame with this mad lad. Go for it. Higher level Oh, look at that. Okay. Dan, it's time for some maths. Okay. Just reverse this. I'm gonna get the true time of this crack and we'll measure how long in seconds it took each foot to break. There's a slight discrepancy
+between each one, just because of which side
+of the foot mark of the crack landed on that particular
+frame but don't worry. We'll average them out. More maths. Giving us an average time of .002 seconds per foot, which
+is 4,758 feet per second. And for the international audiences, that's 1,458 meters per
+second, 3,262 miles per hour, 5,250 kilometers per hour or mach 4.2. Oh, you know my mind is blown. I don't think that there's
+anything that's like physical that that's quick. What's physical that's quick? Like what goes Mac 4.2? Apart from spaceships. Nothing. It's almost, it's weird how like none of it
+overtakes anything else. Like, okay, so it starts as round right? See that it starts rounded
+Yeah. So the middle of the glass is
+actually ahead of the sides, but it catches up and then it's all just going in a line. Do you know what I think That is not. I didn't expect to see that. I think what it looks like is if this was actually a circle. Like if it was like a 14 foot circle and you smashed the middle, it would all go out in a circle. But we're just seeing
+like a section of that. So if you imagine that it
+starts off as a small circle and it gets bigger and bigger. It doesn't, it's not actually
+flat when it gets to the end. It's still slightly curved. So I'm just imagining a
+circle, getting bigger. Therefore the edge is getting flatter. Yeah, exactly. Bloody. Mental. Now kind of want to do
+it with a big circle. Fresh out of 14 foot glass
+circles unfortunately. Gotta church window? All right so that was 78,000. Might be covered yet. I think it's time to get carried away. This bad boy is capable of some serious, what are we thinking? Let's let it stretch it's legs. Let it go out for a spin. We reduce the horizontal width as well. Lose some more on the vertical. Maybe go 256 by 96. That's small enough? Giving us a frame rate. 481 and a half thousand frames a second. Because we're now so cropped in. I'm only going to be seeing two colors. So there's no point in painting the rest. Waste of paint. Waste of paint. Plus is cool. It's wicked isn't it. Ridiculous. How much can you see? Bloody stupid this is. Jeez. That one popped Let's look at this ridiculousness. It just looks like a software wipe. It's just like we took two pictures and then just wiped across. It just instantly turns
+into like lizard skin. It just turns into like scales. This camera so cool. It just records all that. Like that happened and
+it recorded it at that. Yeah this camera saw everything. Final aftermath. Another pretty aftermath actually. Yeah it's not bad. It sounds like snow too, listen. It sounds like snow, but
+what's cool is the fact that, 'cause obviously we did
+it all in, in color order. It's all stayed there. And look, this is all this looks like it's an
+intake piece of glass, but it's actually. Oh yeah.
+Really smashed. It's gone. It's just held together by the. Yeah. Which is why it was good that we didn't record the paint side. We recorded the front side. So you can see the cracking on the color. Well, we learned the speed
+that a crack propagates through laminated sheet of glass. Yeah a bit of tempered action. You couldn't tell what the, the little video we did before but that really demonstrated it. It was so fast. And the way it starts as a circle and then basically gets bigger from a circle. Even though it's a flat,
+rectangular piece of glass. I was really impressed by that. I didn't, I didn't expect to see that. I guess you'd never know it. Unless you see a long piece
+of glass in slow motion. Yeah in my head, you were gonna crack it. And it would just come
+across as a straight wall the whole way. But I said, Oh, of course, it's going to crack from that point. And the fact that it evened
+out was very cool to me. Yeah, it was awesome. Any closing thoughts Daniel? Guess I better get a broom. Better get a broom. Yup. For this, glass. This grass. Glass grass? I meant grass that time. Yep okay, good. Because I've got to sweep
+up the glass from the grass. Yeah. 

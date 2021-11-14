@@ -1,0 +1,95 @@
+Stick around after this video to find out
+how you can be the first to watch it right It’s happened countless times before: A
+thriving American company enters China with 1.4 billion dollar signs in its eyes. It sees in the country almost the ideal market:
+A middle class well over twice as large as its own and without the generational brand
+loyalties of America. Because China was relatively late in its technological
+development, it almost entirely skipped transitional, “in-between” inventions like desktop computers
+and credit cards, making Chinese consumers generally less skeptical of new technologies
+like smartphones. Best of all, all this is available through
+one international expansion, one regulatory system, one language, and one culture. Or so, companies think. What they find is often very different. Relaxed regulation turns out to mean the law
+is ambiguous and enforced selectively. Once a business model is proven, competition
+may spring out of nowhere, sometimes with no regard for intellectual property. And what looks like a single, unified market
+from the outside becomes thousands of unique ones up close. It’s happened, in one form or another, to
+Amazon, Google, Mattel, eBay, Home Depot, Groupon, and many others. Uber, however, was sure it was different. It wasn’t ignorant of the titans that had
+failed before it, but, in the mind of its outspoken founder, Travis Kalanick, Uber had
+faced many “impossible challenges” from the very beginning — fighting hundreds of
+angry cities as the company rapidly expanded across the U.S. Its very business model was at best legally
+ambiguous, and yet, it succeeded anyway, giving Kalanick a certain unchecked confidence which
+made China look like only another of its familiar hurdles. And to its credit, Uber did not make the classic
+mistake: Directing the expansion from conference rooms in San Francisco. It tried very hard to build “Uber China”,
+not merely Uber in China. After boldly declaring it the company’s
+“number one priority”, Kalanick devoted himself to the expansion like nowhere else. He spent 70 days of 2015 in the country — nearly
+1/5th of the entire year. He even joked that he should apply for Chinese
+citizenship. Uber created a separate, Chinese company,
+partnered with local investors like the Chinese tech giant Baidu, and launched in 2013 in
+the country’s largest city, Shanghai. At first, things were rocky. For example, it launched with only US credit
+card support, making sure the vast majority of locals, who use WeChat and AliPay, were
+unable to book rides. Just as embarrassing, the app used Google
+Maps, which is notoriously bad in China. By far Uber’s biggest problem, however,
+was, well, its entire business model. The company doesn’t own its cars or hire
+its employees, meaning its only value is connecting people who want to drive to nearby people
+to want to ride. But because drivers and riders are regional,
+entering a new city is like starting from scratch. Uber may have a monopoly in LA, but that won’t
+mean anything when it expands to Seattle. The good thing is that once it has the critical
+number of both drivers and riders in a particular city, they’re very likely to stick with
+Uber. It only takes 2.7 rides, according to the
+company, before someone becomes a permanent customer. Uber’s strategy, therefore, was to grow
+with lightning speed. Every major city had its own general manager,
+who would tempt new drivers with bonuses and new customers with free rides. Becoming a driver was easy, no long background
+checks or complicated forms required. This worked pretty well. When it was first. The problem was that, in China, it wasn’t. It’s Chinese competitor — Didi — was
+founded in 2012 and had everything Uber needed: immense scale, a China-first design, and the
+support of government. While Uber operated by disrupting the taxi
+monopoly in each new city it entered, Didi was much more old fashioned — it merely
+connected riders to existing licensed taxi drivers. So instead of inciting chaos and even violence
+like Uber, Didi was on the good side of authorities — even helping manage over 1,300 traffic
+lights in partnership with city governments. In 2015, Didi merged with its closest competitor,
+giving it near-monopoly control of the market. It became the only company in the world backed
+by all three of China’s tech giants: Baidu, Alibaba, and Tencent. Apple and China’s sovereign wealth fund
+also invested around that time. Uber was behind from day 1. If a Chinese user already had Didi, the only
+reason they’d switch is if it was that much cheaper. To catch up, Uber had to dump insane amounts
+of money. And, that’s exactly what it did. Uber spent a jaw-dropping $40-50 million US
+dollars per week on free rides and bonuses in China. It lost, in total, $1 billion every year. With Didi, it played a massive game of chicken
+— spending this much money was unsustainable, but who would give up first? This metaphorical arms race also created a
+kind-of cold war dynamic. Didi allegedly sent undercover engineers to
+be hired by Uber, where they would collect trade secrets and even conduct sabotage. On occasion, Uber would be blocked from WeChat. In China, this was the equivalent of Google
+hiding a competitor from its search results — making it effectively invisible to the
+vast majority of the country. And besides burning through cash like it was
+fuel, this subsidy-war also led to an unintended side-effect: fraud. In one Chinese city, Uber reported having
+as many drivers as London, Paris, and San Francisco combined. But how many of them were real? When a “new” user was offered a free promotional
+Uber ride, the company still paid the driver as normal. This created a loophole. Two users, one acting as the “driver”,
+and the other as the “rider” could collude, taking a fake ride, and splitting the profit. Soon, scammers created entire circuit boards
+with rows of SIM card slots, each simulating a fake phone. They would take a fake ride, swap out SIM
+cards, and repeat. In one Chinese city, fraud accounted for an
+estimated half of all rides. Over 30,000 fake rides were taken every day
+in the summer of 2015, just in China. Uber fought back by creating a database of
+IMEI numbers, which are unique to a given phone and thus allowed the company to identify
+a scammer even after they had reset their phone. However, Apple hid this number from developers
+starting in 2012 for its users’ privacy, preventing Uber from detecting fraud. Uber was undeterred and hired a 3rd party
+hacking company to bypass iOS’ security rules, which, Apple discovered, warning them
+to stop. In its typical fashion, Uber continued anyway,
+adding a line of code to check if the app was running in Cupertino, California, where
+Apple is headquartered, and if so, not break its rules. Apple still found out, and called a very angry
+meeting. Things were not going well for Uber. It faced massive fraud, trouble with Apple,
+and over $1 billion a year in losses. Then came the final nail in the coffin. For its first few years in China, Uber operated
+in a legal grey area. Like in the U.S., this subjected it to varying
+levels of retribution based on the mood of each municipal government. In the Southern city of Guangzhou, police
+raided the Uber office at midnight, accusing it of running an illegal business. In Hangzhou, another police raid was followed
+by a violent confrontation between Uber and taxi drivers. All this changed in July 2016, after a series
+of high-profile crimes committed by Didi drivers. China legalized the industry, which came with
+strict new regulation, like there could be no subsidies and drivers required 3-years
+of experience. From now on, Uber would need to request formal
+approval from the local and national government before expanding to each new city. At the beginning of that year, Uber operated
+in 37 Chinese cities to Didi’s 400, and had 229 million daily active users compared
+with 908. Just a few short years after it had sprinted
+into the country with supreme confidence, it had all finally become too much. Just days after the new regulations were passed,
+Uber China was sold to Didi. Uber took a 19% stake in Didi, and the leaders
+of both received positions on each other’s board of directors. Whether this was an embarrassing failure or
+a diligent strategic decision is still open for debate. On one hand, Uber unequivocally did not achieve
+its original goals of conquering the Chinese market. It left with only a minuscule market share
+and incredible losses. It did not succeed where others had failed
+in China, and even though government protectionism may be somewhat to blame, Uber certainly made
+many unforced errors along the way. On the other hand, Uber spent $2 billion on
+China and left with assets valued at seven billion dollars. Viewed purely from the balance sheet, China
+was, unlike most of the company’s markets, a source of pure profit. It could now invest that money in other, more
+win-able markets in Southeast Asia and elsewhere. So, a failure, yes. But, also, a profitable one. But, you can also watch them right this second
+on Nebula. 

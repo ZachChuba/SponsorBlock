@@ -1,0 +1,66 @@
+“Vegan burgers” are a sensible thing
+to find on a supermarket shelf. But “vegan tomatoes” wouldn’t be. In fact, those tomatoes
+would sound a bit suspicious: it’s the same as the old joke
+about asbestos-free cereal. Those labels are ignoring one
+of Grice’s Maxims, a set of… guidelines that explain how we
+communicate with each other. Paul Grice was a philosopher of language, and in '75 he published a paper called
+"Logic and Conversation". He was dealing with the gap between natural
+language and what’s called “logical formalism”. Basically, we communicate far more than just
+the literal meaning of our words. Grice wrote that for that to be possible without
+having some hyper-logical unambiguous language, we must be operating under some shared assumptions, what he called the Cooperative Principle. We assume that we are cooperating
+with each other when we are talking. Which is obvious, right? But there's a deeper point there: we all try to fit what other people say into the context of what’s happening or
+what’s already been said. That's part of why, when we play a computer game and
+a character says exactly the same thing no matter if we’ve just saved their village
+or burned down their house, we can tell that they're preprogrammed. We can't find a way to fit their words to
+the situation. So here are Grice’s Maxims, and if you’re
+not in a video game, these are the rules that we assume our
+conversation partners are following. Although, despite how they’re written, they are not prescriptive, you-must-do-this rules:
+they’re just guidelines. So first: the Maxim of Quantity: give as much
+information as required, and no more. Which is what we're talking about
+with vegan tomatoes. We already know they’re vegan from the word
+“tomato”, giving too much information is strange. Next, the Maxim of Quality: tell the truth. Next, there’s the Maxim of Relation: be relevant. The person you’re talking to will assume
+that what you’re saying is related to what they just said
+in some way, and they’ll try to find
+what that connection is. And finally, the Maxim of Manner: be clear in what you’re saying. Although Grice phrased that in a way that
+I don’t think actually follows his own guidelines? Actually, all of these maxims were stated
+and restated at length. But then, he was a philosopher.
+They tend to do that. So let’s have a good example of
+using Grice’s Maxims, and after that, a deliberately bad one. Let’s imagine someone says,
+“I’m out of petrol”, and in reply, I say,
+“there’s a garage down the road”. Without context, just using the super-literal,
+logical meaning of those sentences, there’s no connection there. Those are just two factual statements. But if you assume I’m trying to follow the
+Cooperative Principle, then you can automatically work out
+a lot more. Using the Maxim of Relation,
+the garage probably has petrol. Using the Maxim of Quantity, we know that
+that's all I need to say in order to imply: hey, you can push your car there,
+you can buy fuel, and you can solve your
+whole "being stranded" problem. A problem which, by the way, was also completely implied using
+the Cooperative Principle. We can bring the graphics in now, but until
+this moment, all that backstory about a stranded car was
+implied just by the words “I’m out of petrol”. Now, using the Maxim of Quality, we can assume
+I’m telling the truth and this isn't a lie or a guess. And using the Maxim of Manner, even someone
+who’s confused by my dialect can work out that "garage" probably means
+the British slang for what Americans would call a “gas station”. It’s not just someone’s garage at home
+where they park their car. That would be weird. All that got implied from just the phrase
+“there’s a garage down the road”. But what about when we don't follow the Maxims? Grice says that in that case, we’re asking
+for Conversational Implicature. Which is to say, we are implying
+something not said. There are two ways to break a maxim: you can
+“violate” it or you can “flout” it. Violating it is just, like, lying. It’s breaking a maxim to deceive. But “flouting” is
+breaking a maxim in a way that you expect the other person
+to pick up on. One of Grice’s examples is a philosophy
+professor who has to write a grad school letter of recommendation for
+a student that they have no faith in. And, yes, I absolutely believe that this is just Grice quietly grumbling
+about one of his students. Anyway, the professor writes the letter using
+the Cooperative Principle. "The student’s command of English is excellent, "and his attendance at tutorials
+has been  regular.” That is, technically, a letter of recommendation, but it doesn’t follow the Maxim of Quantity. It is far too little information. It doesn’t say the student’s
+actually good at philosophy. It’s flouting the maxim,
+and when someone does that, they are hoping that the person reading or
+listening will understand what they’re really trying to communicate. And that’s why you see product packaging
+that says “vegan tomato” or “asbestos-free cereal”, or, more realistically,
+“low in fat” or “low in sugar”. They’re flouting Grice’s maxims to imply
+that the other brands aren’t, or to imply that those claims
+are good things to be. And that might not be true. But it’s not technically lying. It’s just not playing fair
+by the Cooperative Principle. Either that, or there really is
+some sort of evil, animal-byproduct tomato out there. Thanks to my co-authors
+Molly Ruhl and Gretchen McCulloch. Gretchen’s podcast Lingthusiasm is linked
+in the description, it is well worth a listen. 

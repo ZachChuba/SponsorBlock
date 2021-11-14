@@ -1,0 +1,89 @@
+This video is presented in Virtual Reality. Be sure to watch with the YouTube Mobile App,
+Google Cardboard, or any compatible VR viewing device, or things will look a little wonky. Hi! Pardon the 3D avatar - this was the only way
+that I could make this video work. Let’s talk about the past, present, and
+future of Virtual Reality entertainment. Consumer VR has come a long way since the
+early days of the Nintendo Virtual Boy. Sure, the general idea existed before even
+then, but when the Virtual Boy Released in 1995, it was the first real mass-market major
+gaming console capable of displaying stereoscopic 3D graphics. Back then, the technology was limited to a
+red monochrome display, using a parallax effect to create the illusion of depth. It was a highly sophisticated technology at
+the time, but nowadays improvements in 360 degree display have become ubiquitous. Companies like Oculus, Valve, and even Google
+are investing millions, and even billions of dollars into the next evolution of the
+technology, and the more that VR platforms become democratized, the more independent
+creators, including myself, are jumping at the chance to play in the sandbox. But VR, like all other developing platforms,
+is experiencing growing pains. I’ve created some Virtual Reality content
+- on my YouTube channel, for third-party developers, and I’ve even had my work featured in a
+major South Korean festival in 2016. I was one of the early adopters of the technology
+when it came to YouTube, but, despite the fact that I believe 360-degree video has great
+potential, there are plenty of things that continue to hold it back. Today, I’m going to share 3 major beefs
+I have with VR as a storytelling device. The first is less an issue with the medium,
+and more a meta issue with the current VR industry. There are tons of companies out there vying
+to be the go-to VR viewing platform, but very few of them seem concerned with actually providing
+worthwhile VR content. This has played a large part in the current
+struggles of the medium. After all, imagine it in terms of the traditional
+film experience! Why pour billions of dollars into building
+movie theaters, but invest almost NOTHING into producing actual movies? By the same token, as a filmmaker, I REALLY
+wish companies would stop focusing so much on developing VR platforms, and start focusing
+MORE on developing VR programming. The internet is FULL of Virtual Reality demos
+showing off the technology possible, but legitimate, long-form stories told through the medium
+are hard to come by. And the truth is, as it stands right now,
+there just aren’t a lot of stories being told through 360 degree video. The stories that ARE being told are often
+relegated to obscure industry-specific venues. One of the reasons that the few VR films out
+there seem to exist mainly as art pieces at galleries or film festivals is simply because
+nobody is developing these films to be viewed or screened to a mass market audience. Don’t get me wrong - documentaries are a
+great way to use VR filmmaking - it allows the viewer to see things from a first person
+perspective - something they can't get from traditional filmmaking - but the medium will
+NEVER find major success until stories that you might find in a more traditional setting
+are developed with this new technology in mind. VR films will never be accepted by mainstream
+audiences until VR films are marketed to mainstream audiences. But this is hard to do when you consider some
+of the challenges the medium brings with it. For instance, beef #2, the ‘Point of View’
+Problem. Obviously the defining feature of Virtual
+Reality is the ability to become totally immersed in the scene. If you want the viewer to feel cramped, you
+can make it happen simply by putting them in a cave. If you want them to feel awe, you can make
+it happen by putting them on a mountain top. If you want them to feel like they’re falling,
+you can make it happen by dropping them from the sky,
+Look out! Sorry, dumb joke… you get the point though,
+right? By putting the viewer into the very center
+of the action, they can feel totally immersed, and are naturally encouraged to explore the
+scene around them. The only PROBLEM is, in a linear form of narration
+like film, you want the viewer to focus on a specific thing at a specific time. When you go to a movie theater to watch the
+latest blockbuster flick, the audience is all looking at the same screen, and taking
+in the same image. During the film, the director makes specific
+choices in lighting, framing, and editing, cutting a specific way to show you a precise
+moment. A precise angle. A precise piece of information so that they
+can continually unfold the tale. But in a 360 degree environment, you really
+don't have any control over what the audience members choose to look at, and it's incredibly
+difficult to channel the viewer's attention to a specific direction. I mean, there are several workarounds to this,
+but if you have to keep using visual cues to direct their eyes to a certain spot, then
+what's the point of even having the total environment available to look at in the first
+place? And what if they miss those visual cues and
+fail to see an important bit of information because they just happened to, y'know, look
+away from where the director wanted them to look? You might think such a worry is overblown,
+but consider the fact that that there's a dinosaur right behind you, and you're likely
+only just now noticing it because I'm telling you. (roar) It’s a whole new paradigm of storytelling,
+and it remains to be seen whether or not traditional narrative structures can work in such a setting. Lastly, consider the problem of PRODUCING
+the content altogether, in what we'll call the Technological Entry Barrier There are two main ways to create a VR film
+- either by capturing a panorama in live action, or by employing computer animation in a 3D
+environment. Both have pros and cons. If you’re looking for the best overall image
+quality, something that's future-proofed, 3D animation provides you with an ample amount
+of resolution, and the ability to perfect every single angle of your scene. BUT, 3D animation takes a long time to make,
+and as any animator will tell you, a LOT of cheating goes on even when animating a traditional
+movie. Specific camera angles are chosen to cut down
+the necessary animations needed, and you can hide a multitude of unpolished work through
+editing, but a total 360 degree environment means you’ll need to have every inch of
+the scene animated to perfection. It's a tall order. So, maybe you’ll instead elect to save time
+by shooting everything live action. But again, it’s hard enough to direct a
+scene when you’re allowed to sit right behind the camera. If you’ve got to hide from it completely
+so that you can record a complete surrounding, directing the picture become THAT much more
+difficult. And, unless you want to manually stitch a
+ton of angles together with traditional cameras (which is it’s own headache), the available
+options for VR capturing devices is extremely small. The affordable prosumer options have terrible
+image quality, and the camera models that can pass for professional use cost WAAAY more
+than most folks are willing to invest in an unproven medium. Not to mention the fact that VR headsets for
+the end user are pretty expensive, and require a big chunk of change to own, themselves. ALL of these contributing factors are a large
+part of why you just haven’t seen very many quality VR movies. In truth, VR can probably find its BEST use
+in interactive, real time, video game environments. But here’s the rub - many gaming households
+have simply refused to adopt VR as an extension of the consoles they’re currently using. My thoughts? VR does have a place in entertainment. It could be a WELCOME addition to failing
+arcades across the country looking to entice customers back to their establishments. Why more arcades haven’t invested in immersive,
+co-op Virtual Reality party games is beyond me. It seems like the perfect match. The truth is, I’d LOVE to create more VR
+content. I really would! But until some of these more common hurdles
+are able to cleared, I guess I’ll be limited to a flat screen. 

@@ -1,0 +1,10 @@
+The observable universe is 93 billion light
+years across. But just how big is that? Well, it's roughly 100 quintillion (10^20)
+times the size of the Earth. For comparison, imagine taking this whole
+1920 pixel by 1080 pixel video and making just one pixel white and the rest black. If you were to take each row of one thousand,
+nine hundred and twenty pixels and string them all end to end, then shrink that huge
+distance down to the size of one pixel of the video, string the new video's pixels out
+end to end, shrink it all down AGAIN to the size of one pixel of video, and string the
+pixels out end to end once more... that one tiny white pixel represents the earth, and
+the string of all the pixels all together, is one tenth of the diameter of the observable
+universe. 

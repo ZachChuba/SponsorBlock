@@ -1,0 +1,71 @@
+Setting up a proper green screen or chroma-keying
+workflow is a nightmare, especially in small spaces or spaces shared for other purposes. Thankfully, we’re finally seeing movement
+in tech development for background removal options that don’t require so much hassle. This is still a very new field, but in this
+course episode, we’ll be taking a look at the 3 main options for background removal
+on a webcam: Personify ChromaCam with the Logitech C922 Pro Stream Webcam, TriDef SmartCam
+- which aims to work with any webcam, and the Intel RealSense background removal. This gets technical and weird, but let’s
+jump in. I’m EposVox, here to make tech easier and
+more fun, and welcome back to my OBS Studio tutorial course. I have many, many more videos on the software
+in the playlist linked in the description. Check that before asking questions, and check
+the introduction video to learn how this course works, if you get confused. Like I said, we’re tackling 3 very different
+methods of background removal in this video, two of which require specific hardware. I’ll have timestamps in the video description
+if you wish to jump to a specific topic. We’re going to start with Intel RealSense. Intel RealSense For full disclosure, it’s important that
+I tell you that me and my channel are sponsored by Intel on a fairly regular basis. I’ve made promotional videos about RealSense
+technology in the past. This is not one such video, and that’s good
+since I have some critical things to say about it, but I do need to disclose that to you
+as a viewer. Intel RealSense utilizes special webcams,
+such as the Razer Stargazer or this Creative SR300 model I have. These are cameras equipped with a depth-sensing
+camera and infrared sensor which scan the field of view for the shape of a person and
+then uses the depth-sensing technology, as well as contrast, color difference, and so
+on, to remove the background. These are designed specifically for Intel
+Core i7-built PCs. There are a few other variations on RealSense
+tech for 3D scanning and other AR and VR applications, as well, but we’re focusing on background
+removal today. The resulting effect is… Impressive for a technology that only just
+kind of became publicly available out of nowhere - but it’s not perfect. A professionally-installed chroma key environment
+will beat RealSense out every time, but most streamers and content creators can’t afford
+the cost or space required for such a setup. RealSense does a fantastic job of working
+within the space you have to separate you from your background without a ton of lights,
+a big green cloth, and 6 feet of wasted space. You will end up with artifacting - it thinking
+something in the background is you, or cutting off your microphone or headphones, and so
+on, but it’s a nice effect. I can’t wait to see what future iterations
+of this technology bring to the table. You can optimize for this by still using good
+lighting - required for decent-looking webcam footage, anyway - and having a solid colored
+wall or something as your background. Busy backgrounds are harder to work with. OBS Studio now ships with an option during
+the installation process to also install the Intel RealSense SDK and driver, and the setup
+process is fairly straightforward, too. If you didn’t choose this and now want to
+enable it, just re-install overtop your existing installation, choose the RealSense checkbox,
+and you’re good to go. Re-installing doesn’t wipe your settings
+or profiles. Personify ChromaCam
+Right around the time that Intel RealSense cameras were really hitting the market and
+the streaming community was getting fed up with Logitech for not releasing any new stream-friendly
+webcams following the C920’s 4-year domination of the scene, they popped out the C922 Pro
+Stream Webcam. This webcam is more-or-less the same as the
+C920, but comes with a little tripod, can output 60 FPS at 720p - though the image looks
+HORRIBLE and is more likely just an interpolated 360p at the same framerate - and has a better
+mic. But most relevant to this video, the webcam
+comes with a special little program for background removal: Personify ChromaCam. This program is a software approach. There’s no fancy sensors in the C922 like
+the RealSense cameras, but it does require the C922, specifically. ChromaCam attempts to remove your background
+from your webcam shot - giving you the option to also replace it with some pre-made backgrounds,
+your own image, and do all this within video-chatting apps like Skype, as well. In OBS Studio, you actually add the webcam
+as a normal video source, and then use the Personify ChromaCam app - downloadable from
+Logitech’s support page for the webcam, linked in the video description - to customize
+the background. Then, reposition your webcam how you like
+in OBS and you’re good to go! TriDef SmartCam
+A third option, one that should work with any decent webcam, is “SmartCam” from
+TriDef. This is a paid, third-party solution with
+a 7-day trial, but doesn’t have specific hardware requirements and has some pretty
+nice features of its own. The nice people over at TriDef were kind enough
+to provide a key for me to review, but are NOT sponsoring this content in any way or
+seeing it before it gets posted. SmartCam lets you blur your background for
+a foe “Depth of Field” effect, replace it with different scenes, apply filters to
+it, or remove it altogether. This works great for streaming, as well. Stuff None of this technology is perfect yet, but
+it’s a great start - and something to really consider given how frustrating and cumbersome
+a proper green screen setup can be. If you missed it, we actually had a course
+episode dedicated to setting up a green screen. As always, links to the aforementioned hardware
+and programs will be in the video description. I hope this episode of my OBS Studio tutorial
+course has been helpful for you. If it was, drop-kick that like button and
+subscribe for awesome tech videos. If you like game streaming, come follow me
+on Twitch and drop a message in chat. Until next time, I’m EposVox, Happy Streaming! Thanks for watching this episode of my OBS
+Studio tutorial course. More videos like this and a full master class
+are linked in the playlist in the video description. Click to learn more. Also consider joining us on Patreon to help
+keep tech education free. Go to Patreon.com/eposvox to sign up. 

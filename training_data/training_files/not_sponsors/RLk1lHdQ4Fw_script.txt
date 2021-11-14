@@ -1,0 +1,165 @@
+- This video is sponsored by NordPass. SpaceX Starship updates and Crew Dragon Demo Mission 2 is No Demo. (delightful music) My Name is Felix and I am
+your host for today's episode of What about it. And today's episode is the last one before I do my trip to the United States to hopefully, check out some
+Starships in Boca Chica, see some rocket launches
+and meet up with you in Florida and Texas. And due to me not being
+around, there most likely won't be a regular
+episode until March 16th. I know that's a long time but
+I will try to keep you updated with a lot of live streaming and recording for later episodes. So, checkout the channel regularly for some live stream
+announcements and community posts and stay strong, I'll be back. And as always, there
+has been a lot going on in the space industry lately,
+so let's dive right in. Starship updates. As seen on the last episode, SpaceX right now is getting
+the Starship prototype ready for my visit, as requested. Work is going on 24/7 to
+polish it as much as possible before I inspect the work. And SpaceX right now is focused on getting the needed plumbing
+and systems integration done on the finished tank section. Multiple crews are working
+on the outside and the inside and it all very much reminds
+me of what we saw with MK1. Cherry picker cranes on the outside and lots and lots of cables
+going in through some cutouts signaling lots of activity
+on the inside as well. SpaceX this time decided
+against the famous manholes from the MK1 build and found another way of getting the workers
+in and out, rabbit holes. They are lowering them down,
+sitting inside special cages through the top dome with
+one of the large cranes, a much better solution than
+cutting holes into the hull that are not needed after the construction on
+the inside is finished. As you can see here,
+SpaceX has been very busy connecting the already installed systems and adding more to the
+outside of the hull. Amongst pressure regulators, also sensors can be
+found on the outside now and more and more composite
+pressure vessels or COPVs can be found installed on the
+Starship prototype as well. Amongst the more recent
+additions, for example is this large COPV. This size could not be
+found on MK1's hull. One of the possible reasons
+for these large tanks could be that SpaceX has changed
+the amount of RCS thrusters to be installed on SN1. It also seems that the pressure regulators are connected to a pipe coming
+from the inside of the hull and also to the large COPV. Also the small COPVs
+are connected to them. So, these definitely are now confirmed as pressure regulators. Sensor cables can be seen
+connected to them as well by now, so they will most likely
+have a direct link to the avionics of Starship SN1. All this shows again and again how quick SpaceX is
+progressing with the project. And the large COPV mounted to the hull is not the only one spotted on site. SpaceX is mounting others
+onto brackets close by. Where they want to put
+these is not clear yet but the inside of the tank
+section can be ruled out. These would simply be too large to fit through any available
+access hole right now. Maybe inside the thrust section
+would be a viable place. The outside of the hull
+seems like an unlikely place as the frames seem to be
+straight and not curved. Starship SN1 does seem
+to need a lot more COPVs than MK1 did. In this picture by Mary, we
+can see the lines going down from the pressure regulators. Do you see the seven
+small pressure lines here? If we follow them from down
+there all the way to the COPVs, you can see that some of the lines are connected directly to
+the pressure regulators and some lead inside the hull. I would love to get some
+pictures from inside. Elon, if you have the time
+and it's not too secret, show us what's going on here. We'd love to get some more
+details, well, as always. Also, very visible in this
+picture are the cut out parts on the bottom ring segment. All around the hull, there are six of them and they look similarly placed as to where the leg mounts on MK1 were. So, these might be the spots
+where we should rather soon now see some legs installed. First raceways as we saw them on MK1 are also being installed on Starship SN1. These most likely are for
+autogenous pressurization again and there will be more coming soon. MK1 had many of these pipes
+running along the hull. Here you can see one of the workers drilling yet another access hole for pipes into the first section's outer hull. A lot of these holes will be
+needed in the coming days. Some of the hardware is
+sticking out so much though that it makes me wonder if there will be any aerodynamic
+cover over them in the end. This would produce quite the drag and would definitely be
+less than optimal for sure. On later versions, most
+of it will most likely be shifted to the inside of the hull. But what will SpaceX do about it for SN1? Will they just let it sit there like this? Overall progress is still lightning fast and SpaceX is pulling four
+shifts around the clock to keep the progress at this high level. If any of the workers are watching this, tell your colleagues that
+we all very much appreciate the dedication with
+which you and your team are working on these
+prototypes, at day, at night, in the rain and in the storm. Thank you, you rock. A new container protected area
+is being prepared right now most likely, for concrete pouring work. If SpaceX wants to construct
+these two prototypes at the same time, more
+workspace is constantly needed. This might be a third large onion tent we are seeing in the early stages. How many more will SpaceX build? SpaceX has also been busy
+finishing the construction on the High Bay formerly known
+as Vertical Assembly Building or Windbreaker 2. The roof construction is almost done now and workers have lifted a
+large metal beam on top of it. It will be interesting
+to see what this is for. I'll keep you updated. And one more picture from
+Gene from South Padre. Here you can see through
+the door of the tent, where the nose cone is being
+made, and it seems like SpaceX is making very
+good progress here too. This looks like at least two parts have already been
+stacked, maybe even three and including the top cap. So, let's put that picture
+to good use right away. For all those who have not seen this yet, this is where we keep track
+of the Starship build progress to visualize what's already done by now. This again, is where we left
+off on the last episode. It's only missing four rings, but a lot of the nose segments
+were still separate parts. This has already been
+changed now as we saw so at least, the three top segments can be changed from separate segments into one solid piece
+of shiny Starship hull. And on Tuesday then, SpaceX
+moved the tank section to the launch site as predicted. Everything went smooth
+as usual and as always, it was an impressive sight to see SpaceX move more test articles down
+the road to the shoreline. These tanks sanctions are large and it especially becomes apparent when you see them on the road. As soon as it reached the launch site, SpaceX workers lifted it
+up onto the launch mount and connected it. Then, work continued on the tank section. Meanwhile, Elon Musk was
+active on Twitter again and told us that the SN1 tank is right now preparing for Raptor
+attachment and static fire. So, this one will not just
+undergo pressure testing, it will at least have an
+engine test performed. He also said that the SN2 tank will start integration this
+week with even higher quality. This is good news as the SN1 tank still looks far from perfect. He also confirmed what I
+expected for a while now. SpaceX played around with
+weld settings and due to that, in at least some parts of the hull, they used the wrong ones. They found the right settings now though, and are also working on a planisher to make the welds even more flat. He also gave a very good
+clue to the question, if we will see SN1 fly. The answer is most likely, no. When asked if there were
+still three Raptors planned, he replied with 3 on SN2. This indicates that SN1
+will have less Raptors. One Raptor though most likely
+won't be enough safety margin to lift a fully assembled
+Starship prototype up. So, my guess is that SN1 will only undergo further pressure testing and a static fire with probably one Raptor. Last but not least, here are the latest
+closure dates as of today. The upcoming dates for
+February 29th to March 2nd are all set up in the night. All of them are long enough for pressure or static fire tests. So as soon as we see a Raptor
+arrive at the launch site, we'll know if these dates
+will only be a pressure test or if we might see a static fire instead. So, this is it, my last
+update here on YouTube before my trip. And the next time I'm
+uploading a regular episode, it might well be that we're looking at an
+almost finished prototype. SpaceX, you rock. I will of course make sure
+to stream out of Boca Chica if at all possible and I will upload tons and tons of pictures to my Twitter. So, this might be the right
+moment to follow me there to get updates about Kennedy
+Space Center, Boca Chica, rocket launches and of
+course, my two meetups at Kennedy Space Center
+and South Padre Island. Crew Dragon Demo Mission 2 is no demo. This one's probably a
+very small news update, but I think it's still worth it. Demo Mission 2 might not
+be a fitting name anymore. This is the name with
+which SpaceX and NASA are referring to the upcoming
+launch of a Crew Dragon with Bob Behnken and Doug Hurley onboard. It most likely will be before
+Boeing can launch anything towards the ISS again and it
+will be the first crewed launch from American soil since 2011. And all of the hardware
+will come from SpaceX. Now initially, this mission
+was planned as a demo flight. Bob Behnken and Doug Hurley
+were planned to just go up, dock, have a brief
+visit of up to two weeks and then head back down
+to the planet again. A demonstration that
+the system can perform and that Crew Dragon is a reliable option for transfer flights. On February 22nd, though,
+the Johnson Space Center showed some pictures of
+Bob Behnken and Doug Hurley training for the mission. Anyone who knows a thing
+or two about ISS missions can see that this obviously,
+is an EVA training they're going through right now. An extravehicular activity though, would never be planned for a
+max two weeks duration mission unless Dragon needs some good
+window cleaning of course. An EVA is a long term
+planned mission normally and not something that's performed in such a short mission window. The solution to all of
+this obviously is that, Doug and Bob will stay
+longer and most likely, Crew Dragon will too. The reason for this can be
+found in NASA's problems to staff the ISS. Sayuz right now is the only option and Russia has been raising
+the price perceived, more and more lately
+because they know that soon, America won't need to buy them anymore. So, why not use this first
+flight to ease the problem of having to get personnel
+up to the station? Once they are docked, they will
+most likely stay much longer than what was initially planned. Hopefully soon, we'll
+get a new mission outline from NASA and SpaceX and with
+it, some official information on what exactly changed
+for the two astronauts. So, Crew Dragon will
+right from the beginning, be used for a full duration mission, even more exciting for us and a hell of a challenge for SpaceX. The capsule will have to prove
+right on the first mission, that it can do more
+than a simple demo run. I'm pretty confident though
+that Crew Dragon can deliver. So, this wraps up today's
+episode of What About It. Will SpaceX finish their build before I get there on March 6th, and is it a good idea to
+use Crew Dragon right away for full fledged missions? As always, tell me in the comments. Welcome to the patron
+shout out of Episode 76. This is where I think those
+who go above and beyond to support me in my efforts to bring you the latest and greatest
+about space and science. These people research for me, they check with me on the Discord and they give vital
+funding, very much needed for the continued
+operation of the channel. They're a very nice bunch of people and that's why they get a
+thank you on each episode. And as always, there are
+new members on the team, everyone, please give a warm
+welcome to Jerry Geeraerts, Lucky Green, Martin Skov
+Kristensen, Dan Babitch, Karol Szczecinski, Guillermo Jimenez and many others, you rock. Thank you for watching this
+episode of What About It and now would be the appropriate time to hit the like button, subscribe and don't forget to hit the bell button to actually receive a
+notification when I do my uploads. It's a version of support
+that doesn't cost a penny and it does help me to produce
+more and better content. And if you do want to spend your money, consider becoming a
+patron and get insights into the production of What About It and chat with me on the Discord. Or you could buy yourself a new shirt on our merchandise store and look like me. There are plenty original
+designs available in good quality for a low price made by a space
+nerd for other space nerds. It all helps me to give
+you the latest and greatest about space and science. I hope to see you on the
+next episode, until then, have a great time. Starship updates. Prototype. I still believe though that, ♪ I still believe ♪ And it cannot be, (mumbles). Szczeciński, Szczeciński, Szczeciński. (growls) Whew. 

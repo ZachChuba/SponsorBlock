@@ -1,0 +1,97 @@
+I’m not known for the cleanest or most minimal
+setups. It’s function over form all the way for
+me, and I’m someone who needs a LOT of function. But, what if I truly needed to fit into a
+smaller space? Could I make a setup that would work? If I had a much smaller bedroom growing up,
+or moved into a dorm, or something? I sat out to accomplish what would basically
+be my college gaming, multi-media, and YouTube-ing setup if I needed to stick to a MUCH smaller
+space - hooked up all with ONE cable! Sorta. Let’s take a look right after a word from
+our sponsor and whatnot. I’m EposVox here to make tech easier and
+more fun today. Before we jump in, I do need to disclose a
+couple things: Most of what you see here was provided for free for review. I bought a couple things, but not the majority
+of the setup. And the laptop itself is part of a sponsored
+campaign from Intel. But this is an individual video with no one
+seeing it before it goes up or anything like that. No one paid to specifically show up in this
+video. So with this, I wound up with 3 main objectives
+I wanted to focus on: Keeping the setup as small as possible, confining it to my 4 foot
+by 2 and a half foot b-roll table in my studio. I also wanted it to be a sit/stand desk setup,
+as I’ve never used one before. Lastly, I wanted to take advantage of my first
+Thunderbolt 3-bearing laptop and try to have everything connect with just a SINGLE Thunderbolt
+3 cable. Lofty goals, but I think it turned out alright! And before I get the obligatory comment about
+it - no, it’s not minimalistic. I still stuck to my guns and focused on function
+first. Plus, for me in this kind of setup, modularity
+would be important - and you’d want to be able to keep an eye on cables when raising
+and lowering the sit/stand surface. For that, we have the M2B from Flexispot. This converts your standard desk to a sit-stand
+setup with a tablet holder and a keyboard tray. It can hold up to 35 pounds and was perfect
+for this scenario. Getting it onto the table was fun, it was
+hella difficult to unbox and weighs a ton! But it doesn’t budge or slide around on
+the table or anything. The surface itself is VERY slippery, though,
+and prone to scratching. But it’s super sturdy, and very easy to
+use. Simply grip the levers on both side and raise
+and lower, as desired. It’s easy to move without feeling like it’s
+going to fall, and let’s you lock it into just about any position. It’s no UpDesk, but it’s pretty nice. Next up is the centerpiece - my EVGA SC15
+gaming laptop. This beauty features an Intel Core i7-7700HQ,
+an Nvidia GTX 1060, and a GSYNC 120hz 1080p IPS display. Perfect for gaming and editing - and if you
+can handle the weight, it can go with you to class. It does get pretty loud, though, to cool all
+that beefy hardware. This laptop has a USB Type C Thunderbolt 3
+port on it. Despite the disappointing market of unoriginal
+“here’s a few USB ports and a LAN port” Thunderbolt 3 docks at the moment, the idea
+to make this a “1 cable setup” was born here. I hit up CalDigit and got their Thunderbolt
+Station 3 in. This little box adds 3 USB 3.1 type A ports,
+gigabit ethernet, 2 eSATA ports (didn’t know anyone still used that), Thunderbolt
+Passthrough and a full-size Displayport hookup, along with 3.5mm audio in and out jacks. This will support a 5K monitor, or 4 4K monitors
+using the Thunderbolt out and Displayport ports and really expands functionality. To be honest, though, for my needs I would’ve
+preferred a couple more USB ports and maybe a SD reader instead of eSATA, but hey. So The TS3 Dock runs to wall power to this
+giant 24-outlet powerbar that serves as my studio charging station and I began hooking
+things up to it. We’ve got my WASD Custom V2 keyboard with
+MX Blue switches, the ASUS Impresario BluRay drive and DAC, as well as the Logitech BRIO
+webcam and the Elgato Stream Deck. I feel this is a good balance of products
+to provide a solid multimedia and gaming experience. A pair of AKG M220 headphones run to the ASUS
+DAC for high-quality output and 7.1 virtual surround support. The suspension band style and soft ear pads
+are perfect for long gaming or movie watching sessions via the BluRay drive. The audio in port of the CalDigit dock is
+occupied by the Aokeo AK-80 microphone mounted on a super basic desk arm. This is Aokeo’s variant on the BM800 microphone
+and is a 24 dollar condenser microphone to get some decent vocals for YouTube-ing or
+streaming. Much better than the microphone I started
+YouTube with that cost much more. It includes a basic windscreen, shock mount,
+and XLR to 3.5mm cable. The mic arm is mounted directly to the sit-stand
+desk so it rises and lowers with the desk and can be adjusted out of your way as needed. The BRIO webcam is mounted on a Mactren tripod
+up above the laptop. Also mounted is a tiny Aputure AL-M9 LED light
+that will help light your face to make facecam look a little better and keep the BRIO at
+a smooth 60fps. I have this setup in front of a window, so
+during the day you could just open the blinds for some nice facecam lighting, too. Now, I was going to use the Elgato Cam Link
+with a cheap action camera via HDMI to set up the facecam for this. But neither the Cam Link, my AVerMedia ExtremeCap
+UVC or my Magewell dongle would work through this Caldigit dock. It has more than enough bandwidth, so I’m
+not sure what the problem is. Drivers would install but I’d never get
+more than a black screen unless the devices were plugged directly into the laptop. So you could still run that setup for better
+facecam, but would break the “one cable” rule here. I simply ran the Brio with a USB C to C cable
+into the second Thunderbolt port on the dock and we were back in business. The webcam and light are on a cheap Mactrem
+tripod that can be adjusted to angle at you based on the sit-stand configuration. Behind the setup we have a curve ball of an
+awesome setup piece - the Elgato Green Screen. Since this setup is focused on being compact
+and modular, I thought this was a perfect fit. The Elgato Green Screen collapses into a low-profile
+case that can be stored in closets, under beds or under couches, but extends to a full
+chroma key backdrop in a matter of seconds. Perfect for a small space stream setup. For a mouse, I just have the Logitech MX Anywhere
+2S connected via Bluetooth. This isn’t the best for gaming, but is great
+for work on the go. You could introduce a wired gaming mouse for
+this setup - but that would require a USB hub on the dock or plugging it into the laptop
+directly - unless you got a gaming keyboard with a USB port on it. That is an option, I guess. The Elgato Stream Deck provides a great control
+tool for streaming and recording and the included stand makes it easy to adjust height based
+on your sitting or standing position! Lastly, I also have the original what was
+supposed to be “limited edition” Razer metal headphone stand to hold our cans, and
+my favorite Portal 2 coaster to hold your favorite beverage. The obligatory tech YouTuber fake plant adds
+some color to the left, and I have a basic Boston Harbor desk lamp with a colored light
+for some flair. If you plan on streaming with this setup,
+you would probably want a second monitor or tablet or something to monitor Twitch chat. If this setup was against a wall instead of
+a window, you could wall-mount a monitor and run it to the video output on the dock. That way it’s all there ready to go when
+you dock the laptop. Or you could ditch the tripod, put the monitor
+on the desk, and clamp the webcam to the monitor. However, I do have to admit that this technically
+isn’t a “single cable” setup - despite all of my efforts. You see, the EVGA SC-15 is a beastly laptop
+and requires a very hefty power supply. It does not support charging over USB type
+C. So while literally everything else plugs in with the single Thunderbolt 3 cable, running
+the power brick on its own is still necessary. However if you have a lighter laptop like
+the Macbook or similar USB C-charging computers, the dock will charge the computer as well. One thing I did like was that even when lowered
+all the way flush with the desk, there’s still enough room under the sit-stand desk
+for all of the power bricks to comfortably rest out of the way, without dropping them
+to the floor. Very nice. So this is it! Nothing too flair-y, but a functional and
+effective setup that my younger self would’ve been proud of. Would you use a setup like this? What would you do differently? Comment below. Otherwise, drop-kick that like button, get
+subscribed for more awesome tech videos, and I’ll see you in the next one! EposVox is a Patreon-supported production. Our videos would simply not be possible without
+the support and generosity of our patrons - whom you can see on-screen now. If you'd like to join the inner-circle and
+get early access to videos, among other things, go to Patreon.com/EposVox to learn more. 

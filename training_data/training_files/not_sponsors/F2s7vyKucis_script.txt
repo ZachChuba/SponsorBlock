@@ -1,0 +1,162 @@
+Thank you to Brilliant.org for sponsoring
+PBS Digital Studios. Space is big. You just won't believe how vastly, hugely,
+mind-bogglingly big it is. Although according to a new paper, it may
+literally be infinitely smaller than we previously thought. Every time you walk out the door, light from
+the Big Bang strikes your face, enters your eyes. This is the cosmic microwave background radiation
+- the left-over heat-glow from the very early universe. We can’t see this microwave light with our
+eyes, but we can catch it with even a simple radio antenna. As soon as we became aware of its existence
+we’ve been feverishly building better and better devices to collect it. Why? Because it encodes so many secrets. And within this light, a group of scientists
+have just found evidence of the limits of space. A clue that our universe may be actually be
+finite in size. Today on Space Time Journal Club we’ll delve
+into the Nature Astronomy paper that just reported this: Planck evidence for a closed
+Universe and a possible crisis for cosmology by Eleonora Di Valentino, Alessandro Melchiorri,
+and Joe Silk. This is the map of the cosmic microwave background
+- the CMB - made by the Planck satellite. We explored in a previous episode how that
+speckled pattern is the frozen imprint of sound waves that reverberated through the
+first few hundred thousand years after the big bang, only to be frozen in place as the
+universe cooled. Analysis of the sizes of these speckles from
+previous satellites, and the initial analysis from the Planck map, pointed to a universe that
+is infinitely large and geometrically flat, and is dominated by the influences of dark
+matter and a constant density of dark energy. For the most part this has agreed with our
+observations of the modern universe. But more detailed study of the Planck data
+has started to reveal tensions. We’ve talked about this so-called crisis
+in cosmology - the Planck team calculate an expansion rate for the universe that does
+not match the expansion rate observed today - particularly the modern expansion rate determined
+from supernova measurements. And that's even accounting for accelerating effect of
+a constant dark energy. Despite this tension, the teams agree
+on lots of things, including fact that the universe is, as close as we can tell, geometrically flat and infinite. But, I’ll come back to what exactly what I mean by that. But even this agreement seems to be fading. In the new study, astrophysicists claim to
+have found clear evidence in the Planck data that the universe is NOT flat, but rather
+curved inward on itself. If they’re right, the universe is not infinite
+in extent. Before we get to the new study, let’s do
+a super-quick review of geometry. Albert Einstein’s general theory of relativity
+allows for three simple geometries for our universe. We have 1) a universe with positive curvature. The 2-D analogy for this is the surface of
+a sphere, so a our 3-D space would be like the surface of a 4-dimensional sphere - also
+known as a hypersphere. Just like with the 2-D spherical analog, lines
+that start parallel in such a universe eventually come together. Such a universe has a finite volume, just
+as a sphere has a finite surface area. If you travel far enough around you'll get
+back to where you started. Then there’s 2) the negatively curved universe,
+analogous to a hyperbolic plane - an infinite saddle shape. All paths through space diverge from each
+other. Such a universe is open - space goes on forever. And finally 3) the universe with zero curvature
+- a geometrically flat universe. Parallel lines stay parallel, your high school
+geometry still works, and again, space in such a universe goes on forever. The geometry of the universe is determined
+by two things: 1) the mass and energy it contains. More stuff in the universe - a higher energy
+density - means more gravity, which tends to pull a universe in on itself - it gives
+positive curvature and closes the universe - making it finite. And 2) the rate of expansion. Rapid expansion tends to give negative curvature
+and open the universe - make it infinite. The combination of these factors determine
+the geometry. Like I said, previous studies were pointing
+to a flat universe. For example, by looking at the geometry of
+gigantic triangles defined by the largest of the speckles in the CMB. The curvature measured was consistent with
+being zero - flat - but there’s always a degree of uncertainty due to the imperfect
+nature of any measurement. The curvature COULD have been very slightly
+positive or very slightly negative - just as the surface of the Earth appears flat if
+you’re standing on the ground. It’s only when you get some elevation that
+you see the curvature. But it turns out that evidence of very slight
+curvature may have been hiding in the Planck data all along. The new study went much deeper into the Planck
+data than just looking at triangles defined by the biggest blobs. The team analyzed ALL of the blobs. More accurately, they analyzed what we call
+the power spectrum. That’s just the graph showing the distribution
+of the different sizes of blobs in the CMB. Blob size is on the x-axis and number of blobs
+of that size on the y. So we can see that we get a lot more blobs
+at some sizes compared to others - with most blobs at around 1 degree on the sky. We talked about the power spectrum in enormous
+detail in that earlier episode. One thing that we didn’t talk about is how
+gravitational lensing influences the overall shape of the power spectrum. See, the light from the CMB doesn’t travel
+straight to us. It passes through a universe full of galaxies
+and galaxy clusters - all of which have enormous gravitational fields that act as lenses, slightly
+deflecting the path of those rays of CMB light. The result is like looking at the universe
+through a lumpy pane of glass. Everything is very slightly distorted. In the case of the CMB, this results in a
+sort of smoothing or blurring out of the power spectrum- the peaks are less sharp than they
+would be otherwise. Our brave scientists were able to determine
+the amount of lensing present in the Planck CMB map - and they found way more than would
+be expected for an open universe. See, gravitational lensing is caused by mass
+- both dark matter and atoms. More lensing suggests the universe has a higher
+energy density than previously thought. Remember that more energy density tends to
+introduce positive curvature. The new study claims there’s enough extra
+matter revealed by that lensing to actually close the universe into a finite hypersphere
+surface rather than an infinite flat hyperplane. Obviously I’m glossing over a lot of details
+here. These scientists didn’t just measure the
+amount of lensing on its own. They created a model that included all of
+the relevant parameters - the expansion rate, details of inflation, the amount and behavior
+of all different types of mass and energy, etc. They found the range of models that fit the
+shape of the power spectrum, and for the most part those pointed to positive curvature. That curvature was slight - meaning the universe
+is still unthinkably vast, but if this is right then it’s not infinitely large. The researchers claim a greater than 99% statistical
+confidence for positive curvature in this analysis. So, is the universe really closed and finite? Does that mean there’s enough matter to
+cause it to re-collapse again? And can we find a faster route to India by
+traveling all the way around the cosmos to get back to where we started? Well even if the universe is finite, it’s
+still expanding and that expansion is accelerating. It will NEVER recollapse unless its physics
+is very different to what we think. Also, beyond a certain distance from us that
+expansion exceeds the speed of light, so there’s no lapping the universe regardless of its
+geometry. There’s also a reason to be cautious before
+we conclude that the universe is closed at all The researchers looked at a different indicator
+of the amount of gravitational lensing: the so-called four-point correlation function. In short - lensing by a cluster of galaxies
+tends to draw rays of light from different blobs together. A random distribution of blobs ends up with slight
+clusterings. The four-point correlation function found
+an amount of lensing consistent with the old result of less energy density and a flat universe. So why is there a conflict given that 99+%
+confidence? It’s important to know that this percentage
+is NOT the likelihood of the conclusion being correct. It’s the statistical confidence in the model
+fit given the assumptions that went into the model. In other words, IF all of those assumptions
+are correct then there’s less than 1% chance that a flat universe would look like
+a positively curved universe just due to random uncertainties. So, there are three possibilities really:
+one is that the universe really is positively curved and finite. Two is that the assumptions that went into
+the model are wrong. We’ll come back to these. Three is that there’s a mistake - an issue
+with the data. Let’s talk about that. Some very subtle systematic issue in the calibration
+of the Planck data may have led to the unexpected results for both the geometry and the expansion
+history of the universe. For example, the Planck CMB map required extremely
+careful subtraction of all other sources of microwave radiation. If this step, or something like it, wasn’t
+done perfectly it could lead to bad results. The "official" analysis of the Planck data
+was extremely careful so any mistake would have to be very subtle. The authors of the new study redid part of
+the Planck analysis to claim this evidence of positive curvature - which the Planck team
+had themselves decided wasn’t significant. So did the new guys do a better job and prove
+everyone else wrong? That would be surprising because most data
+points to a flat universe. If this lensing signal is real then maybe
+there’s curvature, or maybe its an indication of some unknown physics. In the case of the discrepancy in the expansion
+rate, hidden physics is the great hope of many physicists. That “missing physics” could turn out to
+be the subtle clue needed to push our understanding of the universe to the next level. For example, if the expansion rate of the
+universe really has evolved it may mean that the behavior of dark energy is changing - and
+that could reveal the true nature of dark energy. In fact, if the universe really is curved
+and closed, the discrepancy between the early universe and modern expansion rates becomes
+even stronger. That’s because the previous calculations
+of that discrepancy assumed a flat universe. So, physicists get even more excited if this
+result holds up. OK, lots of ifs and buts - and that is okay,
+because that’s how science works. We are very careful about how we talk about
+confidence and proof. The new result opens a tantalizing new possibility,
+and also hones in on the real physics of our universe - even if that means honing in on
+any errors we’ve made in our analysis. The tension between the Planck results and
+other cosmological measurements seems  to be growing. The good news is that future missions will
+surely resolve it. Perhaps identifying any errors, perhaps discovering
+the nature of dark energy, and perhaps verifying the positively curved, finite geometry of
+space time. If you want to dive deeply into understanding
+the building blocks of space time then you need to study quantum theory. Brillaint.org has a fun course called quantum
+objects that include interactive challenges and problems to solve. Honestly, the best way to wrap your head around
+quantum theory is to play with it. In this course you can explore the experiments
+of quantum mechanics and use them to construct equations of motion, laws of physics, and
+systems of measurement based on the algebra of quantum theory. Effective learning is about problem solving. To learn more about Brilliant, go to brilliant.org/spacetime. OK, so in the last episode we explored the
+scientific and philosophical implications of the anthropic principle. But before we get to that, I want to invite
+you to check out the Space Time discord, which you can access with the lowest $2 patreon
+tier. There are loads of people over there talking
+about all sorts of fascinating smart-person stuff 24-7, as well as making suggestions
+for the show - some of which we're definitely going to do. Here's a discord question from Damagast: do
+all PhD physicists casually talk about complex stuff like on Space Time videos, or do most
+employed physicists just shut up and calculate? Well, actually, both. I know plenty of physicsts who LOVE talking
+about the most complex, speculative, and philosophical stuff over a beer, and some who are laser
+focused on their own field and don't really think far beyond it. That's ok too, but I prefer beers with the
+former. So let's see what you had to say about the the last episode. Scott Barnkow asks what are some testable
+predictions of the refined anthropic principle? Well, I'm glad you asked Scott because next week we're going to tell you about a very clear one: Stephen Weinberg's prediction of the cosmological
+constant years before dark energy was ever discovered. Speaking of next week, Vladimir postulates
+that if there are to be trillions or quadrillions of humans in future space-faring civilizations,
+isn't it weird that we happen to be in the first 100 billion? Well, nice way to invent the doomsday argument Vladimir... like 35 years after Brandon Carter first proposed it. And we'll be digging into that next week also. And we'll answer your question P.S.Y - what
+exactly DOES Nick Bostrum mean by "reference class" - as in, how do you choose the sample
+of observers from which you consider yourself randomly selected. In order to save ourselves from imminent doom
+we may have to hope future generations are NOT in our reference class. Tune in next week. Penny Lane notes that anyone believing in
+a Goldilocks universe clearly never experienced English weather. Well, besides being a witty quip, this gets to an
+important point: anthropic seletion only demands that our universe be able to produce observers
+who think about the nature of the universe. There's no reason they need to be in any way
+happy about the universe they observe. In fact I feel like horrible English-style
+weather may be strongly selected for. It encourages us to sit inside and think about
+the nature of the reality. Regis Bodnar has a great point: while it may
+be technically possible to observe a typical universe, it's perhaps impossible to define
+one. So, let's see. How do we define a typical universe? Well it would be one whose particular configuration of fundamental constants gives you a universe similar in some respect to
+lots of other configurations of constants. Honestly, that's probably some massively exponentially
+accelerating universe because the cosmological constant in most universes seems likely to
+be a lot higher than ours. So a typical universe is mostly empty Singapore Breaking News likes to play space
+time loudly so mom thinks they're getting more brainy but in the background is playing
+games on steam. Well, jokes on you Singapore Breaking News - that is
+a brainy trick, so you got smarter despite yourself. 

@@ -1,0 +1,140 @@
+- Is this idling at 220 watts. - [Alex] Yes. - Jeepers. Now at the end of out PC Pro video we told you guys that yeah,
+it's awesome. (monkey cheer) but it lacks focus, like
+it's not really designed for a single task. It's the middle of the road
+performer for everything. Not so, with the creature
+that we are showing off today. This is the Comino RM and it
+is designed for one thing, and one thing only. Absolutely chewing
+through video rendering. It's got four RTX 2080TI's,
+a Threadripper CPU and a design like nothing
+else I have ever seen before. Just like the Segway it's like nothing you've ever seen before. This video is brought to you by GlassWire. Instantly see your current
+and past network activity, detect malware and block badly
+behaving apps with GlassWire. Check it out in the link
+in the video description to get 25% off. (computer beeps) (upbeat electronic music) To be clear I'm not saying
+this is a slow machine. When we put out $32,000 PC Pro
+up against a $33,000 Mac Pro, it was twice as fast in
+our mark bench benchmark which is a project that
+we created identically in both premier pro and
+final cut to see how fast a PC versus a Mac could encode a video. However, when we take a
+more specialized machine, can we beat the Mac Pro by more? There's only one way to find out. Here we go. Time remaining, oh wow, it's
+actually not ahead by that much but it is ahead, so far. Man this new GPU encoding in
+Adobe Premiere really hits it, doesn't it? We're seeing GPU usage as
+high as 50, 70, I saw 80% for a second there and that's all four of the RTX 2080TIs. - [Alex] What's the power draw on that? - Oh cool 760 watts. - [Alex] Really that's all? - That's it.
+- Huh, not to bad.
+- It's efficient. I think a big part of it
+it's just that it's running a Threadripper rather than an Epic. Because instead of running at
+3 gigahertz and change boost this puppy is boosting
+to four, 4.25 gigahertz. It's a 32 core processor! It's nuts! - Oh and it's done.
+- And it's done. Lets check the times. Encoding time, one
+minute 45 for the Comino. 1.51 for the PC Pro, we've got a victory. Now it's still pretty
+expensive at around $15,000 but this kind of custom chassis
+work and the water cooling that's inside it, does not come cheap. And it still costs about
+half as much as the PC Pro. Lets go on. Wow, okay, I was not expecting this. We only have one license
+for SolidWork's Visualize but apparently it's, giving
+us a little bit of leeway on that right now. So, the purpose of this
+program is to take a project that you've created and render it in like a super cool photo realistic
+way for promotional imagery. So we gonna go ahead and take this Camaro which is included with the program and we are going to output it
+- Yeah, put it right there. So that just brings up the back. And make sure the passes,
+yeah make those each 1,000. - A 100,000 passes, oh my Lord. Enable de-noiser, ouch. You ready? Are gonna blow a breaker Alex? - I don't know,
+- Are they hooked up to different breakers? - [Alex] I'm not entirely sure. - Oh snap, okay well the CPU's are going, the GPU's haven't checked in. We're at, holy (beep) (Alex laughs)
+We're at 1,300 watts. How's it even doing that? It's not even hitting those
+GPU's or so it thinks. It must be. - Yeah it is.
+- Task manager has to be confused. Whoa! Hey I mean, why buy a space heater for your bedroom for the winter? Just pick up one of these puppies. Holy crap, this is only
+half way through it's passes and this one is done. It goes to show you that if your work load just relies on raw GPU muscle, a Quadro is not going
+to do anything for you that a G force can't. To put this in perspective,
+we are twice the performance of our PC Pro which was 36
+times the speed of the Mac Pro. And, we're half the price. While we wait around
+for the PC Pro to finish lets set it to 100,000 passes. Lets start up the render again and have a look at the
+incredible cooling system in the Comino RM here. When I filmed my initial
+unboxing of this thing on our short circuit channel,
+go subscribe by the way, all I can really say was, " What am I even looking at here?" Because you got your CPU with this crazy, custom block they've designed on it. You've got a loop whose
+order kinda makes no sense, like it splits out and
+then half of the water goes to the CPU and the other half goes to the four GPU's which
+are all in like these little like GPU sandwiches,
+under the motherboard. And then you've got these
+incredible shielded PCI express risers, that actually run around to the underside of the motherboard tray leaving the top of the
+system looking really clean. Well as it turns out, we've
+been in touch with them and they've explained every funny thing that we noticed about the design. And it was all with the
+intention of creating a rendering and AI just brute of a machine that is still stand alone,
+so it doesn't require like a chilled air cooling
+system in a data center anything like that, and reasonably quiet. So the reason that they went
+with these 140 millimeter Noctua PPC 3,000 RPM
+fans, is that they've got a great combination of both, airflow moving capacity
+and static pressure. So they've got this seal here on the back so that the triple 120 millimeter radiator is able to get all of
+the air moving through it instead of spilling out around it. The reasoning behind the triple
+SFX 750 watt power supply, basically came down to
+avoiding ATX power supplies because they would have
+interfered with them being able to fit the triple radiator and also avoiding noisy,
+redundant server style power supplies which are well, noisy. (computer hums) Whoa aye oh okay. Now we ran this benchmark
+in a room temperature room so about 22 degrees
+Celsius, 23 degrees celsius, for an hour and a half to give the system all the time it needed
+to reach equilibrium and they managed 77 degrees
+at the highest for our CPU and the maximum of just 66
+degrees for our hottest GPU. So as crazy as it sounds initially, to split up your coolant flow, half to the CPU and half to four GPUs looks like that was the right move. The benefits of a water cooling system like this are twofold. One, is that each of these four GPUs, its crazy it only looks
+like two GPUs doesn't it? Cause they're like, they're
+sandwiched together. Each of them was turboing
+to 1,800 megahertz during that long intensive test and, according to Comino anyway, they can be quickly and easily
+swapped out for maintenance without even draining
+the water cooling loop which I'm kinda looking at
+going, um not really.(laughs) Cause what am I even looking at here. - [Alex] The GPUs are all
+kinda of like on a tray and that comes out.
+- Oh, there's some security torques there. Okay. Well I'm a little worried that, whoa. That's gonna happen. Come on baby. Come on you can do it. Don't be shy, oh there we go. What's it stuck on you know? Maybe you just need to just, force it. (Alex exclaims) Okay, I see their point. But I'm also not 100%
+sure that I agree with it. Yes, you could strip the
+cooler of of another 2080TI, take that bare PCB,
+(slurps), slop it on there, and in practice I think
+that opportunities to change out graphics cards
+without draining the loop would be few and far between
+because you know if you wanted to upgrade for example you would obviously need to replace the block. Should we pull a card off and
+just have a look at the block? - [Alex] Sure, okay do it.
+- I'm curious. Right now, it's held on
+by only thermal compound. Which seems fine. (Alex exclaims) Should be fine Alex, just chill. Oh interesting. That is a very unusual approach. Normally manufacturers don't
+try to get the tolerance to sew tight on their copper blocks. And they use a pad for memory
+instead of thermal compound. And actually, you can
+see the wisdom of that. So there's some, there's some
+learnings in here for Comino you can see that the contact
+between these memory chips on the block is not actually amazing. One of the reasons for that
+is that when you're mounting a surface mount VGA components like these GPUs, the tolerances
+can be a little bit off. And it's far more important
+you have good contact on the GPU because these memory chips don't actually output that much heat. You can see their GPU contact is excellent so what they'd probably be better off with in the future version of this block is bringing this part down
+just fraction of a millimeter and then using pads for
+these just like they do with the voltage regulators
+and all that kind of stuff. We can take a moment now to appreciate Comino's PCI express daughter
+board, riser card thing. So, what's really neat about these, is they allow them with just
+these skinny rounded connectors so instead of the like big
+flat PCI express extenders to take a full 16x slot worth of bandwidth around the motherboard, around to the back of the motherboard tray. These right here, each
+handle 8x worth of bandwidth so if you hook up just one of them, you would have an 8x slot. And if you hook up the second
+one, you've got the full 16x bandwidth to your card. Which might not be that
+important for gaming, but for computer
+applications which is exactly what they're doing here,
+that's absolutely critical. You want as much bandwidth
+to the slot as you can get. I figured it out Alex. There's angled screws down here. - Angled screws? What angle.
+- They're hiding, (grunts). Oh Lordy. Wow, hey, hie, ho, hey how's it going? - [Alex] Damn.
+- That, is how a power supply is coming out. While I'm not sure I quite
+buy it on the graphic cards power supply swaps do
+appear to be pretty much as simple as pippity,
+poppity modular interface, screw in a new one and (snaps
+fingers) you're ready to rock. We're back up and
+running so we're gonna do our last benchmark against our $32,000 PC. This is Octane Bench. This is a GPU rendering benchmark. Lets go ahead and have a
+look at our usage here. Okay they're both fast. So that's nice. In a big surprise to absolutely no one, the Comino RM crushinated the PC Pro. With that said, as we
+said about the PC Pro in our original video, it's a all rounder. So if we were to run into a situation where the were working on a project or a dataset that was so big that we need more than 11 gigabits video memory, the PC Pro would
+absolutely pull out ahead. So this is more of a lesson
+in buying the right tool for the job than it is
+necessarily just a sales pitch for the Comino RM. It's a super cool machine but unless you absolutely know you need one of these, I probably wouldn't call
+them up and you know, send them a purchase order. That said I would love to use this as our video rendering server. It's fricking fast. Just like the speed
+I'm going to transition to our sponsor. Blinkist takes the best insights and most important
+information from thousands of non-fiction books and
+condenses them into 15 minutes. You can either read or listen from the app and you can learn about self development, and success, business
+and finances, parenting, psychology, self help, all
+kinds of amazing topics. And it will help you discover
+different perspectives and views to incorporate
+into your everyday life. You will be amazed, how much
+you can learn in 15 minutes. They've got offline downloads
+which makes it perfect for commutes and some of their
+most popular titles include, "What to Do When Machines Do Everything," which explains how automation
+can be incorporated into current business
+models and "Streaming, Sharing, Stealing," which
+outlines successful companies like Apple, Netflix and Amazon on how they use data to
+understand their consumers in the ever changing
+entertainment industry. It's available on the Google Playstore and Apple's App store
+and the first 100 people to go to blinkist.com/linusttechtips, we're gonna have the link below, are gonna get unlimited access
+for one week, to try it out. Also they have full length audio books now with premium subscribers
+getting special pricing up to 65% off retail price. So go check them out down below. 

@@ -1,0 +1,129 @@
+documentaries for free for 31 days at curiositystream.com/realengineering. On December 12th, 1984, the United States
+Air Force and NASA began testing an unusual aircraft. One that broke all aircraft design convention. It’s wings pointed forward. However this experimental aircraft dubbed
+the X-29, was not the first of its kind. The German’s also experimented with the
+concept in the late stages of World War 2 with the Junker JU-287, and it’s prototype
+airframes would eventually end up in the hands of the Soviets who took and developed the
+design into the okb-1 ef 131 and OKB-1-140. [1] All of these early iteration designs ran into
+the same problems. This design was incredibly aerodynamically
+unstable. When the wing deflects the force of the oncoming
+wind tends to make it deflect even more.[2] This is a rather obvious design flaw. Intuitively you just now looking at it that
+something doesn’t quite make sense. So why did Germany, The Soviet Union and the
+United States all see the design worthy of consideration? To understand this, we first have to explore
+why wings are swept beyond a perfectly perpendicular angle in the first place. Looking at most aircraft developed during
+world war 2, you can see that nearly all of them had straight wings. The Spitfire, the mitzubishi A6M Zero and
+the P-51 Mustang. It was only during the later stages of the
+war, as more powerful engines came to the fore that other designs started to emerge,
+and in one case the straight wing became a major design flaw that put the crew of the
+P-38 Lightning in serious danger. These problems arose directly as a consequence
+of how wings generate lift. An aerofoil is designed to make use of bernoulli’s
+principle, where a low pressure zone is created on top of the wing as a result of airflow
+moving faster. People like to say this false , but it’s
+just one of the ways a wing generates lift, there is a lot more to the story. Because this airflow actually speeds up as
+it crosses the wing, it can reach supersonic speeds long before the plane itself reaches
+supersonic speeds. [3] This causes problems because supersonic
+flow means shock waves form, which can disrupt normal airflow over the wing. On November 4th 1941, these problems resulted
+in the death of Ralph Virden, an expert test pilot, during a high speed test dive of the
+P-38 lightning. The causes of the crash were unclear at the
+time. This version of the P-38 had been altered
+with superior servos for the control surfaces to help the pilot overcome aerodynamic stiffening,
+where the force of the oncoming air at high speeds makes it difficult to move the control
+surfaces, but the plane still entered an uncontrolled dive regardless of these measures. The engineers eventually discovered the airflow
+was separating from the surface of the wing as a result of shockwave formation. This reduced the lift the wing could generate,
+while increasing the lift on the tail wing directly downstream of the flow separation. This moved the centre of pressure and forced
+the plane to pitch downwards and gain even more speed,[4] making it next to impossible
+to recover from. To solve this issue they incorporated a dive
+flap on the lower surface of the wing, where airflow was not reaching supersonic speeds,
+which could be deployed during high speed dives to allow the wing to increase lift and
+recover from the dive. As technology advanced however aeronautical
+engineers started to see that straight wings were not suitable for transonic or supersonic
+speeds, and gradually started to adopt swept wings. The Germans confirmed the theory with high
+speed wind tunnel testing in 1939 by testing two wings, a straight wing and a swept wing
+with a 45 degree sweep. Proving that a swept wing could delay the
+onset of supersonic flow AND reduce drag. [5] They recognised that the swept wing would
+allow a plane to fly faster before shock waves formed, long before the technology that would
+enable them to fly faster was even invented. They used this knowledge to develop the Messerschmitt
+P.1101, a jet powered plane that could actually change it’s sweep angle before flight. But the end of the war came before the German’s
+could finish it and test the aircraft Air flow over a wing perpendicular to the
+freestream air has one component, the chordwise flow, [6] which is air that flows over the
+chord of the aerofoil. The chord is the imaginary line running from
+the leading edge to the trailing edge of an aerofoil. Chordwise flow does accelerate over the aerofoil,
+and thus contributes to lowering the speed at which supersonic flow begins. Called the critical mach number. Now let’s look at the flow components over
+the Bell X-5s wing at its lowest sweep angle, 20 degrees. Here we can separate the airflow into two
+components. [6] The chord wise flow, which is now offset
+at a 20 degree angle relative to the freestream, and the new second component the spanwise
+flow, which flows along the length of the wing and does not accelerate and thus does
+not lower the critical mach number. At lower speeds, where supersonic airflow
+is not a worry, you want as much of that airflow to be chordwise and thus generate the necessary
+lift to fly. However as the speed of the plane begins to
+climb, we are generating more than enough lift thanks to the increased air speed, and
+thus can afford to convert some of that airflow into spanwise flow. We do this by increasing the sweep angle,
+which the Bell X-5 could do in flight to a maximum sweep angle of 60 degrees. [7] As the sweep angle increases a larger
+portion of that airflow is converted to spanwise flow, which is great for increasing the top
+speed of an aircraft, but can cause some troublesome stall characteristics. Because a large volume of air is now originating
+at the root of the wing and travelling down to the tip of the wing, stall will begin at
+the tip of the wing and move towards the root. This is a problem because our ailerons, the
+control surfaces that allow us to roll the plane, are located on the outer wing. If stall occurs on the outer wing, we will
+lose roll control. [8] A major problem for say at fighter jet
+attempting a high angle of attack maneuver while maintaining full control, and this is
+one of the problems forward swept wings were trying to fix. This reverses the direction of the chordwise
+flow, so it originates at the wing tips and travels to the root of the wing. [9] Meaning stall occurs at the root of the
+wing first, allowing us to maintain control of the plane for much longer. Not only that, but it reduced induced drag
+as a result of wing tip vortices. Where high pressure air from the lower wing
+travels and mixes with low pressure air on top of the wing at the wing tips. The Ju 287 was designed this way not to benefit
+from the superior aerodynamics characteristics, but to move the wing box rear wards, which
+allowed the bomb bay to move forward closer to the centre of gravity of the aircraft,
+which in turn allowed the plane in-carry a larger bomb, while not increasing the trim
+drag to keep the plane balanced. [10] But ultimately the materials of the time
+could not facilitate it. Under normal wing loading, the main force
+being exerted on the wing is upwards bending. Where the force of lift pushes the wing upwards,
+while the weight of the fuselage pushes downwards. To survive this we need to build an adequately
+strong and stiff wing. This is achieved through a beam called a spar
+which runs the length of the wing. With a forward swept wing an additional stress
+is introduced, where the force of oncoming air is attempting to twist the wing. We can imagine this with a free body diagram
+with springs representing the stiffness we need to incorporate into the wing. [11] Here the kb is the spring stiffness that
+will be needed to resist bending, and kt is the spring stiffness needed to resist twisting. Creating a structural member that can act
+like this torsion spring over the entire wing however is no easy task and would require
+enough additional weight to negate any positive attributes the forward swept wing would provide. But that changed when advanced composite materials
+became available. Allowing planes like the X-29 and the Russian
+equivalent the SU-47 to be made. Both planes used carbon fiber reinforced plastics
+laid up so the fibres would resist that twisting motion. I will focus on the X-29 from here, as information
+on American technology is far more freely available. The X-29s primary structural member for resisting
+this twist was a closed box section, located here, [12] which was constructed of crisscrossed
+composite tape that reached up to 156 layers deep. Essentially creating that spiral spring shape
+within the structural member, but with extremely stiff and lightweight composites. Taming that twisting problem, and allowing
+the plane to fly successfully.Wind tunnel tests showed the forward swept design would
+provide a 20% gain in efficiency compared to same plane with aft swept wings. [9] This along with a supercritical wing design
+[13], which flattens the top edge of the aerofoil, to minimise the acceleration of the air over
+the top edge, while introducing a concave curve to the lower surface to increase lift,
+allowed the X-29 to spend less fuel flying at a higher mach number. Another drag reducing benefit of the forward
+swept wing was the shifting of centre of pressure rear wards.[14] Typically the lift generated
+by an aft swept wing needs to be counteracted by a tail wing which generates downwards pressure
+to maintain pitch stability. This downwards pressure is wasted energy that
+contributes to drag. With a forward swept wing the centre of pressure
+is moved to the rear of the aircraft behind the centre of gravity, and thus to maintain
+static pitch control these pitch control surfaces, called canards, need to generate lift forward
+of the centre of gravity and thus contribute to useful lift. This would seem like an obvious feature to
+incorporate into every aircraft, but leads to instability that requires the control surfaces
+to constantly adjust to maintain a stable flight, and this was one of the massive challenges
+the designers faced. The X-29 was incredibly unstable, especially
+in pitch, even when compared to modern jet fighters. This means the flight control computers had
+to be constantly adjusting the control surfaces to maintain stable flight, about 40 times
+a second. [15] To do this the X-29 had three flight control
+computers, to provide redundancy if one failed. As the plane would become essentially impossible
+to fly without the aid of a computer. Which made it even more worrying when all
+three shut down while preparing to take off. [16] This caused the plane to be grounded. Delayed testing, which was due to accelerate
+with the arrival of a second X-29 fitted with a parachute system to allow high angle of
+attack maneuvers to be safely tested. The spin parachute was installed to provide
+positive recovery from spins, as spin-tunnel tests had indicated that the X-29A ailerons
+and rudder provided poor recovery from fully developed upright spins. Eventually the problems were solved and high
+angle of attack testing resumed and proved the X-29s capabilities, but the program ultimately
+ended on December 8th 1988, almost four years to the day of it’s first flight. In between that first and last flight the
+X-29 completed 242 flights with 179 combined flight hours. Giving valuable scientific data and design
+experience in composite airframes and computer aided flight. Ultimately forwards swept wings weren’t
+incorporated into newer generations of planes, as the benefits simply did not outweigh the
+cons. From the additional structural requirements,
+the poor pitch stability and perhaps most importantly it’s negative effects on stealth
+design [17], forward swept delta wings won out in the end. This is just one of many unusual plane designs
+that originated in world war 2 era Germany, among other novel military vehicles. a month. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my instagram, twitter, discord server and subreddit are below. 

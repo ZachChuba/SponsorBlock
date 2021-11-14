@@ -1,0 +1,206 @@
+♫ music ♫ If you’re among the folks who drive a car to get around, and you’re a good egg who uses turn signals like you should vote — early and often — you’ll probably have been in this situation; You’re sitting in a turning lane, with your signal on because again you’re a good egg, and despite all the projection of good vibes
+you can muster, you just can’t get your turn signal to sync up with the car in front of you. Why? You’d think this wouldn’t be so difficult, after all it’s just a blinking light, but try as you might even if you appear to get it synced eventually one signal drifts away from the other. Turns out there’s a very simple explanation
+for why you can’t get two indicators to flash in sync. It has to do with how turn signal circuits
+function. Except, these days? Those circuits don’t work like they used
+to, and, with the right car in front of you, you absolutely can sync yours up. There’s no trickery going on here. These are three different completely unmodified cars, all different model-years, made 4 years apart, but their indicators stay in lockstep
+with one another. What’s going on here? Computers! But let’s step back in time and look at
+how turn signal circuits used to work. Cars have needed blinky lights on them for
+communicating your intent to those around you for many decades, long before the word "microcontroller" ever left an auto executive’s mouth. Although we experimented with goofy ideas
+like trafficators or delightfully quaint displays like these, eventually we settled on flashing lights — the flashing helps to get your attention — placed at the corners of vehicles. Most of the world has decided you need to
+have amber-colored lighting at all four corners for indicators, but for some reason this continent
+thinks red is OK on the rear and even worse we’re just fine with combining the functions
+of the stop lamp and the turn indicator into one lamp! It’s really not great for several reasons, but that’s an old video of mine. Now, as you may imagine, if turn signals haven’t fundamentally changed since the 1950’s, the circuit which makes them possible is probably pretty simple. And in fact it is! It would be really great if we had an old-fashioned
+ turn signal circuit we could take a look at. Luckily... I have one right here! And yes, I know the headlights are facing backwards
+if the steering wheel is facing you, but, look, this is just a demonstration. Deal with it. This is a steering wheel and (truncated) column
+assembly out of a late ‘80s Honda. It was important that it be that old, 
+and you’ll understand why by the end of this video. These are your stalks. Like corn, but plastic! In this car, these control wipers and all exterior lighting. To the left is the turn signal stalk and headlight switch. And to the right is the wiper stalk. These are all real, current-carrying switches. You can see on the connector for the headlight
+switch some rather beefy pins, and that’s because all of the current for the headlights
+and whatnot traveled through this thing. And being a 12V electrical system, even though
+the headlights may only consume 120 watts or so, that’s 10 amps. Though, for safety’s sake, each headlight is usually on its own fused circuit. It's better to not lose both at the same time should there be a fault. The switch we’re interested in is this guy. I’ve always admired these for how many functions
+they manage to make work on a single control. In this car, twist the end to engage the parking lights and headlights. Pull it towards you to flash the high-beams. Pull it until it clicks to engage the high-beams (though in many cars you actually push it away for the same). Or if it's old enough it could be a switch on the floor. And then push it down or pull it up to engage the turn signals. By the way, if you’ve never realized this 
+(and I know people who haven’t) you push it in the direction that you will turn the wheel. So to signal left, you push it down because
+the left side of the wheel moves down when you turn left. And if for some reason you have a Japanese
+domestic market car like some sort of eccentric person (or I suppose, if you live in Japan) the stalk is on the other side so the direction you push it is reversed, 
+but the idea remains the same. You shouldn’t have to think about which
+direction to push the stalk, and if you were taught to memorize up is right and down is left, well I’m sorry. It’s deliberately quite intuitive. So anyway, the three smallest contacts are
+for the turn signals. One is common, and the other two are for the
+right side of the vehicle and the left side of the vehicle. Engaging the stalk simply bridges the common
+pin to one of the other two, so if we build a circuit where 12V is present on the common pin, it will send 12V out on one of the other pins when we engage the turn signal. Then, all we need to do is send that 12V to
+a couple of lamps and voila! Turn signals. See? Push down and we light up the left side. Push up and we light up the right. Job done! Except, eagle-eyed viewers will notice it’s not flashing. Ah, yes, that complication. So, how do we get the light to stop being so… steady and start gettin' all blinky? Why, with one of these things! This is a turn signal flasher. Some people call this a flasher relay which, ehh... sure but, uh, it's not a relay. It’s just a clever way to repeatedly interrupt
+and reconnect a circuit. If I put this in series with the 12V supply for the lights take a look at what happens. That is a proper turn signal! It’s even making the noise and everything. [faint clicking] Yeah, this is what makes - or at least, made that clicking sound. Now if you’ve been watching this channel
+for a while you’ll probably have guessed that where there’s a click, there’s a switch, and you’re right. But even better, making that switch do its
+switching thing is our old pal the bimetallic strip! Yes, the same technology that toasts bread
+to perfection, regulates your home’s temperature or even just tells you what it is, and makes your Christmas lights flash makes your turn signals flash. And if you’ve ever put a flasher bulb in
+a set of Christmas lights, you’re probably well on your way to understanding why getting
+your car to sync up with another one has historically been so hard. Look. This is a different flasher, but it’s the same exact model. That is a very different flash. Not only is it a different speed, but the
+on and off time aren’t quite the same. Yet nothing else changed. Hmm... So what is in these things? If you pick them up you'll notice that they are very, very light. It feels like there’s almost nothing inside them at all. And indeed, there’s hardly anything in there at all. Shall we open one? Heh, no need, the Magic of Buying… Three of them has us taken care of already. Now this mechanism is a little confusing, mainly because of this paper insulator that’s pretty easy to miss. Right now, the two pins aren’t exactly bridged together. Measure the resistance across them and you
+get about 37 ohms. At 12 volts that’ll pass about a third of an amp, or 4 watts. When you first turn on the signal, nothing happens. However, a complete circuit is actually made right here. Current is flowing through the filaments of the lamps themselves, in fact about a third of an amp, but this thing is preventing the lamps from actually
+glowing because that’s just not enough power. It’s essentially behaving as a choke point in the circuit, being the point of highest resistance. That resistance is coming from this tiny little
+wire which will get quite hot pretty quickly. And now the bimetallic effect comes in. The wire wraps around and around this strip of metal, and the 4 watts it’s dissipating quickly heats that up. Once it's hot enough, this piece will snap to the left, and these switch contacts are now closed. At this point, the resistance of the flasher is negligible, so current easily flows through it and lights the lamps. However, when those contacts are closed, well now the path of least resistance is around that little heater wire. No current will flow through it so long as
+these two contacts touch, so what happens? Well, it stops being a heater, and the metal
+strip cools down. So after a brief period of being closed and
+lighting the lamps, the metal strip pulls the switch contacts apart. But of course now that heater’s back in
+action, so just as quickly as it cooled, it’s hot again and the switch contacts are pulled
+back together. And this will repeat endlessly, until ya shut of yer blinker. Pretty clever, huh? That’s how turn signal flashers worked for many, many years and it was perfectly effective. However, it was very inconsistent. If you pay close attention you can even tell
+that the speed is drifting quite a bit. And that of course means… synchronization is impossible. Look, here’s all three flashers together. Despite being the same model of flasher, with the same lamps, and connected to the same battery, they quickly drift apart. Oh but it gets worse. Thermal flashers like these will also speed up and slow down depending on the voltage they receive. Look. I've swap this power supply for the battery,
+and as I increase the voltage the flashing speeds up and also changes a little bit. Now, if you weren’t aware, once a car’s engine
+is running and the alternator is producing voltage, the system voltage goes up to around 14 volts, and it can dip when there are loads on the system. So even if you have two flashers that miraculously
+stay in sync with one another, if your car’s cooling fan, for example, comes on, well the resulting voltage drop is gonna quickly wreck that synchronization. But, there’s something we’re overlooking. Thermal flashers are pretty rare and as far
+as I can tell have been for quite a while now. Notice how quiet this thing is. [it's very quiet] You barely hear a click at all when the light goes out. And also - the fact that there’s that substantial
+delay between hitting the switch and it actually starting to flash - well that seems odd, doesn’t it? I can’t recall that happening in any car
+I personally remember, and in fact in my 1991 Sillymobile that’s not how it works. Yes, to those that don’t already know, I bought this silly thing. Aging Wheels made a video about it if you
+want to check it out. But anyway, its turn signals don’t change
+speed depending on whether the engine is running or not, and the pace of the flash is very consistent. Plus the click is proper loud. [a proper loud clicking] I’m beginning to suspect this fella has
+an electronic flasher of some sort. Hold that thought, we’ll get back to it. OK, so now, let’s look at some more modern flashers. Through the Magic of Buying… Four More of Them, two identical pairs, we can explore this further. First, here are two “long life” flashers. Because, you know, the longevity of the turn signal flasher
+ is at the forefront of every driver’s mind. Anyway, these ones are way heavier - 
+there’s definitely stuff in ‘em, for sure. And, that stuff? Well, it’s a relay coil and a capacitor ... and I think that’s it, actually. This style of circuit often contains a resistor
+in there, too, but I don’t see one here. The theory of operation here is actually quite
+similar to the thermal flasher, but rather than using a fluctuating temperature to open
+and close a switch, we use a fluctuating voltage. Again, this is normally open. But not exactly. There’s a measurable resistance across it. A small amount of current has to pass through
+this and thus the lamps in order for it to work, just like the thermal flasher. But here, when that initial current passes
+through, it’s not heating a wire but instead traveling through the coil and charging the capacitor. As the capacitor initially charges, the voltage on the
+coil rises which in turn means that the strength of the magnetic field it produces does, as well. Eventually it becomes strong enough to pull this little tab down, which closes the switch contact, therefore shorts the two pins together. That sends the full current out to the turn signal lamps. The stored charge in the capacitor is able
+to hold the contacts closed for a brief period, but it quickly discharges through the coil winding itself. See I think in this application the coil is
+the resistor, but I could be wrong. In any case, once the coil is too weak to hold on, the switch opens again and, wouldn’t ya know it,
+ now the capacitor is starting to charge back up. Eventually the voltage is enough to pull the
+switch closed, rinse and repeat.
+[louder ticking] Here, the speed and timing of the flash will
+be determined both by the value of the capacitor and the resistance in the coil winding 
+(or the thus far elusive discharge resistor if there is one). So, could we get two of these to stay in sync? In theory, yes. In practice, no. This is an entirely analog circuit and the
+thing about electronic components is they’re built to within tolerances. This may claim to be a 1600 microfarad capacitor, but it’s really that plus or minus maybe 10%. Similarly, the resistance of the coil isn’t
+exactly the same from coil to coil, so you’re never going to have two of these behave exactly identically. And sure enough, these don’t. I mean, it’s not even close at all! In one of them the on time is longer than
+the off time, and in any case the rate of flash is substantially different. Plus, as you may have already guessed, system voltage affects their speed, too. A higher voltage will cause the capacitor
+to charge more quickly, so the amount of time it spends off gets shorter. It doesn’t have as much of an effect on the on time, though, as that’s mainly influenced by the time it takes the capacitor to discharge. Now, there’s a problem with the two flashers
+we’ve looked at so far. They rely on being able to pass some current
+through the filaments of the signal lamps themselves to either charge their capacitors
+or heat their bimetallic strips. Because not all lights have filaments these
+days, this has become a problem. So, you can now buy “electronic” or “LED-compatible”
+flashers like this one. Here we have an added ground pin which allows
+the flasher to function regardless of what else is on the circuit. And, dear viewer, I hope you’ll indulge
+me as I make a public service announcement which may seem uncharastic for me. You should never ever ever ever put aftermarket LED
+replacement bulbs in your car, ever. Don’t do that. It’s bad. Why? Well, here’s the thing about the signal
+lighting on cars which many people seemingly aren’t aware of. I’m not just saying that, by the way, I’ve
+had many discussions about this in my more... argumentative days. The honeycomb-looking lenses on your turn
+signals and brake lights? They are functional! That is a real Fresnel lens, not just some pretty texturing. Your car’s signal lights are not simply diffuse, they are deliberately designed to magnify the filament of the lamp so that the signal appears brightest to those directly in front of or behind you. Look. I need to have this thing pointed pretty much
+straight on at the camera for this to appear bright to you. If I move it off-axis even just a little bit,
+the brightness is greatly diminished. To show this another way, look what happens
+when I remove the bulb from this enclosure. This is the same bulb that you were just looking at, but without the benefit of the reflector and lens array, the filament is just a tiny speck and
+it doesn’t appear nearly as bright to you. There is a narrow cone-of-maximum-visibility as you can see when I point this at a wall. These optical properties are what allow a
+signal light to be visible even in direct sunlight, and they are important! And critically? The actual lamp assembly is designed around a specific bulb type. The filaments in a 1157 bulb like this are the same exact size and in the same exact place from bulb to bulb, precisely so that a replacement bulb will perform
+ exactly as intended in the light fixture. Everything needs to line up optically. Remember, this looks bright because it’s
+effectively magnifying the filament - so a tiny region of space - and making it appear larger to you in the camera. LED bulbs don’t have filaments, and while some better replacements out there attempt to mimic the placement of the filament in one way or another, it simply will not behave as intended. This is why the packaging for LED drop-ins
+has to say “for off-road use only” or “check with your local laws” because using
+these instantly voids the DOT compliance of your car’s light fixtures. It is not legal to modify the lighting in
+your car in pretty much any way at all. It annoys me endlessly that stores like Walmart
+sell these things because the function of your car’s signal lighting — especially the brake lights! — is a critical component to safety, and screwing around with this can be dangerous. Let’s give a real quick shout-out to those
+folks who tinted their tail lights to look cool. Thanks for proving that common sense means
+nothing when you can follow a trend and be stylish! Humanity sure is great, huh? Oh and you should know that these flashing
+lights are straight-up illegal in most places. Only emergency vehicles are allowed to have
+flashing red lights (outside of rear turn signals on this continent because… reasons). If for some reason you absolutely cannot resist
+putting LEDs in your car, please check that they perform at least as well as your original lamps. Yes I know they illuminate instantly and I much prefer LED brake lights on cars designed for them for that reason, but if your new bulb isn’t as bright as the old one, that won’t matter much, will it? Compare the brightness between your original
+equipment bulb and your replacement by only changing one first. Move around your car and check to make sure
+the range of visibility is the same, and for brake lights make sure there is a substantial
+difference between tail and stop intensities. Way too many of these replacements have hardly a difference at all. But the best way to ensure your lights work
+like they should - as well as to keep them legal? Just use the bulbs they’re designed to use. If your car was built to use incandescent
+lights, then use them. Thank you for listening to this public service
+announcement. Alright so these final flashers, what’s inside them? Ah, now we have a circuit board! This looks sophisticated enough to be programmed
+with a specific flashing ra- eh, no. We’ll just cut to the chase. Even in these flashers the speed is significantly
+different between the two. But, these at least compensate for the voltage. No matter what I have this set to it flashes
+at the same rate, although curiously as I adjust the voltage upward, it temporarily slows down. So that’s weird. Bottom line, these things have never been
+made so precisely that any two of them will flash at the same exact rate, no matter what
+their underlying technology is. It simply doesn’t make sense to use high-cost
+components like a clock crystal and microcontroller when you only need to meet the target of 
+“between 60 and 120 flashes per minute.” That’s what the law says regarding signal
+flashing frequency, by the way. It’s not that precise, so these aren’t
+and never have been built with precision. And frankly the law is probably that imprecise
+because when that was written, this was the state-of-the-art. OK, but now I want to go back to the Figaro for a moment. Although this car is 30 years old, its turn
+signal flasher behaves like the electronic unit we just looked at. There’s no delay at all between hitting
+the switch and the lamps lighting, and the speed of the flashing is not only very regular
+but also does not change when the car is running and the system voltage goes up. I wonder what this flasher is like... Well, here it is. Or, at least, a similar Nissan flasher from around the same era. Look, I’m going down this rabbit hole so you don’t have to. This thing certainly doesn’t feel empty, and indeed when we pull it apart there’s a whole dang circuit board in there with one of them integrated computer chips. This is much more phosisticated than the electronic
+one we just looked at. How does it work? Well… I tried looking for a datasheet for this IC
+but yeah that’s not really happening. A resonator might be in that chip somewhere
+to provide a time signal, so let’s see if these signals, running on this flasher, will stay in sync with the Figaro. It’s extremely close, but not quite the same. I know that this isn’t the same exact part
+number as the flasher in the Figaro, but it’s a genuine Nissan part from the same era and
+the speed is so close that I can only assume they are both intended to flash at the same rate. But they still don’t exactly. They may appear to be in sync for a short
+while, but eventually they drift apart. The main purpose of that IC is probably to enable hyperflashing. For decades now, it has been required that cars indicate a burnt out turn signal by changing the rate of flashing when that happens, usually upward. And indeed, if I take out a bulb from our rig here - now it flashes faster on one side than the other. This is the one advantage that a combined
+stop-and-turn setup has - letting you know a brake light is out through hyperflashing
+the turn signal - though that could easily be handled with one of these. But penny-pinchers gonna penny-pinch. That chip is probably there mainly to create
+a current-sensing function for the hyperflash feature, and since they were going that far they might as well have 
+made it handle the flashing more precisely using a resonator on the chip or something. Oh, also of note is that this flasher is also
+used for the four-way hazard lights. You can see that on the label - hazard/warning is turn/signal X 2. A lot of older vehicles would actually have
+a separate flasher for the hazards, fun fact. But this handles both, suggesting the flash
+rate isn’t influenced directly by current going through it but instead changes only when it’s below a certain threshold. So, even though this is an electronic device, and it seems as though it has a very deliberately-programmed flash frequency, it’s just not precise enough to stay in perfect sync with another car
+ - or at least its flasher - from the same manufacturer from the same time period. Why, then, do these three cars not drift apart? It really wasn’t hard at all for me to get
+these to flash together. Look. It just took a bit of trial-and-error. Now in case you’re not hyper-aware of the
+US car market to the point you can identify these vehicles with just this angled view, these are all General Motors products, Chevrolets to be specific. That’s a pretty significant commonality,
+but you know what else they have in common? None of those cars have one of these! Have you ever noticed that starting around
+10 or 15 years ago, the clicking sound of the turn signal changed? Pretty much every mainstream car made between
+oh maybe 1980 and 2005 or so sounded exactly like this.
+[classic, rhythmic tick-tock] Maybe it was a little louder. Maybe it seemed a tad muffled. But the tick-tock-tick-tock-tick-tock was
+coming from one of these things tucked somewhere under the dashboard. You were hearing the actual switch contacts
+opening and closing, and that served as the legally-required audio queue. Modern cars, though? They can sound like anything at all. Fords sound like somebody’s playing ping pong. They can sound like whatever the automaker
+can imagine because that sound isn’t real. Look at this. This is my Chevy Volt. It’s not on. And now I’ll hit the hazard lights, which don’t
+need the car to be running in order to work. They’re on. You can see them. But there’s no ticking sound! They’re just flashing! What is this madness? Well, for about a decade now, General Motors
+products have been using the car’s stereo system to make all the noises a car has to make. So when the car is off and the stereo is powered down, it can’t make the ticking sound of the turn signal. It also can’t make two sounds at once - if I turn it on, the ticking sound doesn’t begin until the fasten seat belt chime stops. [bong, bong ends abruptly; then tick-tock begins] A Quirk only Doug could appreciate. This ticking sound is literally coming from
+the driver’s side speaker in the footwell. Same with the chime. [loud chiming] As I said, it’s been like this for a long time in GM cars, and in fact they have to sell little noisemaker dongles 
+that you plug into the radio’s wiring harness if you want to add an aftermarket stereo. On the one hand that’s kinda silly, but on the other their cars all come with 
+a pretty sophisticated noisemaking device already so why not build the chimes and ticks and beeps and bongs into that? So they do. Now just because GM uses the stereo to make
+the noises doesn’t mean every car company does. Others could certainly use a dedicated noise
+maker thing, just like cars have been doing for the seat belt beeper for decades. But the point remains that in nearly all cases
+these days the clicking sound isn’t real anymore. In fact, if you listen reaaaallly closely while
+the car is off, you can hear the actual relay sending current to the turn signals
+quietly ticking away under the hood. Well, I’m afraid I have to make a correction
+because when I came out here to film the relays clicking… I can’t hear anything at all! I know the Equinox makes a faint noise but
+apparently in the Volt… it’s probably transistors driving the turn signals. Whaddya know. See, the thing is, car companies have been
+getting creative with using lighting to mean other things for a long time. GM cars use the turn signals as visual confirmation
+of locking and unlocking with the remote. Lots of others do the same. Rather than create some sort of Frankenstein
+circuit which can hijack the signal flasher, they just got rid of it and gave that task
+over to some relays controlled by a body module. In other words a small computer in charge of stuff like that. This turn signal switch? It’s not handling any meaningful amount of current like this one. It’s just an input. It simply has to tell whatever module runs
+the turns signals that “hey, I’m in the UP position” and then that module will say “Ah, time to flash the right side - hey you in the gauge cluster! Start animating that little blinker arrow. And hey, stereo, get clicking! While you two do that I’m gonna repeatedly apply
+power to these two light bulbs.” And this particular car, infuriatingly, doesn’t do all that with perfect coordination. The animation, sound, and actual flashing
+are all just a little out of sync. It’s great. 
+Definitely not bothersome to the kind of person I am. Oh, and making this simply an input is what has enabled stuff like the tap-for-a-lane-change feature which some of you have intense feelings towards. To those of you on Twitter, I just want you
+to know this video was in the works long before we had that particular discussion. I mean did you really think I could turn this around so f- Cars have been computerized to a degree that
+I think very few people recognize. You know how you have a LAN, your local area
+network, running over Ethernet in your home? Your car has a CAN bus. Literally car-area networ - OK I’ve been informed it’s actually controller area network. Anyway, there is a digital communications
+network traveling on wires throughout your car which various modules communicate over. And the first car to use this standard was
+produced the same year this thing was. 1991. We started doing this because cars just keep
+getting more complex and there’s no sign of that stopping any time soon. The CAN bus allows for controlling the various
+whatevers in a car with much less wiring. Take power windows just as an example. Before the CAN bus, these switches were - again - 
+literal current-carrying switches. That meant if you wanted the driver to have
+control over all four windows, you’d need to route heavy-gauge wiring into the driver’s
+door for every window. A CAN bus allows these buttons to simply send
+a message that they’re being pressed to a body module which controls the window motors, and in fact you could do all the communicating for all of the switches with a single pair of wires if you wanted. You then also get the ability to integrate
+modules together to do clever things such as roll all the windows down when you press
+and hold unlock on the keyfob. That’s a neat party trick which GM has seemingly
+haphazardly implemented. The Equinox and Bolt shown here can’t do this. We could do a whole video series on that sort of thing, and in fact I kind of want to, but here’s why it’s relevant. To make this network of things talk to each
+other correctly, each thing needs its own precise clock - something to drive its internal processing circuitry at the appropriate speed. The signals on the network need really specific
+timing and frequencies to be intelligible between nodes on the network, so unlike this circuit which may use a cheap resonator if it even has one, the body module in charge of flashing the turn signals, just like every other module on the CAN bus, will have a very precise clock operating at a very specific frequency. And so, if the manufacturer has decided that
+their cars will flash the turn signals at 90 flashes per minute, it will be EXACTLY 90 flashes per minute. None of this “close-enough” that flashers of the past aspired to - exact. So, if you’re behind a car from the same
+manufacturer as the one you’re in and they’re both relatively recent, you can probably get your turn signal synced with theirs. I haven’t tried it with anything other than
+GM products, but I’ve synced mine to plenty of other Chevys and a Buick, too. For fun I’ve tried to see if BMW might use the same
+flash frequency as GM but I’ve literally never had an opportunity to check for some reason. So - there’s the answer. It used to be basically impossible to synchronize
+the turn signals of two different cars because turn signal flashers just weren’t precision
+devices by any stretch of the imagination. But now it’s actually pretty easy - at least,
+among cars of the same make. Give it a try next time you’re out and about
+but, like, when it’s safe to do so. Don’t be foolish, drive safely. That means use your turn signals, also! Yeah, I’m talking to you. It’s not hard. Literally next to effortless. Make it a habit and you won’t even think about it. Well... unless your car has a really weird
+and non-standard turn signal control because stalkless driving is a feature now? Before I go, here’s a fun fact. GM cars - or at least, some of them - have individual control over each turn signal position. When you use a scan tool to tell the car you’re
+programming new tire pressure sensors to it, it lights up each individual turn signal on each corner of the
+car to tell you which tire it’s looking to pair. It starts with the front left, keeping that light solidly lit until your pairing tool successfully prods that wheel to start talking to the car. Then it honks and lights up the front right, moving clockwise around the car. I’ve got winter tires and I’ve seen the
+techs go through this rigmarole each seasonal swap. I was genuinely delighted by that bit of cleverness. Tickled me pink, it did. Oh, also, here’s a feature that GM seems
+to have removed which is a shame. Deep in the menu settings of the Volt is a
+setting called “Chime Volume.” You can actually toggle the volume of the
+chime between two levels, but what it doesn’t tell you is that this also affects the loudness
+of the turn signal clicker! This is genuinely really useful, as in lots
+of cars I can’t hear the clicking at highway speeds. On the loud setting you definitely can in this car. Unfortunately, while the Bolt has even more
+settings for the chime volume, that’s all it affects. Just the chime. Shame. Also, in case you think this is a fluke, here’s
+the same three cars flashing together. And now we’ll speed this up. Here we find something interesting. The Equinox and Volt - that’s the black
+and red cars - are 2013 and 2015 model years. They also have incredibly similar switchgear and infotainment systems. These two stay completely together for tens of minutes, but the Bolt? It does eventually drift apart. It takes a while, so it’s extremely close, but this makes me think the Volt and Equinox probably have identical body modules, and the Bolt’s has been revised. The Bolt also has some radically different
+user-interfaces compared to the other two which reinforces this idea. Plus it actually has amber rear turn signals, amazing! ♫ indicatively smooth jazz ♫ You can’t get it s… uh, no. That’s incorrect. [engine noise] But let’s step back in time and look at how turn signal circuits used to fwork. Fwork. Cars have needed blinky lights on the 
+[a series of very silly noises] ….and then push it down. Oh! It was engaged. Great. While I’m out here, that is the range of maximum visibility for the Volt’s brake lights. You can see it is very much a directed beam. It will send 12V out on one of the other pins
+when we engage the circle. Signal. Put this in series with the 12V supply and
+watch what happens. That was way too sloppy. Now if you’ve been watching this channel
+for a while you’ll proba… Oh noooo! See, I should have definitely done something
+more robust than this. It’s ‘cause you’ve been coiled up a
+whole bunch of times. No. [sudden acceleration rearward] Current flows through the fff eh buh In any case, once the switch contacts open again… I lost my s… track. I lost where I was. Eventually the voltage is enough to pull the
+switch closed, rinse and repeat. This is not connected. Great job, guys! Well, wasn't this video illuminating? Then again I suppose it wasn't for an equal amount of time. Kept going back and forth between enlightened and dim, huh? Man, is my material getting repetitive? Hope not. USE YOUR FORKING TURN SIGNALS 

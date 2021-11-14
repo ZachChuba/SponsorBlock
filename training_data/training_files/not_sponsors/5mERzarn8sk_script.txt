@@ -1,0 +1,47 @@
+{♫Intro♫} You can probably spot fake wood a mile away. Something about the grain, the texture, the consistency... it's all wrong. And you might wonder why we even bother trying. I mean, wood literally grows on trees. But we have some good reasons for wanting to make fake wood -- and some good reasons why it’s really hard to do. One reason we want fake wood is saving our forests. The thinking is if we can make something that looks like wood and has its properties, we don’t have to keep cutting down actual trees. Plus, wood has an incredibly complex architecture that makes it light yet strong -- and this has actually inspired materials scientists to try copying that structure for new lightweight materials. But it’s not actually that easy. Scientists have been having a tough time making artificial wood. The main reason is because wood has a pretty unique structure. You can see and feel the grain, the knots -- nothing else really has that. But if you put wood under a microscope, it gets even weirder. You’ll see this sort of scaffolding that
+looks like a bunch of tubes squished together. These tubes are actually the tree’s cells,
+meant to channel water throughout the plant. Those cells’ walls are, in turn, made of
+cellulose fibers embedded in a blob of hemicellulose and lignin -- all chemicals that contribute
+to a fibrous, rigid structure. And those cellulose fibers aren’t just tossed
+willy nilly into the tree, either. They’re oriented to match the direction
+of the tree or branch they’re on. This means that the tree’s properties are
+anisotropic: they’re different in different directions. For example, thanks to those aligned bundles
+of cellulose fibers, trees are stronger across the grain rather than along it. If you try to chop a tree horizontally, lumberjack-style,
+these super-strong cellulose fibers will bear the brunt of the force and make it hard to
+chop. But if you try to cut wood vertically, you’ll
+be hitting the not-as-strong lignin-hemicellulose matrix -- which happens to be much easier
+to break. This complexity explains other things, too. Like why some woods can be 1000 times stiffer
+than others, since their microstructures and even their exact compositions can be vastly
+different. This complexity also means that wood, and
+all its awesome properties, are super hard to mimic. There has been at least one attempt in the
+scientific literature. A 2018 paper published in Science Advances
+described a way of making artificial wood using special water-soluble polymers frozen
+in liquid nitrogen and alcohol to create a desired configuration. Then they removed the solvents to lock-in
+that configuration, and heated the whole thing to make it harden. The authors found that by varying the cooling
+rate, they could fine-tune the properties of their fake wood. And some of those had similar properties to
+real wood, like how much they could be compressed. They even looked similar to real wood, with
+some advantages like being more resistant to flames. These results do seem promising. But it’s important to note that this was
+done entirely inside a lab with a homemade contraption. This probably won’t translate easily to
+a much larger scale, so you will likely not see these artificial woods in stores anytime
+soon. There are other methods scientists could use
+to make wood-like structures, but they have similar drawbacks. As a result, many commercial attempts at making
+artificial wood only focus on replicating a couple key properties. And that inability to mimic all the properties
+of wood rather than just one or two means that fake wood won’t fool us -- for now,
+at least. Many wood substitutes, for example, are made
+by mixing actual wood byproducts like wood flour with some sort of plastic or adhesive. That’s basically really fine sawdust, not
+a gluten-free cupcake ingredient. You’ve probably seen these wood-plastic
+composites in decks or lining your door. Since these composites are made of, well,
+wood and plastic, they very often have properties that lie in between those of their constituent
+materials. So they are usually less stiff than solid
+wood but more rigid than plastic -- in general, anyway. And plastic here actually gives the material
+another advantage: it won’t absorb as much moisture, so it’s less vulnerable to rot. But what about products that don’t have
+any wood at all? One material that’s gained traction as a
+wood alternative is something that’s used as trims for houses called cellular PVC. Cellular PVC is made by blowing bubbles through
+melted plastic and other additives to form a solid material with little bubble-like holes
+throughout it, giving it more structure at a microscopic level -- like real wood. But while that makes cellular PVC more lightweight,
+it just isn’t like wood. There are still some key differences. And even if it’s more durable than wood,
+this plastic substitute certainly doesn’t feel or look like wood. Unless, of course, you do a fancy paint job
+-- which can help with the looks, but that’s about the extent of it. So even if wood’s been around a while, we’re
+still working on ways to improve on nature’s original design. And maybe in the future, that’ll not only
+help us save the trees but also synthesize a whole range of materials we’ve never even
+dreamed of. 

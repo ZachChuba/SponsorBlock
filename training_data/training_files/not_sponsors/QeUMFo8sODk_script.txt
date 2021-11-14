@@ -1,0 +1,126 @@
+Hi guys! I'm Jade, lovely to meet you. So
+the Schrodinger equation is one of those things that pops up a lot in like
+quantum science articles and journals and stuff but the journalist doesn't
+usually go into what it means, which is fair because it's a fairly complex topic.
+So today I just wanted to share with you guys like what it actually means so next
+time you read it in an article you can get a better gist of what it's about. So
+the short version is the Schrodinger equation tells us everything we can
+possibly know about a quantum system. It's basically the F=ma of the
+quantum world. If you throw a ball and solve F=ma
+you can predict its position and momentum for any moment in time. Once you
+have these two you can derive basically everything else you could possibly know
+about it, velocity, energy etc. But when we get down to particle land Newton's
+equations don't work anymore. If we put a particle in a box and we
+want to know where it is F=ma just doesn't cut it. The Heisenberg
+uncertainty principle says that we can't know both the exact position and
+momentum of quantum objects, but, we can know other things, like the energy levels
+and the wave function, which we'll explore in this video. But that information is
+all inside the Schrodinger equation and with some hardcore mathematics we can
+tease it out. Now the long version! So before I get started I should say that
+this is the time independent version meaning that it doesn't involve time. And
+if at any point throughout the video you get lost, don't worry, even Schrodinger
+didn't know exactly what his equation meant. So let's say we have a quantum
+system: an electron in a box. We want to know everything we can about this
+electron so we can make predictions, where it might be,
+what energy level it might be at. These answers are all buried within the
+Schrodinger equation. So first let's start with this guy, the pitchfork thing.
+This is the Greek letter psi and it stands for what's called the wave
+function. It tells you where the electron is likely to be. But not where it will be.
+See quantum objects are sneaky in that you can't predict exactly where they'll
+be until you measure them. You can only predict where they'll probably be. Say
+there's this kid you know. You've grown up with them your whole life. They're locked
+in their room with their homework, a Playstation, and a bed. If you had to
+guess where they were you'd say there's about an 80% probability they're on the
+PlayStation, 19% probability they're in bed and a 1% probability they're
+doing their homework. When you open the door you'll know for sure. But you were
+able to make these predictions because you know this guy. What if you had to
+guess where this electron is? You don't know this electron. Well that's what the
+wave function tells us. It gives us the probabilities of where it's likely to be.
+But a big difference is that while the guy is only in one place at a time the
+electron is in a superposition of all possible places at the same time. You may
+have heard the famous thought experiment Schrodinger's cat who's in a
+superposition of being dead and alive until the box is opened and it's forced
+to choose a state. It's the same deal here. The act of not knowing where the
+electron is allows it's probability distribution to be spread out over a
+large space kind of like a wave. Different kinds of waves can represent
+different probabilities of where it's likely to be, hence the name wave
+function. It's a function that describes the wave shape of probability
+distribution of the electron. Oh yeah and when you open the door and
+measure where it is this wave probability cloud function collapses and
+the electron becomes a particle again. No wonder Schrodinger was confused. So
+that's what the pitchfork means, the wave function tells us where our
+electron is likely to be. Now let's take a look at this E. It represents the
+energies the electron is allowed to have. Now before I go into what that means I
+just want to point out that the way this equation is arranged these values are
+the ones we're trying to solve for, so it's telling us that hey if you do all
+this stuff you can find out the energy levels of the wave functions of the
+electron! And if we know these two things we can derive everything else we can
+possibly know about the particle, just like the position and momentum of the ball.
+But let's backtrack a sec, what do I mean when I say energy levels the electron is
+allowed to have? Like it's a grown electron it can have whatever energy
+levels it wants right? Well, no. In the regular world we see around is, 
+energy can go up and down in a smooth continuous way, but this isn't the
+case in the quantum world and the reason comes from the wave-like nature of the
+probability distributions. Because our particle is inside the box it has a zero
+probability of being found in or outside the wall, so this means the wave function
+always needs to be zero there otherwise there's some probability that the
+electron could be outside the box which we know it's not. That means that the
+electron can only have certain frequencies associated with it. This
+frequency is allowed as the wave function is zero at both edges, and this
+frequency is not, this frequency is allowed and this one is not. So Einstein
+discovered that energy is actually proportional to frequency by this
+relation E=hf where E is the energy, f is the frequency and this h
+here is Planck's constant. Don't worry too much about that h for now, all you
+need to know is that it's a constant which means its value doesn't change. So
+if only certain frequencies are allowed inside the box and this is a constant
+then it follows that only certain energy levels are allowed inside the box too. This
+property of discrete or quantized values is where quantum mechanics gets its name.
+Things that can take on continuous values in the regular world like energy
+levels can only take on certain quantized values at the quantum scale.
+Now let's look at the other side of the equation. We know what we're solving for:
+the energy levels and the wave functions. But how is all of this going to help us
+get there? Well overall energy is made up of kinetic energy and potential energy.
+If a skateboarder is on a skate ramp they'll be traveling at some speed and
+have some kinetic energy, but when they stop at the top they still have energy,
+it's just transformed into a different kind: potential energy. The entire energy
+of the system is just the kinetic energy plus the potential energy and while it
+can move back and forth between those two states its total value is always
+conserved. Sometimes potential energy is written as a V, so this term is the
+potential energy of the wave function. So if this is the potential energy that
+must mean that this term here is the kinetic energy I know it doesn't really
+look like any kind of kinetic energy equation we've seen before right, so
+here's the derivation if you don't believe me. So if we can solve for the
+potential and kinetic energy of our quantum system
+this will tell us the energy levels allowed, and that's everything there is
+to know about our little electron! So what would some typical Schrodinger
+solutions look like? Well to this particular problem
+all the solutions to the wave functions take these two forms and the energy
+equation that popped out was this. Great Jade so what the hell does that mean?
+Well the first thing to note is that every term in this expression is either
+a constant or a whole number: h-bar is a constant, 2 is obviously a constant, m the
+mass of the electron is a constant, pi is a constant, and L the length of the box
+is a constant, and n stands for the different states of the electron and
+they're all whole numbers, 1, 2, 3, etc. So then the energy E can only have certain
+values. It's quantized. But what about the wave function? Where is the electron? Well
+let's look at this guy when the electron is in its first energy state, when n is
+equal to 1. We get this. That's one of the wave functions of the electron and if we
+square it we get the probability distribution,
+aka where the electron is likely to be. We can see that there's a high
+probability that it'll be found in the middle here but a zero probability
+it'll be found right at the edges. Here are some more wave functions and
+probability densities for other energy states. See how the wave function is
+always always 0 right at the edges. This took me an entire semester of a physics
+degree to understand and what really helped me was working through a lot of
+problems and taking the time to build a strong intuition. Brilliant.org has an
+entire course dedicated to quantum the description. And if you're wondering
+why I didn't include the math behind the solutions to the Schrodinger equation
+it's because it would have taken me about an hour just to write out
+probably another five weeks to explain, but for those of you who are especially
+curious I've posted my final exam essay on quantum physics in the description. It
+includes the derivation of the Schrodinger equation as well as the
+solutions and some other interesting stuff like random questions to my
+professor. So guys please be honest, do you understand the Schrodinger equation
+a bit better now? I hope you do but if you don't please feel free to give me
+any feedback on how I can make my explanations better for future videos.
+Quantum physics is so cool and I really don't want anybody to miss out. So yeah
+that's all from me. Bye! - 

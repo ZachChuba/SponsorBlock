@@ -1,0 +1,161 @@
+Physics is all about the motion of things
+– how planets and stars move, how electrons and protons move, how the movement of molecules
+results in emergent properties like temperature, and so on. The role of relativity, in physics, is to
+study how that motion looks from different perspectives. Here I'm using “relativity” in a general
+sense, to mean from any different possible perspective, moving, accelerating, or otherwise;
+special relativity in particular is concerned with how motion looks just from a limited,
+or “special,” set of perspectives. But either way, relativity (special or not)
+is about how the motions of things look from different perspectives. Like, if you were looking at the earth and
+the moon, depending on where you were and how you were moving, it might look like the
+moon is moving around the earth in a giant circle, or back and forth on a straight line,
+or that the earth and moon together are tracing out a spiralling path through space. But if the motion of the earth and moon can
+be described in such different ways, what does any one of these descriptions actually
+tell us about the earth and moon? Is one of them “right” and the others
+“wrong”? Is there some preferred perspective for observing
+the earth and moon that gets closer to the true description of what's happening? It's the goal of relativity to answer these
+kinds of questions. In fact, relativity can essentially be summed
+up as two basic ideas: 1. To figure out how objects and their motion
+look from different perspectives, and 2. To notice which properties of objects and
+motion don't look different from different perspectives. We've already given an example of number 1,
+with different ways the motion of the earth and moon can look from different perspectives. Number 2, the idea of finding things that
+don't look different from these perspectives – that's a little trickier. In the earth and moon case, for example, all
+three perspectives appear quite different. But after a while, you might notice that regardless
+of the perspective, the maximum physical distance between the earth and the moon appears to
+be the same. So you might say “aha! There's something that's independent of perspective! Maybe it's a fundamental property of the earth-moon
+system, and not just an artifact of my particular point of view!” And this is why relativity is so important
+in physics: by studying what changes and what doesn't about a physical system when you change
+your perspective, you are zeroing in on universal truths – literally. Facts that remain true from many perspectives
+throughout the universe (like, perhaps that the distance between the earth and the moon
+is 384399 kilometers), are literally more universal than a fact that only holds true
+at a single place and time (like, that the angle between the moon and earth is 150 degrees). Relativity is a way of thinking that helps
+you to evaluate how universal a given truth is. Ok, enough philosophizing. To make all this tangible, we need a rigorous
+way of describing moving things and of describing changes to how that motion looks when you
+change your perspective. We're ultimately going to build up to special
+relativity, which has to do with motion over time, but we'll start with non-moving things
+just to get a sense of how intuitive relativity can be. You're probably familiar with specifying the
+position of a cat on a plane using xy coordinates: this cat is three tick marks to the right
+of our point of reference, and two tick marks up, so we say it's at position x=3 and y=2,
+which typically gets written as just a pair of numbers like (3,2). However, (3,2) is not a universal truth – I
+mean, it's just based on where I'm standing, and how I'm oriented. But over here, where you are, maybe you're
+rotated by 30 degrees, and you made the tick marks closer together, and suddenly the cat
+is at a different position: x=9, y=9. Even though the cat hasn't moved. In fact, it's possible to specify the cat's
+position using any x and y values we want, depending on our point of reference: which
+corresponds mathematically to where we put our axes and how we orient and scale them. So clearly, specifying the position of something
+is not a universal truth. Or, in relativity parlance, “position is
+relative.” A more universal, or absolute, truth can be
+found if you have two cats: let's say they're at x=0, y=0, and x=5, y=0. And I'm going to stop drawing a person at
+the origin point of the axes from now on, but you should remember that the axes we use
+represent a particular perspective and orientation from which we measure things. Ok, so The distance between these two cats
+is clearly 5 – they're at the same y value and their x values differ by 5. If we move and rotate our point of reference
+now, the cats are at positions... uh, x=1, y=1 and x=5, y=4. So they differ by 4 in the new x direction
+and 3 in the new y direction. But the overall distance between the cats,
+which we can find using the pythagorean theorem, is the square root of 4 squared plus 3 squared,
+which is the square root of 25 which is 5. Which is the same distance we calculated with
+the original axes! This turns out to be a general truth: on a
+plane, the distance between two things doesn't change if you change your perspective just
+by shifting your point of reference or your orientation. I like to think about this as similar to how
+if I take a piece of paper, and slide it around and rotate it, I haven't actually changed
+anything on the piece of paper. Or, in relativity parlance, “distances are
+absolute.” The geometric intuition for this is that you
+can move your axes around, slide them up and down, and rigidly rotate them, without affecting
+your description of the distance between two things. If you like, we can make this mathematically
+precise by calling the original coordinates x and y, and the new coordinates x new and
+y new; then when we've slid the x axis an amount Delta x (technically called a “translation
+by Delta x”), we say that x new=x-Delta x, and when we slide the y axis by an amount
+Delta y (technically called a “translation by Delta y”) we say that y new=y-Delta y. The minus sign is there because if you slide
+your origin point closer to something, its new x and y coordinates will be smaller. Changes of orientation are a little fancier,
+but it's really just some geometry: if you re-orient the x and y axes counterclockwise
+by an angle theta, the new coordinates look like x new=x times cos theta minus y times
+sin theta and y new = y times cos theta plus x times sin theta. If you want a fun algebra exercise, you can
+use these equations (or even their 3D counterparts!) to check that indeed that the distance between
+two points doesn't change when you slide or rotate your axes. But the messiness of all the details here
+really clouds the simplicity of what's going on. The important geometric idea I want you to
+remember is that rotating and sliding axes doesn't change the distance between two points. However, the distance between two points does
+change if we're allowed to change the spacing of the tick marks! If when we change our axes we also double
+the tick marks, then the distance between the cats becomes 10, not 5. Turns out distance, measured in numbers, is
+not so universal... But there is a more universal truth! Suppose we have a stick that's 1 tick mark
+long (according to the original axes) – conventionally this thing might be called a “meter” stick;
+and now we can say “the two cats are 5 sticks apart.” When we again move and rotate our axes and
+change the spacing of the tick marks, the cats are again 10 tick marks apart, but the
+stick is also now 2 tick marks long, so the distance between the cats is still 10/2, or
+5 sticks. This is an example of an even more general
+physical truth: the distance between two things, measured in terms of another physical thing,
+doesn't change when you change your perspective by shifting your point of reference or orientation
+or the spacing of your tick marks. In relativity parlance, we'd say that “the
+ratio of two distances is absolute.” Basically, if you want to actually describe
+a distance, you can't just specify a number, like, I'm five away from you – you have
+to say what you're measuring distance in terms of, and what number of those things your distance
+is equal to. This is kind of a subtle point and is very
+important if you're interested in metrology, the study of measurement and units. But because it doesn't really play a major
+role in special relativity, from now on I'm going to be a bit sloppy and just assume that
+whenever we're talking about distances, we're talking about distances not as numbers but
+in terms of some reference distance, like meters, or cats, or whatever. And the same will apply to times: when we
+talk about a time interval, we'll assume it's a time interval in terms of some reference
+time, like the second (which is based off of how long it takes a certain electromagnetic
+wave to vibrate once). Which brings us to the motion of objects over
+time! To describe a moving object, it's customary
+to use a horizontal coordinate axis for the left-right x position, but instead of using
+the vertical axis to represent height y, we use it to represent time t. So for something not moving, something that
+stays at the same position x at time t=0, t=1, t=2, and so on, we draw a straight vertical
+line through x. For something moving one meter per second
+to the right, we draw a line that goes one meter to the right for every second that transpires
+vertically. It's important to note that we're not saying
+that the object is moving through 2D space along a 45 degree line – the object is moving
+purely 1-dimensionally along the x axis, and we're just showing those different one-dimensional
+positions as time passes. This whole “time on the vertical axis”
+thing can also be a bit weird at first since in most other situations you've probably encountered
+time plotted on a horizontal axis; but vertical time has its merits and it's convention at
+this point, so it's worth getting used to. I like to think of each horizontal line as
+representing a different snapshot of a scene. We could show the snapshots one after another
+as time actually passes, of course, but it's useful to be able to see all of the snapshots
+at once, so if we display each snapshot at a consecutive vertical position, we get a
+nice representation in a single static image of motion that normally takes place over time. This geometric way of representing motion
+over time is called a “space-time” diagram, and it's so central to intuitively understanding
+relativity that it's worth doing a few more examples. Though if you feel comfortable with space-time
+diagrams, world-lines, and so on, by all means, skip ahead. Say we have a cat attached to a spring, bouncing
+back and forth, left and right. If we plot this motion on a spacetime diagram,
+as time passes we see the cat move left and right, leaving behind a trace in the shape
+of a sine wave. On the other hand, if we're given a spacetime
+diagram and want to recover the motion of the cat, we simply slide the diagram downwards
+at a constant rate and move the cat left and right so that it follows along the traced-out
+path. This is important: a traced-out path in a
+spacetime diagram is a faithful recording of an object's motion. And these paths are called “world-lines,”
+presumably because they show where in the world the object has gone (though by “world”
+we often mean “solar system” or “universe”). Any particular point on a worldline has coordinates
+t and x, which we write as a pair telling us for time t what position x the object was
+located. So far we've just been representing one-dimensional
+motion on our spacetime diagrams – just one spatial direction the object is moving
+in, and then time as the vertical axis. If we want to use a spacetime diagram to represent
+motion in two dimensions, like the moon orbiting the earth, we actually need three dimensions
+to do so: the two horizontal directions for the moon and earth to move in, and the vertical
+direction to trace out the snapshots as time passes. Pretty cool, huh! But if you have multiple particles moving
+complicatedly, this can get really messy on a 2D screen. And it's physically impossible to make a full
+spacetime diagram for three dimensional motion, because you would need four spatial dimensions
+to do so: three horizontal directions for the spatial motion, and a vertical direction
+for time. Which of course is impossible in our universe
+with its measly three spatial dimensions. So physicists normally restrict their spacetime
+diagrams to just one or two spatial dimensions, and time going vertically. So, how does relativity work with spacetime
+diagrams? That is, now that we know how to describe
+motion geometrically, how do changes in perspective affect that description? Let's take as an example me staying put right
+at x=0, and a cat moving one meter per second to the right away from me, starting at time
+t=0. It may not surprise you to notice that when
+you slide the x axis to the left or right, the particular x positions of me and the cat
+at any particular time change, but the distance between us doesn't. At time t=0 we're still 0 meters apart, at
+time t=2 we're 2 meters apart, and so on. So you can slide the x axis back and forth
+however you like. Similarly, if you slide the time axis up and
+down, the absolute time when the cat starts moving away from me changes, but time intervals
+don't change: the cat still takes 2 seconds to get 2 meters away from me. So you can slide the t axis up and down, and
+distances in time are left unchanged. And if we have 2-dimensional motion, then
+changes in the orientation of the two spatial axes don't change the distances between objects
+at any particular time: essentially, you can re-orient the xy axes however you like. So the relativity we applied to purely spatial
+diagrams applies pretty well to space-time diagrams, too. To summarize the major takeaways: relativity
+is about understanding how changes in perspective do or don't affect motion. For objects in space, we can describe motion
+over time geometrically using spacetime diagrams, and spacetime diagrams can help us see how
+changes of perspective affect how the motion of objects looks. Like how changing your position and orientation
+correspond to sliding the axes around and rigidly changing the orientation of the spatial
+axes, and yet these transformations don't change the spatial distance between two points
+at the same time or the temporal distance between two points at the same location in
+space. However, all of this relativity is static:
+and by that I mean that we haven't yet talked about how motion looks from a perspective
+that is itself moving. That's ultimately the key to special relativity,
+and will be the subject of the next video. 

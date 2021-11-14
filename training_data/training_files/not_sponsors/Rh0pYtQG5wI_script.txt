@@ -1,0 +1,142 @@
+The goal of relativity is to explain and understand
+how motion looks from different perspectives, and in particular, from different moving perspectives. It's easy enough to describe motion itself
+– if something is moving relative to me, that means it has different positions at different
+times, which I can plot on a spacetime diagram. This straight line corresponds to motion at
+a constant velocity of say, v units to the right every second. And the question we're interested in is what
+do things look like from the moving perspective? Of course, the answer to this question is
+a physical one, and is determined by experimental evidence gathered by actually moving. And that evidence will come into play, but
+first we need to understand what it means, in terms of spacetime diagrams, to view something
+from a moving perspective. We'll start with a key property of spacetime
+diagrams: when someone draws a spacetime diagram from their own perspective, on that diagram
+they're always, for all time, located at position x=0, since they're always a distance of 0
+away from where they are. Or in other words: a spacetime diagram like
+this represents your perspective only if your worldline is a straight vertical line that
+passes through x=0. If, on a spacetime diagram, the worldline
+describing your motion leaves x=0 and goes anywhere else, that means you're moving relative
+to the perspective of that particular diagram, and thus it's not your perspective. With this in mind, to describe how things
+look from the perspective of a moving object, like this cat, we simply need some way to
+transform spacetime diagrams that makes the worldline of the cat into a straight vertical
+line through x=0; or in other words, we want to make the spacetime diagram where the cat
+is moving into one where the cat's worldline coincides with the time axis. That's not something we can do just by sliding
+the whole plot left or right or up or down, like we've done for perspectives from different
+locations. No, changes of velocity require some sort
+of rotationy thing to change the angle of the worldline, and importantly, whatever this
+rotationy thing does should be generalizable to a world line at pretty much any angle,
+since there was nothing special about the particular speed the cat happened to be going. There are also two important pieces of experimental
+evidence that we'll need to take into account: first, if I measure the cat as moving at a
+speed v away from me, then the cat will measure me as moving at that same speed v away from
+it, and likewise if we're moving towards each other. Which means we not only want to transform
+the spacetime diagram in a way that the cat's angled line becomes vertical, but we also
+want the angle between our two lines to stay the same after the transformation – that
+is, from the cat's perspective, I should be moving. The second piece of evidence we'll come to
+later. Let's focus just on the section of the cat's
+worldline from time t=0, where it's at x=0, to t=4, where it's at x=2. This section is a straight line between those
+two points, and we want it to end up as a straight vertical line, so we can simply leave
+the t=0,x=0 point unchanged while moving the t=4,x=2 point onto the time axis (where x=0). And there are really only three general possibilities
+for how to do this: either this point gets moved onto the time axis while keeping it
+at the same point in time, t=4, or it gets moved onto the time axis at an earlier time
+(say, t=3), or a later time (like t=5). There's a very nice geometric way to picture
+these possibilities. If we think again of motion on a spacetime
+diagram as a series of snapshots, like, at time t=0 the cat is at position 0, at time
+t=1 the cat is at position 0.5, at time t=2 the cat is at position 1, etc, then the transformation
+where points move to the time axis and keep the same time just looks like sliding each
+snapshot over a corresponding amount; the possibility where points move to the time
+axis at a later time looks kind of like some sort of rotation around the origin; and the
+possibility where points move to the time axis at an earlier time looks kind of like
+some sort of squeezy rotation. The reason these last two involve rotating
+the snapshots rather than just sliding is to make sure that the angle between the cat's
+worldline and my worldline stays the same before and after the transformation – it's
+a fun little geometry puzzle to understand why. Now, among these three, the option that makes
+the most intuitive sense based on our everyday experiences of the passage of time, is that
+a given point in time should stay at the same point in time, and just slide over to the
+time axis. I mean, we don't noticeably experience time
+travel every time we hop on a train or bike or plane. And this sliding does mathematically work
+– if we move things at time t=1 a half meter to the left, and things at time t=2 one meter
+to the left, and so on, then we'll have a description from the cat's perspective – the
+cat's not moving, and I'm moving to the left half a meter every second. It works for other speeds, too. If we want the perspective of somebody who's
+going a meter per second to the right relative to the cat, we can slide the snapshots over
+even farther, and now the cat's going a meter per second to the left, and I'm going a meter
+and a half per second to the left. And of course we can slide back to my perspective
+from which the newcomer is going a meter and a half per second to the right. This kind of sliding change of perspective
+is normally called a “shear transformation,” but that's when both dimensions are space
+dimensions: since one of our dimensions is time, a shear transformation represents a
+change in the velocities of things, so in physics it's called a “boost.” As in, rocket boosters boosting you to a higher
+speed. However, it turns out that boosts in the physical
+universe are not actually described by shear transformations. This is where the second and most famous piece
+of experimental evidence comes in: the speed of light. As you've probably heard, starting in the
+late 1800s, physicists built up mountains of experimental and theoretical evidence that
+the speed of light in a vacuum is always the same, even if you measure it from a moving
+perspective. This is, of course, entirely unintuitive from
+our everyday experiences with velocities, where if you throw a ball from a standstill
+and then from a moving vehicle, the ball thrown from the vehicle will be moving faster relative
+to the ground. And yet, experimental results show that light
+does not behave like everyday objects: shine light from a standstill, or from a moving
+vehicle, and its measured speed relative to the ground will be the same. Shear transformations simply can't accomodate
+this feature of light's behavior: they change all velocities equally by sliding each snapshot
+an amount proportional to its time. No velocity remains unchanged – if you draw
+the worldline of a light ray and then change to a moving perspective using a shear transformation,
+the speed of that light ray will change, which is wrong. Luckily, one of the other two options for
+boosting to a moving perspective can accomodate a constant speed of light: remember the transformation
+where the snapshots do a kind of squeeze rotation, and points move to the time axis at earlier
+times? This kind of transformation can amazingly
+leave one speed unchanged, even while it changes all other speeds. More amazingly, the unchanged speed is left
+unchanged in all directions. Let's do an example. Here's a set of snapshots from my perspective
+with a slow-moving sheep and two fast-moving cats, and let's suppose that we have experimental
+evidence that cats always move at the same speed regardless of perspective. If we want to describe this situation from
+the perspective of the sheep, we can't simply slide the snapshots over so the sheep isn't
+moving and its worldline coincides with the time axis, since that would change the speed
+of the cats. But, if we slide and rotate and stretch the
+snapshots like this, then look – we've transformed the diagram to both describe things from the
+sheep's perspective and keep the cats moving at the same speed they were before. You might note that the various cats appear
+to be spaced out differently along their worldlines, but that just means that the constant-time
+snapshots from my perspective aren't constant-time snapshots from the sheep's perspective. The important thing is that the angle of the
+cats' worldlines – which represents their speed – has remained unchanged. It's kind of amazing to me that this works
+at all; that it's mathematically and physically possible for all speeds except one to change! But it is possible with these squeeze rotationy
+things, and they're the answer to our question of how to describe motion from a moving perspective. Well, not by keeping the speed of cats constant,
+but by keeping the speed of light constant: by doing squeeze rotations so that a moving
+perspective's angled worldline becomes vertical without changing the speed of light – that
+is, without changing the slope of the worldlines for light rays. These squeeze rotationy things are called
+Lorentz Transformations, named after one of the first people to derive the correct mathematical
+expression for them – it looks kind of like the equation for rotations that we saw in
+the last video, and I'll post a followup video showing how to derive this using just a few
+simple assumptions and experimental facts. Lorentz Transformations are at the heart of
+special relativity – they're the thing that Lorentz and Einstein and Minkowski and others
+figured out was the correct description of how motion looks from moving perspectives
+in our universe, and they'll be the foundation of the rest of this series, too. Now, as we've seen, Lorentz transformations
+look different depending on what speed you're trying to keep constant, or how you've scaled
+your axes. Normally, physicists draw their spacetime
+diagram tickmarks such that if every vertical tickmark represents one second, a horizontal
+tickmark represents 299,792,458 meters, which means that the speed of light, which is 299,792,458
+meters per second, is drawn as a 45° line – to the right for right-moving light, and
+to the left for left-moving light. With this scaling, a Lorentz Transformation
+that leaves the speed of light constant simply consists of squeezing everything along one
+45° line and stretching along the other in a particular, proportional way. You can see immediately how this changes the
+angles of all of the other worldlines, that is, changes how we perceive their speeds,
+and yet doesn't change any of the light rays. And it turns out that it's possible to actually
+build a mechanical device that does Lorentz Transformations for you: here it is! Just like how a globe has the structure of
+rotations built into it in a fundamental way, and you can simply turn the globe to see how
+rotations work, rather than doing a lot of complicated math, this spacetime globe has
+Lorentz Transformations built in: it does the math of special relativity for you, allowing
+you to focus on understanding the physics of motion from different perspectives! Here's a quick example: from my perspective,
+I'm always at the same position as time passes, while the cat is moving away from me to the
+right at a third the speed of light, and the light rays from my lightbulb are moving out
+to the right and left. Using the time globe, I can do a Lorentz transformation
+to boost into the cat's perspective. And from the cat's perspective, the cat – naturally
+– stays at the same position as time passes, while the cat views me as moving away from
+it at a third the speed of light to the left, and the speeds of the light rays from my lightbulb
+are still the same, still at 45° angles. I just love how tangible and hands-on this
+is – normally when people are first introduced to special relativity and how motion looks
+from different perspectives, it's done with a bunch of messy, incomplete, algebraic equations
+– but you don't need the equations to understand the ideas of special relativity and how motion
+looks from different perspectives. You just need an understanding of spacetime
+diagrams, and a time globe. And so in the rest of this series, I'm going
+to be using the time globe extensively to dive into all of the normally confusing things
+you've heard about in Special relativity: time dilation, length contraction, the twins
+paradox, relativity of simultaneity, why you can't break the speed of light, and so on. I have to say a huge thank you to my friend
+Mark Rober for helping actually make the time globe a reality (you may be familiar with
+his youtube channel where he does incredible feats of engineering, like this dartboard
+that moves so you always hit the bullseye). He devoted a huge amount of time, effort,
+and engineering expertise to turn my crazy idea into this beautiful, precision, hands-on
+representation of special relativity and I'm supremely indebted to him – this series
+wouldn't be possible otherwise. And if you're eager for more details, I'm
+planning another whole video about the time globe itself. 

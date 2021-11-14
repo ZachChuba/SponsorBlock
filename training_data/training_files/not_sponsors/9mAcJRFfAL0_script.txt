@@ -1,0 +1,53 @@
+Let’s see, guidelines for information and
+communication technology supply chain security, preparation and characterization of Charpy
+V-notch test pieces for indirect verification of pendulum impact machines, methods for the
+assessment of departure from roundness, this is going to be a good episode because its
+about standardization, or rather, more specifically, ISO standard 3103, the internationally standard
+way of preparing a cup of tea. First a bit of context. Way off in Geneva, Switzerland is this place,
+the International Organization for Standardization. A place that, according to this google reviewer,
+is filled with “snobby eurocrats,” but according to Urban Dictionary “eurocrat”
+is a not so nice word for officials running the European Union but the people in this
+building are not working for or with the European Union at all so this review is false. That’s because the ISO is a supranational
+organization—its above governments. 162 countries worldwide are members—Canada,
+Egypt, Japan, Panama, Peru, Finland… just kidding I’m not going to list them all but
+I will show you this super-quick list because I don’t have the budget to animate a map
+of the countries. All of the members, except for these ones
+have their own organization of standards. For example, the US has the American National
+Standards Institute, France has the Association Française de Normalisation, and Japan has
+the… uhhh, Japanese Standards Association? This organization has created common standards
+for 21,802 products, objects, and processes so that things can work all across the world. For example, one of the best known ISO standards
+is for this—the shipping container, also known as the ISO container. The standardization and implementation of
+this container literally made it possible for manufacturers to make products on one
+side of the world and ship them to the other. That’s because, no matter where you go in
+the world, ships, cranes, trains, and trucks will all be made to work with this one size
+of container. If every country or shipping company made
+their own container sizes, just imagine the amount of logistics it would take to get a
+container from continent to continent. Thanks to ISO standard 668 you know that every
+shipping container in the world will be exactly eight feet wide. There’s even an ISO standard on how to run
+a standards organization, but just like anything, ISO standards are not free, and they're not
+even cheap. For example, for all 12 parts of ISO standard
+26262, about road vehicle safety, you’ll have to shell up $1,600. But back to the cup of tea, ISO standard 3103. I knew any ISO standard with a controversy
+section on Wikipedia would make a good video so I spent $40 plus shipping to get this four
+page document on how to make a cup of tea, because I hate money. It starts out by making a few definitions
+and then tells you what you need—a pot and bowl. If you go to the annex you learn that the
+larger pot has to have a maximum capacity of 310 ml plus or minus 8 ml and the small
+pot 150 ml plus or minus 4 ml. You even get a page showing the exact dimensions
+of the pots and bowls you should use for this standard tea preparation. The exact tea preparation process is pretty
+standard until you get to this part: “prepare the liquid as described in 7.2.1 but pour
+it into the bowl after the milk.” Most British people vehemently protest this
+ordering, but, according to the beginning of the document, the standard has been officially
+approved by the government of the United Kingdom, and the USSR? Perhaps being the more sensible inhabitants
+of the British Isles, the Irish have, however, officially expressed disapproval of ISO standard
+3103. Now, before you go and say that it’s absurd
+that the ISO sells a tea recipe for so much, you have the consider the actual use of such
+a thing. Imagine researchers were doing a study on
+how ethnic background affects taste perception with samples in Brazil, the UK, India, and
+Japan. The UK, India, and Japan are all tea-loving
+nations that would have no problem brewing a cup of tea, but its entirely possible that
+researchers in Brazil would never have brewed tea before in their life. By all using ISO standard 3103, all four experiment
+sites would brew the exact same cup of tea which eliminates the preparation of tea as
+a variable in the experiment. For this exact reason, there are also ISO
+standards for tons of other beverages and foods like coffee, cereal, chocolate, juices
+and more. So, if you want to be sure you’re a standard,
+conforming, bureaucracy-loving individual, just be sure to send Switzerland your $40
+and buy this recipe for the internationally standard cup of tea. 

@@ -1,0 +1,58 @@
+Dear Fellow Scholars, this is Two Minute Papers
+with Dr. Károly Zsolnai-Fehér. Neural network-based learning methods are
+capable of wondrous things these days. They can do classification, which means that
+they look at an image, and the output is a decision, whether we see a dog or a cat, or
+a sentence that describes an image. In the case of DeepMind’s AI playing Atari
+games, the input is the video footage of the game, and the output is an action that decides
+what we do with our character next. In OpenAI’s amazing Jukebox paper, the input
+was a style of someone, a music genre, and lyrics, and the output was a waveform, or
+in other words, a song we can listen to. But, a few hundred episodes ago we covered
+a paper from 2015, where scientists at DeepMind asked the question, what if we would get these
+neural networks to output not sentences, decisions, waveforms or any of that sort… what if the
+output would be a computer program? Can we teach a neural network programming? I was convinced that the answer is no, until
+I saw these results. So what is happening here? The input is a scratch pad where we are performing
+multi-digit addition in front of the curious eyes of the neural network. And if it has looked for long enough, it was
+indeed able to produce a computer program that could, eventually, perform addition. It could also perform sorting, and would even
+be able to rotate the images of these cars into a target position. It was called a neural programmer-interpreter,
+and of course, it was slow and a bit inefficient, but no matter, because it could finally make
+something previously impossible possible. That is an amazing leap. So, why are we talking about this work from
+2015? Well, apart from the fact that there are many
+amazing works that are timeless, and this is one of them, in this series, I always say,
+two more papers down the line, and it will be improved significantly. So here is the Two Minute Papers Moment of
+Truth. How has this area improved with this followup
+work? Let’s have a look at this paper from scientists
+at NVIDIA that implements a similar concept for computer games. So how is that even possible? Normally, if we wish to write a computer game,
+we first, envision the game in our mind, then, we sit down and do the programming. But this new paper does this completely differently. Now, hold on to your papers, because this
+is a neural network-based method, that first, looks at someone playing the game, and then,
+it is able to implement the game so that it not only looks like it, but it also behaves
+the same way to our keypresses. You see it at work here. Yes, this means that we can even play with
+it and it learns the internal rules of the game and the graphics, just by looking at
+some gameplay. Note that the key part here is that we are
+not doing any programming by hand - the entirety of the program is written by the AI. We don’t need access to the source code
+or the internal workings of the game, as long as we can just look at it, it can learn the
+rules. Everything truly behaves as expected, we can
+even pick up the capsule and eat the ghosts as well. This sounds like science fiction, and we are
+not nearly done yet! There are additional goodies. It has memory and uses it consistently, or,
+in other words, things don’t just happen arbitrarily. If we return to a state of the game that we
+visited before, it will remember to present us with very similar information. It also has an understanding of foreground
+and background, dynamic and static objects as well, so we can experiment with replacing
+these parts, thereby reskinning our games. It still needs quite a bit of data to perform
+all this as it has looked at approximately 120 hours of footage of the game being played,
+however, now, something is possible that was previously impossible. And of course, two more papers down the line,
+this will be improved significantly I am sure. I think this work is going to be one of those
+important milestones that remind us that many of the things that we had handcrafted methods
+for will, over time, be replaced with these learning algorithms. They already know the physics of fluids, or
+in other words, they are already capable of looking at videos of these simulations and
+learn the underlying physical laws, and they can demonstrate having learned general knowledge
+of the rules by being able to continue these simulations, even if we change the scene around
+quite a bit. In light transport research, we also have
+decades of progress in simulating how rays of light interact with scenes and we can create
+these beautiful images. Parts of these algorithms, for instance, noise
+filtering are already taken over by AI-based techniques, and I can’t help but feel that
+a bigger tidal wave is coming. This tidal-wave will be an entirely AI-driven
+technique that will write the code for the entirety of the system. Sure the first ones will be limited, for instance,
+this is a neural renderer from one of our papers that is limited to this scene and lighting
+setup, but you know the saying, two more papers down the line, and it will be an order of
+magnitude better. What a time to 
+be alive! Thanks for watching and for your generous
+support, and I'll see you next time! 

@@ -1,0 +1,45 @@
+This is an image of Jupiter’s moon Europa
+taken by the Galileo spacecraft in 1998. You’ve probably noticed that Europa’s
+surface, which is made of ice, has tons and tons of cracks, but I want to direct your
+attention to this weird repeating arc pattern – each segment of arc is roughly 100km long! And there are a lot of these arc patterns. Most of them are ridges raised up above the
+surrounding surface, though a few are troughs. After they were discovered, their shape reminded
+scientists of a mathematical curve called a cycloid ; so the Europa curves are called
+“cycloid curves”. These curves are weird – geological and
+astrophysical processes are really good at making round features, or straight features,
+or wavy features – but what causes repeated arcing cycloids? Well, we think that the Europan surface is
+made of frozen water at least several miles thick, which we believe is floating on top
+of an ocean of liquid water. This means its surface kind of works the way
+tectonic plates do here on earth, spreading apart and generating new ice, crashing together
+and being subducted, and so on – and here on earth, plate tectonics has caused cycloid-esque
+curves all around the pacific ring of fire. Our best guess for how the pacific arcs form
+is based on what happens when the ocean plates get pushed under continental plates: because
+the earth’s surface is curved, you get a similar effect to what happens when you dent
+a ping pong ball – you might get a circle, or if you press harder, multiple circular
+arcs: cycloid curves! However, this doesn’t appear to be the answer
+on Europa, because there are so many cycloid curves and they overlap in tons of places
+and none of them really show signs of one piece of the surface being pushed under another. The current best theory for the origin of
+the Europan cycloids has to do with its weird tides. Jupiter causes tides on Europa, but they’re
+not from rotation beneath a tidal bulge (the way tides are here on earth); the same side
+of Europa always faces Jupiter. No, Europa has tides because its orbit isn’t
+a perfect circle – it’s ever so slightly elliptical, so as Europa moves closer or farther
+from Jupiter, the nature of Jupiter’s gravitational pull changes. On the scale of the whole moon, these tides
+manifest as a kind of squeezing and stretching, which due to the interaction of geometry and
+physics results in any given point on the icy surface being pressed together at one
+time in the orbit, and then stretched at a later point. And the aspect of tides key to understanding
+the cycloid curves is that the direction of the compression and stretching changes over
+the course of each orbit, rotating around and around like a hand on a clock. Specifically, the compression/tension direction
+rotates clockwise in the southern hemisphere and counterclockwise in the northern hemisphere,
+and it takes one orbit to complete a full rotation. So, when there’s enough stretching tension
+to form a crack in the ice, the crack will start propagating perpendicular to the tension. But remember, the direction of the tension
+is changing. If, say the crack is growing to the east in
+the northern hemisphere, the counterclockwise-changing tension will curve it up away from the equator
+(and if it’s going west, it’ll curve down towards the equator). As Europa continues orbiting, the tension
+will eventually turn to compression, so the crack will stop growing. The compression angle will continue turning,
+though, and by the time the compression turns back to tension, the direction will have rotated
+back around enough that the crack will make a sharp turn when it starts cracking again. At which point it resumes its upwards-curving
+trajectory. There’s probably a little more subtlety
+due to a stress-strain process called “tailcracking” that helps the sharp corners form for each
+new segment, but this is basically the best current theory explaining the Europan cycloids:
+cracks grow because the tides from Jupiter create tension in the ice, and that tension
+direction changes over time, curving the crack. Then the process repeats again, starting the
+crack off in the original direction, curving again, and so on. And that’s how waves form on a frozen world. 

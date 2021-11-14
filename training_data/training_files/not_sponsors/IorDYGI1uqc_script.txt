@@ -1,0 +1,95 @@
+Last month MIT revealed their ion propelled
+plane. The product of 7 years of development and
+the first of its kind. A plane capable of sustained powered flight
+with no moving parts in it’s propulsion system. Just as the Wright Brothers announced to the
+world that powered flight was possible, this flight lays down a milestone for ion drive
+technology that could pave the way to future investment and development. It has the potential to drastically improve
+propulsion technology. Having no moving parts is a benefit that cannot
+be understated. Parts can be made lighter as they no longer
+need to survive the stress of movement. Reduced stress means reduced maintenance and
+costs, but perhaps the most immediate benefit we can garner from this technology is reduced
+noise. With no noisy combustion or rotating aerodynamic
+surfaces stirring up the air, these planes are like gliding owls. A characteristic military contractors will
+be eager to take advantage of. But with current limitations, this may take
+some time to come to market. Let’s investigate just how this new technology
+works, and where it needs to improve in order to compete with current technology. This technology has been in development for
+decades now with many spacecraft already using variations on the idea to achieve highly efficient
+thrust systems. These engines work on a similar principle
+to the ion propulsion of the MIT plane, albeit in a very different environment that lends
+itself to the technology. Take the NSTAR ion drive aboard the now retired
+Dawn spacecraft. This spacecraft used xenon as a propellant,
+because it has a high atomic mass allowing it to provide more kick per atom, while being
+inert and having a high storage density lending itself to long term storage on a spacecraft.[1]
+The engine releases both xenon atoms and high energy electrons into the ionization chamber,
+where they collide to produce a positive xenon atom and more electrons. These electrons are then collected by the
+positively charged chamber walls, while the positive xenon atoms migrate towards the chamber
+exit which contains two grids. A positive grid called the screen grid, and
+a negative grid called the accelerator grid. The high electrical potential between these
+grids causes the positive ions to accelerate and shoot out of the engine at speeds up to
+145, 000 kilometres per hour. At that speed even the tiny xenon atoms can
+provide a decent bit of thrust, but even still this engine provides a maximum of 92 milli
+Newtons of force. About the same force a piece of paper will
+exert while resting on your hand. But in the vacuum of space there is no air
+to sap away the precious energy we provide. With no drag or friction to remove energy
+we gradually build up our kinetic energy and gain speed. The dawn spacecraft weighed about 1220 kilograms
+at launch with a dry mass of 750 kilograms after the propellant had been expended, so
+lets say it has an average weight between the two of 1000 kilograms. Rearranging the force equals mass by acceleration
+equation, we can calculate the acceleration this engine could provide at 0.000092 metres
+per second squared. A tiny acceleration, but multiple by a week
+(604800 seconds) and our spacecraft is flying at 55.6 m/s. Multiple it by a year and it’s flying at
+2898 metres per second, that’s 8.5 mach. The latest generation ion drives, dubbed the
+NEXT engine, can produce three times the force and has been tested continuously without stopping
+for 6 years straight here on earth. That’s enough force to accelerate that 1000
+kilograms to 44651 m/s, 130 times the speed of sound. [1] This is an incredible technology, that will
+revolutionise how we explore space in the near future, but here on earth it has a completely
+different set of challenges. Here on earth planes pose a completely different
+challenge. Air will continuously sap away any energy
+we input into our vehicle through drag, and so we need to create an ion drive that can
+provide more energy than air can remove while travelling fast enough to achieve flight. Not an easy task and the fact MIT have managed
+it is mind blowing. Let’s see how they did it. They first needed to optimize their plane
+design for the application. Reducing weight to minimize the energy required
+to maintain height, and minimising drag to reduce any energy losses to the air. They did this using something called geometric
+programming optimization, which allows designers to specify constraints and design criteria
+to a programme which will then find the optimal design. [2] After running multiple computer simulations
+they settled on a plane with a 5 metre wingspan and a weight of 2.56 kilograms. It would require a flight speed of 4.8 metres
+per second with a thrust of 3.2 Newtons [3]. 3.2 Newtons is vastly more than anything achieved
+by NSTAR or NEXT engines, but they don’t work in entirely the same way. Ion drives for space need to carry atoms to
+be bombarded, within earth's atmosphere there is no shortage of atoms to ionize and accelerate
+and this helps counteract some of the negatives of the drag they also induce. The planes propulsion comes from an array
+of ion drives carried below the wing. The positive anode was a thin steel wire,
+which helped minimise the drag it induced. While the cathodes were foam aerofoils covered
+in thin aluminium, these being light and capable of producing lift to offset their weight. In this case nitrogen is ionized and attracted
+across the electric field induced by the 20 thousand volts of electric potential between
+them. The nitrogen ions collide with neutral air
+molecules along the way to a provide additional thrust. Creating something called ionic wind. Getting that 20 thousand volts of alternating
+current is really the most difficult part and the team had to design their own lightweight
+high-power voltage converter to step-up the 200 volts of direct current drawn from their
+lithium polymer batteries. This energy storage conundrum, as explained
+in my electric planes video, is the biggest challenge facing any technology like this. So how does this compare to conventional propulsion
+methods regarding thrust to power ratios? A typical jet engine achieves a thrust to
+power ratio of 3 Newtons per kilowatt, while helicopter rotors achieve a power to thrust
+ratio of about 50 Newtons per kilowatt (N kw-1). This ion propelled plane is estimated to have
+achieved a thrust to power ratio of 6.25 Newtons per kilowatt. So, if we could find a way of powering these
+devices that didn’t require heavy batteries, could these ion propulsion engines be used? [3] Scaling these propulsion method is not easy,
+and individual electrode pairs have their limit in the current they can pass between
+them via ion transport, due to limits in voltage and choked flow within the electric field
+[4], just as air can become choked within a constricted pipe. This affects something called the thrust density,
+which is the area over which the thrust is applied. Jet Engines have a very high thrust density
+at over 10,000 Newtons per metres squared, so we can produce a great about of force with
+relatively low area. This plane achieved a thrust density of 3
+Newtons per metre squared, so it is generating very little force over a very large area. We can just about manage to provide enough
+force with 4 3 racks and 2 rows of these electrodes hanging far below the wing, for a plane this
+light and slow. The issue here is the same issue that prevents
+batteries from being a viable solution for planes, power requirements do not scale linearly
+with the mass of the plane, they increase with the square of the mass. While the power requirements to overcome drag
+increases with the cube of the velocity. So our ion propulsion power will need to scale
+with it, but we cannot simply hang racks and racks of these electrodes beneath our plane. They, along with the structures required to
+support them would cause far too much drag, and in turn flight surfaces would need to
+scale to counteract the pitching moment this would cause, causing even more drag. This technology is still in its infancy and
+there are engineers far more intelligent than I working to figure out ways to apply it. Just think that 114 years ago the Wright Flyer
+managed to fly just 35 metres in it’s 11 second first flight. This ion propelled plane managed 55 metres
+in 12 seconds, and who knows where we will be in 100 years time. We as a species are continually growing and
+learning how to apply these principles. It’s a fundamental part of the human experience
+to continuously develop your skillset, just As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my twitter, facebook, discord server, subreddit and instagram pages are below. 

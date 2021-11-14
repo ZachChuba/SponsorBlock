@@ -1,0 +1,156 @@
+Sometimes we come across an ending in a video
+game that makes you think... Is that really how it ends? Only to find out... Oh… it’s not. Having covered numerous examples of strange,
+unintended endings that players weren’t expecting to find, it only makes sense I’d
+dedicate an entire video to the subject. Thanks to Raz on my discord server for today’s
+video idea as we dive into the top 10 video game endings that were never meant to be found. Tomb Raider Underworld. At the end of the game, Lara and the game’s
+antagonist Amanda, still pissed at Lara for abandoning her in a tomb when they were younger,
+agree to put their differences aside and work together to stop the destruction of the world. In an inspiring moment, the two work together
+to escape before this temple collapses on their heads, ending with the impression that
+the two would sort out their differences with Lara finally gaining her friend back
+after all these years. However, dataminers managed to rip a much
+less wholesome version of the ending lurking in the files of the PS2 and PC versions, as
+originally the ending continued after Lara and Amanda escaped the temple, with Lara trotting
+through the snow when suddenly Amanda comes out of nowhere with a rock and Lara shoots her. Lara hesitates for a moment before nonchalantly
+pressing on, leaving Amanda to break her leg and presumably die. Which was probably deleted for being a complete
+180° from the heartwarming moments seconds before. That and it was kinda dumb as hell. It was pretty clear Lara was armed. Why in the hell would you bring a rock
+to a gun fight? Hitman: Blood Money. In the last mission, Requiem, Agent 47 finds
+himself drugged and knocked out at a funeral, before waking up and unveiling his cover to
+blast away all the dudes in the area. But if players didn’t react in this moment
+of needed player response, the credits would roll and Agent 47 would end up getting lowered
+into the chamber and getting literally roasted. But, thankfully offscreen for those faint
+of heart. Players however found if they hacked open
+the developer tools, they could clip themselves outside of the environment with the warp tool
+and find a fully modeled cremation chamber that doesn’t appear anywhere else in the
+game. It’s believed this chamber belonged to an
+extended alternate ending in which Agent 47 would have actually been led through the chamber,
+further evidenced by a tiny deleted scene that could be found on a behind-the-scenes
+video uploaded to YouTube. Additionally, if we were to rip the audio from
+the game, we would find two cut audio files from the level named JournalistFedIntoCremator
+and WheelchairGuyFedIntoCremator, with the game’s two main antagonists pleading Agent
+47 not to burn them alive. "NOOOOOOOOOO!" Fortunately for everyone’s sake, it appears
+the developers thought that ending the game with characters getting incinerated was maybe
+taking things a little too far. [screams] Yeah, maybe a little. Dead Rising 3. Thanks to ThrowingOutRox for submitting this
+discovery on the oddheader reddit. In the open-world zombie beat-em-up game Dead
+Rising 3, players assume the role of one of the last survivors of the zombie apocalypse,
+Nick Ramos. ThrowingOutRox going through the files
+of the game however managed to find an unusual ending lurking in the data that didn’t appear
+anywhere else in the game, which starts standardly enough with Nick saving one of the lone survivors,
+Annie… When things take a sudden turn south... "Thanks for saving me, but... I hear you’ve
+been a real [bleep]head around town." Oooh. "I hear you’ve been hurting people, Nick." "Innocent people." Damn.. This is dark.
+- "Woah. Hey, wait a second." "All right, listen. I'm... I’m special." "And I’m sorry you guys, now, I just didn’t
+have time to…" "Oh, so you’re Mister Special aren’t you, is that it?" "Seriously, though. I really am special." "What? You don’t think that we’re special?" Well, Karen’s pissed. "I was just having a little fun now, come on guys." "Oh yeah, look at me, Mister Number Twelve. I can kill whoever I want. I’m a murderer." "Hey hang on, I really need to escape, all right?" "Oh, you’re gonna escape all right. Straight to that big safehouse in the sky." It’s thought this ending would have occurred
+if you managed to kill all the survivors in the game, despite that never actually being
+a possibility. Whatever was done to activate this ending,
+it’s safe to say the player would have definitely deserved it. Get him! Blade Runner. 1997’s Blade Runner is one of my all-time
+favorites. A cyberpunk Los Angeles where synthetic humans
+known as replicants, indistinguishable from normal humans, roam the streets causing public
+terror, with detectives known as Blade Runners out to retire them - AKA - eradicate them. The question surrounding the film for decades
+was whether or not Deckard, a Blade Runner was a replicant himself, and multiple
+endings and cuts of the film threw the answer into either direction. The PC game took the idea even further with
+many story branches and multiple endings, as any character could or could not be a replicant
+each time they played the game. For example, one possibility is the player
+could believe themselves to be a replicant and try to escape from Los Angeles with one
+of the other characters. Or they could believe they were a human and
+retire all the replicants and go home for a smoke. One thing I always thought was odd though,
+is that suspect Dektora could be a love interest in the game, despite only talking to her twice
+in the whole story. Yet you could only end up with her with the
+option of believing that she was replicant, never providing the player the possibility of escaping with
+her under the belief that she was a human. Which seemed to be the single possibility
+you couldn’t actually do in the game. I was surprised to find out years later, dataminers
+found in the files there indeed existed an ending with an entirely different narration,
+showing that you could actually escape with Dekotra as a human. The only problem is with the mass amount of scripts
+and story branches in the game… no one’s sure if such an ending can actually be activated,
+though nothing promising has ever found. Fortunately, a Blade Runner re-release is set to come out
+this year... But unfortunately that version's being
+rebuilt from the ground up as the original source code has been notoriously lost, so
+whether or not we get an answer to this may just be another mystery Blade Runner fans
+will argue about for decades. Persona 5. Persona 5 is a game that takes place across
+multiple high school semesters, allowing the player to build relationships throughout the
+game’s story. Normally, if the player were to date every
+single possible girl in a single playthrough, on Valentine’s day all the girls would get
+together and rightfully beat your ass. However, only a couple months ago, dataminers
+managed to dig up an unused ending lurking in the files exclusive to the Chinese version
+of the 2019 re-release, Persona 5 Royal, in which, all of the love interests get together
+for valentine’s day and are perfectly fine with you dating all of them at the same time…
+with eerily none of them acknowledging the awkwardness of the situation as they shower
+you in endless chocolate. Supposedly this was a deleted ending involving
+an ideal world scenario introduced exclusively in Persona 5 Royal, but clearly somebody along
+the way felt this possibility was way too weird and decided to can it. Also, apparently, this is supposed to be a
+“bad” ending, as it's supposed to be apart of a message that living in an ideal world without
+pain and consequence would ultimately be a boring one… Yet we still end up with ten beautiful women
+who want to wait on us hand and foot… Yeah... what a horrible world that would be. Disgaea 2. Thanks to HawlSera for submitting this discovery
+on my discord server. Disgaea is a tactical role-playing game featuring
+multiple paths and endings. One particularly difficult to achieve bad
+ending involved gaining 99 felonies and ally kills with Adell... Including killing his own
+love interest Rozalin, which presents an ending where Adell kills Rozalin because she’s
+possessed by a demon, only for him to end up possessed himself. From here the game ends with Adell’s child
+siblings begging him to spare their lives, before fading to black and asking you to load
+another saved game. Oh... I hope they’re fine. U.S. players however were in for an even darker
+ending, as when they switched over from English to Japanese at the last second, they could
+hear audio that the game’s localization department deemed too graphic for the US. As after the game faded to black, they could
+hear this bloodcurdling audio of Adell assumedly crunching down on flesh and bone. [crunching sounds] Good lord! Yeah, I kinda starting to think things didn’t
+end well for the children. [licking sounds] Yeah, he killed them. Bully. At the end of bully, Jimmy has a showdown
+with two of the game’s antagonists Gary Smith and Edgar Munsen. Jimmy ends up finding Edgar at the chemical
+plant in town who attacks Jimmy as soon as he finds him. Normally, the only story option is for Jimmy
+to beat Edgar and for the two to make amends. But players digging through the files found
+audio that seemed to allow for a darker ending if Jimmy would have lost the fight, seemingly
+implying Egdar would have drowned Jimmy in the chemical waste... As recreated by deadpoolXYZ here... "That burns, doesn’t it?" Making it the only time Jimmy would have died
+by someone’s hand in the whole game… Well, there’s not really any question why
+this one would have been removed. Apparently, Jimmy disintegrating in nuclear
+waste was a line that even Rockstar was unwilling to cross. "Poor little Jimmy, taking an acid bath." Okay, let’s maybe cover something a little
+a less dark. Wandersong. Ah, here we go. Wandersong is a bright and colorful game where
+a wandering singer known as The Bard goes on a quest to gather pieces of a song to unify
+the world from being destroyed. Months after Wandersong’s initial release,
+a player on the Wandersong discord found at the beginning of the game, if they were to
+input a sequence of notes normally used during a mini-game later in the adventure, the player
+would suddenly jump ahead in time to the point after the mini-game actually occurred in the
+story, which was a speedrunner’s dream as they no longer had to acquire most of the
+characters needed to complete the game. When they got to the final scene, they expected
+the normal ending to play out the same, but rather an entirely new scenario played out
+instead. As normally at the end of the game, the world
+loses color as it slowly begins to end. And the world and The Bard sing a song together
+to try to prevent their demise. But this time, since the player got there
+without any of the necessary characters … instead you just sit there while the world ends and
+then the game fades to credits. So, literally everyone and everything that’s
+ever existed dies. Damn, so much for lightening the mood. The Stanley Parable. The Stanley Parable is a game of many mysteries,
+certainly not being the first time it’s ever been covered on the channel. One particularly confusing mystery involves
+an ending that appears to have never properly been found. Throughout The Stanley Parable a disembodied
+narrator comments on every single move Stanley makes throughout the game. "He entered the door on his left." However, it was found that if a player entered
+the boss’s office and quickly walked backward at the exact moment that the narrator began
+talking, they could shut themselves outside the office and the narrator would deactivate.. "Stepping in-"
+[door slams] Which when looking at the developer console doesn’t seem intentional. Doing so appears to activate a failsafe for
+the player, as the doors in the previous areas inexplicably reopen. If we were to backtrack to the beginning of
+the game, we’d find door 428 is now open, which never opens under any other way that
+we know. Entering the door takes the player to a mysterious
+area only known in the developer console as “redstair" ...an environment with many winding
+staircases and multiple empty floors. At the top of the stairs we can find a warning
+on the wall with an obscured message at the bottom we can only read if you rip the file
+from the game, which states “both the narrator and the player must be present in order
+for the escape sequence to play out as intended” which unfortunately has never been achieved
+as no one’s ever gotten here without deactivating the narrator. Past the door the player can find what appears
+to be an escape pod, when suddenly, the game instantly resets... ...creating a strange visual
+manifestation at the bottom of the screen. Playing the scene with the developer console
+open we get more clues that this wasn’t the intended way of finding this ending, as
+when we enter the room we can see a number of sound effects fail to load, such as ElevatorDoorOpen
+and RobotHydraulics, which explains why the scene is eerily dead silent. Entering the pod gives us the biggest indication
+this was never meant to be found as an error appears that says, “FIX ME WILLIAM!!!” Many believe a proper way to activate this
+ending has never been found, especially as a developer in a reddit AMA revealed there
+was still at least one secret left in the game that nobody’s found. Fortunately, we only have one developer to
+thank for giving us a starting point. Thank you, William. Don’t worry, William, you’re far from
+the first to make a mistake like that and end up covered on this channel. Allan, you’re never living that one down. Metal Gear Solid V: The Phantom Pain. Players digging through the files of Metal
+Gear V found a mysterious never-before-seen cutscene, talking about the last nuke in the
+world being disarmed as a historic moment for mankind. Well it turned out this ending was in the
+game, but in a way that no one was ever likely to activate... As every nuke that had been built
+by players online had to be disarmed until the nuke count on all of the game’s servers
+was down to 0. Considering this meant thousands of players
+would have to dismantle their nuclear arms at the exact same time, the likeliness of
+this ever happening was slim to none, though that hasn’t stopped many from trying. Then, on February 2nd, 2018, three years after the
+game’s release, Steam users found the cutscene playing as soon as they launched the game. Did all the players disarm their nukes and
+finally manage to achieve world peace? Nope. Not even close. Apparently, the only reason the ending played
+was because of a server error that incorrectly interpreted the value as 0. Publisher Konami instantly apologized for
+the false lead and players continued to strive for the ending. Until again on December 25th, the ending played
+once again for all players on all platforms, even though again none of them were ever close
+to removing their nukes. Again, Konami issued another apology saying
+they were still investigating the issue, though many threw in the towel in then and there. Perhaps as creator Hideo Kojima originally
+intended, until the Metal Gear Solid V community unifies to disarm their nukes, attaining world
+peace in the game is a reality we may never actually see in our lifetime. Wait a second, that’s... actually kind of poetic… We truly live in a society. 

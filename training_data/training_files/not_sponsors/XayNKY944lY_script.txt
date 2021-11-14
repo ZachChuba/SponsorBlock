@@ -1,0 +1,33 @@
+As far as we know, time only moves in one
+direction – forward – but if you could loop back to visit the universe at an earlier
+point in time, a famous paradox arises. What if you killed your grandfather when he
+was a child? Then your father or mother wouldn't have been
+born, so you wouldn't have been born, so you wouldn't have been able to go back in time
+to kill your grandfather in the first place. Paradox. The simplest resolution to the grandfather
+paradox is that when you go back in time, you're actually not going back into your own
+history but to a copy, and everything you do there influences the new alternate future
+of that universe, not your own past. But that's boring, because it just avoids
+the paradox. If what you do when you go back in time actually
+influences your own past, and the effects of your time travel do loop back to the present...future...past
+– no problem. Let's just follow the paradoxical timeline
+through BEYOND its paradoxical conclusion. You go back in time, kill your grandfather,
+thus you aren't born so you can't go back in time, thus your grandfather isn't killed,
+thus you are born, so you go back in time and kill your grandfather, and so on... I'm showing this as a linear series of events
+but really it's two entangled histories happening in parallel. Is that even possible? Well, I don't know about the time travel part,
+but subatomic particles regularly do multiple different things in parallel – it's called
+quantum superposition and is responsible for the weirdness of the double slit experiment,
+many properties of atoms and molecules, fusion in the sun's core, and so on. So if the universe were to exist in a superposition
+of two states – your grandfather is alive and your grandfather is dead – then the
+natural result is a superposition of two states: you're born and able to go back in time to
+kill your grandfather, and you're not born. And the natural result of these is a superposition
+of two states – your grandfather is dead and your grandfather is alive – and so,
+at least from a logical perspective, this looping timeline is entirely consistent and
+there's no paradox. And a similar paradox-free solution can be
+obtained by viewing the problem as a steady-state solution to a Markov chain – but I won't
+go into that here. Now of course nothing about these solutions
+to the grandfather paradox suggests that closed time loops are actually possible – in fact,
+some of the implications this kind of time loop have in the study of complexity theory
+seem to suggest that time loops – and thus time travel into the past – must be impossible. But the main point is sometimes we think a
+situation creates a paradox when it doesn't, and really the only paradox is how our thinking
+can be twisted enough to dream up time-traveling murderous grandsons, but not twisted enough
+to think about twisting time. 

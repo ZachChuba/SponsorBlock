@@ -1,0 +1,105 @@
+Here’s something you’ve never, ever heard
+before: “Hey, good question, you should Bing it” Okay, maybe once. But, except maybe as a punchline,
+nobody uses Bing. Microsoft has tried, and tried,
+and tried again, They redesigned the website,
+spent millions advertising a pun making Google look better,
+even paid people to use it. And yet, a decade later, Bing is still Bing. So, at this point, why not just abandon the
+project? Well, because Bing isn’t actually a failure. Far from it. It’s a story of data, and control, and,
+ultimately, the future of the internet. In 2012, CEO Steve Ballmer announced Bing
+was finally a real contender. He said “By revealing our most popular searches,
+we’re showing Bing is ready to compete with the big boys.” So what were they? google, goggle, googlle, suicide, googler,
+and hot sauce. Hmmm… I mean, when it comes to spicy food, the crown
+clearly goes to Bing. Take, that, Google? But, to be fair, we should’ve known Ballmer
+was no prophet. After releasing the Windows Phone, you know,
+that best-selling, world-changing sensation, he was so confident it would be successful
+he held a funeral for the iPhone - literally, iPhones carried like caskets. Yeaaahhhh… So when I saw this chart of search engine
+market share, I wiped my nonexistent glasses,
+reloaded the page, cleared the cache,
+restarted my computer, threw it away,
+then bought a new one. But, somehow, it’s true:
+A third of U.S. internet searches use Bing, 26% in the UK,
+17% in Canada. And like Google, they sell ads to the highest
+bidder. Multiply by over a billion users a month,
+and Bing makes $5 billion a year. as in
+one, two, three, four, five, six, seven, eight, nine zeros. Hundred dollar bills stacked higher than the
+Burj Khalifa. Times five. To put that in perspective, that’s what
+YouTube, made, with basically no competitors, in 2016. The difference is Bing actually makes a profit. Companies like Twitter and Snapchat lose money
+for years, hoping money will come later. And yet, here’s Bing, actually in the black. Hats off to you, Ballmer. Oh wait But seriously, how can this be? and what does
+it mean? Microsoft has had plenty of ups and downs,
+but one thing has always been consistent. 82% of the world’s computers run Windows,
+and that hasn’t really changed. Besides making a ton of money, this gives
+them an incredibly powerful tool they’d be dumb not to use. In the same way a change to the iPhone is
+a change to the entire industry, clear throat Even the smallest adjustment to Windows has
+a huge effect among hundreds of millions of devices. And that’s especially true for one simple
+reason: People just don’t change their settings. Microsoft lets you switch browsers and search
+engines, but ignorance and apathy are on their side. People don’t know how, or don’t care enough
+to change them, making the defaults incredibly popular. Internet Explorer may not be… universally
+loved, but it came with Windows, so it doesn’t
+matter. Same with Edge, their new browser,
+which looks a little familiar… And they’ll do anything to get more users. Microsoft and Apple may not be the best of
+friends, but the enemy of my enemy is my friend. Nearly all of Google’s revenue comes from
+search ads, most of which are mobile, and even though only 12% are iOS devices,
+they make up 75% of that mobile revenue. Of course they’d prefer you generate that
+money on Android, but in the meantime, it’s possible iOS users are worth more to
+Google. They really benefit from and depend on Apple. But the feeling isn’t mutual. Apple would like to keep a distance. To escape Google Maps, they built Apple Maps. Which, wasn’t so good at keeping a distance And that’s where Microsoft comes in. In 2013, Siri waved goodbye to Google and
+hello to Bing. But money can heal all wounds… Google now sends Apple a 3 billion dollar
+check every year, and Apple says Fine, you can be our default search engine That’s maybe the world’s most expensive
+flip of a switch. The success of Bing isn’t really about Bing,
+it’s about control. If people had to go out of their way to find
+it, nobody would. The difference between a 5 billion dollar
+business and a completely bankrupt one is the power to decide what users see. The decisions of tech companies will often
+seem strange and reckless, like why pour so much money into the Windows and Fire Phones?
+until you understand the larger goal: moving up the hierarchy of control. The strategy of entire companies,
+entire industries, is to climb this triangle. The lower something is, the more companies
+it relies on, and the greater its risk of being shut down. At the very bottom are plugins, extensions,
+mods, and hacks. They fundamentally depend on the obliviousness
+or indifference of a larger company, who they often mean very little to. And when their goals differ, the larger company
+always wins. The Hackintosh community, for example, trick
+macOS into running on their custom-built computers. It’s clever, but if Apple woke up on the
+wrong side of the bed, they could end it faster than you can say How do you like them apples? sigh Slightly higher are websites, who can send
+you any code they want, but are at the mercy of your browser to show it. And browsers, like all apps, are beholden
+to the operating system, who may just say Nah, I don’t think so The company Astro makes an app to turn your
+iPad into an extra computer monitor, and they wanted to add a button without covering the
+screen, so they had a cool idea: They’d use the camera. You “press”, it detects less light, and
+activates the button. A thumbs up from me, but a thumbs down from
+Apple, who rejected it from the store. Or, they may really like your app,
+incorporate it into the OS, and kill your business. When Macs had a feature called Sherlock,
+Someone made a companion called Watson, a $30 app with some extra features. But it was so good that it came with the next
+version of macOS. And above all of these is the holy grail of
+tech companies: physical devices. When you own the hardware, you own everything. Jeff Bezos is the richest man in the world
+not because he’s good at making profit, and certainly not because he’s good at labeling
+charts, but because he understands the power of getting Amazon in front of you, whatever
+the cost. He would’ve happily lost money on the Fire
+Phone just to get in more people’s hands. Kindle, Fire Tablets, Echo - they all make
+little or no profit, but they’re incredibly important. It’s the same reason Windows Phone refused
+to quit for so long. And you can bet companies like Facebook hate
+being in the hands of phone companies. Please don’t do it, Mark. They’re gonna it Speaking of Facebook, the other reason control
+is so important is data. More data means more and better ads,
+and ads mean profit. Companies can buy it from places like Digi.me,
+who you can sell your private information to for a few bucks, Or, companies can just get it themselves. And the higher on the triangle, the more they
+can collect. It’s a terrible incentive that could forever
+change the internet… In 2013, Facebook suddenly felt exceptionally
+generous Hey, we should give everyone in the world
+access to the internet So here’s what we’re going to do:
+you get an internet, you get an internet,
+everyone gets an internet I know who I’m voting for in 2020… But it’s Facebook, so where’s the Black
+Mirror twist? When users were surveyed, something strange
+happened: more people said they used Facebook than used the Internet. 65% of Nigerians and 61% of Indonesians they
+asked agreed that “Facebook is the internet” And that’s no accident… Make no mistake: what Facebook is so generously
+donating is not the internet, but Facebook’s internet. They only give access to their website and
+handful of others which meet their requirements. No net neutrality. In other words, a clever way to get more users. Google is also getting into the philanthropy
+business with what they call AMP. The technology is boring, so here’s a summary: What you see on a website is a fraction of
+what’s actually there. the rest is, well, garbage. Garbage that tracks you for advertising, makes
+the site look fancy, whatever. So Google says “All that garbage is really
+slowing things down, why don’t we host your website for you, we’ll strip away the garbage
+and it’ll load faster.” It sounds great, but, what do ya know, it
+only works if you add to your website the same garbage it’s supposed to remove. Because it isn’t about speed so much as
+control. Websites don’t need Google to remove their
+garbage, if they want to load faster, they can just
+do it themselves. Google wants you to hand them control of what
+users see. Sure, it’s “optional”, but if you say
+no, they rank you lower in search results, so not really. Google and Facebook already have incredible
+control over the internet, but they’d like all of it. Their dream isn’t to dominate the internet
+but to be the internet. And that’s bad for everyone. The beauty of the internet is that power isn’t
+in the hands of any one company. Anyone can do or learn anything without the
+permission of a Google or a Facebook. 

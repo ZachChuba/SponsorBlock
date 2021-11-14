@@ -1,0 +1,124 @@
+Of all the different types of rides that can
+be found at an amusement park, there’s very few that can deliver the same terrifying thrills
+as a drop tower. These impressive machines allow riders to
+experience a straight freefall from dizzying heights, coming to a safe controlled stop
+just moments before reaching the ground. This type of attraction packs a big punch
+given its small footprint, with the tallest rides extending to heights in excess of 120
+metres, or 400 feet. Modern drop towers also come in a wide range
+of design styles with some clever twists that make them even more thrilling, including the
+most recent innovation of tilting riders forward so they fall face first. Despite all the variations that exist today,
+the original design concept for the freefall ride can be traced back to a single attraction
+that was built for the New York World’s Fair in 1939. This ride was known as the Parachute Jump,
+and it consisted of a 250-foot steel tower with 12 parachutes suspended from a large
+frame with steel cables. Riders would hang below the parachutes in
+canvas seats that were hoisted to the top by an electric motor, and a drop mechanism
+would release them into a controlled fall as the parachutes slowed the descent. A similar type of wooden structure was used
+to train military paratroopers in the Soviet Union as early as the 1920’s, but the technology
+was later patented in the United States where it was modified for civilian use as a thrill
+ride. This ultimately led to the development of
+the first free fall type attraction which was popularized by Swiss ride manufacturer
+Intamin in the 1980’s, and they later improved the concept by introducing the first modern
+drop tower in 1995. Fast forward to today, and there are now many
+ride manufacturers that produce different variations of the drop tower, however they
+all rely on one of two fundamental principles; Either electromagnetism, or pneumatics. The original design from Intamin employed
+an electromagnetic system, and we’ll start by taking a look at this type of ride first. The tower itself usually consists of a cylindrical
+steel structure that is anchored to a large concrete foundation, and this is topped off
+with a machine room that houses the electric lift motors. Depending on the configuration, there may
+be a single ride gondola that wraps all the way around the tower, or there may be several
+smaller gondolas equally spaced around the circumference as shown here. The vehicles travel along rails that are fixed
+to the exterior of the structure, and each one is paired with a catch car that is mounted
+on the same set of rails above. The catch cars are suspended from the top
+of the tower with steel cables, and they can be moved up or down independently using the
+lift motors. When the ride is ready to begin, each catch
+car is lowered onto the corresponding gondola where a mechanical latch automatically engages
+to lock them together. They are then hoisted up to the top of the
+tower, and when given the all clear, the latches are disengaged to release the vehicles from
+the catch cars. After a brief freefall, the gondolas are brought
+to a safe and controlled stop by a magnetic braking system, which is both the most important
+and most innovative part of the whole ride. At the bottom of the tower, there are 2 rows
+of inert metal plates that run parallel to each set of rails, and these align with permanent
+rare earth magnets that are mounted to the ride vehicles. Each gondola has 4 strips of magnets, and
+they are arranged in pairs to create 2 thin gaps that are just wide enough for the plates
+to pass through. When a gondola drops down the tower, the moving
+magnetic field induces closed loops of electric current in the plates called Eddy currents,
+and these generate their own temporary magnetic field that opposes the motion of the permanent
+magnets. The result is a magnetic drag force that acts
+on the gondola opposite to its direction of travel, which is similar to the repulsive
+force that you can feel when trying to push two magnets together with matching poles. The magnitude of the drag force is directly
+proportional to the amount of current flowing through the plates since this determines the
+strength of the opposing magnetic field, and the amount of current is proportional to the
+speed of the vehicle. What this relationship tells us is that the
+braking force will be highest when the permanent magnets just begin to pass over the plates,
+and the force will decrease linearly as the gondola loses speed, thus providing a smooth
+non-linear deceleration. This method of magnetic braking is commonly
+referred to as Eddy current braking, and it is used quite frequently in the amusement
+industry because it converts kinetic energy directly to heat without any need for moving
+parts or frictional wear. The system is also completely fail-safe because
+it does not rely on an external power source, and the brakes will still function in the
+event of a power outage. The only real downside is that magnetic brakes
+cannot bring the ride to a complete stop all on their own, since there will be a point
+during the deceleration when the magnetic drag force perfectly balances the force of
+gravity, and the gondolas will continue to move downward at a slow but constant velocity. In order to prevent a hard landing on the
+ground, the ride vehicles simply touch down on hydraulic cylinders that are positioned
+around the base of the tower which absorb the remaining kinetic energy. Overall, this type of electromagnetic drop
+tower is a safe and dependable ride that is still popular today, however it wasn’t long
+after Intamin introduced it that American ride manufacturer S&S developed their own
+system using compressed air. These towers usually have a steel truss structure
+with a square cross-section, and the ride gondola travels along the 4 corners with small
+guide wheels so there is no need for external rails. Inside the tower is a massive air accumulator,
+which is basically a storage tank that can hold air under high pressure, and it is surrounded
+by 4 smaller pneumatic cylinders called shot tanks. Each cylinder contains a piston that can travel
+up and down, and this is connected to a steel cable that exits through small seals at the
+top and bottom. The cable passes around a sheave at each end
+of the tower where it then connects to the gondola, thus forming a closed loop around
+the outside of the structure. As the 4 pistons move in one direction on
+the inside of the tower, they pull the cables around the sheaves and drive the vehicle in
+the opposite direction on the outside. When the system is depressurized, the gondola
+will naturally rest at ground level while the pistons are raised to the top of the shot
+tanks, and this is how each ride cycle begins. Once passengers are loaded, a small amount
+of air is moved from the accumulator into the top of the pneumatic cylinders, which
+pushes the pistons down and lifts the vehicle. The ride computer then weighs the vehicle
+by measuring how much air pressure is required to balance it, and this determines how much
+air will be used to achieve the desired speed and g-force. Additional air is then released into the cylinders
+to lift the gondola to the top of the tower, where it locks into a mechanical brake that
+holds it in place before the drop. At this point, the accumulator is pressurized
+to its full operating pressure by moving air from an external receiver tank, which is paired
+with a large air compressor and drying system in a separate building. When the ride is launched, the compressed
+air in the accumulator is released into the bottom of the shot tanks, which shoots the
+pistons upward, releasing the holding brake and driving the gondola down towards the ground. As the pistons approach the top of the tower,
+the air in the top portion of the shot tanks becomes compressed, thus absorbing the kinetic
+energy and slowing the gondola down before bouncing it in the reverse direction just
+like a compressed spring. The pistons and gondola then oscillate up
+and down several times as the motion is dampened by slowly releasing air from the cylinders,
+and the vehicle is lowered back to the starting position once the system in depressurized. One of the benefits of using compressed air
+for a drop tower is that the entire ride is controlled by a single pneumatic system that
+does not require separate mechanisms for lifting and braking, yet the redundancy of multiple
+cylinders and cables still ensures that the ride is fail-safe. The intensity of the ride can also be adjusted
+by varying the amount of air that is used for each launch, making it possible to achieve
+a drop that is nearly twice as fast as a free fall. The launch can even be reversed by releasing
+compressed air into the top of the shot tanks instead of the bottom, shooting the gondola
+up the tower with an acceleration in excess of 4 G’s. Regardless of the underlying ride system,
+electromagnetic and pneumatic drop towers both offer intense thrills that are unmatched
+by any other ride, making them popular installations at amusement parks all around the world. And while the experience of riding a drop
+tower may be terrifying, you can be assured that these rides are always designed with
+guest safety in mind first. Safety is the number one priority at any amusement
+park, and the same is also true for today’s sponsor: NordVPN. When you connect to the internet with a VPN,
+all your traffic passes through an encrypted tunnel which protects your online identity
+by preventing third parties from tracking your online activities. NordVPN uses military-grade encryption protocols
+and never logs any user data, so your personal information always remains private and secure
+whenever you are connected to their network. In addition to security, a VPN can also be
+used to access online streaming content from services like Netflix and Disney Plus that
+may not be available in your region. To get around these geo-restrictions, you
+simply connect to a server in a country where the streaming platform is already available,
+and you can immediately access all the content as if your computer was actually located in
+that area. There are thousands of servers available with
+no limit on bandwidth, so you’re free to enjoy as much content as you want from anywhere
+in the world. I highly recommend that you give NordVPN a
+try, and if you do it right now by going to NordVPN.com/ArtofEngineering, then you can
+get 70% off a 3-year plan with a risk-free 30-day trial. That works out to just $3.49 per month, and
+for a limited time, you can also use promo code ArtofEngineering to get one additional
+month for free. NordVPN is a powerful tool that keeps you
+and your data safe online, and they really helped me out by sponsoring this video, so
+please check them out by going to NordVPN.com/ArtofEngineering using the link in the description. Don’t forget to subscribe if you enjoyed
+today’s video, and remember to hit the bell to get notified every time a new one comes
+out. 

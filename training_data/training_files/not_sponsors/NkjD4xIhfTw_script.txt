@@ -1,0 +1,69 @@
+- By the time this video's out, the problem will be solved. So I guess it's okay
+to tell you guys this, but my home video surveillance
+system is horrible. I've got three Nest Cams that like, some of them even have stuff blocking their view of the door, and I don't even pay the subscription because I think that's ridiculous. And they're just... this is how they're installed, they're just like, sitting on stuff with like, loose USB cables
+plugged into the wall. (laughs) it's definitely
+time for an upgrade. And this is gonna be quite the upgrade! Ladies and gentlemen,
+we are going full Unify, ooh, home security today, and the video is brought to you by... The AORUS 15G gaming notebook features Intel's 10th Gen processors, strong performance, great
+battery life, and many features. Check it out at the link today
+in the video description. The first camera we're gonna mount is probably the most obvious one. A nice, high quality look
+down the end of the driveway that covers the whole front yard. And for that, I'm gonna use the G4 Pro. This is a 4K camera. It's got a 3X optical zoom. Apparently the image quality on this thing is just absolutely fabulous. It's got a large sensor, high-powered infrared
+LEDs for night vision, and it's IP67 waterproof. So I can mount it pretty
+much wherever I want, which raises the question, hun where do you wanna put this thing? - [Woman] It is way bigger than I thought. - It's big. It's like, not small so there's that. - [Woman] Let's go put it over here. - Over here? - [Woman] Yeah, right in the middle. - Right in the middle. I don't think I have any masonry mounting, nor do I have any obvious way to get an ethernet cable down here, so this thing is power
+over ethernet powered. - [Woman] Woops!
+- Woops! - [Woman] That's the second time today? - Yeah, I'm trying all right? - [Woman] Trying to drop things? - See if we can do this theoretically and I lied, I do have masonry bits I just really didn't want to do that. - [Woman] Oh! - Theoretically, they
+include everything we need. So we got some pinner looking anchors, we got some screws, and
+then you undo the back of it and you mount this puppy a
+little something like that. Use a seven millimeter bits. I actually don't know how I'm supposed to make
+a mark with this thing. They show you just putting
+a pencil through the hole, but it doesn't fit. Now, you might think mechanical pencil is the solution to this problem. You'd be right. But how about another
+solution to this problem? Okay, I sharpie the tip of a paperclip and then stick that through the hole. Wait is that centered? That looks pretty centered, right? (drilling) (hammer pounding) Okay, is that something ugly? It's pretty ugly. - [Woman] From the front it's okay but from the side, man. It sticks out far. - Yeah, I have some leftover Black CAT-5e. My issue is I don't
+know if this is enough. - [Woman] Could you put a
+switch in the attic space? - I mean, yes technically, I could put a switch there. Yes technically, I could
+put a switch there actually, that's an interesting thought. So, Ubiquity actually
+sent over a few of these, they're called their nano switch. And basically, it's a
+PoE powered, PoE switch. So you just run your Power over Ethernet. And that powers this device and then also powers up
+to three more devices coming off of it. We could do up to two of
+those off of one of these. - [Woman] So maybe this
+switch can be for the doorbell that's later date and this one here? - Yeah, it would save
+me doing a separate run for the doorbell actually. - [Woman] See! - You're brilliant my love. - [Woman] Yup. - All right, fine. There's lots of reasons I keep you around. Put that in there. Now, just pull this up, tighten the ring. Whoa, look at that professional
+mounting job right there. Normally you would pull out
+these little PoE switches here, but I'm mounting it indoors so I really just want a wall mount it. But I don't have any screws
+that are small enough for these stupid hanging holes here. And they don't include any hardware, so I'm just gonna widen these. (drilling) Yeah, that seems fine, okay. Hi, here's the real problem child. I'm calling two screws enough for this. (pounding) I learned from Brian the electrician that real men don't need hammers. Everything is a hammer. So PoE one right there. Okay, I need more. - [Kid] Okay you're able to pull. Okay, good job kiddo. - [Kid] I can't get past the wire. - I bet you can figure it
+out, you're smart girl. Look at that. Hey, hopefully those are done. Now, I just got to make my way back and take up all that extra slack. Just spent an hour on this and I wish Ubiquity would
+have saved me some trouble and not sent incompatible gear over. But nano switch requires
+24 volt passive PoE and that new switch, their new
+pro switch, is only 48 volt. (bright gentle music) So, this doesn't work. Fortunately, I have an ethernet coupler and I just joined together the two runs that I had intended to run to the switch. And this is pretty cool. That-- - [Woman] Wow! - Is our front driveway live. And there is so much cool
+stuff that you can do. We've got all the same controls as before. So I'm gonna go ahead and throw it in 4K. We can play around with the zoom. I personally kind of like the wider view and I think I might even shift it over to the right a little bit. And then there's a bunch of other stuff that you can change in here. So under general, you can have it overlay the
+camera name and the time, which I thought was pretty useful. You can change the bit rate, frame rate. Under recording, you can
+decide when you want to record. So if you set it to motion events, you can set different zones. So instead of the default zone,
+you could get rid of that. You could just have the street zone. You could say look, I only wanna record when there's something going on out in the street, for example. And then you can get rid of it and you can disable the
+microphone if you want. But I've just assumed
+leave it on personally, actually kind of curious. Oh yeah. - [Woman] Did you hear all the birds? - I can hear all the birds chirping. (birds chirping) That's crazy. It looks so good. Let's put up another one. One of the reasons I was so annoyed that this wasn't gonna work out for me was that I had intended
+to run just one cable over to the back corner of the house and run a number of
+security cameras off of it. Well, okay here's the problem. I didn't request those
+things in the first place. This is the one I asked for the USW-Flex, this one should be able to
+handle what I want just fine. So we're good. Naturally though, after
+that last experience. We're gonna do a sanity check here and make sure we can actually
+run the camera off this thing. 'Cause if we don't do the sanity
+check and it doesn't work, and I go and run a bunch of
+cabling and blow an hour, I might go insane. It's my insane smile. How am I doing? - [Woman] Matches your hair. - Thanks, I guess. Hey, hey, hey, hey, hey there we go, nice. I knew I planned this out. That thing supports a maximum of 46 watts and each of these G4 Pros is a maximum of 12.5 Watts. So I can power three of
+these, off that one switch. Sick! If I fall make sure you get my good side on the way down, right? Okay, here's the plan,
+cameras kinda going over here and over here and this kinda mounted here, like that, all right. I go. That look level? And that is never coming off again. I just got a crotch this
+camera, one moment please. Oh, please tell me that
+fits through there. You gotta be kidding me. Boy, that is kind of one tight fit. - [Woman] It's so long. That's what she said baby. Sweet, not bad. Well, it's about to get real interesting. Here's the problem. I can't get at that from the top. So the only way for us
+to get the cable through is for me to drill from under here and have someone be up there at the top kinda trying to stake the cable through from about an arm's
+length away kinda ehhh, I'm all geared up ready for the climb. Here we go. Leaving the world behind. - Yep, this is awesome. This is exactly how I imagined
+I'd be spending my day. - Sorry you're saying
+this is how you imagined being married to me was gonna be? - [Woman] Yeah, laying in rat poop. I see it. I see it, not quite to it. Yep, yep I got it. - [Man] You got it. Nice. Don't pull too hard on that. I'm at the top of the ladder. - [Woman] Okay. - Okay, here we go. Do you think it's gonna light up? Oh, we got a light, that's something. Show me the flashing of the rings? Are they both white,
+are they flashing white? They're both flashing white. - [Woman] Oh are they? - Yup
+Yup, yup. - Oh yes. 4K Ultra HD. - [Woman] Wow! - That is sick. - [Woman] Looks good. - Doesn't it? I also wanna check out the app. So they've got a separate
+app for the security stuff. So it actually looks almost exactly like the nest app in terms of the view. But without any subscription, 'cause we're just recording
+to a local hard drive, which is sick. We've got our full timeline. So the one we installed at
+the beginning of the day, there you go. And it's dark. Now for obvious reasons,
+I'm gonna move these cameras and I'm installing the other nine of them without showing you guys where
+I'm putting them like do we. But that's pretty much the process and overall I am super
+stoked with this so far. Although I'm sure if you
+guys follow on Twitter, I'll let you know if I have any complaints about it moving forward. If you guys enjoyed this video maybe check out the other
+Ubiquity video I did where I upgraded my WiFi
+with strong enough WiFi. It's like stadium grade
+WiFi that I can get, like 300 feet down the block. It's crazy. 

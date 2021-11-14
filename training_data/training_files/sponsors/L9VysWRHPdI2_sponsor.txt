@@ -1,0 +1,5 @@
+Thanks for watching guys. If you enjoyed this video,
+you might enjoy one of our other behind-the-scenes workflow videos where we talked about Parsec, the software that we've
+been using to edit videos on our workstations at
+the office from home, so that we can isolate
+and all that good stuff. 

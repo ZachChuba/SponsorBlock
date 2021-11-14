@@ -1,0 +1,73 @@
+Like most people, I had my first exposure
+to imaginary numbers in highschool. And like most people, this was my response. “Ok.’ Fast forward a few years into my physics degree,
+and we start using imaginary numbers in wave mechanics and quantum physics. Strange sentences start popping up like “the
+wave phase is imaginary” and “the quantum states are complex”. It was here that I started to question what
+this whole “imaginary number” thing actually meant. What were they? Did part of the wave not exist? Did quantum particles need therapy? It’s now been 3 years since I finished my
+degree, and about 3 weeks ago I was taken by a sudden urge to get to the bottom of these
+imaginary numbers once and for all. So let’s start with the name. Imaginary. In my opinion, it’s the worst name that
+anyone could have possibly come up with in the history of anything ever. It makes things so confusing because...they’re
+just as imaginary as any other number. Or as real, depending on how you look at things. You can’t point to anything in the real
+world and say “that’s a 7” or “that’s a 2”. You can point to 7 puppies, or the symbols
+that represent a 2, but the concepts of the numbers themselves aren’t tangible physical
+things. Now does that mean they’re not real? Well, not necessarily, it depends what school
+of thought you prefer. That’s right, there are whole schools of
+thought around mathematical philosophy. If you’re a non-platonist, you think that
+numbers are merely inventions by humans, used to help us keep track of situations. If you’re a platonist, you think that numbers
+exist independent of humans and were discovered, not invented. Neither of these views is necessarily the
+right one, but just different ways of thinking about what numbers are. Now the problem I have is that the name “imaginary
+numbers” makes it seem like they’re somehow different or less natural than the other numbers,
+but they’re not. To demonstrate this, let’s start with something
+simpler. The negative numbers. We’re pretty used to the idea of them now,
+but imagine the first time they were introduced. What does -50 physically represent? How can you have less than nothing? This little minus sign might seem pretty innocent,
+but for people in the 1700’s, it was a big shift in mentality that took years to sink
+in. The old English mathematician Francis Maseres
+said they “darkened the very whole doctrine of the equations.” So why were they introduced then? Well, they’re very useful. A negative sign can represent things like
+debt and direction effortlessly. Instead of always having to say “I owe $50”,
+your bank account just says -$50 and it’s obvious what it means. It’s easy to keep track of and and simple
+to do calculations with. We use them so much today that we don’t
+even think to question them. The same story is true for the irrationals. When the ancient Greeks realised that the
+hypotenuse of a right angle triangle with sides of length 1 couldn’t be expressed
+as a ratio of 2 numbers, they were so upset they drowned the discoverer
+in the Medditteranean Sea. But square roots of things are so useful. Any Pythagorean fan will tell you that. It would be very limiting in today’s world
+if we didn’t have them. And it’s exactly the same thing with imaginary
+numbers, they were introduced as a means to answer questions that would before be impossible
+to answer without them, like, “what is the square root of a negative number?” This idea might seem outrageous You want the square root of less than nothing? but we perform operations on negative numbers
+all the time. To represent a doubling in debt, you multiply
+a negative number by 2 to get the new amount you owe. We just multiplied a quantity less than nothing. It’s not too much of a stretch of the imagination
+that sometimes we’d need to take the square root of less than nothing. So just like with all the other numbers, humans
+thought of a way to do just that. Now let’s get onto what this imaginary number,
+i, really is. First, let’s think about what squaring something
+means. Take the following equation: Now the left hand side of this equation can
+actually be broken up into three components. X times x times 1. I’m including the 1 here for a reason so
+just sit tight. So what does this literally mean? Well the most basic way to look at it is “what
+number can we multiply 1 by twice to turn it into 25?” If you’ve done any basic high school math,
+you’ll know that there are two answers, 5 and -5. 5 times 1 takes you to 5, and then times 5
+again takes you to 25. -5 times 1 takes you to -5, and then times
+by -5 again flips the sign back and takes you to 25. Pretty straight forward. But now what about this? What number when I multiply twice turns 1
+into -1? Well it’s not 1, because we’d just end
+up with 1 again, and it’s not -1, because the sign flips twice and we end up with 1. So here’s where the novel idea comes in
+which I have no idea why they don’t tell you in school. What if we do a rotation? Who says we have to stick to the number line? What if we enter the netherworld above or
+below? What if instead of only flipping, we can rotate. If we do two 90 degree rotations, we can turn
+1 into -1! That’s what the number i means. A 90 degree rotation about the real number
+axis. Hence, i done twice, or squared = -1. We’re used to thinking of numbers on a line,
+but with the introduction of imaginary numbers, they actually exist on a two dimensional plane. Yeah, numbers are 2 dimensional. Who would’ve thought? They’re made up of the real axis and the
+imaginary axis, and you can transit from one to the other by rotating. So what exactly are imaginary numbers good
+for? Well, what are negative numbers good for? One thing is that they’re very good at keeping
+track of the sign of alternating systems, like a light switch. If we keep multiplying by a negative number,
+we get a pretty obvious pattern. 1, -1, 1, -1, 1, -1. So negative numbers can keep track of any
+system that toggles. What about when we multiply by the imaginary
+number i? We get 1, i, -1, -i, 1, i, -1, -i. There’s a pretty obvious pattern here too. Imaginary numbers are good for keeping track
+of systems that rotate. We’re just not as familiar with these types
+of systems because they’re introduced in higher physics like quantum systems and wave
+mechanics. Now if you’ve heard of imaginary numbers
+you’ve probably also heard of complex numbers. This is just a number that has real and imaginary
+components. I once had a student who was having a hard
+time with these and said “I can see why they’re called complex numbers”, but complex
+numbers aren’t called that because they’re complicated. It’s the same kind of complex as in a housing
+complex, in that one whole can consist of different parts. Numbers don’t need to be all real or all
+imaginary, they can be a mix of both, hence, complex numbers. To be honest, this knowledge probably won’t
+help you get better grades. But hopefully by peeking at the intuition
+you’ll be able to have the appreciation that I never did. I’m a huge fan of intuition over memorization,
+and a resource I use for that exact reason What other concepts do you not really “get”
+even though you use them every day? Let me know in the comments and maybe we can
+tackle them together. Until next time, bye! 

@@ -1,0 +1,33 @@
+When things move, they create waves. For example, if you shake a stick back and
+forth in water: water waves. Vibrate a piece of metal back and forth really
+fast: air pressure waves. Shake some electrons back and forth really
+fast: radio waves. And yes, shake a planet or star back and forth
+really fast: gravitational waves. Gravitational waves happen because the effects
+of gravity don't travel outwards at infinite speed – so if the sun were to suddenly jump
+a few hundred thousand kilometers to the side, the changed gravitational field would take
+time to pulse outwards. And if the sun shook back and forth and back
+and forth, instead of a single pulse, you'd get continuous gravitational waves. So what's doing the "waving"? In the case of water, the height of the water
+increases and decreases at any particular location as the waves travel past. In the case of sound, the pressure of the
+air increases and decreases at any particular location as the waves travel past. In the case of radio or cell phone signals
+or any other electromagnetic waves, the electric and magnetic fields get stronger and weaker
+at any particular location as the waves travel past. And in the case of gravitational waves, the
+gravitational field gets slightly stronger or weaker as the waves travel past. You can tell a wave has passed by looking
+at how nearby particles behave – a bobber on the water rises up and down, the electrons
+in a radio antenna move back and forth because of the changing electric field, and free-floating
+people or planets or cats move back and forth because of the changing gravitational field
+– though in this last case, the peculiarities of gravity mean that the free-floating things
+actually experiencing the gravitational wave don't feel like they're moving. But if you measure the space between them
+by sending a pulse of laser light and measuring the time it takes for it to come back, you'll
+find that the distance between them increases and decreases. In practice, physicists don't actually measure
+gravitational waves with free-floating cats – they use very very fancy expensive mirrors
+which are effectively free-floating because they're hung on pendulums suspended on isolation
+tables suspended on isolation tables, or which are _actually_ free-floating because they're
+attached to satellites floating in space – though this hasn't been done yet. The reason physicists need fancy floating
+mirrors to detect gravitational waves is that the waves are very, very weak. For example, the electrons that vibrate back
+and forth in a radio antenna to make electromagnetic waves ALSO make gravitational waves; electrons
+_are_ matter moving back and forth after all. But the waves they make are super weak: a
+200 watt radio transmitter gives off something like a quadrillionth of a quintillionth of
+a quintillionth of a quintillionth of that power as gravitational radiation. And that's why here on earth we can only detect
+the biggest baddest astronomical events – like superfast spinning neutron stars or merging
+black holes or the big bang. Though so far, we've only detected black hole
+collisions. 

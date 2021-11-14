@@ -1,0 +1,36 @@
+Physics, at its most basic, is just a description
+of the motion of the stuff in our universe. “This planet goes this way, that rocket
+goes that way” – except that some – in fact, many – objects move without moving.
+Or, more precisely, they move without going anywhere. I’m talking objects that spin, revolve,
+rotate, pirouette, orbit, circle, gyrate, whirl, twirl, cartwheel, and so on. Like a
+planet around a star, an electron in an atom, or even our solar system going around the
+gravitational center of the milky way: from up close they’re certainly moving, but in
+the grand scheme of things, that motion doesn’t take them anywhere. We can still talk about it, though: just like
+“momentum” is a concept that describes how much oomph an object has when it moves
+in a straight line, “angular momentum” is a way to account for how much oomph objects
+have when they’re going in circles – figuratively, or literally. And angular momentum is simple, in theory:
+pick a point, any point. Pretend your object is moving in a circle around that point. Figure
+out how fast the object is moving along the circle (never mind that it probably isn’t
+moving exactly along the circle, and that the circle might have to change size over
+time to follow the object), then multiply that speed times the size of the circle and
+the object’s mass, and there you have it: angular momentum. For example, a 2 kilogram 60 cm-diameter bicycle
+wheel going 20 km per hour would have an angular momentum of about 7 kilogram meters squared
+per second. The reason we care about angular momentum
+is that if you take a bunch of objects that are interacting electromagnetically or gravitationally
+or whatever, and add up all of their angular momenta into one number, then that total value
+won’t change over time (unless some other objects from outside come in and mess things
+up). So earth, which is 150 million kilometers
+from the sun, orbits at 30 km/s and has a mass of 6*10^24 kilograms, has an angular
+momentum of 2.7 * 10^40 kilogram meters squared per second. That’s four thousand quintillion
+quintillion bicycle wheels! And this angular momentum stays roughly constant over the course
+of the earth’s orbit year in and year out. But what’s amazing is that even if the sun
+and the rest of the solar system were to suddenly disappear, the earth would STILL have that
+same angular momentum about the point where the sun WAS. Without the sun’s gravity,
+the earth would of course now move in a straight line, requiring an ever-larger imaginary circle
+as it got farther from the point where the sun used to be. But as the earth continued
+through space, its 30km/s velocity would also point less and less along the circle, so when
+you calculated the angular momentum, the decrease in velocity would exactly cancel out the increase
+in the size of the circle, and you’d always get the same answer. 2.7 * 10^40 kilogram
+meters squared per second. So even when nothing is rotating at all, angular
+momentum is still conserved. And that’s the beauty of a law of physics – it works
+even when you try to break it! 

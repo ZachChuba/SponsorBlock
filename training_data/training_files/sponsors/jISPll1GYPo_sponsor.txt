@@ -1,0 +1,23 @@
+You can do that last all on your own, but
+there are tools that help, and one of those is Dashlane. It’s a password manager and one that can
+not only save all your passwords but can rapidly generate long secure passwords for you too,
+and even be set to automatically change them periodically. You have a master password that’s never
+transmitted over the internet, not even to Dashlane, but it can still transmit all those
+passwords encrypted to your other devices you’ve installed it on, so you have access
+there, so long as you don’t lose your master password, as again they don’t keep a copy,
+but since it’s only on those devices you installed it on, nobody can hack it from afar
+and you can keep it simpler if you like. That means if Dashlane gets hacked, all they
+would get is bundles of encrypted data that wouldn't mean anything without the unique
+master password… for each and every individual Dashlane user - by the way, that’s over
+13 million users, meaning 13 million unique master passwords -- this is not worth a hacker’s
+time. Though Dashlane does have the option for Two-Factor
+Authentication, if you want some extra security on your mobile devices. Dashlane also provides easy to use and secure
+autofill options so you can keep all your addresses, phone numbers, credit card numbers
+and personal data there to autofill on forms and has a built in VPN, Virtual Private Network,
+so you can surf the net securely even on public wifi systems. They also provide Dark Web Monitoring, to
+warn you if any of the places you have accounts have been hacked and the data sold on the
+Dark Web. That’s Password manager, VPN, and Dark Web
+monitoring, and they do all that for less than what just one of those services usually
+costs. If you’d like to give Dashlane a try, use
+the link in the video description, dashlane.com/isaacarthur, and get a free 30-day trial of Dashlane Premium,
+and you can also use the coupon code “IsaacArthur” to get 10% off if you decide you like it. 

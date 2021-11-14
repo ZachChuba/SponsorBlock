@@ -1,0 +1,129 @@
+right here I have a camera that's been
+modified so that it shoots in infrared now the only thing that's different
+about it is that it's IR blocking filter was replaced with one that only
+lets IR light through. now for such a simple modification the effect is
+actually really crazy. this is what I look like on an IR camera
+my skin is pastier than normal the patterns of my shirt disappeared and my
+eyes are black and looks slightly possessed. now what else can I do with
+the camera? well for one anything with an IR transmitter in it like this TV remote
+here it's gonna look really bright on the camera even though it's actually
+invisible to our eyes. infrared light can shoot through a lot of materials that we
+normally consider opaque. for example here I have a glass of coke. now to our
+eyes it looks dark because it doesn't let much visible light through but on
+the IR camera you can see right through it and that's because it's basically
+transparent to shortwave IR. pretty cool right? now you guys know how it goes on
+this channel. I'm not just gonna sit around and give you fluff about infrared
+photography the only way I can have fun with this thing is if I build some giant
+IR lasers. now in case you didn't know surprisingly simple way to make a
+powerful IR laser is actually by just tearing down a green laser pointer.
+now the reason being is that most green laser pointers don't actually have a
+green laser diode inside. instead it uses an infrared laser that pumps a set
+of crystals to make green light. now lucky for us this process is not very
+efficient so there has to be a powerful IR laser inside for this to work. now
+before I start tearing this thing apart I should point out that the experiments
+that were done in this video were done completely for educational purposes and
+in fact if you were to try any of this stuff at home you'd almost certainly get
+killed or at least permanently maimed so yeah please don't try this at home.
+green laser pointers have a lot of fragile components inside so it's
+important that they're handled with care now actually disassembling this thing
+turned out to be really difficult as everything was either glued or
+permanently pressed into place honestly it's hard not to use
+swear words to describe the process of taking it apart.
+anyways at the expense of the laser pointer casing I was able to remove the
+laser module. now the orthovanadate and KTP crystals used to generate green
+light sit right on top of that IR laser diode so removing these exposes the raw
+IR output. on my normal camera this output shows up as a very dim pink and
+now if I was dumb enough to look at it with my own eyes I'd actually see a
+faint red glow but with the IR camera it's obvious that it's actually very
+powerful it lights up my entire desk with IR light but in order to do
+anything fun with it I need to focus the output with the lens. instead of trying
+to painstakingly mount a tiny lens over the laser diode at just the right
+distance I found it easier to just remove the laser diode and stick in a
+module with an adjustable threaded lens mount. the finished product is actually
+really scary not only is it invisible but it can still blind in a fraction of a
+second and that's why I wear laser goggles when I'm working with it. now to those of my viewers out there who are interested in experimenting around
+with lasers, a powerful IR laser should not be your first project. the focused
+laser looks really cool on the IR camera and plus with the adjustable lens mount
+I can focus the beam to a tiny spot so it can burn things. a match lights
+instantly when it's placed inside the focal point of the beam and now I can
+also cut through thin dark plastic with ease. alright I gotta do it. I gotta
+stick my hand in the beam to see what happens because what could possibly go
+wrong? oh wow I don't feel a thing. now I figured it wouldn't be bad but I
+was hoping it would hurt at least just a little bit. even at the focal point I
+don't feel the tiniest a bit of warmth. I guess my flesh is
+super transparent to the shortwave IR wavelength now notice that when the beam
+is going through my hand it actually lights up all of my veins so they're
+clearly visible. that is so amazing! alright now I'm bored. now it's not like
+this thing isn't powerful I mean it definitely is, but I mean come on it doesn't
+even reach the class four danger rating I feel like I need something that's at
+least a hundred times stronger. and now unfortunately a giant portable IR Death
+Ray isn't just something I can go and buy online so I guess this means I have
+to build one myself. now one of the fun parts about designing a laser like this
+is that I'm completely at the mercy of what Parts I could find cheaply on eBay. now
+lucky for me high-tech startups are constantly failing and militaries around
+the world are always getting rid of old laser hardware. that means there's always
+gonna be a constant supply of weapons-grade laser parts in the surplus
+market. I had my heart set on using a monster fiber coupled IR laser array on
+the build but buying one of these things new costs more than a brand-new car but
+with a little bit of luck I was able to score this used but working 25 watt unit.
+for the housing I just started with this heat sink and just kind of went at it with
+a hacksaw, drill, and dremel. and like most things in my life
+I didn't actually plan anything out before diving right in and just started
+cutting things and bolting stuff into place until it seemed somewhat
+acceptable. I ended up using a pipe for the handle and then wired in a
+switch to act as a trigger. before bolting down the laser array I added
+some arctic silver to increase heat transfer from the laser. now I really
+should have used indium foil for this but I won't be running this thing for
+very long so there shouldn't be an issue. coming up with an efficient driver that
+can feed the laser a whopping 40 amps at just 2 volts turned out to be quite the
+challenge but then I saw a video by Marko reps of him building the exact
+driver that I needed. next power supply is a constant current source for the
+laser module I got it from someone who has a few other powerful laser sources
+and he wants me to design and assemble two universal a constant current drivers
+here's a naive approach. it's funny because my naive approach would've been a
+giant pile of linear regulators so I'm really happy that I saw his video and
+yeah I ended up building a driver based on his design it worked flawlessly so a
+big thank you to him. in fact you should all go check out his channel he makes
+tons of cool videos on things like robotics and lasers I'll be sure to put
+a link in the description of this video on the optics side of things
+I needed something to tame the rapidly diverging beam from the fiber. I ended up
+using some nice fused silicon lenses from Esco Optics. now these things are rated
+to handle the high power laser beam without exploding. I stuck the lenses in
+an adjustable telescope mount that I made from PVC pipe. and here is the
+terrifying finished product I added a thermometer here so I can keep an eye on
+the laser diodes temp. I also added some indicator LEDs one that lights up when
+the laser is armed and the other one when the laser is firing and anyway
+enough with this technical junk let's test this thing out! can you see me alright? oh
+wait let me turn on my giant laser. now I built the mask that I'm wearing by
+fitting laser goggles into a welding helmet. I just wanted to make sure there is no chance of any stray light making it into my goggles. the funny thing is
+that I can't see this light at all it's completely invisible to me. the only
+reason I know it's on is from this indicator light I stuck on it but that
+being said I'm sure it looks like I'm holding a bolt of lightning on the IR
+camera. that's pretty crazy to me. on my normal camera the beam looks really weak
+but obviously this isn't actually the case now what else can I do with this
+giant laser? how about triggering a 100,000 volts spark gap? here I have a
+very high voltage DC power supply. when the electrodes are close enough the
+spark easily jumps the gap but when they're separated enough the
+electric field is too weak for total breakdown instead just a small amount of
+current finds its way through the cardboard. now if I use the laser to
+light the matches in between the electrodes the spark can jump the gap again this works because the flame generates
+conductive ions that makes the perceived gap between the electrode smaller.
+I'm sure there's also an avalanche effect from the extreme field grabbing
+charged particles and smashing them into neutral molecules in the air to make
+even more ions. here's another cool trick. the plastic
+tubes here I filled with strontium aluminate glow powder. when I light the
+pile of flash powder below with the laser it energizes the aluminate so it glows.
+now when I shine the IR laser at the powder and glows much brighter. in fact I
+can actually see the laser spot through the goggles this way. this is actually
+how those IR visualizer cards work. now if it weren't for the extreme blinding
+hazard this thing would also function as basically the world's best night-vision
+flashlight. this thing has the potential to light up things for miles! but that
+won't exactly be safe or legal so I guess I'm just gonna have to use this
+thing for blowing up stuff at home. well that's about all the useful things this
+laser can do now let's see what this thing can destroy all right so that's about it for this
+video now I apologize for the lack of videos recently. it's just been so cold here
+it's basically impossible to heat this uninsulated shop above freezing. now
+luckily this won't be an issue much longer cause I'm about ready to move
+into a new shop that actually has insulation and even better it has a much
+bigger electrical connection so stay tuned for that and yeah until the next
+time stay safe and happy lasing! 

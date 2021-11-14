@@ -1,0 +1,92 @@
+Alright, so you’ve just turned on your preferred
+digital device, and upon checking your email or social media account, you realize that,
+like 110 million Americans each year, you’ve just been hacked. And I mean, HACKED. You’ve got an inbox full of suspicious emails,
+your credit card has been compromised, and your twitter account is tweeting support for
+a generic third-world dictator. YOU'VE BEEN PWNED. So, what happens now? Not to worry, I’m here to help! Fair warning: this is gonna take some time,
+but it’s your personal security, so it’ll be worth it! You’re probably gonna need to devote a weekend
+taking care of all this, so, if you HAVE to get hacked, do your best to make sure it happens
+on a Friday! Here’s a list of things you’re gonna need
+to do to get yourself back in action. #1: RESET YOUR PASSWORD First thing’s first, let’s regain control
+of your account. Check all of your available devices to see
+if you’re still logged in. If so, that’s great! Access your account settings and change your
+password. Some online services will actually be kind
+enough to tell you every single device your account is logged in from - so check this
+(if it’s available), and log yourself out of any secondary devices (especially those
+that seem suspicious.) Red flags include devices that aren’t in
+your local area, or new devices you don’t recognize that might have accessed your account
+recently. Now, maybe you’re completely locked out
+of your account on all devices. That’s a tougher nut to crack, but not impossible. You're going to need to access whatever account
+recovery options are available to you. In this video’s description, I’ve provided
+some helpful links for the following services. Once you regain control of the hacked account,
+let’s err on the side of caution and change the password of all the online accounts you
+have. I know, I know, that’s gonna be a lot for
+some of you, but keep in mind that nowadays, almost all of our online accounts are linked
+in some way, shape or form, and one account being compromised can lead to the others being
+cracked, as well. Your online presence is only as secure as
+your weakest account password, so use these tips to make a strong replacement for each
+of the accounts you’ll be changing. #2 CONTACT YOUR BANK Now that you’ve retaken control of your
+accounts and locked the hacker out, let’s secure your cash, and assess any financial
+damage. It may not seem like this is necessary, especially
+if you haven't noticed any issues with your bank account, but ask yourself this: have
+you at any time ever initiated a purchase through that hacked online account? Is that hacked account linked to any OTHER
+online accounts you may have initiated an online purchase from? If yes, ERR ON THE SIDE OF CAUTION and contact
+your bank. Banks don’t like their accounts being compromised,
+so most will issue you a new card free of charge. Additional identity theft protection and peace
+of mind is worth the low cost at most banking locations, so if you haven’t already, get
+it. If you HAVE been the victim of financial theft
+during this hack, immediately unlink any and all banking info from the compromised accounts
+and make sure to document everything, as your bank will want as much information as possible
+when you file a claim with them. The nuclear option always available if you’re
+unsure the extent of the hack is to close the bank account you have and open a new one. If you’ve lost your money from a hack, it’s
+likely that this step is going to take a long time to complete - so go through the rest
+of our list while your bank works to get your money back. #3 SCAN YOUR DEVICE FOR VIRUSES/MALWARE Okay, your account’s been recovered and
+your cash is safe. Let’s make sure your digital devices are
+clean. Using antivirus and antimalware software,
+do a thorough scan of your computer, tablet, phone, whatever you use, and clear out anything
+that tests positive. Any suspicious files and apps need to immediately
+be removed. There are plenty of options to choose from
+when it comes to cybersecurity on your digital device, but the absolute WORST option is to
+do nothing and hope you’re never compromised. You lock your doors at night, right? So you should lock up your computer and other
+devices from potential intruders, as well. #4 REMOVE SENSITIVE DATA FROM YOUR DEVICE A funny thing happens when you get hacked:
+suddenly you become acutely aware of all the personal and private data you’ve uploaded
+that you’d rather not become public. Videos, images, texts…personal information
+of a sensitive nature is extremely susceptible to hackers - so be safe and either erase these
+or store them instead on some form of physical (offline) medium that can’t be accessed
+by an account that has been compromised. Now, you likely can’t go without storing
+SOME sensitive information on your device, but you CAN be smart about protecting what
+you DO. #5 PERFORM A COMPLETE SECURITY AUDIT We’ve already discussed how interconnected
+our various online accounts are. To make sure you’re safe from future attacks,
+you need to sit down and conduct a thorough examination of every account you have, how
+they’re linked, and then check for evidence of whether any of these have been compromised,
+too. Deauthorize any associated apps that use your
+compromised account login info. Again, most social media accounts will list
+all the apps your account is linked to somewhere in the account information or settings. Erase all hacked posts, emails, messages,
+whatever from the compromised devices, and monitor them for the next few months for further
+issues. Add all questionable emails or messages you
+may receive to your spam filter. Unsubscribe from ANYTHING you don’t remember
+subscribing to, and when in doubt, block senders that contact you with suspicious links or
+strange requests. #6: LET PEOPLE KNOW If you’ve been hacked, part of damage control
+is making sure friends and others know what’s going on. Explain the reason behind strange or out of
+character posts. Remember that identity thieves may attempt
+to pose as you to try and solicit money out of people you have relationships with, so
+make sure to contact these folks and warn them to be on the lookout. Sometimes sensitive data, whether personal
+or business, becomes compromised. In these situations, it’s your responsibility
+to let other parties that may be affected by the hack know what information has been
+accessed, so THEY can use the safeguards THEY may have in place for protection. One of the worst things you can do in the
+event of a hack is not communicate. It’s an embarrassing situation, sure, but
+your forthrightness may spur someone ELSE to take preventative measures with their OWN
+accounts, and you can help prevent another catastrophe from occurring. #7: UPGRADE YOUR SECURITY MEASURES Once you’ve finally recovered from a hack,
+your job becomes making sure it doesn’t happen again. No doubt during this process you’ve realized
+there are several safety measures you weren’t previously employing that you now need to. Take the time to properly organize your passwords,
+and develop a schedule to keep them updated. Make a backup email and link it to your main
+one to help in the event of future compromises. Turn on two-factor authentication, which STILL
+remains the best extra layer of security for online accounts. If you find your old accounts are damaged
+beyond repair, there’s no shame in starting over and creating a new account - but THIS
+time, with the proper safety measures in place. Cybersecurity is one of those things most
+of us really don't take very seriously, and that's a shame because, these days, our livelihood
+is often entirely dependent upon whether or not our online accounts are protected. The reality is that taking the time to set
+up the proper safeguards could prevent altogether a hack that, if severe, might take months
+and months, even years to fully recover from. So, if you haven't already: TODAY, sit down
+and make sure you've put your digital locks into place. then at checkout, use the promo code austinmcconnell Big thanks to Zeino who helped me out with
+a lot of the motion graphics this week while I was sick. If you've got an animation gig, give him a
+shot. And, thanks to my Patreon supporters, as well. 

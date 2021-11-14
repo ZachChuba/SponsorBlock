@@ -1,0 +1,537 @@
+- Hi, it's me, Tim Dodd,
+the Everyday Astronaut. NASA just announced the lunar landers for the Artemis program
+and, to everyone's surprise, SpaceX's massive Starship is actually one of the
+landers that NASA chose alongside Blue Origin
+and Dynetics proposals. Whoa. (chuckles) And this is bringing
+up a lot of questions, some of which we'll
+answer in my next video, "Should NASA Just Cancel
+SLS and Use Starship "and/or Other Commercial
+Launchers for Artemis?" where we're going to dive deep into why NASA isn't just
+using Starship entirely, and why they're only looking
+to use it as a lunar lander. But today I think we need to settle a lot of debates here first about these two rockets,
+and now more than ever, it's time we truly pit them head-to-head. Because this very well might
+go down in the history books as some serious irony that these two rockets even
+exist at the same time. I mean, despite these two vehicles having very similar capabilities, you couldn't come up with
+two more opposite vehicles with two drastically different
+engineering philosophies. I mean, one rocket has
+been meticulously designed and built for years and years
+by seasoned rocket engineers, and the other is being
+built in a field in Texas by a patchwork team of space cowboys, some of whom previously
+built water towers. So today, let's take a look at the history and progress of Starship and SLS, including the Orion capsule and everything else necessary
+for the Artemis missions, their design considerations,
+and lastly, their capabilities. Once we do that, I think
+we can answer the question, how is it possible that two
+rockets like SLS and Starship even exist at the same time. Should they exist at the same time? I mean one is easily the most ambitious rocket ever conceived and actually being worked on, and the other is living in the past, I mean, literally reusing old parts from retired space shuttles. How on Earth did we even wind up here, two of the most powerful rockets ever made going online at roughly the same time? Well, we've got a lot to
+cover, so let's get started. - Before we get too far into this video, just wanted to give a quick, fun shout-out to this awesome Lunar Mission
+shirt that I'm wearing. At the end of this
+video, I'll challenge you to find the Easter egg in this shirt. We'll talk more about
+that later at the end. Okay, have you ever spent
+two months researching, shooting, editing and animating a video only to get it completely done and find out the day before
+you were planning to release it that every single bit of your
+video needs to be blown up, and you need to reassemble the scraps? Oh, yeah, no, no I have
+no idea what that's like. If you're one of my Patreon supporters, you're probably laughing right now at how different this video is from just what you saw earlier this week, which I'll keep up in there,
+Patreon, for posterity's sake. So please forgive me if you can tell that I've
+shot this video in pieces, because I have. (chuckles) but there's a lot of good
+info that we need to get to. Because you guys know me, once I got into the
+topic of SLS vs Starship, I maybe got a little too too carried away answering my own questions, diving in deep and correcting
+a lot of assumptions that frankly, I had wrong. But I've boiled this
+topic all the way down, and we're going to cover all
+the bases in great depth, because this one is nuts and you guys debate this all the time, so we have a lot to settle. Now, because we've got so much to cover, and just like all my long videos, here's the timestamps if you
+need a reference for later. But seriously, don't
+skip through this video. You'll be shocked at some of
+the things that I learned, at least about the
+history and the progress, and of course, some of
+the conclusions as well. And I've got quick links to these topics and an article version of this
+video in the description too. Okay, right off the bat, we've
+gotta make one thing clear. NASA and SpaceX are not competitors. If you love SpaceX, you
+can thank NASA for that. NASA is SpaceX's biggest customer and their biggest supporter, so let's keep that in mind. As if that wasn't obvious now that NASA is literally
+investing in Starship for the Artemis program and seeing NASA plastered all
+over SpaceX's Falcon 9 rocket for the Commercial Crew Program, the relationship with NASA and SpaceX goes back to pretty much
+the beginning of SpaceX. I mean, after all, if it weren't for NASA's
+initial investment of nearly $400 million for the
+Falcon 9 and Dragon capsule, then plus the multi-billion dollars for the CRS and commercial crew contracts, SpaceX most certainly wouldn't
+be where they are today. NASA does incredible things,
+vital research and science that no private company would
+or really ever could do, and they do a lot of
+behind the scenes things that can often go unnoticed. In my last video that
+compared SLS and Starship two years ago, back in
+the Tim inexplicably wore a high altitude Russian flight
+suit in his bedroom days, I really drilled into why it's not fair to compare NASA the organization directly to SpaceX, the private company. As you probably know, in general, I'm team space and I like to encourage my audience to fight tribalism, and not just think one thing is the best and therefore everything else sucks. But when it comes to NASA
+building and operating a rocket, then we can properly
+compare the pros and cons of those two systems. Because I already know there's
+plenty of you out there that are, "orange rocket
+bad, shiny rocket good," and vice versa. So let's come together,
+sing kumbaya a little, and celebrate the fact that we have multiple mega
+rockets in existence, yes. Okay, now that the
+hand-holding's out of the way, let's define the term super
+heavy-lift launch vehicle. So you know why we're
+not including rockets like Blue Origin's upcoming New Glenn or other heavy-lift
+launchers in this comparison. The aerospace industry considers
+a super heavy-lift launcher as a rocket that can carry
+more than 50 tons into orbit. Super heavy-lift launchers can of course put bigger
+things into orbit, but what that really means
+is having enough capability to potentially send
+large things to the moon or get probes on direct trajectories to our outer solar system without time-consuming gravity assists, potentially getting to outer
+solar system destinations almost three times faster. Historically, there's only been five super heavy-lift launchers to ever fly, and only four of those
+were actually successful. They're the Saturn V,
+which could lift 140 tons, the Soviet Union's unsuccessful N-I that could have lifted 95 tons, then there's also the Soviet Union's twice-flown Energia rocket
+which could fly 100 tons. SpaceX's Falcon Heavy technically
+can loft about 64 tons if SpaceX chose to expend
+all three boosters. Although this has never
+happened and may never happen, it does make Falcon Heavy technically a super
+heavy-lift launch vehicle. Although, when all three cores are reused, its payload capability
+is more like 30 tons. And lastly, the Space Shuttle which, if you include the orbiter as part of its payload capability, it could technically put
+122.5 tons into orbit. I should probably point out
+real quick, by that same logic, if you included, say, the
+core stage of the SLS, which can get into orbit
+if they wanted it to, that would in that same way add another 80 tons to
+its payload capacity. But the Shuttle was
+just a different beast, and you kind of in some ways
+had to factor in the orbiter as payload that went
+orbital, but the actual, deployable payload capacity
+was really only about 27 tons. Although there was a proposed shuttle C to make it super heavy,
+but, okay (chuckles) tangent, let's keep going. So if humans are to
+return to the moon ASAP, or especially if we're to get to Mars, we absolutely need to have
+some serious capabilities. Of course, I think we're long overdue for these kinds of missions. I want humans on the moon again, in 4k! Actually, let's make is 8k. Let's just send MKBHD up there
+with some of his cameras. Now before we get started
+with SLS and Starship facts, in case you've been living under a rock, we are currently working
+on getting back to the moon with NASA's Artemis program, and a substantial amount
+of work, funds and goals have been laid out. So during this video you'll hear Artemis
+thrown around quite a bit. Although we could lump in the upcoming Space Station
+around the moon, Gateway, into Artemis, we're
+really just going to focus on the SLS rocket, the Orion capsule, and the Human Lander System. Which to be clear, SLS is to Artemis as Saturn V was to the Apollo program. And right now, the
+Gateway is being skipped for the first crewed lunar landing or two and, although a lot of things are drawn up and in progress for Gateway, we're just going to focus
+on landing on the moon and the hardware that's
+directly involved in that. (relaxed music) We're gonna set some records straight here before we pit these two
+rockets head-to-head, because I think a lot of
+people have the wrong idea when it comes to how
+and why NASA pursued SLS and Orion in the first place, and how they fit into the Artemis program. After the Space Shuttle Columbia tragedy, NASA started to rethink it's
+next steps and began looking to a low Earth orbit
+replacement to the shuttle and also started to set its
+sights on deep space exploration and needed to build a big
+rocket in order to do so. NASA's original vision was
+the Constellation program, which would be a crew
+transportation replacement for the Shuttle with the Ares I and a new deep space rocket called Ares V. After slow progress and
+massive cost overruns pointed out in the 2009
+Augustine Commission report, the Constellation program
+wound up being canceled. So the NASA Authorization Act of 2010 directed NASA to develop
+a Space Launch System capable of lifting 70 to
+100 tons to low Earth orbit and evolvable to 130 tons or more. The vehicle must be able to
+lift the Orion Crew Vehicle since its development was so far along and NASA was required to work with existing partners when available. As we know, NASA, instead of an Ares 1
+low Earth orbit vehicle, ended up hiring commercial
+partners to send cargo and eventually crew to the ISS with the Commercial Crew Program, and NASA was tasked with a
+more focused and leaner rocket. The thought was to roll
+out a massive rocket quickly and efficiently, as their directive required
+the vehicle to be operational by December 31st, 2016. (chuckles) (sighs) NASA performed a figures of merit analysis and narrowed it down to
+five different variations of a launch vehicle. Some of them were getting pretty exciting, with a 10-meter wide core diameter and oxygen-rich staged combustion engines. The analysis weighed the options of affordability being 55%, schedule 25%, performance 10% and programmatic 10%. NASA landed on what we
+now know as the SLS, and although SLS and
+Ares V look very similar, SLS was actually a fairly
+blank slate design, but it definitely took cues from a rocket proposal called DIRECT in which SLS would lean heavily on the literal leftover parts and facilities from the Space Shuttle as a quick and easy way to prototype and test out the most
+powerful rocket ever built. Unlike the Commercial Crew
+Program we know today, NASA would continue to work with the contractors from the Shuttle using the familiar cost-plus
+contracting funding scheme which basically means,
+"Here's how much money "we're going to give you to get it done, "but we'll also pick up the bill "on anything that goes over budget." With funding hovering around 1.5 billion for SLS development per year since 2011 and the Orion Capsule receiving a little more than one billion a year, the contractors were assured
+to have plenty of resources to make it happen, but while staying within
+a realistic NASA budget which matched the funding
+levels during the Shuttle era. But the problem with cost-plus contracting is it offers very little
+incentive to remain on budget or especially on schedule. In fact, timeline slips
+literally means more money for the contractors, and the
+prime contractor for SLS, Boeing, set to receive the
+most money for the project. Although NASA does performance
+reviews of their contractors, they've been scrutinized for
+being too easy on some of them, more on that later. So in order to keep some
+of those contractors, employees, and members of congress happy, keeping the rocket's heritage
+close to the Space Shuttle ensured that funds would
+continue to be appropriated to Shuttle contractors,
+or so the thought was. So although SLS does literally seem like a giant wingless space shuttle, it's actually had many changes to make the vehicle
+have higher performance and lower costs than
+Space Shuttle's parts. Here's a quick rundown on the changes. The SLS will have five-segment
+solid rocket boosters, as opposed to the four-segment
+SRBs the Space Shuttle had, lacking any recovery hardware and featuring a redesigned plug that keeps squirrels and stuff out of it, with the redesign ensuring
+debris won't potentially damage the nearby RS-25 nozzles on ignition. The core stage, which, although it looks like a Space
+Shuttle's external fuel tank, there's virtually nothing in common with the external fuel tank other than its color and
+its 8.4-meter diameter. It uses a new aluminum, AL 2219, different construction
+and welding techniques, and even a different spray foam. People definitely tend to think it's literally a stretched
+external fuel tank, me included, but again, it
+shares almost nothing in common, mostly because SLS will
+have structural loads going down through the top of the tank as opposed to hanging
+off the side of the tank. The RS-25s have been tweaked quite a bit since the Space Shuttle and have increased their power output from 104.5% to 109%, or
+111% in an emergency. But again, just like the SRBs, the RS-25D and later the RS-25E variants will of course not be recovered on SLS. Just a fun side note,
+those percentage numbers are based on the original rated thrust of 1.6 meganewtons at sea level. After some tweaks in the
+Space Shuttle's main engines, they wound up being
+able to be throttled up beyond their original design
+during the Shuttle's program and are being pushed
+even further with SLS. Another cost-saving and
+timeline-helping decision was to initially fly the SLS with quite literally the upper stage from ULA's Delta IV and Delta IV Heavy known as the Delta Cryogenic
+Second Stage, or DCSS, only it's been modified to fit on top of the
+8.5-meter wide core stage, have different hydrogen tanks, and more reaction control fuel. This configuration is known as the Interim Cryogenic
+Propulsion Stage, or ICPS. SLS is intended to have a
+much more powerful upper stage known as Exploration Upper Stage, which is considered to be
+part of the Block 1B upgrade and makes SLS much more capable. Next, we need to talk
+about the Orion capsule. It sits on top of this whole vehicle for the Artemis missions. The Orion Capsule is a fairly
+traditional crew capsule and in some ways is a newer
+and embiginated version of the Apollo capsule. But although it looks quite similar, it's a lot bigger than it might appear. At five meters wide versus the Apollo
+capsule's 3.9 meters wide, and sporting an impressive
+nine cubic meters of volume, compared to 6.2 cubic meters,
+it'll be quite a bit roomier and capable of up to six astronauts, although it'll probably only fly four for the Artemis missions,
+versus Apollo's three, which could technically fit five. Well, barely. The Orion capsule used to be called the Crew Exploration Vehicle when it was in development
+for the Constellation program. But it has changed quite a bit and now features another
+cost savings measure, which is a service module based on ESA's Automated Transfer Vehicle. But one thing we need to mention that's still new to this whole line-up, and it's still in progress, and is definitely required
+for the Artemis program to land on the moon, and that is of course
+the actual lunar lander. And that brings us to today. So far, everything we've
+talked about and discussed is only capable of getting
+humans into lunar orbit with SLS and Orion, because there really still isn't the capability to also carry up a lunar
+lander with SLS Block 1, or even the upgraded Block 1B. But NASA has officially selected three very, very different lunar landers for the Artemis program,
+and each one has until 2021 to draw up exactly how
+they'll get their landers to the moon. You know some proposals
+could actually wind up still sending modules alongside Orion in the upgraded Block 1B SLS. But to get to the moon for Artemis 3, which will use a Block 1 SLS, the lander will need to fly on
+a separate commercial rocket, or two, or three, or another SLS, depending on how big
+this thing ends up being, because Artemis hardware is big. This portion of Artemis is a lot closer to the
+Commercial Crew Program than it is to SLS and Orion. NASA has just a set of requirements, but is letting the
+contractors put out proposals, and doing so in a way that's
+incredibly quick and ambitious in the best attempt to get
+humans on the moon by 2024. NASA will not own and
+operate the spacecraft like they do for SLS and Orion. So this does mean that we will need at least two rockets per
+crewed mission to the moon for the Artemis program, likely even three, maybe even four. So we'll talk more about the options the Human Lander Systems proposals could use in the next video when we look at what
+other options NASA has, if they just full blown canceled SLS in favor of Starship and
+other commercial options. So, let's talk about Starship. (relaxed music) If you're new to the scene
+of Starship, or SpaceX, you might not realize how far
+back this thing actually goes. Basically, since SpaceX started, there's been talks of doing a
+BFR, or a Big Falcon Rocket. And, unlike SLS, the actual
+engineering and development had mostly been behind closed
+doors since the early days. And really, going back
+before SpaceX's start, propulsion engineer and
+employee #1, Tom Mueller, had built a BFR rocket engine in his high-powered rocket
+club, Reaction Research Society. And yes, the naming scheme
+does stem from "Doom's" BFG. Fun side note, Tom's BFR engine
+was a pintle injector engine that was targeting
+10,000 pounds of thrust. And Tom was facing off
+against David Crisalli, who built a more traditional
+flat-face injector. Tom's design won out and
+eventually kind of became the basis for the Merlin engine. But the BFR vehicle didn't really gain any public notice until around 2012 when Elon
+would mention a huge rocket dubbed Mars Colonial Transporter that SpaceX would add to their lineup. But at this time, SpaceX was still a
+relatively small company, only having launched
+three Falcon 9s to date. After that rumors were
+swirling about a Falcon X, Falcon X Heavy, and Falcon XX rocket that would be their next mega rockets. It wouldn't be until 2016 at the International Aeronautical Congress in Guadalajara, Mexico that the world would really get a sense for what SpaceX was actually working on. And yes, that was that
+super weird press conference where everyone asked ridiculous questions. Well, not everyone. Hello, Elon, Tim Dodd here, the Everyday Astronaut
+with Spaceflight Now. You show it going into orbit
+with the 100 passengers and then refueling it three to five times, and then doing your Mars injection. - Right.
+- Is this the plan, or is it to have a fully-fueled
+IBT, or MCT, or whatever, and then put passengers on board? Or can you tell me a little
+bit about that process? - Yeah. - The plans Elon showed
+were properly ludicrous, maybe even plaid, something the world had never
+seen legitimately proposed. A fully reusable, 12-meter
+wide, 122-meter tall rocket with 42 full-flow staged combustion methane-powered rocket
+engines on its first stage, then six vacuum engines and three more sea level
+engines on the upper stage, and advanced carbon
+composite construction, and sporting a nutty
+300-ton payload capacity. It was known as the Interplanetary
+Transportation System. After 2016 we saw some
+tweaks year-to-year, with the biggest change actually
+being an unbigenning change when suddenly the rocket shrunk
+to a nine meters in diameter and the capability shrunk with it. Around this time, SpaceX
+started calling it BFR again and announced plans to
+send Japanese billionaire, Yusaku Maezawo, on a trip
+around the moon for dearMoon. But maybe another big
+change was the decision to shift away from carbon
+composite construction and instead utilize stainless steel. Then the name Starship
+finally came into existence. And, not to be confusing, the entire system is called Starship, but so is the upper stage on its own. The booster is called Super Heavy. So we can loosely say Starship meaning Starship and Super Heavy, but we could also just be
+talking about the upper stage. Kind of like how you can
+point to corn and say, "Hey look, that's corn." If it's off the cob and in a bowl, you'll still call it corn,
+but when it's on the cob, you might say it's corn on the cob. (chuckles) God, you can tell
+I'm from Iowa, can't you? In 2019, SpaceX held a press event in front of a full size
+Starship mock-up prototype in Boca Chica later known as Mark 1. By this point, the design
+was iterating less and less, and now the upper stage
+was to have only two fins that act like giant air brakes. Now I already did a video
+explaining the reasons why they likely went to
+two fins instead of three, and it's a fun video. But that pretty much gets
+us up to speed on Starship, since most of the development had been behind closed doors
+and on SpaceX's own terms. I think now would be a good time to go through the progress
+of these two programs, add up what exactly has been built, and see if we can get a better sense of their wildly different
+design philosophies. (relaxed music) So this is a segment I've
+wanted to do for a while. Skeptics of Starship will point to all the
+blown up test articles and say, "See, they
+can't even build a tank," while skeptics of SLS say, "It's been a decade and
+nothing has happened." So let's lay out all the
+hardware that's been built. This will be pretty comprehensive, but not a full, complete list
+of absolutely everything, but we'll at least list out
+the major milestone things, starting with SLS and Orion. there's quite a lot more hardware that's been completed and
+tested than you might think. So far we've seen over
+a dozen Orions be used between Ares 1-X, different abort tests, mock-ups and drop test units. There's been a mostly
+feature complete flight of a legit Orion capsule in 2014 on top of a Delta IV Heavy for EFT-1. I was at that mission, and
+it was absolutely incredible. There's been a test of a
+full-size hydrogen tank of SLS that lasted over five hours at
+260% of its structural rating at Marshall Space Center in 2019. All of the hardware for
+the first all-up test of SLS and Orion for the Artemis 1 mission is pretty much ready for final assembly. The core stage is
+currently on the test stand preparing to do a full
+duration static fire, the five segments of each
+SRB are ready to be stacked, the launch abort system is ready, the actual Orion capsule has
+finished all of its testing and is back at Kennedy Space Center awaiting its upcoming
+launch around the moon. The Interim Cryogenic Propulsion Stage has been ready to go for years, the Orion service module is ready, literally all of the hardware
+for Artemis I is completed and finishing up testing
+and then integrations. In total there's 16 RS-25Ds, four of which are currently
+integrated onto the core stage, and 14 of those RS-25s previously
+flew on Shuttle missions. There's enough Solid
+Rocket booster segments to make up 16 boosters. There's also four more RL-10 engines ready to be used for upper stages. And now that the manufacturing lines and practices are in place, parts for Artemis II are coming together, including the LOX tank,
+hydrogen tank, intertank, forward skirt, engine section, the pressure vessel for
+Orion, its service module, the heat shield, launch abort tower, and other bits of hardware, too. And of course, as mentioned, the RS-25s and booster
+segments are complete, too. But that's not all. Artemis 3 hardware is also
+coming together already too, including parts of Orion,
+the SLS hydrogen tank, parts of the service module, and again the engines
+and solid rocket motors. This is what's been
+accomplished and completed throughout the last decade-ish. So how's that compared
+to Starship's progress? Starship's progress is very different. The Raptor engine started
+development around 2012, and since then, here's a list of what we've seen built and tested. To date, there's been over
+26 Raptor engines built, many of which are in pieces now, and likely only a handful that are truly flight
+capable at this point. But that number is changing rapidly, as SpaceX has cranked out
+pretty much all of those in just 2019 alone. And if we ignore the progress and the test articles for
+anything carbon composite and/or 12-meter diameter Starship, again, almost everything
+we're about to list was built within the last year. Starting with Starhopper, which is the only Starship
+prototype to really fly, well on purpose, at
+least, with two flights, a 20-meter hop and a 150-meter hop. Then we saw the Mark 1 full-scale
+prototype come together. At the same time, SpaceX was
+building a similar prototype in Cocoa, Florida as a way
+for two different teams to work on different
+methods of construction in a friendly competition. Mark 2, as it was known,
+has since been abandoned and is still just hanging out there. Then we saw the two teams come
+together at the end of 2019 to finish and test the Mark 1 prototype, which failed when testing,
+as was kind of expected because they were already
+working on the next one, which would be called SN1,
+and that's when they switched from the Mark to Serial
+Number nomenclature. There's been three subscale
+pressure test articles that have tested the welds and the ability to hold pressure
+at cryogenic temperatures around this time, too. They tested SN1, which kind of imploded
+when its bottom fell off. Then we have SN3, which also failed due to improper testing procedures. And, as of the making of this video, SN4 is already complete and SN5 is well on its way. And if I keep trying to
+update this stupid animation with all the new parts they're making, this video will never come out, because they're just
+making them so quickly. So in other words, SpaceX
+has built and blown up three times more tanks
+in the last six months than SLS has built in the last six years. And this is where we see the
+massive, massive differences in the building, testing,
+and overall philosophies. Time to dig into this for a second. (upbeat music) By now you've already probably
+got a really good sense of the design differences and philosophies just by seeing how these two programs have developed over time. But there's a few things
+that really, really drill in just how different they truly are. So let's start by putting
+ourselves in NASA's shoes. NASA, being government funded, has to do things quite a lot differently than a private company
+with private funding, but perhaps the biggest
+thing they can't really do is take big risks. When building something as massive, complex and ambitious as SLS, you really need to account
+for absolutely everything before you start sending
+out the instructions to the contractors. If you start telling contractors
+to start building something and then something changes in the plan, all of that work is for naught. And this compounds when you
+have dozens of contractors and government supporting employees all relying on each other to
+have their parts done on time. Imagine if a key part gets delayed a year. What are the government
+employees supporting that system supposed to do? You can't just lay them off for a year and then bring them back onto the project, they're gonna go find new work. You can't really reassign
+them to something else. It's not like a propulsion engineer is now just going to move over to the other rocket NASA
+is currently working on. There's a lot of inherent costs per year that are sunk costs in running
+a program of this scale. So, although it's inherently
+less risky and inefficient, there's also a safety net for having multiple
+contractors and space centers spread throughout the country, which massively helps make it
+more appealing to congress. So, although it is inefficient,
+it at least does help ensure the program survival and that
+it continues to be funded. And this is especially
+true when you realize that it's written into law
+that the Europa Clipper, a probe to Jupiter's moon, Europa, is legally mandated to fly on SLS. And perhaps most nutty about that fact is that $250 million has
+been added to the program because there won't be an SLS
+rocket until at least 2025, despite the probe being ready by 2023. But in the long run, this law did help keep a program moving
+forward and being funded during what could be very uncertain times with changing administrations. Now this obviously isn't ideal at all, but if you're worried
+about program survivability and not just having your entire vision shift 180 degrees every
+four to eight years, doing things like this is
+just kinda part of the game, for better or worse. But don't forget, NASA's budget is only about half a percent
+of our national budget, and the human space flight programs aren't even half of that. So in general, the primary
+philosophy of building SLS is to plan ahead and take little risks, because there really
+isn't much room to fail when you have to answer to the taxpayers why their money literally
+went up in smoke. Now compare this to Starship. Starship development is literally about as blank slate as it gets. SpaceX started not with
+detailed blueprints, but quite literally started by just learning what questions to ask and how to frame the constraints of what their vehicle should do. SpaceX seems to have wound
+up on two main objectives. Be fully and rapidly reusable,
+and have a capability large enough to be useful in getting humans onto
+other celestial bodies. That's really about it, and
+then start to work backwards. The next most pinned down item that helps to answer that question is developing an engine that is efficient and massively reusable. Like I talked about in my video about SpaceX's Raptor engine, a methane powered full-flow
+staged combustion cycle engine, fits the needs of these goals perfectly. From there on, the whole thing is pretty much just a giant playground. Hence, when we saw the sudden pivot from carbon fiber to stainless steel, you get a sense of just
+how important it is for SpaceX to just start flying so they have a starting
+point to iterate on when you hear Elon explain
+why it was so important to make the switch. - Taking the general approach of, if a design is taking too
+long, the design is wrong, and therefore the design must be modified to accelerate progress. - Right. - One of the most fundamental errors made in advanced development is to stick to a design even
+when it is very complicated and to not strive to
+delete parts and processes. It's incredibly important. So this is why the switch to steel was because the advanced carbon
+fiber was taking too long. - This is why we're seeing
+so many random things happening down there at Boca Chica, Texas with the development of Starship. It's why it's kind of silly to even bother asking
+about future plans anymore, which of course I'm as guilty
+of as anyone. (chuckles) Because everything depends on what's going to happen
+with the current step, and the step in development after that will be based on the
+results of the previous step and et cetera, et cetera. It's a similar philosophy to something known as the agile model which is standard in software
+development, which makes sense because of Elon's original
+background in software. Basically, you don't work on step two until step one is done. Planning ahead any further and you're very likely going
+to have to just undo work. Now this is quite literally
+the opposite of SLS, where everything needs
+to have an exact plan because, if you end up building the rocket three meters shorter than the
+blueprints, all of a sudden your entire ground support
+system will change too, and by the way, pretty
+much this exact thing has basically happened with SLS
+and its mobile launch tower. But everything for Starship is still on the table at the moment. I mean, we're literally seeing them build a factory around a rocket instead of vice versa. And frankly, this is pretty risky. But it's also much easier to do, because SpaceX is so
+vertically integrated, meaning changes in decisions don't have nearly as
+big of a ripple effect as the other, more traditional methods. But just know, we will
+see more hardware fail. We will see some setbacks, we
+will likely see explosions. But, unlike SLS, not
+only is it okay to fail, it's halfway expected as a
+way to learn and prototype with lower cost and greater speed. Elon has said over and over
+in some way or another, "Failure is an option here,
+if things are not failing, "you are not innovating enough." This is very similar to the Soviet Union's design philosophy. Basically, build something
+as cheap as possible, test it out, if it blows up, see what went wrong, make
+improvements, repeat. And it definitely gave them
+a leg up in the space race during early development. So say you blow up a rocket
+that you built in a month, oh well, learn from it. SpaceX will build another
+rocket in less time than it'll take NASA to fuel
+up and test fire the SLS once. And that's just simply a huge, huge difference in philosophies. (relaxed music) Okay, I think it's time we really stack these
+rockets up side by side to help figure out just
+how they really compare when we look at their nuts and bolts. We've already touched on
+each vehicle's dimensions, so here they are again on screen. For now, we'll compare some
+initial builds of each rocket, so the Block 1 and Block 1B of SLS and the rough-ish version of Starship as it currently stands. But definitely keep in mind that Starship will
+change (chuckles) a lot, pretty much every time one gets built for at least the first dozen or two. But SLS could also change a bit
+too if Block 1B goes online. But while we're at it, let's throw up the Saturn
+V and the Falcon Heavy just so we have some extra perspective on how these vehicles really compare. As they stand today,
+SLS is big, really big, but Starship will be huge. Now let's talk engines and their fuels. Falcon Heavy has 27 sea
+level Merlin engines and a single vacuum-optimized
+Merlin engine on its upper stage, which all run on RP-1. Then there's the Saturn V,
+which had five F1 engines on its first stage that ran on RP-1, five J2 engines on the second stage, and a J2 on the third
+stage that ran on hydrogen. As we know, SLS has two SRBs, four RS-25s running on
+hydrogen, and the Block 1 has only a single RL-10B2
+on its upper stage, and the Block 1B will have four RL-10s that all run on hydrogen. Lastly, Starship has 37 engines on the Super Heavy booster and six-ish Raptor on Starship. This number is very subject to change, and is relatively easy for SpaceX to do so because of the small size
+of the Raptor engine. Next let's look at their
+thrust at lift off. As always, this is pretty fun. The Falcon Heavy is the baby
+here at 22.8 meganewtons, followed by the mighty Saturn V at 35.1, then the SLS at 39.1, and lastly, Starship will be the king here at 72 meganewtons as it currently stands. Now we've already gone over some of these rockets' low
+Earth orbit capabilities, so let's add SLS and
+Starship back into this. Now notice, we are going to be showing performance for SLS Block
+1 and the Block 1B upgrade, but their low Earth orbit capabilities are virtually the same
+since it's the core stage that pretty much drops
+them off into orbit. But now let's show how much mass they can shoot off to the moon, otherwise known as a
+trans-lunar injection or TLI, since we're talking about
+lunar missions here anyway. Quick note, this isn't necessarily how much a vehicle can
+put into lunar orbit, just how much it could
+shoot off to the moon. You still need to get into lunar
+orbit with your spacecraft. In the case of Orion or Apollo, that's done with the Service module. And this is technically a
+C3 of -0.99 to be exact, which is a measurement of
+the characteristic energy to get to a certain point in space. Falcon Heavy, when reused, can sling about nine tons to the moon if all three cores land
+downrange on drone ships, or about 15 tons when expended. Then we have the Saturn V that could send 48.6 tons to the moon. Then, SLS Block 1 can take 27.5 tons, and the 1B can do up to 43 tons. Now, you might ask, "How
+can a more powerful rocket "get less to the moon than the Saturn V?" Well, that interim
+cryogenic propulsion stage is seriously undersized
+for this size of rocket. But oddly, even with the Block 1B and the four RL-10 powered
+Exploration Upper Stage, the SLS can still only
+send 43 tons to the moon, so that's shy of what the
+Saturn V was capable of. Which, quite frankly,
+that's kinda baffling to me. And Starship is a little more confusing when it comes to TLI. Starship on its own cannot
+do a trans-lunar injection. Because of its massive 120-ton dry mass, lugging all of that dead
+weight all the way out the moon doesn't work out without
+it being refueled. Now of course, in-orbit refueling is 100% part of the plan for Starship. But we'll talk more about that more in an upcoming video where I'm gonna talk about
+Starship using a kick stage versus Starship refueling. So now here's where we're
+going to go into a deep, deep rabbit hole, so
+hold on to your butts. We're gonna talk price, and this is not an easy thing
+to talk about, you'll see why. And all numbers you'll see are
+adjusted for 2020 US dollars. Let's start off with
+what I'm going to call the sticker price. This is the price you could
+presumably buy a launch. For now we're kind of
+ignoring development costs and just what the invoice would be for a launch of said rocket. But we're going to get
+into the development costs in a second, but for now,
+just file these away. And we're also only going
+to look at just the rockets, not the spacecraft like Apollo or Orion. Starting with Falcon Heavy at
+around 90 million when reused and probably around 150
+million when expended. The Saturn V was around 1.2 billion, SLS Block 1 and the later Block 1B will be 875 million once
+production stabilizes. And Starship, well, uh,
+Elon claims they can launch for two million. But let's assume they can do two million, but for a while they'd be
+smart to charge 100 million until the market catches up. So let's just throw 100 million out there as more of a worst case
+scenario sticker price. Now with these numbers, we can do a very baseline
+dollar to kilogram ratio. And since we're talking
+about the moon again, let's only look at how much it costs to send one kilogram to the
+moon on a trans-lunar injection for each of these vehicles. Falcon Heavy can get
+one kilogram to the moon for around $10,000 whether
+it's reused or expended. Then the Saturn V was about $25,600, SLS Block 1 best case scenario
+with a stabilized production is around $31,500, but Block
+1B looks quite a bit better at $20,000 per kilogram. And lastly, Starship. Now remember, a single $100
+million Starship launch can't get anything on
+a translunar injection, so it's going to take two
+additional launches to refuel it at an extra $100 million each in order to send 156 tons of payload on a trans-lunar injection, which would wind up costing
+about $2,000 per kilogram. In case you couldn't tell, we're kind of sandbagging Starship just in case it's way, way too optimistic. And even so, it's still by far the most economical thing on the chart. But these preliminary costs are
+taking a lot of assumptions. They don't really factor
+in development costs, and we've still got a lot to cover on the topic of budgets and cost. So for now, just file this away, because in the next video we'll really chase all the rabbit holes when it comes to costs. (upbeat music) So how did we get here? How is it that we have two completely different
+super duper mega rockets going online at the same time? I think the history kind
+of speaks for itself. When NASA started working on SLS, the thought of a rocket like Starship would've been utterly ludicrous. I mean, even today, many
+people think it's insane and likely to fail. But Starship is impossible until it's not. And then, all of a sudden,
+literally everything changes. And don't forget, NASA has
+been working on SLS and Orion for nearly a decade. If SpaceX had approached
+NASA with Starship in 2011, it would've been like trying
+to sell a farmer in 1870 a GPS-guided, nine-liter
+turbodiesel-powered four-track 8RX 410 John Deere tractor with an infinitely variable transmission and 85-cc displacement
+integrated hydraulic pump with 227 liters per
+minute of hydraulic flow, air conditioned and heated, 10-inch touchscreen displays
+and digital monitoring when they were looking to
+purchase a plow for their horse. They just simply wouldn't
+have believed you. (chuckles) Oh man, I showed my Iowa again, sorry. And NASA has had the rug
+pulled out from underneath them so many times, so many
+programs getting started, only to change direction
+and change hands 100 times before the program even has
+a chance to really get going. So NASA did what they had
+to do, they took a safe, conservative route, leaning
+on existing technologies, partners, and program funding schemes to lay out a rocket that
+would for better or worse have a hard time being canceled so they could at least have
+truly deep space capabilities for the first time in nearly 50 years. Because I think that's the
+biggest shocker in all this. It's not Starship. Humanity has Starship coming. Starship is destined, because
+frankly it makes sense to make a fully reusable rocket. Everyone wants that,
+everyone wants to do that, no one thinks that's a bad idea, and no one thinks it's never,
+ever, ever going to happen. But I think the biggest surprise is that it would be almost 50 years before there was a rocket capable of taking humans to
+the moon after the Saturn V. If you told that fact to the last person to walk
+on the moon, Gene Cernan, upon his return home in 1972 that no one will have
+returned to the moon by 2020. he probably woulda pulled a Buzz Aldrin and punched you right in the face. It wasn't until the market shifted that rocket technology became
+achievable, not by nations, but by a small handful of
+brilliant and plucky individuals that could rethink everything
+and open up commercial options and opportunities that just
+simply didn't exist before. I know Elon's life goal is to get to Mars, but in the meantime, he'll
+have completely changed humanity's access to space for the better. And yes, even when you factor
+in how much rockets pollute, because, trust me, I've
+already done a very, very long video on that, too, which is a fascinating topic, you should definitely have a watch. In order to get to Mars,
+you need a fully reusable, massively capable rocket,
+and come to find out that insane proposition just so happens to completely shift the
+economics of spaceflight by orders of magnitude. I mean, the reason we
+stopped going to the moon in the first place was
+because it was so expensive and the United States had
+clearly measured their genitalia against the Soviet Union, and that just simply
+wasn't a sustainable way to explore the moon. So, speaking of sustainable
+ways to explore the moon, that's what we'll really
+dive into in my next video that by happenstance
+is mostly done already, so standby and we'll answer,
+should NASA just cancel SLS and use Starship and other
+commercial launchers. So at the end of the day, in my opinion, orange rocket good enough for now, shiny rocket incredible
+for the very near future. And we as team space
+can celebrate the fact that we even live at a time where we'll get to have
+two super mega rockets go online at roughly the same time. Yes. So what do you think, did
+you learn anything new? Did any of your perspectives change? I know mine did. Honestly, when I started making this video and working on the script, I thought it was a foregone conclusion. I thought that I knew
+everything, and come to find out it was actually pretty humbling to really go through
+how all this stuff works and just kinda do a
+reality check for myself. So let me know if you learned anything, or something shifted in your mind. And I'm sure the comments
+are already still full of SLS versus Starship, which is kinda what this video's about. And I'm probably guessing
+that I really didn't help to reduce the number of Twitter arguments. Sorry, Joe Barnard. I have a quick list of
+people I need to thank for helping with this video. First off, Boca Chica
+Mary and NasaSpaceFlight for providing some of
+these wonderful images of Starship development. I'm sure you're already following them, but in case you haven't,
+get your butt over there and follow their work. Then I need to thank Kimi
+Talvitie, Caspar Stanley, and Martian Days, who
+all have helped provide some of the beautiful renders you've seen. So definitely shoot them a follow. But also a thanks to Declan
+Murphy from flightclub.io for helping me come up
+with some of these numbers and crunching some stuff. He started working on a yeet calculator, which is just awesome. Thanks to some of the
+stuff we were working on, trying to figure out which
+rockets could do what things. So definitely check out flightclub.io and check out his Patreon page if you wanna help him do
+the awesome work he's doing. Speaking of Patreon, I definitely owe a huge thank
+you to my patron supporters who've already heard this video so many times before it comes out. They fact check and do a lot
+of work for me on the backend, and it's just awesome. We have such an incredible community, so thank you guys for all your help. If you wanna help add
+your voice, your opinion, do some fact checking or just hang out with
+like-minded space people, definitely consider becoming
+a Patreon supporter, where you'll gain access
+to our exclusive Subreddit, our exclusive Discord channel, and exclusive monthly live streams. That's patreon.com/everydayastronaut. Thank you. And while you're online, be
+sure and check out my web store, because we have really cool merchandise like Lunar Mission
+shirts, which, by the way, you didn't even get to see the back yet. Check this out. Now there's actually a
+little Easter egg here to this T-shirt. So notice it says Lunar
+Mission in this photograph, but there's actually
+more to this photograph. So if you can figure it out, if you can figure out what else is there besides Lunar Mission, not the remove shoes
+before entering cabin, but the additional words to Lunar Mission. If you can figure out what
+the rest of that says, go ahead and type that in at
+checkout for a coupon code, and you'll get 10% off
+this T-shirt, so good luck. We have really cool merchandise, they're all hand-printed
+here in the United States, hand sewn on patches. We're constantly making new stuff. Get ready, there's going to be a lot of really cool new things. So check back often, because some of this stuff is so cool that even Elon Musk wears it, seriously. That's everydayastronaut.com/shop. Thanks, everybody, that's
+gonna do it for me. I'm Tim Dodd, the Everyday Astronaut, bringing space down to
+Earth for everyday people. (upbeat music) 

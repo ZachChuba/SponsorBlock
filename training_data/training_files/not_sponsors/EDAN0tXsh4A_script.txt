@@ -1,0 +1,76 @@
+If you’re watching this video, keep your
+eyes peeled. We’ve got a missing star and the search
+is on. And its disappearance might be connected to
+a bit of physics we’ve never seen before. This strange situation was laid out last week
+in a paper published in the Monthly Notices of the Royal Astronomical
+Society. It describes more than a decade of observations
+of the Kinman Dwarf Galaxy, a small collection of stars about 75 million
+light-years away. Because it’s so far away, not even our most
+powerful telescopes can make out individual stars within the galaxy. Instead, astronomers use a technique called
+spectroscopy to look at the chemical makeup of the galaxy
+and search for outliers that might indicate something interesting
+is going on. And in observations starting in 2001, they identified the signature of an extremely
+rare kind of star. It’s called a luminous blue variable, or
+LBV, which is the last stage of life for some of
+the universe’s biggest stars. And this thing is bright: the paper estimates
+that it’s around 2.5 million times brighter than our Sun. So, scientists were intrigued by it, and between
+2001 and 2011, teams of researchers observed this galaxy
+to try to learn more about this strange star. And that’s exactly what the authors of last
+week’s paper were trying to do, as well. Except, in 2019, when they pointed the European
+Southern Observatory’s Very Large Telescope in the direction of the
+Kinman Dwarf Galaxy, the signature of the LBV was just gone. Normally, LBVs end their lives in massive
+supernova explosions, but astronomers almost certainly would’ve
+noticed that, because, even that far away, a supernova would be bright
+enough to pick out with a telescope. So the fact that it just vanished is bizarre. And, like any good whodunnit, there are a
+few possible explanations. The most straightforward is that the star
+just suddenly got dimmer. After all, the “V” in LBV stands for “variable,”
+as in variable brightness. So it’s possible that it got a little dimmer, and maybe also got obscured by a cloud of
+dust at the same time. The second option, which is definitely more
+exciting, is that the LBV is now a black hole. Normally, a supernova has to happen before
+you get a black hole, but physicists have hypothesized that, under
+the right circumstances, it may be possible for a massive, unstable
+star to collapse directly into a black hole and
+basically just vanish. Astronomers have never seen such a thing,
+but if it happened, it might look a lot like what we see here. Of course, it’s still possible that the star actually did
+explode in a supernova and we just missed it. These days, automated supernova monitoring
+makes that pretty unlikely, but the authors acknowledge that the star
+could have gone supernova sometime before we started regularly observing
+it in 2001. If that were the case, the bright signal they
+saw between 2001 and 2011 may have come from interactions between the expanding supernova and the gas surrounding
+it. With so many possibilities, it’ll take a
+lot more observations to figure out which one is right. But, if this giant star really did collapse
+into a black hole, you can be sure that we’ll never see it
+again. In other space news, planetary scientists
+recently used NASA’s Lunar Reconnaissance Orbiter to learn something surprising about the Moon’s
+composition, and the answer might help fill in details
+about how the Moon was formed. It’s now widely accepted that the Moon formed
+as a result of a massive collision between our young Earth
+and a Mars-sized object. But the details aren’t all that clear. Like, how much of the Moon is made of Earth-stuff versus material from the object that hit it? Since the collision happened billions of years
+ago, computer simulations are the main tool scientists
+use to test out scenarios. And to make a good simulation, you need to know as much as possible about
+the basic structure of the Moon. Last week, work published in the journal Earth
+and Planetary Science Letters revealed a new detail about a place we don’t
+know that much about: the interior of the Moon’s crust. The discovery was actually an accident. The team was trying to use LRO’s radar instrument to search for evidence of water in lunar craters. One way to do that is by examining particles
+on crater floors, looking for changes in a property called relative
+permittivity. Permittivity describes how easily electric
+fields can travel through a material. And while mapping the permittivity of crater
+floors using radar, the researchers noticed something unusual. The larger a crater was, the higher the permittivity
+seemed to be on the floor, but only to a point. For craters bigger than about five kilometers
+across, the value seemed to level off. After considering several possibilities, the
+team concluded that the varying permittivity was telling them that the floors of the larger
+craters had more metallic compounds. Which might seem weird, because what’s special
+about wider craters? But they’re not just wider. They’re also
+deeper. So, the results are really suggesting that
+the deeper you go into the Moon’s crust, the more metal you find, until about 500 meters
+below the surface. There, the metal content seems to level out
+at a fixed value. Now, on its own, this doesn’t tell us much
+about the origin of the Moon. But it could help scientists refine their
+simulations. Because if your simulation has to create a
+body with lots of iron and titanium right under
+the surface, that’s a pretty specific constraint, and it could help future simulations narrow
+down the possible collision scenarios. It’s no interstellar whodunnit mystery, but sometimes the trickiest puzzles are the
+ones closest to home. Thanks for watching this episode of SciShow
+Space News! And if you’re up for learning about another
+cosmic mystery, you might like our episode on the so-called
+Great Attractor, which is truly one of the biggest mysteries
+out there. You can watch that next! [♪ OUTRO] 

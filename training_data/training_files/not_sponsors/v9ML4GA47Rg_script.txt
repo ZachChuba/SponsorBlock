@@ -1,0 +1,28 @@
+Gasoline has approximately 56 Megajoules of
+chemical energy per liter , which is more energy than you get from exploding the same
+of amount of TNT, and is enough to power a toaster for a full day. Cars work by burning gasoline to convert that
+chemical energy into the kinetic energy of motion of the car, though almost 80% of it
+is lost as heat in the engine. Still, 20% of 56 million joules is a lot of
+joules… To give a direct sense of gas-to-car conversion,
+it takes about five teaspoons of of gas to accelerate a 2 ton car to 60kph, and about
+a third of a cup more for every additional minute you want to keep it going at that speed. That might not sound like a lot of fuel, but
+the energy of a car moving 60kph is equivalent to dropping an elephant – or stegosaurus
+– from the top of a three-story building. And in order for the car to stop, all that
+energy has to go somewhere. If the brakes do the stopping, they dissipate
+the energy by heating up. In the case of a collision, energy is dissipated
+by the bending and crumpling of metal in the outer areas of the car. And just like how smooth braking is nicer
+than a quick jerky stop, cars are carefully designed to crumple - when they crash - in
+a way that lengthens the duration of the impact so that stopping requires less intense acceleration. Lots of acceleration over a very short time
+is not good for soft human brains and organs. However, people don’t like driving cars
+with Pinocchio-length noses, so most cars only have around 50 cm of crushable space
+in which to dissipate the energy equivalent of our falling stegosaur. That means that, while crumpling, they need
+to maintain a resistive force of about a quarter the thrust of the space shuttle main engine. Over half of the controlled-crumpling work
+is done by a pair of steel rails connecting the front bumper to the body, which bend and
+deform to absorb energy and slow the car. Most of the rest of the energy is absorbed
+by the deformation of other pieces of structural metal throughout the front of the car. This meticulously engineered destruction allows
+a crashing car to decelerate at a high but reasonable rate: just slightly over the acceleration
+experienced by fighter pilots or astronauts in centrifuge training. As comparison, if cars were super rigid (like
+they were before the 1950s) and didn’t crumple, they would stop so fast that they would undergo
+acceleration 15 times what fighter pilots experience in training. Thankfully engineers have learned to make
+cars with crunchy crumple zones surrounding their rigid safety cell, because fully rigid
+cars are not good for fighter pilots or anyone else. Except, maybe, robots. 

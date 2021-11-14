@@ -1,0 +1,92 @@
+In today's ever more digitally connected world
+a new breed of criminal has arisen: the hacker, or cyber criminal. Some hackers claim to act for the public good,
+leaking sensitive and derogatory government information or revealing the depths of a corporation's
+corruption. Most however are just simple crooks, and while
+for many they can successfully evade the law for a time, the law inevitably catches up
+with them. Hello and welcome to another episode of The
+Infographics Show- today we're taking a look at hackers who got busted. 3. Kevin Poulsen Kevin Poulsen, known online as Dark Dante,
+was a prolific hacker who at age 23 hacked into a federal computer network. This time he decided he'd snoop on files centered
+around a federal investigation into the notorious Filipino President Ferdinand Marcos. A notoriously corrupt official, Marcos had
+stolen billions from the Philippines and had a long record of human rights abuses. No doubt a sensitive subject, Poulsen's intrusion
+was swiftly detected and the feds started coming after Poulsen. Going on the run, Poulsen went underground
+for 17 months, but like most other hackers couldn't resist the temptation to keep on
+hacking. As if he hadn't brought enough heat on himself
+already, Poulsen hacked into the FBI's network and revealed wiretap details for mobsters,
+foreign politicians, and even the American Civil Liberties Union. Public outcry at the leaked details led the
+FBI to lend their support for the search for Poulsen, but Poulsen still couldn't help himself-
+he and some friends took over the phone lines for an LA radio station and ensured they would
+be the winning callers in various contests, ultimately getting two Porsches, several Hawaiian
+vacations, and $20,000 in cash. But as the search for Poulsen intensified,
+the popular TV show Unsolved Mysteries aired a segment on the renegade hacker, and despite
+the studio's phone lines going dead when the segment aired, employees of a local supermarket
+that had seen the show contacted the authorities anyways after recognizing Poulsen from the
+episode. Called the “The Hannibal Lecter of Computer
+Crime”, a judge decided to hold Poulsen without bail for five years in federal prison
+while the government put their case against him together- that's how extensive Poulsen's
+cyber crime spree had been. Yet at the end they only charged him with
+lesser crimes such as money laundering and wire fraud, sentenced to time served, and
+released on probation, not allowed to touch a computer for three years. These days Poulsen is a respected journalist
+who writes about computer security for Wired Magazine, along with several books. He's also turned his prolific skills as a
+hacker for good by finding 744 registered sex offenders who used Myspace to troll for
+underage victims. 2. Albert Gonzalez Up next is a story of a bad guy turning good
+guy turning bad guy again. Known online as CumbaJohnny, Albert Gonzalez
+was the ringleader of shadowcrew.com, a black market website where hackers sold stolen credit
+card numbers, social security numbers, passports- basically anything one would need to falsify
+an identity or steal a real one. Operating successfully for years, Gonzalez
+was ultimately discovered and arrested for credit card fraud in 2003. Upon his arrest however Gonzalez agreed to
+become an informant for the government in exchange for his freedom, playing a key role
+in Operation: Firewall- a massive program which targeted the world's most prolific hackers. With Gonzalez's help the US government arrested
+28 hackers across eight states and six foreign countries, all of them indicted on charges
+of selling 1.7 million credit card numbers. Immune to prosecution due to his cooperation,
+Gonzalez was offered a job with the Secret Service, which he happily took. Taking on the online persona of soupnazi-
+after the famous Seinfield episode- Gonzalez got to work snaring hackers for the US government. Because Gonzalez had taught the government
+most of what they knew about hacking though, it was easy for him to cover his tracks as
+he went on to secretly begin his life of crime anew. Partnering with Ukranian hacker Maksym Yastremski,
+known as Maksik, Gonzalez began installing packet sniffers on vulnerable store networks
+across the US. Driving around with a laptop hooked up to
+a powerful antenna, Gonzalez and his friends breached the networks of stores such as TJMaxx,
+target, and Barnes & Noble, and installed their packet sniffers which would secretly
+grab credit and debit card data. That data was then sent to one of Yastremski's
+computers all the way in Turkey, while two other European cohorts hacked Heartland Payment
+Systems, stealing credit card information from 130 million transactions. In a not exactly subtle move, Gonzalez left
+his job with the Secret Service and began living the high life, buying a brand new BMW
+and blowing thousands of dollars every weekend as he partied with his hacker friends. Though the Secret Service suspected that Gonzalez
+was back to his criminal ways, they couldn't quite prove it- Gonzalez had taught them everything
+they knew about hacking in the first place! However it was only a matter of time before
+the law caught up with Gonzalez and his crew, as Ukrainian authorities arrested Yastremski
+and discovered over 600 instant message conversations with Gonzalez. Indicted in August 2008, Gonzalez's high life
+was brought to a quick end, and today he's spending a 20 year prison sentence behind
+bars. However it's estimated that the companies
+Gonzalez victimized have spent more than $400 million to repair the damage done by him and
+his crew. 1. Adrian Lamo Known as the 'homeless hacker', Adrian Lamo
+was often seen as a modern day Robin Hood, or at least a generally benign hacker. Rising to prominence in 2001, at 20 years
+old he took advantage of an unguarded content management tool at Yahoo! to modify a Reuters
+article, and managed to add a fake quote attributed to US Attorney General John Ashcroft- whom
+as the head of the justice department you really probably don't want to mess with. Lamo would go on to hack into the systems
+of Worldcom, only to as he so often did, contact the victim to let them know of their security
+vulnerabilities. Hacking into other corporate networks, Lamo
+grew a reputation of being a generally benign hacker, and was even thanked by some of his
+victims for showing them how to improve their security. However in 2002 Lamo stepped a bit into the
+shadows when he hacked into the New York Times intranet and included his own name on a list
+of expert hacking sources, and then used the newspaper's LexisNexis account to research
+high-profile individuals. After a criminal complaint was filed against
+him, Lamo surrendered to US Marshalls and plead guilty to one felony count of computer
+crimes against Microsoft, LexisNexis, and The New York Times. He would be sentenced to two years probation
+with six months to be served in home detention, and ordered to pay $65,000 in restitution. Lamo would swing back into the light though
+when in May 2010 he reported to US Army authorities that Chelsea Manning had been leaking a large
+body of classified documents to Wikileaks, to include 260,000 classified United States
+diplomatic cables. The backlash against Lamo from Wikileaks and
+the hacker community was intense, with Wikileaks calling him and Kevin Poulsen “notorious
+felons, informers and manipulators”. Hackers at the 2010 Hackers on Planet Earth
+conferenced labeled him a snitch, with one commenter after his speech during a panel
+discussion saying that what he did was tantamount to treason. However, Lamo defended his actions as wanting
+to help save lives, and the brutal murder of Afghan nationals named in the leaked documents
+by the Taliban showed just how many lives were at stake from Manning's careless leaking. Disappearing after turning in Manning and
+claiming to be fearful for his life, Lamo popped up in the public eye from time to time,
+but would go on to die in Wichita Kansas on March 14th, 2018 at the age of 37. After an autopsy revealed no definite cause
+of death, conspiracy theories exploded across the internet on the real cause- everything
+from the US government to other hackers receiving the blame for his death. Most of our hackers operated in the early
+days of the internet, before computer security was as stringent and thorough as it is today. Yet hacking can still be a lucrative crime
+for many, and as the world grows ever more connected, it's a crime that's guaranteed
+to grow. Have you ever hacked anything? Ever been the victim of a hack? Let us know in the comments! And as always if you enjoyed this video don't
+forget to Like, Share, and Subscribe for more great content! 

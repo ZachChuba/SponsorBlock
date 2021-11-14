@@ -1,0 +1,60 @@
+[♪ intro ] In many fish species, males are the primary
+if not sole parent. But male seahorses, sea dragons, and pipefish
+in the family Syngnathidae take fatherhood to a whole new level. They have embraced the role of incubator,
+too. And in some species, the males actually experience
+a full blown pregnancy, complete with giving birth to live young. This feat has required some interesting modifications,
+including alterations to a really important part of their immune systems. And learning more about how male pregnancy
+is even possible in these fishes could help us better understand our own immune systems
+and how to help when they falter— like when they’re attacked by HIV. Now, you might think of pregnancies as pretty
+run-of-the-mill, considering they happen in our species all the time. But there are a number of challenges to overcome
+for a pregnancy to be successful. Arguably one of the biggest is keeping the
+parent’s immune system from rejecting the fetus, since from the body’s perspective,
+a fetus is half-foreign. And that’s basically what immune systems
+are for—getting rid of foreign material. The immune systems in vertebrates like us
+and fish are especially good at this because of something called adaptive immunity. That’s a whole arm of the immune system
+that protects us against specific pathogens. It also creates a memory of our experiences
+with them, to help protect against potential future encounters. But it can’t really discriminate between
+“good” and “bad” encounters—so in theory, a fetus should trigger the same alarm
+as a deadly virus. But most of the time, it doesn’t. It wasn’t until 2012 that researchers figured
+out why. Turns out that pregnant mammals' bodies tamp
+down on the activity of genes that control adaptive immunity to ensure they don’t eject
+the partial-foreigners from their wombs. And in a 2020 study, it was discovered that
+pregnant seahorses and pipefish have adopted a similar strategy, with a slightly dramatic
+twist. Now, before I reveal that twist, it’s important
+to understand that some of the most important genes in the adaptive immune system are found
+in a region of the genome called the Major Histocompatibility Complex, or MHC for short. The MHC is made up of three classes of genes,
+which are super creatively named MHC I, II, and III. Each of these codes for important proteins,
+but MHC II proteins are especially important: They go on the outside of many cells, and
+are responsible for sounding the alarm when an invader is spotted. Specifically, they bind to proteins called
+CD4 receptors on other immune cells that come to help, passing along insider knowledge about
+the invader. That way, the body can launch an effective
+assault and remember the foe in case it ever dares to show its face again. Now, during a mammalian pregnancy, the MHC
+genes are down-regulated, taking the immune system off high alert so it doesn’t attack
+the fetus. The fetus is also surrounded by a layer of
+specialized cells called trophoblasts, which don’t have MHC IIs, so they help shield
+the embryo from the parent’s immune cells. Pregnant seahorses and pipefish also down-regulate
+MHC genes in general, but they don’t stop there. They’ve completely ditched MHC II genes
+altogether. Living without these genes is kind of like
+the immune system equivalent of living without a vital organ. Based on our current understanding of the
+adaptive immune system, without MHC II, these fish should not be able to remember pathogens
+and protect themselves against them. Which is kind of a head scratcher, considering
+these fish spend their entire lives in water where viruses are the most abundant thing
+around. The discovery that they’re able to survive
+in this environment without a vital part of their immune system was downright shocking
+to researchers. Though, they quickly realized that the adaptive
+immune system is probably more flexible than they’d originally thought and can still
+be effective without MHC II. This newfound flexibility could give us a
+better understanding of our own immune system and provide new ways of treating a variety
+of diseases But especially, it could help us tackle HIV
+infections. You see, human immunodeficiency virus replicates
+in cells that have CD4 receptors on their surface. And it replicates at significantly higher
+levels when those cell’s CD4 receptors are attached to MHC II proteins. So, basically, the virus has figured out a
+way to make one of the most important parts of our immune system work against us. But, if we really understood how seahorses
+can ditch MHC II genes without compromising overall immunity, maybe we could find a way
+to deprive HIV of what it needs most. And that’s just one example. There are other kinds of immune deficiencies
+that involve MHC II, so maybe, studying seahorses will help us develop better treatments for
+them. Plus, MHC II proteins are major players in
+a number of different diseases, especially autoimmune conditions. So, by understanding seahorse fatherhood better,
+we can better equip ourselves to tackle things like diabetes, celiac disease, and lupus. Who knew all of that could come from studying
+a little fishy father? Thanks for watching this episode of SciShow! If you want to learn more awesome things about
+fish, you may want to check out our episode on three fish with unexpected abilities. [♪ outro ] 

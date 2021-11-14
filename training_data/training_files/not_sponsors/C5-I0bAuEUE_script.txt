@@ -1,0 +1,40 @@
+Ok, so you remember the setup: 100 people
+have had marked dollar bills put randomly into 100 boxes, and every person, one at a
+time, gets to look in fifty of the boxes, and you all collectively win only if every
+single person finds their own bill. $100 dollar payout to each of you if you win,
+nothing if you lose. In the last video I asked whether or not you
+should take the bet. Did you make the right choice? I mean, clearly, if all 100 of you gamblers
+just choose 50 boxes at random when you go into the room, the likelihood of each of you
+finding your bill is one half, so the probability of ALL of you finding your bills and winning
+the whole game is one half times one half times one half… a hundred times. And one half to the power of 100 is about
+0.0000000000000000000000000000008. Basically zero. You're more likely to roll 9 one-roll yahtzees
+in a row - and then pick the king of hearts at random out of a deck of cards. You could do a little better by trying to
+correlate which boxes you pick - like, if there were only two people and two boxes,
+they should each pick different boxes, because if they pick the same box only one of them
+can possibly find their own bill, and they'll automatically lose. But this kind of strategy only improves your
+odds a tiny little bit, and it has less benefit the more people there are. However, despite all this, it turns out that
+there's a strategy that results in you gamblers winning over 30% of the time! This strategy is SO GOOD that you're more
+likely to win using it than if just TWO people out of a hundred picked randomly, since one
+half times one half is twenty-five percent. What we’ve forgotten is that you can obtain
+information FROM the boxes themselves, because the room is exactly the same each time. The first box will always have the same-numbered
+dollar in it, and so will the second box, the third, the fifty-seventh, etc. All you have to do is use the dollar in one
+box to tell you which box to go to next. This might not seem like a great advantage,
+but it's HUGE. The trick is to start with the box that corresponds
+to your number. Your dollar probably isn't IN that box, but
+the bills inside will take you on a random path through the boxes, a scavenger hunt where
+each box tells you where to go next. You can think of this as linking up boxes
+in chains, connecting them based on the bills inside. Any random arrangement of the boxes results
+in a different set of chains, some long, some small. Short chains are ones like "box 30 says go
+to box 82, box 82 says go to box 5, 5 says go to 30." That's a chain of link 3. Long chains link up more boxes before circling
+back - and the LONGEST possible chain links up all 100 boxes. But each chain ALWAYS circles back, since
+there are finite boxes. And of course, if you end up back where you
+started within 50 boxes, you've won, because that means the previous box had a dollar bill
+that told you to go your starting point, and you started on your number, so the previous
+box's dollar bill was YOURS! And that's why this strategy is so good - because
+when the boxes are randomly arranged, about 30% of the time there will be NO chains connecting
+more than 50 boxes, so not only will you win, but so will everyone else - as long as they’re
+following the same strategy! The magic of this solution isn't that it's
+better odds for any single individual to find their dollar (it isn't) - it's that all of
+the successes and failures are forced to happen together - everyone wins together, everyone
+loses together - your fates are linked by using the numbers inside the boxes to guide
+you along invisible chains… towards victory. 

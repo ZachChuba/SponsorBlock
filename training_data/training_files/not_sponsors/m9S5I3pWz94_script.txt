@@ -1,0 +1,294 @@
+- So, by far, the app that
+I get the most requests from you guys to cover is Notion. And I would say that that's
+for a pretty good reason since Notion can do a heck of a lot. So they built Notion as
+an all-in-one workspace and I would say that that is
+a pretty accurate description since Notion really defies
+traditional categorization. That's because you can do
+so much with this tool. It's incredibly flexible. You can use it as a note-taker, it has this beautiful
+hybrid markdown system, you can also link within
+documents to other documents, you can create databases,
+you can create checklists, people built habit trackers
+and calendars and to-do lists, all kinds of stuff in Notion. And because of that,
+I found it challenging to really hone in on
+what I wanted to cover for my first Notion video because we could have
+gone into the nitty gritty and I could have showed you
+how to start creating pages, but a lot of other people have done videos that sort of do that, and I will link to a couple
+in the description down below if you're curious. So what I wanna do in this video instead is show you how I use Notion. And in particular, I'm gonna show you my YouTube video project tracker. This is a template and database that I've been building over the past year which has become really
+an indispensable tool in my production process. Before I built this, we
+were using a hodgepodge of different apps to make sure that everything that needed
+to be done for a video was actually done, and it
+was pretty inefficient. But now that we have this
+project planner and tracker, we are able to do everything in one place and everyone has access to the
+information that they need, and there are also a
+lot of efficiency gains because of the different
+features that Notion offers us. So I'm gonna guide you through how I've built this and how it works, and in the process, you're gonna learn about three of the more advanced and I think more useful features of Notion which are the database feature. And in Notion, databases, by default look like Excel Spreadsheets but they're much more flexible, you can actually look at
+them in different views such as Kanban view and calendar view. We're also gonna talk about
+the templating feature which is my favorite feature in Notion, and combined with the database feature, allows Notion to do things
+that no other app can do, at least that I have come across, and finally, we're gonna talk
+about a couple of features that allow databases to
+be connected to each other which are called relations and roll-ups. So let's get into the project tracker and I'll show you how it works. Okay, so here we are looking
+at my video project tracker. And at first glance, this looks kind of like
+an Excel spreadsheet. We have columns with different types of information in there, but the cool thing about Notion is that a database here
+really is a database. It isn't just a
+spreadsheet of information, though you can do some
+spreadsheet-y things, but every single row here
+is actually its own page and within these pages, you can put whatever you want
+including other databases. So this can get really, really powerful. I'm gonna show you how
+these pages within databases and how the templates you can create can be really, really
+powerful in combination. So first, I'll just give you an overview of how this works itself. We have the title of the video. So whenever I come about
+the video and I'm like, yes, we are going to do this
+video, it is on the schedule, I will add it to this database here. Now, I could go down here
+and just add a new video. So How to Tame Llamas. But if I do that, I'm just
+going to have a blank page. And if I wanted a blank page, that would be great, but I don't. I want all this really cool information. So instead, what I like
+to do is go up to here and we can choose templates, and we can actually build
+templates that we can then add as a new row to our database. So I've already created project template, I'll show you how this looks on the inside a little bit later but let's
+just go ahead and create it, and we'll go with the same
+exact video: How to Tame Llamas. And now, we have a bunch of
+interesting stuff in here that I'm gonna get to in a second. But we also have it here. I've also defined the template to automatically give it
+a video number of 999, so because of the sort of
+this view on the database which is going by
+descending and video number, it's going to be immediately at the top and that's very useful since it's most likely going to be the next video that's coming out or at least something that
+is coming out in the future unlike everything else here. From there, I can change all my values. So let's just say this is video 177. This isn't actually
+coming out in the channel. I'm sorry if you wanted
+to see me tame llamas. I don't have access to a llama farm, so get me access to a llama
+farm and maybe we can talk. We can also come in here
+and add other things. So status is very interesting. The great thing about Notion databases is that you're not limited to
+just this one type of view. You can have this Excel
+spreadsheet type view, or you can have what's
+called a Kanban view. This is very much like Trello
+where you can move cards between different stages of a project and this can help you really
+track the project's status and see where it is and how
+close it is to completion. Or let's say you're running
+an editorial calendar, you wanna see when all of
+your videos are coming out. You can have a calendar view. And the great thing about these views is that they all operate independently in the properties that
+you can show and not show, and the filters and sorts
+that you can define. So here on All Videos, we have a filter where if
+the status is not started, I'm not showing it, and we have a sort where
+video number is descending. But if we go over to status view, we can actually do different things, where our filter is things that I have not checked the publish box on and then we also have the status filter, and we can also group by status, we can show and hide certain properties. So let's say I wanna see
+the sponsor on status view, I can do that and it's going
+to show up here and here. But on status view, I'm
+just interested in seeing what projects are on the writing stage, what projects are in the
+A-roll editing stage. The sponsor is not really relevant to that so I can go ahead and disable it there. Same with calendar, I'm only interested in seeing when are these videos
+scheduled to come out. But on all videos, we can also go through and define things, so let's just say this video
+is coming out October 4th, the sponsor, I'm like, I
+have a llama-related sponsor so we will just go with
+Fender, that would be cool, and then we can set an editor. So usually, Tony edits my videos. He will be editing this one so I'm setting him as
+the editor here as well. And then we have some other
+fields that I have created. Now note, you can create
+any field you want here. So if I wanted to, I
+can add an extra field. It could be a text, it could be a number, it could be a select, multi-select person for assigning people, we could actually upload
+pictures or attach files, add check boxes, all
+kinds of really cool stuff including these relations and roll-ups that I'll tell you about
+a little bit later. But for now, I have every
+single field that I want here. And later on, when the
+video is actually published, we'll have the time to
+check the publish box, the monetization box, URL
+box, all those things. But again, this is just the overview here and this allows us to track
+the status of projects to go back and refer to projects. And the really nice thing is you can create filters
+and sorts on-the-fly. So let's just say for
+a second that I've got a video sponsored by
+CuriosityStream coming up. In fact, this video is
+sponsored by CuriosityStream. I'll have that at the end. But I want to see how I edited previous
+CuriosityStream videos or I need to know which
+folder on my computer might have some special footage
+I took for that sponsor. Well, I can go and I can
+create a filter and I can say, and the sponsor contains CuriosityStream. And boom, I've created a filter that only shows in these videos that are sponsored by CuriosityStream. I could do videos that were
+published only in 2019, videos that are only
+completed or only filming, videos that only I edited. This can be really, really useful for going back and referring to things. And when I talked about my
+file organization video, I mentioned that all of my videos are organized by their numbers. So we have like 164-3,
+"Bad Productivity Tips". That is somewhere in my computer so if I need to remember, all right, I took some footage
+of a llama or something and I need to remember
+which folder it's in, okay, I remember I did it in that "3 Bad Productivity Tips" video, I can refer to Notion here and see, oh, that was video 164. It's very easy for me to go and find that folder on my computer. So let's delete this filter here. And let's talk about
+the actual template here or what's inside. And we're gonna use the "How to Beat the
+Afternoon Slump" video which was really recently published because it has basically
+everything I wanna show you here. So the first thing to note is, number one, you can open these as pages. They don't have to just be modals. I also tend to favorite the projects that I'm currently working on so they show up here in my Favorites bar. This one is done so I'm
+going to unfavorite it. And the first thing you're gonna see here, because this is a page that
+exists within a database, you're gonna see all the properties that are in the database
+in the regular view which is kinda nice
+because if you want to, you can set different things
+here, but you don't have to. And then down here, this is an area that is
+completely up to you. So this is the project template that I have been working on and honing and perfecting over the past year, and we have a lot of
+different information here. The most prominent thing is probably the second database here but we're gonna get into that in a second 'cause it's pretty complicated. We also have a toggle
+switch which is pretty cool. So I can put title ideas in here, often bold the one that
+I think is the best. We can put keywords in here, we can put sponsor
+information if we needed to, and this is something I really like. So I am defining templates
+here and I'm generating them every single time I'm making a new video. So every single time I
+have a new video project, I get new checklists. And for publishing, we
+have all these checklists. So this just reminds me to do
+all the little things involved with uploading and publishing a video that I might forget to do if I was just trying
+to do them from memory, so things like adding resource
+links to the description, setting the video's recording date, adding the caption file when I order it, post-publishing things like
+sharing it to Instagram or answering some initial comments. I will always check these things off. It's very, very useful. I also have, so a content area here. We have a page where we can
+dump research and notes. I will mention that I don't
+use Notion as a note-taker. I tend to write my videos in Evernote. When Martin writes videos for me, he will write them in Google Drive. So we don't usually have research and notes sitting in Notion, but I do like having this in the template just in case I'm in Notion and I just need to
+throw something in there really, really quickly and I don't want to
+gunk up the script area. So the script area is very important. Even though I write videos in Evernote and Martin writes them in Google Drive, we want them in Notion because
+the video project tracker should be the one resource
+for editors to go to, for writers to go to. Anybody who's working
+on the video should know if there's something about a video, whether it's the sponsor
+or whether it's the script, it's going to be here. So whoever wrote the script, we paste it into the Notion project. And then I actually have
+a music stand with my iPad and I have Notion open
+so while I'm filming, I will have the script
+in Notion next to me. I don't tend to use a teleprompter. I might start using that a
+little bit more in the future but usually, I just will look
+at the script on my iPad, memorize a line, say it to the camera, and then go on and on and on
+until I'm done with the video. So that's useful. I've got some links to
+some useful resources. So I use this CoSchedule Headline Analyzer to help me brainstorm lots
+of interesting titles. Thumbs Up is a great tool for making sure that thumbnails look good at small sizes. But the real benefit to
+this project tracker here is this B-roll list. And again, this is an example of a database within a database and that's incredibly helpful. And, of course, just like
+with the other database, we can open this as a page. So this is the most advanced
+part of the template and we've been able to do some
+really cool stuff up here. So you can see, these are
+just ideas that we create. So let me give you a bit of background on how we make videos. We will shoot the A-roll, which is the talking head portion, this portion that you're seeing right now, beforehand for most videos. I sit in front of the camera, I talk, it might be half an hour of footage because I mess up lines a lot, and then my editor will cut it down into what we call a draft A-roll cut. So it may not be perfect
+but it's quite close to what is eventually
+going to end up on YouTube in terms of the length and
+the talking head parts. From there, we will upload
+that to a tool called Frame.io which lets you add comments
+at specific time stamps for your video. Now, a lot of people just
+use this for feedback, like, hey, fix this, you
+left a llama in the shot, we can't have that there, but we use it for B-roll ideas. So Tony and I walk and sit down together, watch the video on Frame.io, and put like, all right,
+let's have a clock with three o'clock on it at the microwave. How about scrolling through
+a to-do list on our computer? And we'll get this time-stamped
+list of B-roll ideas. From there, Frame.io actually
+lets you export these as what's called a comma-separated
+values file or CSV file, and the cool thing is in Notion, you can go up here and
+you can merge with a CSV. So you can merge an
+existing database with a CSV and that's very, very useful. So it does exactly what we do, we will export the CSV file. I'll actually put it into
+Google Sheets initially so I can delete some of the
+more superfluous columns that I don't need. I'd just get the comment with
+the idea and the timestamp, that's all I want, and
+then I will merge it here where I have some existing columns that are very, very useful. So this is what comes in, the B-roll description and the timestamp. We also have tags, we have
+templates, we have gathers, and I'll explain these really quick. So the big thing with creating videos is you wanna be as efficient as possible. And when you're making B-roll, there's different types of B-roll, right? There's filmed B-roll, so we might put a camera on a tripod and film something maybe
+outside or up in the office, we may do something on the
+overhead setup over there, we might have to go into the
+computer and record the screen, which I'm literally doing
+right now on Notion, we might need to go get stock footage from story blocks or a different website, and these are all
+different kinds of tasks. So when I bring in this chronologically-ordered
+CSV file into Notion, I'm gonna have things that
+maybe need to be filmed and then there's gonna be
+the next thing in the video that maybe needs to be a screen cast. If I gather the B-roll in that order, if I'm gonna go film something
+and then I get done with that and then I go over to my computer and I record something on the screen and then I run back to my
+camera and I film that, that's terribly inefficient. Instead, I wanna know, all right, what's every shot in the
+video that needs to be filmed? Let me do all that first. Then, let me move on to
+buying stock footage. Then, let me move on to
+recording the screen. So when this comes in here, and actually, let me just
+show you how this works 'cause I can literally do it, and this will also show you how the templating system works as well 'cause this is a completed video. So let's just go back to
+our YouTube project thing and let's go to our "How
+to Tame Llamas" video. And in here, we have nothing. It's a blank slate, it's ready for us to add tile
+ideas, all that good stuff, but the B-roll list is completely empty. So let's open that as a page and then let's merge it with a CSV. And I'm just gonna go ahead
+and merge it with the CSV from the afternoon slump video since I don't have B-roll ideas for this. So we're merging in, and here we go. So it's good to note that
+I have created this view with a pre-populated sort criteria which will sort by the timestamp column. Otherwise, it could be in random order. But otherwise, we don't
+have anything else in here other than our other columns. Now, I do wanna make a quick note here. When you do this CSV merge, you need to have at least
+one pre-existing row in your database. Otherwise, if you don't have that, it's just an empty database,
+you bring in the CSV, it is going to bring in its columns and delete all of the
+other columns you have. So by leaving in, I
+just have it as example, by leaving this in, it
+will force the database to keep these other columns even though they don't
+exist in the CSV file. Once that's done, I can
+actually delete them and that's totally fine. So here's what I do. I go through all of my
+ideas, and I say, all right, clock with three o'clock
+on it, that's film. Various shots of me at the desk
+feeling tired, that's film. And we would go through here and we would do that for
+every single B-roll item. So background, videoblocks.com, I know that's stock footage. So cool, stock footage, film
+these websites on an iPad Pro, that's gonna be an overhead
+shot on the overhead setup, and for this particular video, if we go back to the actual project, we filmed in many different locations. So even categorizing with
+just film was not enough because we had some that
+was gonna be done outside, we had some that needed
+to be done in the kitchen. So we actually, if we go to gather, 'cause like I said, your views can have their own properties, we added a location property. So we had upstairs, office,
+kitchen, outside, downstairs, and that was really
+helpful again for batching. So back to our "How to
+Tame Llamas" example here, I'm tagging things, I can set gatherers. Usually, I only set myself as a gatherer and this is to let my editor Tony know that he cannot gather a
+specific piece of B-roll, I have to do it myself, and then we also have some
+check boxes over here. So this is just for status. We can go through and check, this is gathered, this is gathered, this is gathered, we're good
+to go, it's in the video. So when Tony's editing, he will just go line by line checking things off until it's done. We also have this premiere checkbox. So we actually edit our videos in a combination of Premiere Pro, which is for actually editing
+video and After Effects which is for doing all the
+animations and cool quote things that you see coming up
+in many of our videos, or like when little text box
+comes up from the bottom, we do that in After Effects. But again, we don't wanna
+be switching back and forth between different programs. We want to get everything done
+in one program if possible and then move on to the next stage. So we have a Premiere checkbox. So we can say this needs
+to be done in Premiere, maybe this doesn't, and
+that will help later on. Now, again, you can create multiple different database views in Notion. So this one is chronological,
+it is ordered chronologically. When it's time to gather B-roll, we go over to Gather View and this will order things
+by the tags we gave them. So it's very, very easy to just go through
+everything we need to film, get that done, go over to overhead, get
+that done, and so on. Some other ones you can
+see in here, we have fixes. So sometimes, I'll be watching through the Frame.io cut that Tony did and I'll see something
+that needs to be fixed and all I do there is
+I'll tell him what to do and then I'll add hashtag
+fix in the comment. And then here, I have a filter that says anything in
+the B-roll description that contains hashtag
+fix will show up here. That way, Tony can efficiently go through, fix any issues we have, and then get on to B-roll gathering. And then we can go into Premiere. So anything that had
+that Premiere checkbox is going to show up here. Anything that did not
+will not show up here, so he can efficiently do everything that needs to be done in
+Premiere all in one chunk and then move on to After Effects which is just filtered by this does not have Premiere checked. It's incredibly efficient. So using this, you can get
+everything he needs to get done and into the video as
+efficiently as possible. So it's really, really helpful, and using this entire template has been an absolute
+boost to our productivity in making videos. So I've showed you the combination of databases
+here, of templates. If you wanna make your own template, you can go to Templates, you can create a new template. So if you had a different
+kinda video you wanted to make, one that maybe is a little simpler, you could have a simpler template, I am fine with my one template. But it's very easy to create templates and then add them into databases. So let's talk about the last thing here which is relations and roll-ups. In the past, when I had
+sponsors on my videos, which is pretty much always, I would just have a tag that
+said which sponsor it was. So CuriosityStream, Brilliant,
+it would just be a tag. And that was fine. It would tell me who
+was sponsoring the video but if I wanted information, what URL do I need to say on screen, or what are the talking points? I would have to go to an
+external system and refer to them and that wasn't very efficient. So I learned that in Notion, you could do something called a relation where you create a second database and then you can relate
+it to the first one. So I created a sponsor list. And this is a list of every
+sponsor I've worked with. This is, again, a database, so I can go in here
+and I can literally see all of the details for the sponsor. And one of the nice things about Brilliant is they actually use Notion, so they have their most up-to-date
+talking points in Notion which is pretty nice. But I can grab YouTube description copy for any new video, I
+can paste it in there, I got the URL down here. That's really, really nice. But the big thing is here, I can see how many spots I've
+done for every single sponsor and the reason that I can do that and the reason that you
+see the sponsor listed here in the video project tracker is that these two databases are linked through what's called a relation. So let me show you how
+you can actually make one. You just create a new column, and you're gonna set this column's type to advanced and relation. Then, you will select a
+database to work with. So we're gonna go with projects
+and create the relation. And then, we can actually select the video for each sponsor, or, in the other case, we
+can go back over to here and now we have a new
+column that has been added which is our new relation
+to that other database. So if I have this video here, I can easily add a sponsor onto it. Again, we said it was Fender. Let's just say we have a second sponsor and it's SimpleContacts. If we go back over here
+to our sponsor list and we look at SimpleContacts,
+we have this listed. Now, I don't wanna see the
+individual videos on this view. I wanna see the number of spots I've done and I wanna be able to click
+in and get the details. So I can go to Properties here and I can just hide
+that and I'm good to go. So, again, every single view you have, you can go in here and you
+can customize your properties. And then a roll-up is
+kind of a simple thing. So instead of creating a
+relation between two databases, you are instead using a
+relation that already exists to do something interesting. So this roll-up right here is just looking at the videos table. The property doesn't matter because all we're doing
+is counting any time that one of these sponsors is mentioned, and that allows us to get the number of video spots we've done, number of podcast spots we've done, 'cause we also have a podcast table. It's very similar. And then this is just a formula that is adding these two columns together to see how many spots I've
+done for each sponsor. Now, one thing that I forgot to mention before I moved on to
+relations and roll-ups is that it's a good idea to go and look at your templates often to see if they need to be updated. So let's actually do that right now because I think there is something in this template that I have to update. So whenever you wanna update it, you can edit your template. We'll open it as a page. It tells you you're editing
+a template in Projects. You're not editing just
+a regular page in here, and I can go in here and
+change whatever I want. So one thing I know needs to be changed is here on the publishing checklist, we need to remove mark
+video as completed in Asana because I don't use Asana
+anymore, I just use Notion. So let's take that out there. And now, every single time I
+create a new video project, I'm not gonna have that
+annoying Asana checkbox, I'm just gonna have everything I need. And if I needed to add
+something to the process, I would do the exact same
+thing, add it to my template. Now, I will admit that
+the system I was using before I started using
+Notion was pretty workable. We were using a combination
+of Google Docs and Todoist and we got videos done, but because I got curious about Notion, I started playing around with
+it, I started building things, I ended up with a system that
+works a heck of a lot better and that really reflects
+one of my core philosophies when it comes to tools and learning. I'm always looking for a
+better way to do things because even if the way I'm doing something now seems to work, there's probably some kind of
+improvement that I could make that would bring an unforeseen benefit. And the exact same thing
+goes for just reading widely and constantly exposing
+myself to new ideas and trying to learn new
+things on a daily basis. When you do this, you tend
+to combine ideas in your head and find solutions that you would not have otherwise came across. Beyond that, hopefully
+you enjoyed this video. I know it was kind of a different video and I got into some more advanced topics, but a lot of you guys have
+been asking me about Notion. Definitely ask me more
+questions about Notion in the comments down below. I would like to do more
+videos on it in the future, and I wanna know what you
+are interested to see, but I just wanted to kinda lead with my favorite thing that
+I've developed in Notion and the thing that really helps
+me and my workflow the most. If you enjoyed this video, a like is always appreciated, and you can subscribe right there if you wanna get new
+videos when they come out, or click right there to
+get a free copy of my book on how to earn better grades. Last but not least, you can
+click right over here or here, and they're probably gonna
+cover my face this time, I don't really know
+where I am on the camera. But there are gonna be
+more videos on this channel and you should click them or smash your face into your
+phone screen with your nose, that also works, to watch them. Anyway, thanks for watching and I'll see you in the next one. 

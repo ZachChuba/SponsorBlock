@@ -1,0 +1,168 @@
+(upbeat music) (upbeat music continues) I thought we'd settled this. Right. Me and Mehdi from ElectroBOOM released two videos simultaneously with different explanations
+for why the chain goes up before it goes down when it leaves a pot, after which it seemed that
+more people agreed with Mehdi than with me, so I released a follow-up video after which it seemed that
+more people agreed with me. But did it convince Mehdi? - I watched Steve's video and I thought, damn, I
+was wrong about this. But then I quickly
+realized (slaps himself) I was just mesmerized with his blue eyes and soothing voice. - This is Mehdi's followup
+video to my followup video. And it seems as if now more
+people agree with Mehdi. So, I'm back, and
+hopefully after this video it'll be settled and
+everyone will be persuaded by my explanation. But more importantly, hopefully, Mehdi will be persuaded so that we can finally
+put this thing to bed and I can finally earn
+my 10,000 Canadian cents. I believe that for the chain
+fountain to rise from the pot, there needs to be an additional
+force coming from the pot. But Mehdi doesn't believe that additional force is required. My understanding of the phenomenon is based on Biggins and
+Warner's explanation, I'll leave a link to their
+paper in the description, but the basic principle is that there is some kind of
+reaction force from the pot. That is to say as the
+chain leaves the pot, there is some mechanism by
+which the chain kicks back against the pile of chain in the pot or against the pot itself and we know that every action has an equal and opposite reaction, so if the chain is
+kicking against the pot, then the pot is kicking against the chain, and it's that force that
+causes the fountain to rise. It may be that there
+are multiple mechanisms for this kickback force, but I suspect the dominant
+mechanism is a levering effect. Due to the fact that the
+chain is somewhat stiff, it can only be bent to a certain point. It has a minimum radius of curvature. So as the chain leaves the pot, this rigid section pivots
+around its center of mass causing that downward
+force on the container and actually in the absence
+of something to push against, you see part of the chain move down. You can see it in this simulation here. And you can see it in this
+horizontal version of the test where the chain is spaced out. You see the levering
+effect causes the chain to move down a little. When the chain is bunched up, you can see that that kickback force causes the pile of chain to recoil. In Mehdi's first video, he showed that a chain fountain can arise in this horizontal version of the test with spaced out chain. And of course with spaced out chain, there's nothing for the
+chain to kick against as it's leaving the pile. But I argued that this isn't
+really a chain fountain because the peak of the
+fountain actually recedes. The fact that the distance
+between the pile of chain and the peak is increasing is just because the pile
+is receding so quickly. What's interesting is that
+according to the analysis that I made in the first video, the peak of the chain
+in this horizontal test shouldn't recede at all. Like in the absence of the kickback force, the peak should stay where it is. So why does it drop? Well, actually, if you look
+closely at the analysis, we only expect the shape
+and position of that arc to stay fixed, in other words, for the chain
+to move through its shape without the shape changing, if the chain is moving in steady state, in other words, if the chain
+is moving at constant speed and there are no external
+forces acting on the chain. So actually we do expect the fountain to recede for two reasons. In the beginning, as the chain
+is being brought up to speed, well, it's not a constant speed, so we expect the chain to recede then. So we expect the arc not to
+keep its shape in the beginning. We expect it to recede. But even once the chain
+has reached constant speed, we still need to think about friction. I suspect that friction will
+drag the fountain down too. So it's my belief that for
+the chain fountain to rise, there needs to be an
+additional force from the pile to overcome friction. And at the very beginning of the test that force is needed to overcome
+that downward acceleration, we expect due to the fact that the chain isn't yet moving at a constant speed. In my follow-up video, I
+compare the spaced out case with the bunched up case. And, look, in the bunched up case you can see that the peak
+of the fountain rises whereas it doesn't in the spaced out case. Mehdi was quite critical
+of this comparison as you can see from this clip. And I actually think he has a point. I think we actually disagree slightly on why my test was bad. Look, let me summarize
+it from my point of view. In my comparison, the bar for success is set higher for the spaced out chain than for the bunched up chain. If we're saying that the fountain needs to overcome friction, well look, the distance
+from the pile to the peak is greater in the space out case, so there's more friction
+for it to overcome. And clearly that's not fair. Mehdi thinks that this
+comparison actually supports his view of how the chain fountain works. Obviously we disagree on that, but one thing we can agree on, I think, is the fact that there are
+too many confounding factors in this comparison. I've changed too many things. In science if you wanna test how one thing affects the other, then you should only really
+change that one thing and keep everything else the same. But I haven't done that here. In one case there's a kickback force and in the other case there isn't, but actually in one case, the pile recedes more
+quickly than the other. And so it's not a fair comparison. So what about this setup where the spacing between the chains is the same in both tests? 'Cause I've got these steps here and the distance between the steps is the same in both cases. But look, in one case,
+the chain is pressed up against the riser of each step, and in the other case, it's up against the edge of each step. So look, in the left-hand case, there's something for the
+chain to push against, and in the right hand case, there isn't. But in every other respect, I think it's the same. And look, in the case where the chain is at the edge of the step and there's nothing
+for it to push against, we see once again that the
+peak of the fountain recedes. But in the case where there is something for the chain to push against, we see that the fountain actually rises. It's interesting that in the case where there's nothing to push against the peak of the fountain recedes but only to begin with. Towards the end of the
+test it seems as though the peak of the fountain stops receding. And I think I can make sense of that. In the beginning as the chain speeds up, we expect the fountain to
+recede due to the fact that the chain isn't in steady state anymore, but once the chain is in steady state, we would expect the chain
+fountain peak to stay where it is if it weren't for friction. And because of this step setup, we've removed friction from the ground because the chain is essentially
+flying through the air at this point. And having removed what I imagine is the main source of friction, rubbing against the ground, the peak seems to stay where it is. I also had a look at the effect of damping the kickback force. In Mehdi's most recent video, he suggests that the
+tests where we drop chain from a tray may be inconclusive because even with proper metal bead chain, there seems to be no fountain, but actually that's not true. Look, in this test the chain
+reaches a decent height. The fabric is there so we
+can run the test again, but this time with some
+really light stuffing underneath the fabric. This stuffing should
+dampen the kickback force. And actually, look, that's what we see, the chain fountain doesn't rise as much. These two tests to me are quite convincing that a kickback force is required. A lot of people suggested
+that I should try to measure this extra force from the pot. If I put the pot on scales, then the kickback force from the chain should push down on the scales and the weight reading from the scales should be greater than we would expect. So you could film it and
+if you mark the beads, so you know how much
+chain there is in there, but from the marks on the beads, you know how much it should weigh, and you look at the reading and you see what it actually does weigh and that should tell you the extra force. I actually mentioned in the first video, that that's difficult from an
+instrumentation point of view. Getting scales that are fast
+enough and accurate enough. But then I thought to myself, you know what, actually,
+I haven't tried, have I? So this is an extremely
+accurate force gauge. It samples a thousand times per second, which should be fast enough. Actually though, the issue is
+with the speed of the readout. The readout seems to
+refresh every five seconds, and every time the readout refreshes it's changed by about
+a quarter of a Newton. Based on my explanation, we actually only expect an
+additional force in the pot of about 0.1 Newtons. That's for a chain fountain
+height of 30 centimeters. I'll get into the derivation
+of that 0.1 Newtons later. But the point is every
+time the display refreshes, it changes by an amount that
+is substantially greater than the extra force required for the chain fountain to
+rise, according to my theory. Even worse, there's a delay in the readout of about half a second. I mean maybe if I spent even
+more money on a force gauge, one that has a USB out that just spits out every one of those thousand
+readouts per second, then maybe I could get something. But even then I have to
+worry about that delay and lining it up with
+the footage on the camera and all that sort of stuff. Basically, it's a really hard problem. But what I can do is use the force gauge in the horizontal experiment and get a reading just at the very end. Here we get a maximum
+reading of 0.36 Newtons and that's certainly
+in the right ballpark. In fact, if you look at this
+version of the experiment where the chain is presumably going at roughly the same speed because it's also powered by the drill, we get a chain of fountain height of, what, a maximum of one meter. And according to my theory, actually Biggins and Warner's theory, a chain fountain a meter high
+requires an additional force of about 0.3 Newtons, which correlates really well with the readout we got in this test. But where does that number come from? Why does a chain fountain of
+around a meter height require an extra force from the
+part of around 0.3 Newtons? Well, I won't go into the derivation, but using the equations from
+Biggins and Warner's paper, you get that the extra
+force required from the part is equal to that linear
+density of the chain multiplied by the height of the fountain multiplied by g. In other words, the weight
+of this bit of chain. And that makes intuitive sense. If you want to lift a chain that high, you have to work against its weight. One meter of this chain has a
+mass of about 0.03 kilograms. That's a weight of about 0.3 Newtons. And so according to
+Biggins and Warner and me, that's the force required from the pot to raise a chain fountain of one meter. It's also why a chain
+fountain of 30 centimeters requires about 0.1 Newtons
+as I mentioned earlier. In Mehdi's followup video, he mentions that no one has yet explained why the maximum velocity
+that the chain reaches is quite low, or at least it's low compared to the terminal
+velocity of the chain if it was just falling through the sky. - Steve hasn't provided any other reason for this constant speed like it's nothing. - Actually, it's quite easy to explain, and it has nothing to do
+with a chain fountain. It's possible to derive the maximum speed of any
+chain falling from a pile whether there's a fountain effect or not. Consider the setup where there's already a long piece of chain dangling. That length of chain feels a
+force downwards from gravity, but there's another force
+resisting that motion. The force is provided by
+the inertia of the chain that is being pulled from the pile. In other words, the
+chain in the pile resists being pulled into motion. And that makes sense. We tend to think of force
+as mass times acceleration, and that's true, but force is also just the
+rate of change of momentum. So the fact that momentum is
+being imparted into the chain that is pulled from the pile, that requires a force. And that force is provided by the chain being pulled down by gravity. In the beginning those
+forces are unbalanced, so the chain accelerates. But as the chain increases in speed, every new bit of chain
+that leaves the pile is imparted with more and more momentum because it's leaving
+with more and more speed. And so the inertia of the
+chain in the pile provides a greater and greater opposing force to the chain falling under gravity. Eventually, at a certain speed, the force required to bring the chain from the pile to that speed matches the force of gravity pulling
+down on the dangling chain. And that is the maximum
+speed of the chain. It falls out of the math that that speed is equal to the square root of the height of the chain
+drop multiplied by g. Towards the end of
+Mehdi's most recent video he shows this brilliant
+demonstration from Peter Steinkamp of a chain fountain rising from a chain that is draped over a rod. And that's really remarkable because clearly there's a chain fountain, and clearly, to me at least,
+there's no lever mechanism. So this shows a chain fountain
+without a lever mechanism. So does this prove me wrong? Well, as you might imagine,
+I don't think it does. I think that for the
+chain fountain to rise, there needs to be an
+additional force from the pot or in this case, there needs to be an
+additional force from the rod. In the case of a chain rising from a pot, I think that force mostly comes
+from that lever mechanism, which I talked about earlier. If you want more details
+about that by the way, I talk about it more in
+the previous two videos. But in the case of the rod, I think there is still an extra force. But I don't think it's
+from the lever effect. I think it's from, well, if I had to give it a name, I would say the pulley mechanism. This is just my first
+guess at what's going on. But look what happens here
+as this chain moves up. This loop also moves up. And that makes intuitive sense that's the behavior that we would expect, but as we've seen before, eventually the chain will
+start to flow through the loop, as well as the loop moving up. Like here when I pull on
+the end of this chain, the loop moves up, but also the chain starts
+to flow through the loop. Let's lay this out on the floor so we can see what's going
+on a bit more easily. So imagine this is up and this is down. Here is the pipe. So initially as this chain is
+moving up, this loop recedes, but then it starts to flow
+through the loop as well. So this bit of chain starts to pull down. Obviously, if this point wasn't here, then you would get the
+same thing happening again. This loop would recede as
+this bit of chain moves down. But it can't because
+the rod is in the way. So the rod feels an
+additional downward force from the chain. And every action has an
+equal and opposite reaction, so the rod pushes back up on the chain. And what's great is you
+can see it in action. Look, this bit of chain here before it's even that bit of
+chains turn to start moving, it's already moving upwards a bit. And this additional outward
+motion each time adds up. And so the chain fountain grows. You might say, well, hold on, the force pulling on this bit of chain isn't coming from the rod. It's coming from this bit of chain. And there's a sense in which that's right. This downward force is being redirected into an upward force on this bit of chain. But you can't just redirect a force. In mechanics, all the
+forces have to balance. A downward force can't just
+become an upward force. In other words, it's the
+upward force from the rod that does the redirecting. And if you studied dynamic
+problems in pulleys, that's the kind of balancing you would do. And so I believe that
+if you were to remove the force from the rod, then the fountain would disappear. You can remove the force from
+the rod by removing the rod, but as in previous videos, you can't do that on earth because it would all just
+fall down under gravity. It's another good
+candidate for an experiment to do on the international space station. But in the absence of that, we can once again run a simulation. It's interesting that Mehdi didn't mention the simulations in my previous video in his most recent video. Why didn't you mention
+the simulations Mehdi? Mm? Why didn't you mention the simulations? With the rod in place, the simulation does indeed
+produce a chain fountain. But look, when you remove the rod, but also turn off gravity
+in the red rectangle, the fountain disappears. Thanks again to Maarten
+Baert for these simulations. And that's it for this video. Was it enough to convince you? More importantly, was it
+enough to convince Mehdi? It all makes sense Mehdi. It all makes sense. Trying to figure out the explanation for a phenomenon in this adversarial way has been really enlightening. Like with that horizontal comparison tests that I was doing with the space up chain and the bunched up chain, I thought that was good. And it's important in science to try and look for the
+ways in which you're wrong. And I thought I was good at that, for looking for my own mistakes. But, clearly, I'm just not as motivated to find mistakes in
+that stuff as Mehdi is. And that's thanks to the adversarial way that we're doing it. So that's a really good lesson that I've learned from Mehdi and of course I've learnt
+loads of really great lessons, mostly about electrical engineering from Mehdi's channel ElectroBoom. I'm sure by now you've checked it out, but if you haven't, you really must. His videos are great. The link is in the description, but it's also on screen now. I hope you enjoyed this video. If you did, don't forget to hit subscribe. And the algorithm thinks that
+you'll enjoy this video next. (upbeat music) 

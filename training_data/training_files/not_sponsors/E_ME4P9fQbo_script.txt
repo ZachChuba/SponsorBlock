@@ -1,0 +1,41 @@
+Imagine a future cat-topia where both cats
+and people are applying to the physics and astronomy departments. In astronomy, 2 cats are accepted and 2 are
+rejected, while 1 human is accepted and 1 is rejected. In physics 1 cat gets in and 2 don't, while
+2 humans get in 4 don't. So, overall at the university, 3 cats are
+accepted and 4 rejected for a 43% acceptance rate, while 3 humans are accepted and 5 rejected
+for a 38% acceptance rate. Is the university discriminating against humans
+in its application process? Possibly not. That's because if each department reviews
+its own applications, then the numbers show that the astronomy department lets in 50%
+of cats and 50% of humans, which seems fair, and the physics department lets in 33% of
+cats and 33% of humans, which again seems fair. The reason, then, for the apparent unfairness
+at the university level is the imbalance in how many cats and humans apply to each department:
+more of the cats applied to the astronomy department, which happened to let in more
+applicants (regardless of species), while more of the humans applied to physics, which
+let in fewer applicants. This situation is another illustration of
+Simpson's statistical paradox, and something like it actually happened at Berkeley in the
+1970s, which realized it was letting in 44% of men applying to the graduate school, but
+only 35% of women. Careful analysis was able to show that women
+tended to apply more to departments that had less funding and fewer places, like English,
+and men tended to apply more to less competitive departments, like engineering. Thus within each department (which was the
+level at which applications were evaluated), there wasn’t obvious evidence of gender
+discrimination among applicants – if anything, women were favored. And yet, the unequal distribution of women
+and men across departments resulted in an unequal distribution of women and men at the
+university overall. The question, then, is what caused the unequal
+distribution of women and men to begin with? One can of course imagine a sinister institution
+knowing how Simpson's paradox works, wanting to discriminate against a particular group,
+and thus advertising smaller, more competitive departments more heavily to that group, and
+vice-versa for groups they want to promote . More realistically, certain departments
+or fields may have reputations for being unwelcoming and unsupportive towards women even if they
+let them in fairly, and it’s also possible that aspects of a university itself attract
+applicants who are more likely to follow gendered career stereotypes. But ultimately, as the Berkeley study concluded,
+the problem is a bigger, societal, one: “Women are shunted towards fields of study that are
+generally more crowded, less productive of completed degrees, less well funded, and that
+frequently offer poorer professional employment prospects… The absence of a demonstrable bias in the
+admissions system does not give grounds for concluding that there must be no bias anywhere
+else in the educational  process.” Those words were written in a statistics paper
+in 1975. And more recent statistics tell us that they
+still remain true today - which is unfortunate if you think women and men should have equal
+opportunities and/or be paid equally for equal work. So the paradox isn’t really in the statistics,
+since after careful analysis, the statistics tell us we’re biased and even hint at where
+those biases are (or aren’t) coming into play. No, the paradox is that we’ve remained so
+reluctant to fight our biases, even when they’re put in plain sight. 

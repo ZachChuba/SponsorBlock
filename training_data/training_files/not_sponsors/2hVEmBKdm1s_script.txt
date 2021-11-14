@@ -1,0 +1,142 @@
+The Ford Model T was not the first car. Not even close. Depending on how you define what a car is,
+that honour was achieved 100 years before Henry Ford was even born in 1769, when French
+engineer Nicolas-Joseph Cugnot created this steam powered vehicle designed to travel off
+rail. The honour for the first true automobile goes
+to Karl Benz, founder of Mercedes Benz, in 1885. With this single piston 2 stroke gasoline
+powered vehicle. The art of the automobile was well under development
+before Henry Ford hit the scene. No Ford did not invent the automobile, he
+invented something much more profound. He created modern society. That is a massive claim, but bear with me. His manufacturing techniques did not just
+revolutionise how we design and build everything. Making complicated machinery like tractors
+and cars affordable for the masses. His manufacturing techniques radically changed
+the trajectories of billions of people’s careers. At the turn of the 18th century craft manufacturing
+was the status quo. Defined by a highly skilled workforce. People wishing to pursue a career in automotive
+manufacturing, entered their career and progressed through an apprenticeship. Picking up a huge variety of skills, gradually
+learning the tricks of the trade and being masters of their craft. Many would go on to run their own machine
+shops. These were less employees, and more contractors. In these days, a machine like an automobile
+was not built entirely in house. Parts would come from smaller machine shops
+from all over a city. They used general purpose tools and machines
+to create the parts needed, which would be sent to the final assembler. These part would vary massively from one batch
+to another, requiring a skill assembling team. Workers needed to understand the function
+of the part they were working on, and skillfully manipulate the parts together into the final
+vehicle. There was no mass manufacturing of complex
+machines like this. Each vehicle was one of a kind, commissioned
+by whoever was wealthy enough to afford it. At this production volume no company could
+create a monopoly. There were hundreds of small craft shops like
+this across Western Europe and North America, but many would soon be run out of business
+by Henry Ford before they had the chance to adopt his mass manufacturing techniques. Only the best craft manufacturers survived. Companies like Aston Martin and Bentley succeeded
+by focusing on the ultra wealthy that could afford these one off vehicles, using skilled
+craftsmen to build unique and luxurious cars, but even they would soon have to join the
+movement to survive. All eventually being bought out by these mass
+production power houses, no longer able to keep up with cost of innovation and manufacturing
+required to keep pace in the automotive industry. At the high point of the Model T’s success
+in 1923, Ford was manufacturing 2.1 million Model Ts a year, a figure that would only
+be matched by a single vehicle model again with the VW Beetle. Many people chalk Henry Ford’s success down
+to inflexibility in design. The famous quote of “You can have colour
+as long as it is black”. This was true for many years, but perhaps
+not for the reason you think. You see, Henry Ford was obsessed with manufacturing
+speeds. The painting process he used allowed the paint
+to dry quickly, and it was only available in black. [6] He shaved time off wherever possible to
+achieve that monumental milestone of 2.1 million Model Ts a year. The Model-T was no fluke, it was the culmination
+in over 20 design iterations over 5 years. Each one tweaking the design and manufacturing
+procedure to cut seconds off the total process, and the innovations continued through the
+nearly 20 years of production, that would see a total of 15 million Model Ts manufactured. On the first day of production in 1908, the
+average task cycle for the Model T lasted 514 minutes. The task cycle time is the length of time
+before a single task is repeated. So, the average worker did not repeat a task
+for 8 and a half hours. For Ford, this was essentially how quickly
+a single production line was producing vehicles, as assembly lines cannot start a new vehicle
+until another has exited at the other end. So, he set to work on reducing that cycle
+time, and by 1913 he managed to bring it down to just 2.3 minutes. For a product this complex, consisting of
+hundreds of parts, with hundreds of processes, that is astounding and was something no other
+company had ever achieved. How on earth did Ford achieve this quantum
+leap forward in manufacturing speedl? Let’s first start with innovations that
+Ford was not responsible for that allowed him to begin this journey. As I said, one of the reasons highly skilled
+workers were essential to these industries before Ford came along, was because of the
+high variability between parts. In engineering we call this tolerancing. When I worked as a design engineer, I needed
+to specify the tolerances I needed for specific part features. Say I needed a shaft to fit a particular hole,
+I need to specify how much the machinist was permitted to deviate from the listed dimension. If I have a 20 mm hole paired with a 19 mm
+shaft, and I specify that both can deviate from that dimension by plus or minus 0.5 millimeters. Even at the extreme ends of both, where both
+are 19.5 mm wide, they will still fit with some force. This may not be acceptable depending on application,
+and higher tolerancing may be needed, which generally means an increase in cost. Engineers regularly screw up with these things
+even today, but in Ford’s day consistently achieving a tolerance that tight in mass manufacturing
+would have been huge task, and was generally something saved for military applications,
+and not for low cost consumer products. This was largely due to the manufacturing
+techniques of the day, specifically heat treatment methods. As explained in my knife forging and aluminium
+videos, metals need to be heated and cooled in specific ways to strengthen or harden the
+metal, but this also makes the metal much harder to cut and shape, so the metals were
+often cut first and heat treated after. This heating and cooling causes the metal
+to deform due to thermal expansion, which can then throw the original piece out of tolerance. This is called warping, and it made it nigh
+on impossible to get a consistent final product. Many attribute Ford with revolutionizing the
+standardisation of parts [3], but in truth he was simply at the right place at the right
+time to benefit from technologies that facilitated it. New methods for cutting and stamping pre-hardened
+metals allowed Ford to eliminate much of this variability due to warping. Advancements in precision measurement and
+manufacturing allowed Ford to be confident that parts would be interchangeable, and in
+turn this allowed Ford to design his vehicles in a way that reduced costs. This was the dawn of destruction for the craft
+manufacturing industry, and the beginning of a movement that would change the face of
+modern society. While his competitors were casting each cylinder
+of their engine blocks separately and bolting them together, due to the difficulty in casting
+a single part with multiple holes that needed to line up precisely. Ford casted a single complex engine block,
+that drastically reduced the time required to manufacture and assembly it. This of course, led to incredibly expensive
+dedicated machinery needed to manufacture a single piece of the vehicle. In the world of craft manufacturing, a skilled
+worker could use a general purpose tool and skillfully use it to produce the final product. In the world of mass manufacturing this was
+not acceptable. It took too long and required skilled workers
+who were too difficult to replace. For example, engine blocks consist of an upper
+and lower part that need to mate perfectly to maintain a seal for engine compression. Ford’s competitors, like Cadillac, used
+a single flexible milling machine to create a flush surface on both the upper and lower
+halves of the engine block. Engine blocks and heads were loaded and milled
+slowly and precisely one at a time. Ford instead created dedicated machines to
+mill engine blocks and engine heads separately, 15 and 30 at a time respectively. Workers simply snapped the unmilled pieces
+into a tray while the previous lot was being milled, and then pushed the tray into place
+when the time came. A worker could be trained in 5 minutes to
+do this task. They didn’t need to speak the same language
+as the person next to them. They didn’t need to think about anything
+else. Just feed the machine. Like the little butter passing robot of Rick
+and Morty, “What is my purpose? You pass butter. OH MY GOD.”
+these people had a single purpose. This of course resulted in inflexibility in
+design. The cost of introducing an entirely new model
+vehicle was drastically increased. This is why, even today, that car brands tend
+to iterate on old designs rather than introduce entirely new models. It’s simply too expensive and time consuming
+to retrofit entire production lines. When Ford eventually decided to completely
+redesign the Model T and produce the Model A, these machines were thrown out, but he
+had achieved his goal, cycle times were lowering, and there was still room to improve. Ford managed to half cycle times from 2.3
+minutes to 1.2 minutes, with his next innovation. When production first started on the Model
+T employees worked from a stationary work stand. If they needed a part or tool they would get
+up and get it themselves. Ford soon recognized the waste and introduced
+dedicated stock suppliers, who’s only job was to ensure that other workers had the parts
+they needed to keep production running at a constant pace. Where possible these employees were replaced
+with automated supply lines. This idea grew and evolved to the introduction
+of Ford’s greatest manufacturing innovation, the moving assembly line, a manufacturing
+technique still in use today, even for huge machines like planes. This is Boeing’s moving assembly like for
+the 777, which carries the entire 166 tonne plane across the factory ford, gradually adding
+the 3 million parts needed to complete it. This method introduces a sense of urgency
+to the factory floor, an ever looming deadline to complete your work before the plane reaches
+the next production step. If there is a critical problem the entire
+production line will literally stop moving until it’s fixed. [5] Ford was not the first to introduce such
+an idea. They had been used in simple production lines
+for butchering of carcasses and food preparation before, but never for anything this complex
+and Ford applied it as a science. Using his engineering skills to help pioneer
+a new branch of engineering, industrial engineering. A branch of engineering mostly concerned with
+optimizing the logistics of manufacturing. Spend a few hours playing Factorio and you
+will really gain an appreciation for the complexity of this profession. It starts off simple, but as your factory
+grows you need to carefully manage production speeds to avoid pile ups. You need to plan and place your production
+units to maximize transportation speeds, and get the products where they need to be. One of the huge problems you run into is faster
+production units producing items faster than you need them further up the line, causing
+pile ups of stock that can back up and actually block other production units, before you know
+it production has grinder to a halt. The moving assembly line forces all workers
+to work at the same pace. Faster workers can’t produce items faster
+than they are needed, and slower workers can’t slack off. Ford’s innovations catapulted The Ford Motor
+Company to international success, but that dominance would not last forever. Companies came from all over the world to
+observe Ford’s factories. They marveled at how the factory itself was
+like a finely tuned machine, each part feeding into the other. They took their lessons home, and by 1955
+mass manufacturing had proliferated around the world, and soon companies outside the
+US were not just catching up with the big three of Detroit. Ford, General Motors and Cadillac, but far
+exceeding their capabilities. Most notably Toyota in post world war 2 Japan
+who led a revolution in manufacturing through a new manufacturing philosophy, lean manufacturing. This graph shows all vehicles produced by
+region after 1955, showing the explosion in growth in Japan with the advent of lean manufacturing,
+that would lead to Detroit’s eventually demise. Detroit would soon become a ghost town. Just as these companies viewed their machines
+as disposable, they viewed their employees as disposable. Dropping them the moment demand tanked. This problem has only got worse. Zero hour contracts and strict control of
+unions is common. Ford actually paid his workers incredibly
+well for the time, but that meant little when demand dropped and these workers had few transferable
+skills to gain new employment. For better or worse Ford’s innovations completely
+changed the job market for billions of people. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my twitter, facebook, discord server, subreddit and instagram pages are below. 

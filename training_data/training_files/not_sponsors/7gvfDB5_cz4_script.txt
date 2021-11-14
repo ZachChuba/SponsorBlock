@@ -1,0 +1,63 @@
+Click the link in the description to start
+learning a new language today with Babbel. On every continent besides Antarctica, you
+can find groups of people who communicate by whistling. And not just, like, to get someone’s attention
+or say, “I’m over here!” These are full-blown languages. For a long time, all sorts of researchers
+have been interested in this form of communication, which seems to blur the lines between language
+and music. And recently, research by neuroscientists
+has shown that the way language works in the brain… is not exactly what we thought. Although whistled languages emerged separately
+all over the world, they tend to have some key features in common. Like, they usually exist among groups of people
+living in spread-out communities who need to communicate over long distances. Because, conveniently, the high pitch and
+volume of a whistle can travel a lot farther than regular speech — up to 10 kilometers
+away, in some cases. And not only do whistles travel farther, they
+also stand out more against the sounds of rivers, wind, and animal calls. So they can be a great communication tool
+in rugged environments. Like, in the mountains of Oaxaca, Mexico,
+police actually used their whistled language for years before they switched to walkie-talkies. But these languages don’t just replace speech
+— in many cases, whistled languages are adaptations of the local spoken language. And that’s one of the things that makes
+them so interesting to neuroscientists — because, oddly, even though they’re two versions
+of the same language, the brain doesn’t process them the same way. Two whistled languages that have been studied
+in depth are Silbo, which is based on Spanish and found in the Canary Islands, and a Turkish-based
+language found in the mountains of Turkey. Here’s a sample of Silbo. [♪Silbo whistle noise] And here’s a sample of the Turkish-based
+language. [♪Tarkish-based whistle noise] They both imitate the intonations and stresses
+of speech, which can easily be reproduced in whistles. Meanwhile, the things that can’t be imitated,
+like vowels and consonants, get translated into cues like rising and falling pitches
+or different tone lengths. And the fact that they’re derived from speech
+means that these languages are just as rich and complex as spoken language, so speakers
+can have fluent, nuanced conversations in either one. But internally, the brain is actually doing
+something different depending on which language is being used. In general, the left hemisphere of the brain
+does a lot of the heavy lifting when it comes to processing speech, so spoken language has
+traditionally been thought of as a left-brained skill. But whistled languages paint a more complicated
+picture. Because they involve the right hemisphere,
+too. Researchers learned this during a 2015 experiment
+that studied the comprehension of spoken and whistled language in the people of northeastern
+Turkey. They used a technique called dichotic listening,
+which is a way of identifying asymmetries in the brain, based on how people register
+sounds played simultaneously in each ear. In general, sound signals that have to travel
+farther within the brain to reach the area where they get processed register slightly
+slower than others. So even though the sounds are played simultaneously,
+there will be a small difference in the arrival time between the sound from one ear and the
+sound from the other. But since the signals come so close together,
+people typically only register the sound that arrives first. It gets a little confusing here because the
+brain isn’t wired how you might expect: Signals from the left side of your body often
+go to the right side of the brain, and vice versa. Including sounds. So, when a dichotic listening task uses speech
+sounds, people usually hear what’s played on the right side, since the right ear has
+more of a direct path to the language areas on the left side. And that’s exactly what the researchers
+found in this study too. As 31 whistle-speakers listened to sounds
+from spoken Turkish, they identified the ones from their right ear more frequently. But that wasn’t the case with whistled language. When the same participants listened to whistled
+speech, they identified the sounds from their left and right ears about equally. And that result suggests that language processing
+may not be inherently asymmetrical. It’s just that, by focusing only on one
+kind of language for so long (the spoken kind) we seem to have formed ideas about language
+processing that were overly simple. In reality, the reason language has traditionally
+been labeled as “left-brained” may have more to do with what we’re hearing than
+the way we’re wired. And it makes sense: The left side of the brain
+processes information that’s received on relatively short time scales. And in spoken language, lots of cues come
+in on short time scales, like the rhythm of syllables or the transitions between sounds,
+so it’s mostly processed on the left side. But in whistled speech, a lot of that information
+gets coded into musical cues like pitch and melody, which have a longer cadence. And the left side of the brain doesn’t deal
+with that — the right side does. That likely explains why whistle-speakers
+use both sides of their brain to process whistled language. Not only does this tell us that language comprehension
+isn’t strictly a left-brained activity, it highlights the fact that spoken language
+isn’t just a string of syllables. It consists of all sorts of different cues
+— and certain parts of the brain may be more or less involved in parsing them, depending
+on what those cues are. It also highlights the incredibly diverse
+ways that we use language to transmit ideas between people. And as always, thanks for watching SciShow
+Psych. 

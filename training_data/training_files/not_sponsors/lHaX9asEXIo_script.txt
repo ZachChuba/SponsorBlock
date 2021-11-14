@@ -1,0 +1,36 @@
+When Galileo pointed his telescope at Jupiter
+in 1610, he was the first person to see the giant orbs attached to it by springs. His actual drawings, compared night after
+night, show these bright spots moving back and forth past Jupiter, exactly the same as
+if they were balls hanging off of springs. I mean, yeah Galileo was looking at the moons
+of Jupiter, but if you plot their motion back and forth and back and forth over time, it
+forms a sine wave. And that motion is mathematically identical
+to the motion of something bouncing up and down on a spring with a linear restoring force
+- also sine waves over time. From a side-on perspective that projects two
+dimensions down to one, things in circular orbits look exactly like they’re springing
+back and forth on giant coils of wire. Now, I’m not saying that we should think
+of the moons of Jupiter as being held on by giant invisible springs, but it’s a valid
+mathematical model when viewing them from a distance – it’ll make the same predictions
+about the motions of the moons as the “orbiting in circles due to invisible gravity” model,
+and one can be mathematically transformed into the other. The moons of Jupiter aren’t alone in having
+multiple mathematical descriptions: projectiles and storms on earth experience a force (called
+the Coriolis effect) that causes them to turn, but viewed from an external perspective, the
+projectiles and storms are what goes in a straight line while the earth turns beneath
+them. Both models, if you use them carefully, make
+correct predictions about reality. And quantum phenomena can be modeled in at
+least three different ways that all give the same predictions: as a particle being guided
+by a spread-out “pilot wave”, or as a spread out probability wave that collapses
+to a single point, or as a particle exploring all possible paths it could take and interfering
+with itself along the way. All three of these mathematical models suggest
+different ways of thinking about what’s “actually” going on in quantum mechanics,
+and the fact that all of them give the same experimental predictions suggests that perhaps
+none of them is the “right” way to picture what’s happening in quantum systems. Mathematical models give us nice, easy-to-digest
+pictures of how the universe works: moons orbit around planets, atoms bind together
+into molecules, electrons are clouds of probability, and so on. But we need to be careful how much weight
+we give to the models in our heads (or on our blackboards, or computer screens). Do Jupiter’s moons move like they’re pulled
+back and forth by the invisible force of springs? Or held in orbits by the invisible force of
+gravity? Or are they following helical paths which
+are actually straight lines in curved spacetime? The way we describe the world influences the
+way we think the world is, even when there are other, equally correct ways of describing
+the world that paint entirely different pictures from our own. That’s not to say we should accept wrong
+ideas, but we should be aware that sometimes a different correct picture, one we haven’t
+considered, is the one we need to see. 

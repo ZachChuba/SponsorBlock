@@ -1,0 +1,157 @@
+A problem solving website that teaches you
+to think like an engineer. Last month Tesla held an event for their investors
+revealing the advances they had made in their autonomous driving capabilities. Currently, most Tesla vehicles are capable
+of enhancing the driver's abilities. It can take over the tedious task of maintaining
+lanes on highways , monitor and match the speeds of surrounding vehicles and can even
+be summoned to you while you aren’t in the vehicle. Those capabilities are impressive and in some
+cases even life-saving, but it is still a far reach from a full self-driving vehicle. Requiring regular input from the driver to
+ensure they are paying attention and capable of taking over when needed. There are 3 primary challenges automakers
+like Tesla, need to overcome in order to succeed in replacing the human driver. The first of those is building a safe system In order to replace human drivers, the self-driving
+car needs to be safer than a human driver. So how do we quantify that? We can’t guarantee accidents won’t occur. Old Murphy’s Law is always in play. We can start by quantifying how safe human
+drivers are. In the US, the current fatality rate is about
+one death per one million hours of driving. That includes humans being stupid and crashing
+while drunk or looking at their phone, so we can probably hold our vehicles to a higher
+standard. But that can be our benchmark for now, our
+self-driving vehicle needs to fail less than once every one million hours, and currently,
+that is not the case. [1] We do not have enough data to calculate an
+accurate statistic here, but we do know that Uber’s self driving vehicle needed a human
+to intervene around every 19 kilometres s, meaning it failed every 13 miles. [13] Which makes Ubers collision with a pedestrian
+who unfortunately passed away, even more shocking. Supporters of self-driving vehicles were quick
+to blame the pedestrian for stepping in front of the vehicle in low light conditions [2],
+but we cannot let our desire to advance the technology to make excuses for it. The vehicle was using lidar sensors which
+do not need light to see. Yet, it made no attempt to slow down even
+after the human occupant, who was not paying attention, had noticed the imminent crash. According to data obtained from Uber, the
+vehicle first observed the pedestrian 6 seconds before impact with its radar and lidar sensors. At this point it was travelling at 70 kilometres
+per hour [3]. It continued at this speed. As the pedestrian and vehicles paths converged
+the computers classifying system is seen struggling to identify what the object in its view is. Jumping from unidentified object to car, to
+cyclist. With no certainty in the trajectory path of
+the object. 1.3 seconds before the crash the vehicle recognised
+it needed to perform an emergency brake, but didn’t as it was programmed not to break
+if the would result in a deceleration over 6.5 metres per second squared. Instead, the human operator is expected to
+intervene, but the vehicle was not designed to alert the driver. A shocking design considering our earlier
+statistic. The driver did intervene a second before impact
+by engaging the steering wheel and breaking, bringing the vehicle speed to 62 kilometres
+per hour. Too little and too late to save this person. Nothing on the vehicle malfunctioned. Everything worked as programmed, it was simply
+poor programming. Here the internal computer was clearly not
+programmed to deal with uncertainty. Where a human would likely slow down when
+confronted with something on the road that it could not clearly identify, this programme
+simply continued on until it could identify the threat, at which point it was too late. It struggled to identify the object and predict
+it’s path even with high resolution lidar. So how can we improve safety? A large part of that lies in the hardware
+itself and the programming that goes into it. Tesla unveiled its new purpose-built computer,
+a chip specifically optimized for running a neural network, which Elon stated was the
+first of its kind. [https://youtu.be/Ucp0TTmvqOE?t=6031] It has been designed to be retrofitted into
+existing vehicle s when customers purchase the full self-driving upgrade. So is a similar size and draws the same power
+as the existing self- driving computers at 100 Watts [4] This has increased Tesla’s self driving
+computer’s capabilities by 2100%. Allowing it to process 2300 frames per second,
+2190 frames more than their previous iteration. A massive performance jump, and that processing
+power will be needed to analyse footage from the suite of sensors each new Tesla has. On the right side of the board are all connectors
+for the different sensors and cameras in the car. That currently consists of 3 forward facing
+cameras, all mounted behind the windshield. One is a 120-degree wide angle fisheye lens,
+which gives situational awareness. Capturing traffic lights and objects moving
+into the path of travel. The second camera is a narrow-angle lens which
+provides longer range information needed for high speed driving like on a motorway, and
+the third is the main camera, which sits in the middle between these two applications. There are 4 additional cameras on the sides
+of the vehicle which check for vehicles unexpectedly entering your lane and provide the information
+needed to safely enter intersections and change lane. The 8th and final camera is located to the
+rear, which doubles as a parking camera, but has also saved more than a few teslas from
+being rear-ended. *cut to footage of Tesla speeding up autonomously
+to avoid a crash* The vehicle does not completely rely on visual
+cameras. It also makes use of 12 ultrasonic sensors
+which provide a 360-degree picture of the immediate area around the vehicle, and 1 forward
+facing radar. [5] Finding the correct sensor fusion has been
+a subject of debate among competing self-driving companies. Musk recently stated that anyone relying on
+Lidar sensors, which works similarly to radar but utilizes light instead of radio waves,
+is doomed and that it’s a fool’s errand. To see why he said this let’s plot the strengths
+of each sensor on a radar chart like this, where we rank each feature on a scale of zero
+to five, five being the best and zero being non-existent. Lidar would look something like this. [6] It’s got great resolution, meaning it
+provides high detail information on what it’s detecting. Works in the low and high light situations,
+is capable of measuring speed, has good range, and works moderately well in poor weather
+conditions. Its biggest weakness however is why Musk slated
+it. The sensors are expensive and bulky. And this is where the second challenge of
+building a self-driving car comes into play. Building an affordable system that the average
+person will be willing to buy. Lidar sensors are those big sensors you see
+on Waymo, Uber and most competing self-driving tech. Musk is more than aware of Lidars potential,
+after all Space X utilizes it in their dragon eye navigation sensor.[9] It’s weaknesses
+are simply too much of a sticking point for Tesla for now, who are focused on building
+not just a cost-effective vehicle, but a good looking vehicle. Lidar technology is gradually becoming smaller
+and cheaper. Making the technology more accessible, but
+far from cheap. Waymo, a subsidiary of Google’s parent company
+Alphabet, sells its lidar sensors to any company that does not compete with its plans for a
+self-driving taxi service. When they started in 2009 the per unit cost
+of a Lidar sensor was around seventy-five thousand dollars, but they have managed to
+reduce that cost to seventy-five hundred dollars in the past ten years by manufacturing the
+units themselves. [7]
+From what I can tell. Waymo vehicles use 4 lidar sensors on each
+side of the vehicle. Placing the total cost for just these sensors,
+for a third party, at thirty thousand dollars. Not far off the total cost of a base model
+Model 3. This sort of pricing clearly doesn’t line
+up with Tesla’s mission “To accelerate the world’s transition to sustainable transport”. [8] This issue has pushed Tesla towards a cheaper
+sensor fusion set up. Let’s look at the strengths and weakness
+of the 3 other sensor types to see how Tesla is making do without lidar. First, let's look at radar. This is the radar sensor on the Tesla Model
+3. Radar works wonderfully in all conditions. The sensors are small and cheap, capable of
+detecting speed, and its range is good for both short and long distance detection. Where they fall is the low-resolution data
+they provide, but this weakness can easily be augmented by combining it with cameras. Regular video cameras look like this on our
+radar chart. Having excellent range and resolution, provide
+colour and contrast information for reading street signs, and are extremely small and
+cheap. Combining radar and cameras allows each to
+cover the weakness of the other. We are still a little weak in proximity detection,
+but using two cameras in stereo can allow the cameras to work like our eyes to estimate
+distance. When fine tuned distance measurement is needed
+we can use our our ultrasonic sensors, which are these little circular sensors dotted around
+the car. This gives us solid performance all around
+without relying on large and expensive sensors, but Tesla is suffering from a bit of a redundancy
+problem with only one forward facing radar. If that fails there isn’t a second radar
+sensor to rely upon. This is a cost effective solution, and according
+to Tesla their hardware is already capable of allowing their vehicles to self-drive. Now they just need to continue improving on
+the software and Tesla is in a fantastic position to make it work. When training a neural network data is key. Waymo has millions of kilometres driven to
+gain data, but Tesla has over a billion. 33% of all driving with Teslas is with autopilot
+engaged. This data also extends past just while autopilot
+is engaged. It also receives data in areas where autopilot
+is not available, like city streets. Accounting for all the unpredictability of
+driving requires an immense amount of training for a machine learning algorithm, and this
+is where Tesla’s data gives them an advantage. I won’t go through the intricacies of training
+a neural network again, as I have covered it in the past in my machine learning versus
+cancer video, but the key take away you need is that the more data you have to train a
+neural network, the better it’s going to be. Tesla’s machine vision does a decent job
+of it, but there are plenty of gaps in their abilities. A channel here on YouTube by the name of “Greentheonly”
+has managed to hack into his Tesla’s vision to show us what the software actually sees. Here we can see that the software places bounding
+boxes around objects it detects, while categorising them as cars, trucks, bicycles and pedestrians. It labels each with a relative velocity to
+the vehicle and what lane is occupies. It highlights drivable areas, marks the lane
+dividers and sets a projected path between them. For now this data allows autopilot to operate
+on highways, but it frequently struggles with more complicated scenes. Here a pedestrian is not detected. Here it struggles to tell if a roller skater
+is a bike or a pedestrian, and here it drives onto the wrong side of the road when there
+is a gap in lane dividers.[12] Tesla of course is more than aware of these
+problems, and is gradually improving on it’s software through firmware updates. Adding functionality like stop line recognition. And this latest self driving computer is going
+to radically increase the computer's processing power. Which allow Tesla to continue adding functionality
+without jeopardising refresh rates of information. But even if they manage to develop the perfect
+computer vision, programming the vehicle on how to handle every scenario is another hurdle. This is a vital part of building not only
+a safe vehicle, but a practical self -driving vehicle. Which is our third challenge. Programming for safety and practicality often
+conflict with each other. Take the AI program Dr. Tom Murphy developed
+to do something relatively simple. To play Tetris. [10]
+This program worked brilliantly, but Tetris always wins. The game is unbeatable, and you will eventually
+lose. When confronted with this option the program
+did something to ensure it wouldn’t lose. It paused the game. If we program a vehicle purely for safety. It’s safest option is to not drive. Driving is an inherently dangerous operation,
+and programming for the multitude of scenarios that can arise while driving is an insanely
+difficult task. It’s easy to say “Follow the rules of
+the road and you will do fine”, but the problem is, humans don’t follow the rules
+of the road perfectly. Take a simple four way stop as an example. The rules of the road make this seem like
+an easy task. The first person to arrive at the intersection
+has the right of way, and in the case that two vehicles arrive at the same time. The vehicle to the right has the right of
+way. The problem is, no human follows these rules. When Google began testing their driverless
+cars in 2009 this was just one of the issues they ran into. [11] When it arrived at one of these 4 way
+junctions humans kept nudging forward trying to make their way onto the junction before
+their turn. The Google car was programmed to follow the
+letter of the law, and just like our Tetris program from earlier, the self-driving vehicle
+was put in a no-win scenario and stuck on pause. Scenarios like this pop up everywhere and
+requires programmers to break the letter of the law and be a little aggressive. Sometimes the computer will need to make difficult
+decisions, and may at times need make a decision that endangers the life of its occupants or
+people outside of the vehicle. That is just a natural byproduct of an inherently
+dangerous task, but if we continue improving on the technology we could start to see road
+deaths plummet, while making taxi services drastically cheaper and freeing many people
+from the financial burden of purchasing a vehicle. Tesla is in a fantastic position to gradually
+update their software as they master each scenario. They don’t need to create the perfect self-driving
+car out of the gate, and with this latest computer they are going to be able to continue
+improving their technology. This is the fantastic thing about software. It is easily updatable, and Brilliant have
+improved their software by allowing courses the entire daily challenges archive. As always thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me the
+links to my instagram, twitter, subreddit and discord server are below. 

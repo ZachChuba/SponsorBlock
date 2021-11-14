@@ -1,0 +1,24 @@
+This is a neodymium magnet - it's pretty darn
+strong. And now, after heating it in a flame... it's
+no longer magnetic. What just happened? Well, to build a magnet, all you need to do
+is find a bunch of magnetic atoms (that's easy - they're the ones with half-filled electron
+shells in the middle of any of the major blocks of the periodic table) and then make a compound
+where the magnetic fields of the atoms align in the same direction - this is Ferromagnetism,
+named after Iron, which is pretty darn magnetic. However, it's not so easy - sometimes the
+atoms actually want to align their magnetic fields in alternating directions - this is
+called "anti-ferromagnetism," and it means the bulk material won't have a magnetic field
+at all. Or, sometimes the tendency of the atomic magnets
+to align (or anti-align) is just too weak to overcome their intrinsic jiggling - that
+is, their temperature! In which case, even though all the individual
+atoms in the material are magnetic, once more the material as a whole isn't. However, in a strong external magnetic field,
+the atoms do tend to align with each other in the direction parallel to the field. This is called "para-magnetism," and liquid
+oxygen is a great example - it's attracted by a magnet, though it doesn't stay magnetized
+afterwards. But let's get back to the question - how do
+you destroy a magnet? Well, a material can only be ferromagnetic
+if its temperature is low enough: above a certain point, the nicely ordered atomic magnetic
+fields "melt" into disorder, just as ice crystals melt into water when heated past zero celsius. So to destroy a magnet, you just need to heat
+it up past its "magnetic melting point", called the "Curie Temperature" - it probably won't
+look like much is happening, but once the atoms are jiggling around enough, when they
+cool off, their magnetic fields will no longer all point in the same direction. Magnet destroyed! And just as different elements melt from solid
+to liquid at different temperatures, they also melt from being ferromagnetic to paramagnetic
+at different temperatures, which you can explore in this sweet interactive periodic table. Which also plays all  

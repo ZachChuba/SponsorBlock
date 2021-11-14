@@ -1,0 +1,96 @@
+- All right kiddo, let me explain what we're looking at here. This is the Yaw VR motion simulator. Basically, what you do,
+is you, there we go, you throw on your VR headset, you strap yourself into this chair and you're like, you're driving a car or you're flying a plane and it's like (making engine noises), and it moves around like that. So what do you think? Sound pretty cool? - Yeah. - Wanna help me set it up? - Yeah please. - Are you sure you wouldn't rather go and roast marshmallows with your sisters? - Yeah. - All right, he can be taught. - [Sister] Mommy! - Maybe you better go
+check on your sisters but you can come right back. (upbeat music) Being stuck inside, I guess
+this is the next best thing to getting out and about. So you want a job to do? - Yeah please. - I want you to unwrap these
+plastic covered pieces. I think this is the pro version, which goes from three 100 watt motors to three 120 watt motors and then also adds a headrest
+and something else as well. The full details are on their website but basically there's two pieces and the idea is that
+when you're not using it, which a lot of the time you won't be, like you can't live in VR yet, it folds up kind of compact and just kind of goes like that, like a little thing
+you can move it around. Oh yeah, there's a headset so
+this must be the pro version. On the back, we just got
+a power button, power in, LAN, oh you got emergency stop. I guess they intend for this to be used in recreation centers and stuff like that so makes sense they'd have
+those kinds of features. Ooh, made in Hungary. Pro move seems to be
+kind of slided on there. It's a pain but once it's on, it's much nicer than that
+previous racing chair that we checked out. It doesn't feel like
+there's a lot of give to it versus having it hard mounted and having to kind of wrench
+all the metal together. Are you helping or what? (laughing) - What's step two? - Mount the foot rest plate
+on the foot holder arm. So there's a mount on the inside here that takes these pegs. It's gonna go through here. It's a positional tracker in here. You wanna do the honors? - [Boy] Okay. - [Man] Flip it on. And, oh, hey! It's got lights. Now some of these I
+think are for accessories but some of these I think are just to, yeah, there we go. - Yay! - To have a backrest and then a headrest. Oh my feet definitely
+don't reach that right now. Ugh, I feel a little ridiculous. Can you hold the headrest
+where my head kinda is and then line it up with
+the holes down there? Right there? Okay, hold it there. Don't move. I gotta somehow, whoa. - Whoa! - Oh shoot. - Uh oh. - Did it fall? - Yeah. - Okay. All right, let's try that again, before I secured that on there, whoa. Can you help pick me, yeah, thanks, okay. - Okay I'll hold the
+back as hard as I can. - Okay, oy! This really does seem like it's designed for entertainment centers. Most of the instructions
+seem to suggest that there's an operator standing near
+by helping the player. In terms of game support, you can make your own
+games using their SDK, you can use SimTools to
+check out compatible games. The roller coaster simulator sounds good. Do you wanna ride a
+virtual roller coaster? And then there's also their game engine that apparently works
+with third party games. So let's go ahead and Yaw
+VR Game Engine, here we go. This is working. Now let's try it with the Yaw VR. This is extremely user unfriendly. Okay, we gotta go into the
+config file for Dirt Rally 2. UDP enabled equals true. Extra data equals one. Got on their discord. Turns out the same baggy that's supposed to contain these screws also has a little key
+you stick into the back and that's why I spent
+the last hour and a half diagnosing why the motors won't turn on. But theoretically, if I press
+start now, it should start. I'm going for a test ride. Woo! - [Yvonne] Is that the test ride? - Well no, I think it does more. Hello? Hey, whoa, hey, there we go,
+hey, ho, k, it's something. Obviously this is not very immersive, not having the VR headset on and stuff. This is raw. To get the settings
+application open at all, I had to find a tip on a
+Get Hub discussion somewhere that suggested disabling the camera and I finally managed to get in. Now I gotta enter my IP
+address for my Yaw VR, enable the motion compensation. Apparently, I've gotta take a controller and stick it near the
+pivot and then calibrate. We're getting close, getting really close. After much confusion,
+the motion compensation built in to the Yaw VR
+never got working here but I've got a controller strapped to the back of the headrest here which theoretically should allow me to at least experience the darn thing for the first time tonight. So I'm firing up Dirt Rally 2.0. (engine revving) Okay, and I have drifted off course again. You can see it over compensating
+for how much I'm turning. It's just guessing at this point. I guess you have to, maybe it's something I need to configure. I am all over the place right now. This is absolutely nauseating. What did I hit? When it works it's really cool. I'm now driving sideways. (engine revving) Oh my son asked me what
+it's gonna be like to crash. I guess we'll find out. Whoa, that is horrible. All right. Not great so far, not great. There's been progress. It's been a couple days, but that's okay. I was able to get motion
+compensation working using the strap a controller to the back of the Yaw VR method. They did send some new software over so I'm gonna try that and
+see if we can get it working with its own positional tracking but hey, at least we can try it out so I'm gonna get my helper back. He has been bugging me for two
+days to try this thing out. Before I do that, I wanna
+show the final set up. There is an arm for
+mounting a racing wheel but I have opted for a
+controller to simplify things as much as possible. I had a bad experience with
+my c-stand falling down so I extended the arm so it comes straight down over the Yaw VR. Once Yaw is actually working, this thing spins 360
+degrees and if you know, you're playing NASCAR and
+you're turning to the left, it'll actually keep spinning
+you around to the left until you tangle yourself up so definitely recommend
+a set up like this. The start up procedure is
+we need to have Yaw VR open, we need to have Game Engine going, which syncs up the Yaw VR with the games that we're gonna try, so I need to go into Steam
+VR and I need to set it to use the Yaw VR motion compensation. I can just plunk a
+controller right on to there, use that to calibrate and then it will be able
+to use the Yaw VR itself to compensate for the motion. So as the Yaw VR moves
+around, that motion, so that spinning around is
+canceled out by the headset so that you still see out
+the cockpit of the car instead of your view
+turning as the Yaw VR turns. Turning this should turn the world and it doesn't. Okay, so that didn't work. Fine. That's how it's supposed
+to work at some point with a software update. We're gonna go back to the old way. We're just gonna strap a controller to the back of the thing. - It works! - It's working! Yes! Going over bumps in this
+game is a little more jarring when you're throwing around in this seat. (clicking) Do you feel like you're driving? - No, it feels super bumpy? - All right, go ahead
+and press start to pause. Now that it's working,
+we can actually go in and we can tune some of the parameters. We can change the multipliers
+for the different inputs, so you can see if you want your pitch to be a little bit less extreme, you can change that to a 0.4. If you want roll to be really extreme, you can change that to
+a multiplier of two. Okay, so there's actually
+left and right vibration and they said that can help with some disorientation sensation. (upbeat music) Oof, oh boy. Okay, I am not a good driver. Ooh, k, not much traction
+on the grass here. That is definitely a gravel road. Okay. Oh, okay, overcooked that one a little. Okay, give it a shot. Is that better? - Yeah. - K, don't go too fast. The left triggers your break. Nice. You can go a little faster. You know what, you can go whatever speed you're comfortable with. What did it feel like? - It's not as bumpy anymore but it's still a little bit bumpy. - [Man] Did it feel like you
+were accelerating and breaking and turning and going over stuff? - Yeah. - Is it pretty cool? You wanna try something else? - Yeah, please. - Okay, let's give it a shot. Okay, after spending about
+10 hours with the Yaw VR, of which maybe an hour
+of it was in the chair with it actually working, playing games, I'm ready to draw at least
+some preliminary conclusions. The hardware is super cool. It's compact. It's light enough that a
+single person can pick it up and move it around and it really does give
+you 360 degrees of freedom, but the software is unpolished and the documentation is even worse. If I were gonna evaluate this
+thing from the perspective of a typical iPhone buyer, I would probably give it a
+one and a half out of 10. But it's important to evaluate a product within the context of its customers as well as its competitors. So some of Yaw VRs early adopters who I encountered on their
+surprisingly active discord while I was trying to get through some of the teething issues, asked me to ensure that
+I'm taking in to account the bigger picture here. So Yaw VR's customers are yes, end users who intend to
+install it in their home, like what I'm doing, but
+also commercial entities like experience companies who use it as a portable
+attraction at corporate events and parties and entertainment centers and two of those three
+groups are ones where, given what already exists in the market for motion simulation devices like this, it's not expected to be plug and play and the fact that it can
+be packed up and folded up, while offering a true
+360 degrees of freedom, is really, really cool. So I think that's fair to bring up but from my perspective as an end user who is fairly tech literate, even if I'm not a developer on the side, I would say that they do
+still have a way to go on the software but the
+hardware is really cool and I see a lot of potential here, even though I'm sick and frustrated and I'm definitely gonna
+put it away from six months before I look at it again. Just like I'm gonna put away the segway as soon as I'm done with it. Private internet access
+VPN won't do anything that a VPN can't do. It's a tool that masks your IP and encrypts the traffic
+to and from your devices, so combined with private browsing tools and safe practices, PIA can help make even savvy websites think that you are somewhere else and help keep you anonymous. They've got reliable service
+with over 3,000 servers in 32 countries and no bandwidth caps. The encryption is configurable and their internet kill switch feature prevents data from leaking should you be involuntarily
+disconnected from your VPN. Try it out risk free with their seven day money back guarantee. They've got clients for
+Windows, Mac OS, Android, IOS and Linux and you can connect
+up to five devices at once with a single account. We're gonna have them linked down below. If you guys enjoyed this video and you like checking out
+crazy at home gaming rigs, then maybe check out the Obutto. We actually covered that
+one quite a while ago. It has surround monitors and
+a sim chair kind of thing. Pretty cool. No motion, no motion controls, though. 

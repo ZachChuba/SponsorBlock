@@ -1,0 +1,60 @@
+In our universe, when you change from a non-moving
+perspective to a moving one, or vice versa, that change of perspective is represented
+by a what's called Lorentz transformation, which is a kind of squeeze-stretch rotation
+of spacetime that I've mechanically implemented with this spacetime globe. Lorentz transformations keep the speed of
+light the same for all perspectives, since that's an experimentally verified fact of
+our universe. For example, let's say I'm not moving – that
+is, I'm at the same position at all times, and you're moving a third the speed of light
+to my right, and you turn on a flashlight. Then that light will move at the speed of
+light, c, or about 300 million m/s, which is drawn as a 45° line on this spacetime
+diagram. And viewed from your perspective, you're not
+moving (aka you're at the same position at all times) but the light ray still travels
+at the speed of light. In fact, viewed from ANY moving perspective,
+the light ray always moves along a 45° line on a spacetime diagram (at least one with
+the axes scaled like this). So light speed plus your speed equals light
+speed - it's almost more like what happens when you add something to infinity than adding
+together two finite numbers. But what about speeds slower than light speed? What if you're traveling at 60% the speed
+of light to the right, and you shoot a death-pellet that is itself going 60% the speed of light
+to the right relative to you – how fast is it going from my perspective? The intuitive answer to this question is that
+if the death-pellet is going 180 million meters per second to the right relative to you, and
+you're going 180 million meters per second to the right relative to me, then the death-pellet
+must be going 360 million meters per second to the right relative to me, which is faster
+than light. And which is wrong. In our universe, velocities don't simply add
+up when you change perspective. They almost do for things moving much slower
+than light (which I'll explain in a bit) but in general that's not how our universe behaves. Here's a spacetime diagram from your perspective
+of you shooting a death-pellet to the right at 50% the speed of light - that is, taking
+4 seconds to go as far as light would in 2 seconds. And here's what happens when we shift to my
+perspective, from which you are moving to the right at 50% the speed of light. The death-pellet is still moving to the right
+relative to you, still moving really darn fast, but it's not moving as fast as light
+- its worldline is not quite  a 45° line. And while stuff going 60% the speed of light
+is kind of reaching the limits of what the spacetime globe can reasonably display, if
+you shoot a death-pellet at 60% the speed of light and then we shift to my perspective
+from which you're going 60% the speed of light, the death-pellet still isn't going faster
+than light. And it can't be, which you can kind of get
+a feeling for from how Lorentz transformations work – in our universe, when you change
+from one moving perspective to another, your perception of spacetime squeezes and stretches
+along the 45° lines that represent the speed of light, and this can only rotate worldlines
+to angles that are between those 45° lines. Stretching out a line on a rubber sheet makes
+the line's angle approach the direction of stretching, but never “flip over” to be
+pointing the other way. So even if we shot a death-pellet going 60%
+the speed of light FROM a death-pellet going 60% the speed of light FROM a death-pellet
+going 60% the speed of light and so on, the final speed would be close to but not quite
+the speed of light, because of how relative velocities combine in our universe. This is one of the consequences forced upon
+us by the constancy of the speed of light: in a universe (like ours) where changes of
+velocity don't change the speed of light, then changes of moving perspective can never
+make other velocities change from a relative speed less than the speed of light, to a relative
+speed equal to or greater than light. If we have an object moving at a speed v relative
+to your perspective, and you're moving relative to me with speed u, then the equation that
+describes precisely what speed the object is moving relative to my perspective is v frommyperspective equals v fromthemovingperspective
+plus u over 1+v fromthemovingperspective times u all over c squared. You'll notice that if you put in c, the speed
+of light, for one of the velocities, the equation always gives the answer c back, no matter
+what the other velocity is – which of course jives with the whole “constant speed of
+light” thing. And you'll notice that if both velocities
+are less than the speed of light, then the equation always gives back an answer less
+than the speed of light – which is what we were describing earlier about relative
+speeds never adding up to a speed faster than light. Which of course jives with the the whole “nothing
+can accelerate to light speed” thing. And you'll notice that if both velocities
+are a lot lot smaller than the speed of light, then the v times u divided by c squared term
+in the bottom is essentially zero, and so the whole thing is essentially v+u – this
+is the sense in which, for slow speeds, velocities DO simply add together. But not for speeds close to light speed; our
+universe is more subtle than that. 

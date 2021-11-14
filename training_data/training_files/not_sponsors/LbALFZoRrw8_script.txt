@@ -1,0 +1,60 @@
+Vsauce! Kevin here, in the control room of the USS
+Pasadena -- a Los Angeles Class nuclear-powered fast attack submarine. The Pasadena is over 100 meters long, has
+a crew of nearly 130, and is propelled by a thermal-neutron reactor that generates 35,000
+shaft horsepower. And it has a lot of buttons, so I’m gonna
+push… this one. Hey. Don’t touch that. Or… anything. Right. I’m here with Petty Officer John Davis,
+Machinist Mate Nuclear First Class and trained rescue diver with the United States Navy. I’m 100 meters deep in the Pacific Ocean
+with an expert in thermodynamics, nuclear reactor technology, fluid dynamics, mathematics
+and more. And we’re gonna tap that knowledge to get
+to the bottom of a game that’s been a staple of kitchen tables for a century: Battleship. Battleship evolved from a pencil and paper
+French game called L’Attaque, which eventually became Stratego. By the 1960s Milton Bradley developed the
+classic 10 x 10 grid in which each player places 5 ships: a carrier that occupies 5
+spaces, a battleship on 4, and a cruiser and submarine that are each on 3, and a destroyer
+on 2. Ships can’t overlap, but they can touch. The actual gameplay is really simple: the
+first player guesses a location on the grid -- say, C4 -- and the second player says whether
+that shot hit one of their ships or missed entirely. If it’s a miss, then we both mark our grids
+with a white peg. If it’s a hit, then we'll mark it with a
+red one. The object is to hit each location on all
+5 ships and sink them. And it seems like there’s really no perfect
+way to start. We’ve got 100 possibilities, and all of
+them equally valid. With 17 possible hits, our first random shot
+is going to hit about 1 in 5 times. So… I’ll start. F7. Miss. Random guesses in Battleship are just a massive
+exercise in probability, and a simulation by Nick Berry of DataGenetics showed that
+using this random system means over 99% of games will require at least 78 shots. Uhh. E7. Miss. Playing totally randomly would be really,
+really inefficient, and unless both players are choosing all shots randomly, you’d lose
+almost every time. And real randomness is actually pretty, pretty
+hard. Research as early as the 1930s showed that
+humans aren’t capable of generating a random number sequence, and modern research in economics
+shows that decision-making is incredibly difficult when we have to try to make sense of randomness. A3. Miss. Computers are a lot better at handling randomness. But pure randomness just isn’t optimal here. The way most people play Battleship is a blend…
+first, they shoot randomly until they get a hit, and then they go up, down, left and
+right around that hit to find the next part of the ship. D5. Ugh. Hit! That’s what Berry calls the “Hunt and
+Target” method. You start by randomly firing shots, and then
+work around your hits to sink ships. By repeating that strategy, the average game
+will take about 65 shots. That’s better than random, but it’s not
+great. H8. Miss. The next level strategy is what’s called
+“Parity,” where you recognize that the board of 100 spaces is actually no more than
+50. Because the smallest ship has to occupy at
+least 2 spaces, we can think of the Battleship board like a checkerboard of alternating colors. We can “Hunt” on just one color, and then
+“Target” when we get a hit. D6. Hit… and sunk. Battleship’s smallest unit is 2, so once
+the Destroyer has been sunk -- like you just did -- then that expands to 3, then 4 and
+5. Hunt and Target with Parity improves our average
+number of moves nearer to 60, so it’s a little better. But still not optimal. Uhh. B2. Miss. We can employ a rough algorithm in our minds
+that takes into account both the board and whether ships of a certain length are likely
+to be in a certain position on that board. G9. Uhh. Miss! A computer can do this perfectly judging the
+probability of a given ship’s length being placed in the leftover spaces on the board. This will change with every single move and
+will create a sort of heat map that suggests where we should guess next. I'm gonna guess. next... D4. Hit! You’ll start the game with no information
+at all, so the best option is to shoot near the center and adjust from there. Guess, recalibrate, repeat, each time refining
+your probability based on the layout of spaces left and the length of the ships you haven’t
+sunk. A9. Hit! We can’t do this as fast or as perfectly
+as a computer, but we can generate a pretty good approximation in our minds. As we play each game of Battleship, we’re
+employing a probability density function and refining an algorithm in our brains with every
+move. Statistically, there’s a massive payoff
+to this approach: It drops the number of shots required into the 30s or 40s, with Berry finding
+that all 100 million games he simulated were completed by about 65 moves. C4. Hit. That’s how so much of practical math, science
+and engineering works. We make an approximation, and then hone in
+on the details the best we can considering all the variables, unknowns, and randomness
+-- and then put it together with constant adjustments to make something complex function
+flawlessly. B9. Ugh. Hit. It’s a constant process. But whether you're optimizing the probability
+behind a 50-year-old board game or navigating one of the most advanced naval vessels ever
+created... today we have an opportunity to learn, refine, and evolve faster than ever
+before. Wait. Did you say, B4? Uhhh.. yeah? Hit… and you sunk my submarine. W..wait. Not... Not this submarine? ... No. Okay. Good. And as always -- thanks for watching! To check out more videos like this go to sailorvs.com. Did I say it right? I said it right, right? Okay cool. Phew! And it's got a lot of buttons. So I'm gonna touch this one. Please don't touch that! Uh. Right. Or anything. Sorry. Nuclear. I'm such an idiot. Okay yeah! If you like it -- I like it! 

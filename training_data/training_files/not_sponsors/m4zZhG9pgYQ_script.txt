@@ -1,0 +1,323 @@
+INTRO
+WELLP I have never done as much spreadsheet management and automation batch scripting
+for a single video, ever. Apologies for looking like a mad scientist
+or for the weird word scripting of this video… this project has been my obsession the past
+couple days. I’ve been planning for a while to do a proper
+video breakdown comparing the different X264 CPU Usage Presets alongside NVENC to get a
+bit more scientific measurement of the quality of the differences, and the timing seemed
+perfect to follow-up the video I helped provide input on from GamersNexus addressing AMD’s
+misleading game streaming benchmark in their E3 2019 press event. So with this video, I sought out to definitively
+- well as definitively as something so subjective can be - prove that Slow is a useless CPU
+Usage Preset for X264 game streaming… but is that the conclusion I wound up with? Let’s find out after a word from this video’s
+sponsor. I mean… with how much sleep I lost over
+this project, I gotta pay some bills. Ya boi gots some debt. Speaking of which, Channel Members, Twitch
+subs, Patreon, KoFi, and DonorBox backers will have download links to all of the compressed
+clips to compare for themselves without YouTube compression added on top. ABOUT THIS VIDEO
+Full disclaimer, this video started as a fairly simple, observation-based comparison between
+different quality settings, but got incredibly nerdy and scientific for my channel. I want to cover some of the finer details
+in this video, but I’ll save the excruciating details of my methodology and testing practices,
+etc. for the write-up on my website linked in the video description. I’ll even have copies of the scripts I used
+posted to Github with some suggestions for improvement and etc. This video will also reveal my “secret sauce”
+streaming flags that I’ve been using to produce some of the highest quality on Twitch
+for Apex Legends streams. For those who are only here for certain conclusions
+from this video (assuming you haven’t already argued your AMD defenses in the description
+below because corporations are your friend), I’ll have section markers in the video and
+timecodes in the description below. I’m going to talk about the “misleading”
+accusation and my methodology before getting to comparisons, so feel free to skip ahead. For those of you who can’t figure out why
+I need so many tabs - often is for dense projects like this. MISLEADING VS LYING
+Something I wanted to address was the fact that I agree with GN Steve that AMD’s streaming
+benchmark was a tad misleading. Some seem to be really stuck on the idea that
+since AMD didn’t outright lie in the presentation, or disclosed some of the settings used that
+it somehow can’t be misleading, which just isn’t true. And there are some who feel that since Intel
+has done some weird misleading marketing in the past that AMD should somehow be free from
+criticism here? Even though GamersNexus was far more harsh
+on Intel’s marketing mishaps and for a much longer amount of time. So no. While yes, to the nerdiest of audience members
+out there who knew 100% what everything meant and could read between the lines, those people
+could discern the specific situation AMD’s streaming benchmark was applied to and know
+that it doesn’t realistically apply to all streaming situations. But for a general press conference where information
+will be disseminated down the grapevine with nuance lost along the way, the implication
+given by AMD’s showing was that the 9900K is not capable of game streaming. Directly, that’s a problem. However, even for the people out there who
+think they “know better”, there are some that will now normalize X264 slow as the default
+or the target setting that you should stream at, and thus hardware that can’t do so is
+not the right choice, which ends in virtually the same conclusion. I’ve seen this time and time again. People get these silly misconceptions based
+on marketing fluff or outdated ideas (see: Elgato vs AVerMedia in the public perception
+of those who haven’t used it) and it gets messy. These very kinds of things are why I avoid
+diving into forums and r/Twitch, etc. to help people out - even though it would be great
+for my brand - because there’s just too much misinformation that I can’t fight other
+than by making content and hoping the right info gets put out there. Virtually every streamer I’ve seen brag
+about pushing Slow for their stream were switching from something like VeryFast, so the quality
+jump seemed more significant, and they usually wind up backing it off to Medium once they
+encounter a more difficult-to-encode game. Slow is not a realistic situation, it’s
+meant for post-production final video mastering, not live game streaming, and when used live
+virtually always requires fine-tuning on any machine, even something as beefy as my 18
+core i9. Leaving it to run free and utilize all of
+your threads is a foolish decision which will always net you worse results. Many of Slow’s options are wasteful for
+live environments, too. Plus the entire part of that event left out
+that their GPUs were at almost full utilization, which leads to GPU-based render and compositing
+issues, as OBS needs GPU overhead to operate, dropping more frames from that alone, which
+also causes more encoding problems. And when you consider that the AMD CPU side
+still dropped nearly 3% of frames with GPU utilization that high, the actual player experience
+would be jittery or stuttery as all hell and just a poor experience. This… was just not a good benchmark, period. Despite the fact that their CPU would clearly
+obliterate the 9900K in single-PC streaming scenarios. I’m going to briefly cover some of my methodology
+for this test in this next section, please feel free to skip forward to the timecode
+shown on-screen or in the description if you just wanna see some comparisons. METHODOLOGY ABBREVIATED
+Again, I will have a more in-depth write-up about my testing scenarios in the link in
+the description, but let’s cover what I’ve set up here and how it differs from the Gamers
+Nexus “benchmark.” A common complaint of GN’s stream testing
+is that they don’t use fast-paced games like shooters, which stress the encoder much
+more, especially at lower resolutions. This is actually for a reason, as their testing
+was performance-based. Their goals involved discussing single-PC
+streaming setups where performance is tested for streaming while gaming, where you cannot
+replicate the exact same scene in a live gameplay of something like Apex Legends or PUBG for
+multiple benchmark runs. That’s part of the reason I had reached
+out to give input to GN for this video, hoping they would do one. I don’t have the interest nor patience for
+performance benchmarking and they already had the setup and capacity for such testing,
+so they were perfect to take charge on that side. My testing, however, is 100% replicable using
+the same source file for all of my encode passes. I had to scrap the original process I had
+been working on for a couple months, which involved recording the file playback in OBS
+to compare, as there will always be occasional dropped or missed frames (even if not reported
+by OBS) that will send the files out of sync, and the start/end times will never match up,
+making scientific comparison impossible. So for my project I’m just using 2 source
+files recorded losslessly and encoding to OBS’s settings for specific CPU Usage Presets
+and a few different bitrates - since 10mbps isn’t permitted by Twitch and a point where
+quality normalizes anyway - and RTX Nvenc, as well. We’re using Apex Legends sourced from PC
+at 1440p and XMorph Defense sourced from PS4 Pro at 1080p just to compensate for potential
+scaling concerns, though it ended up being more difficult to encode. [cut]
+COMPARISONS I’ve probably shown teasers of them by now,
+let’s go on and do some observational comparisons. The gameplay here has been switching between
+different CPU Usage Presets and NVENC - did you notice? Do you think you have a guess as to which
+is which? 6 megabits per second is the highest bitrate
+officially supported by Twitch. While you can technically push 8 with no major
+reports of punishment so far, that’s supposedly meant to be reserved for some partners and
+is not officially listed as supported anywhere. Plus, it’s a more realistic goal. So let’s start with that. At 6 megabits per second for 1080p, you can
+easily spot a pretty significant upgrade dropping from VeryFast down to Fast. (Yes, I’m skipping Faster.) VeryFast can get outright blocky in some scenarios
+and is otherwise pretty blurry all around for in-game textures and details, and sometimes
+shifts colors a little weirdly. Fast brings a lot of that detail out and you
+can immediately tell it’s a cleaner image. Moving from Fast to Medium, however, is a
+much less significant jump. For far more processing power, you’re only
+getting a small gain in sharpness to the overall image, and only a small reduction of blocking
+or pixelation, depending on the scene. It still looks nicer, but the curve of diminishing
+returns is already rearing its head. Dropping down to Slow, and… you’d be forgiven
+for not even noticing I’d changed it at all. In some sections you might see a little added
+sharpness, but then you also start to see sometimes more blocking than you saw before. It’s not a magical all-cure for quality,
+by any stretch. In some cases you’re not even getting less
+blocking, just.. Different blocking. The optimizations that start to appear in
+Slow are mostly optimized for multi-pass encoding - something not possible during a live stream
+- or super low bitrate streams. Not helpful here. Throwing in Nvidia’s Turing NVENC encoding,
+which also has RDO, or Rate Distortion Optimization, which Medium and Slow have, and in some scenes
+you’re absolutely getting less blocking than Medium. You sacrifice a bit of sharpness, but end
+up with a perceivably cleaner overall image. NVENC is optimized for the perceptual quality,
+versus quantifiable quality measurements like specific contrast sharpness detection, etc. Pulling up some calculated PSNR, or Peak Signal
+to Noise Ratio, measurements, you can see similar results here. A high jump between VeryFast and Fast, but
+very minimal gains moving beyond Fast, especially when you consider how much more processing
+power - and tinkering of settings because when live you do NOT want to run these settings
+as they come out of the box, which we’ll cover later - is required to run these slower
+presets. Of course, as I mentioned, it calculates NVENC
+as being significantly lower, but this is due to differences in sharpness and where
+NVENC prefers to spend its bits to benefit perceptual quality. ALSO the NVENC setting might be thrown off
+for a different reason, which I’ll discuss after the comparisons are done. Another analysis method, SSIM or Structural
+Similarity index, more strongly shows the similarities between Slow, Medium, and Fast
+at this bitrate, as well. According to SSIM, X264 Fast is 99.57% of
+the quality of X264 Slow. For PSNR, Fast is 98.92% of the quality of
+Slow. I can assure you from experience as a streamer,
+viewer, and educator and coach for other streamers, that the exponentially higher processing power
+required for Medium, and especially slow, is not worth the… 1% to half a percent gain
+in quality. Again, this isn’t fully accurate to perception,
+but you get my point. Another criticism of GN’s benchmark was
+pointing out, as I’ve mentioned, that slower CPU Usage Presets are more beneficial for
+lower bitrate footage. But… this isn’t as significant as people
+seem to think. So let’s get a bit extreme with it. Let’s jump down to 2.5mbps. This is the “slow internet live stream”
+quality. Now, you can’t get around physics. In my opinion someone who can only stream
+at 2.5mbps, and especially lower, should never be streaming at 1080p and will get way better
+results at 480p or so. I’ll cover scaling in a bit. Ironically, the differences, perceptually,
+become much more slim here. The jump from VeryFast all the way to Slow
+is clearly quite significant, but each stage from VeryFast to Fast, Fast to Medium, Medium
+to Slow, are very minimally different. Blocking is… different, slightly improves
+at each step, and sharpness starts to improve at each step. Bafflingly enough, here NVENC actually ends
+up providing a better-looking image by focusing less on sharpness and more about just not
+being so damn blocky, than even X264 Slow. TAKE THAT, VINDICATION for my original NVENC
+comparison video that people wanted to say was wrong. The video is so noisy at 2.5mbps that PSNR
+doesn’t help us much here, showing that these are all still quite close, but further
+away in quality difference than you’d actually perceive. Keep in mind, I’m just showing the averages
+here for simplicity. If we bring in the min and max PSNR differences
+for each, there’s a lot more information to consume, but it gets far more complicated
+to convey in this video. Meanwhile SSIM has these different presets
+being much closer, with Fast being exactly 99% of the quality of Slow at this bitrate. Slow is not worth it. I did testing of many bitrates which will
+be in the nerdy documentation in the description, but for now, let’s finally touch on the
+notorious 10mbps bitrate. The problem with this bitrate, is it’s just
+too high. Most home internet connections of game streamers
+can’t push this, and the only sites that I know that accept it are YouTube and Mixer. Plus, quality differences really start to
+normalize out, as 10mbps approaches what would be considered an “acceptable bitrate”
+for 1080p footage, being not that much lower than the average delivered bitrate of an actual
+YouTube video at 1080p. For my tests… man, these results are not
+going to go over well with the people who want to be against this video… At 10mbps, VeryFast honestly looks perfectly
+fine for most people. Jumping between VeryFast and Medium (I skipped
+Fast here) you get an increase in sharpness and a decrease in blockiness in some areas,
+but honestly looks blurrier in some other areas. Medium to Slow? Again, small increase in sharpness, but different,
+not necessarily less, blocking, and more blocking in shadows as an attempt to increase sharpness. And this is another case where NVENC, while
+maybe not being quite as sharp in some areas, ends up looking cleaner than even Slow all-around,
+and sharper in some areas. I can’t make this stuff up, guys. Believe it or not, I’ve not been talking
+out of my ass for all of my videos on this subject. Jumping back to the analysis numbers, PSNR
+puts a 96.71% difference between VERYFast (I switched presets here, as a note) and Slow,
+with SSIM putting only a 98.93% difference between VeryFast and Slow. Very close at 10mbps, making it really not
+a good flex of what the different usage presets can do at all. Your average viewer on a PC will barely be
+able to tell a difference, a mobile viewer won’t even begin to care. And honestly the same applies to the lower
+bitrates, as well, as I’ve hopefully shown a bit, here. If you’re playing more slower-paced games,
+then this is even further exaggerated, as some saw to complain about GN’s video, though
+IMO it still showed some differences with those benchmark levels. PERFORMANCE 9900K
+Specifically encoding on the 9900k, I was looking at speeds around 2 to 2.31x realtime
+when encoding using X264 Fast at 1080p, 1.85 to 2.10x realtime encoding at Medium at 1080p,
+and about 1.75x realtime encoding at Slow at 1080p. While obviously things work a little differently
+when live when you have other scenes going and etc., but a 9900K is capable of being
+a streaming rig for external inputs for sure. But you can see we lose about 24% performance
+between Fast and Slow, which is fairly significant. Again, if you want to compare the individual
+files yourself to pixel peep and go frame by frame, the download is available to Patrons,
+Donorbox and KoFi supporters, YouTube Channel Members, and Twitch subs. Or I guess you could make a one-time Paypal
+donation and request the link, too, if it’s enough? I don’t know. I wanted to mention another reason that NVENC
+might have been reported as lower quality with PSNR and SSIM - every time I generate
+a file using NVENC via FFMPEG on my gaming PC, the file has some sort of incorrect timecode
+issue which results in the file becoming out of sync with the source and the rest of my
+comparisons about halfway to two-thirds of the way through the clip. Meaning that any frame by frame comparison
+analysis, like the two I’ve done here, are more or less invalid, given that it spends
+a good chunk of time comparing completely mis-matched frames. Just wanted to note that here, as Nvidia’s
+officially-reported PSNR comparisons are very different than what I show here. I have spent too long on this video already,
+and it’s not even about NVENC, so it’s really not worth finding a solution at this
+point in time. You can visually see how similar it is, as-is. VMAF
+Using a smaller sample size of clips, and a smaller chunk of that source clip - given
+it would have taken a couple more days and many more terabytes that I don’t have to
+spend to do the full run of VMAF testing, let’s see what we can gleam here. VMAF is Netflix’s perceptual video quality
+assessment algorithm that they use to determine the best balance of bandwidth to perceived
+quality to the viewer for their streaming service. Whereas the PSNR and SSIM test were based
+on computer-decided measurements of quality that don’t entirely represent what we see
+with our eyes, VMAF aims to give a score that accurately represents what a human would perceive
+as quality differences. With VMAF, I feel you can interpret similar
+results as before, with NVENC perhaps conveyed a bit more accurately. At 2.5mbps 1080p you can see a significant
+jump of 5 points from VeryFast to Fast, but then a jump of less than 3 points from Fast
+to Medium, and then .8 of a point between Medium and Slow, as well. This puts X264 Fast at about 94% of the quality
+of Slow, for much less performance cost. VMAF places NVENC one point higher than Fast
+here. At 6mbps, the jump from VeryFast to NVENC
+is about 7 points, or almost 8 points from VeryFast to Fast, but then the difference
+between Fast and Slow is only about one and a half points’ worth of quality difference. Because I’m a masochist and wanted to be
+as thorough as possible, I also ran an analysis at 720p with some SUPER low bitrate files
+and things get weird here because this just isn’t enough bitrate. VeryFast actually scored a point HIGHER than
+Fast at 0.5mbps, but then Fast was 4.5 points higher than VeryFast at 1mbps. Meanwhile NVENC beats out both Fast and VeryFast
+at both of these bitrates. Medium and Slow both top the 0.5mbps and 1mbps
+charts, with less than one point between them on each, netting about 4 points of gain above
+Fast on both charts. So it can for sure make a difference here,
+but it’s still a high curve of diminishing returns. Even at 0.5mbps, Fast is 81% of the quality
+of Slow - though that was an oddball with Fast being worse than VeryFast. At the same bitrate, NVENC achieves almost
+89% of the quality of Slow. At 1mbps, NVENC achieves 95% of the quality
+of Slow with Fast achieving almost 93% of the quality of slow. Next, let’s cover some scaling talk and
+my “secret sauce” for squeezing a balance of quality and performance, at least on high-end
+machines like my i9. More than just CPU Usage Presets
+Hopefully by now I’ve made a pretty fair case about X264 Slow, and for some people
+even Medium, not being “worth it” for the minimal quality gains. Plus, 9 times out of 10, when I see someone
+bragging on Twitter about managing to stream Slow they pretty much always end up turning
+it down to Medium soon after once they play a different game and their stream doesn’t
+hold up. But the thing is, people’s obsession with
+X264 CPU Usage Presets is a vast oversimplification of video quality optimization. This is not uncommon when it comes to mass
+dissemination of super technical details that are…. Not documented in the most newbie-friendly
+way. Much of what I’ve learned about X264 and
+FFMPEG’s various commands and flags and optimizations beyond the obvious has come
+from deep diving into video nerd forum posts from the early 2000s or early 2010s, or worse,
+Google Cached copies of old documentation pages, and pestering the OBS creator and devs,
+and some Nvidia team members. It’s not an easy or super accessible topic
+to get all of the knowledge for, and there’s certainly plenty of flags and commands and
+aspects of it that I haven’t bothered to learn because most of what I know is far too
+technical for what should be required for game streaming. But in my experience, you’re never just
+setting OBS to Slow and letting it run wild, it always needs tinkering. Hell, even the OBS team and the FFMPEG developers
+don’t recommend targeting anything slower than Medium for live game streaming. We’ll cover some actual limitations in a
+moment, but let’s talk about other possible optimizations that get overlooked. If you’re using a capture card input instead
+of software Game Capture, such as for consoles or from a 2 PC setup, getting a capture card
+that supports 4:4:4 RGB Chroma Subsampling can help improve image quality when scaling. This is basically the “color resolution”
+that affects how color detail is conveyed through the feed, and most gaming capture
+cards run at only 4:2:0 subsampling. Admittedly, your final stream to YouTube or
+Twitch or what have you will almost always be at 4:2:0, so the gains are minimal, but
+starting with the higher quality source when scaling or zooming in can help a bit. Most of the cards that support this are much
+more pricey than the gaming capture cards, but the AVerMedia Live Gamer 4K actually supports
+this for all modes, and their Live Gamer Ultra supports it at 1080p60. So this is why I use the Elgato 4K60 Pro for
+my 4K console inputs - I don’t need 444 RGB there - and the Live Gamer 4K for my PC
+input since I’m scaling from 1440p 120hz. You’ll need to change the decode mode of
+your card to RGB. Keep in mind all Elgato cards at the time
+of production only support 4:2:0 and any listed RGB modes in OBS for them are simply emulated
+back up from the NV12 mode and are not something you should enable. I cover this more in my Capture Card Documentation
+resource, linked below. Also, make sure you’re using your capture
+card’s best decode modes in the first place. By default, most cards enable MJPEG in OBS,
+but this is a higher latency and much lower quality mode, so if you have something like
+NV12, or even better YUY2 available (other than specific RGB-supporting cards like I
+mentioned) definitely use those modes instead. Also make sure all of your devices and OBS
+are set to Rec709 color space. You need to match these between OBS and your
+devices, so pay attention. What also needs to be matched between devices
+and OBS is your RGB Range - Full or Limited. Typically Full is used for PC inputs and Limited
+for consoles, but when in doubt or mixed environments, it’s usually best to go with all Limited. If you have these mis-matched between OBS
+and your devices, you’ll either get super washed out and ugly colors, or super dark
+and punchy contrasty colors which will be harder to see and compress. Also I recommend AGAINST adding a contrast
+or saturation boost filter after the fact. This used to be really common with YouTube
+videos, but not only are you making your footage not look like it should be - when set up properly
+as just described, your capture card is capturing the footage exactly as your device puts it
+out - and software capture is 100% as produced, but higher saturation and contrast makes your
+footage harder to encode and thus looking worse during your live stream. Lastly, let’s talk about the thing that
+virtually everyone wants to disagree with me on, but I feel my examples here help prove
+otherwise… scaling. In my opinion, MOST PEOPLE should not be streaming
+1080p resolution to Twitch, especially PC players. There’s just not enough bits to go around
+for that resolution, EVEN AT SLOW. I have created some samples at 720p using
+my “secret sauce” settings, which you can find linked below, that take some optimizations
+from Slow and Medium, but bypass some of the pointless performance-limiting flags from
+Medium and Slow. This can be applied to Fast, Medium, or Slow,
+and has netted me some of the best-looking Apex Legends streams on Twitch. Since I’m gaming at 1440p, I scale my capture
+card using Bicubic and run everything on OBS at 720p. This is an even integer scale of 1440p, whereas
+1080p is not. Using non-integer scaling factors for video
+can cause further quality degradation, as you have more approximations being made about
+where details should be and jagged edges to compress, etc. This is also why I usually speak against using
+oddball resolutions like 900p or 960p, as they’re not an even scale at all. Admittedly, I contradict myself in saying
+this, as I recommend a lot of people use 720p as they can get a cleaner feed. But 720p is not an even scale from 1080p either,
+but the bitrate efficiency pays off here, IMO. Thankfully 4K scales to both 720p and 1080p
+evenly. In this example, I’m comparing bog-standard
+X264 Slow and Medium at 1080p vs my Secret Sauce config at 720p in Slow, Medium, and
+Fast. By eliminating some of the flags in X264 designed
+for post-production workflows, I’m able to squeeze out much more performance and even
+extend quality settings - such as extending rc_lookahead to a full second’s 60 frames
+instead of the 40 frames of Slow. Lookahead has major impacts on quality and
+I could theoretically extend it even further. While you can notice certain things, specifically
+text, look softer in my 720p footage than the 1080p footage, the overall image is significantly
+cleaner and more consumable and that is far more important to me. Plus since I push the rules a bit and stream
+at 8mbps, shown here, this reaches what YouTube produces for 720p videos, which is damn impressive. You do reach a point here, now, where more
+bitrate isn’t actually beneficial for 720p, which is a good spot to be at. Fine-tuning could probably be done to find
+a slightly lower bitrate for the same quality - though keep in mind that with X264, even
+with CBR, it doesn’t always push the bitrate you select, it’s usually lower. Bitrate efficiency of encoding settings is
+a whole new rabbit hole I won’t jump in for this video. Lastly, the problem of “more hardware is
+not more better” comes into play. I thought this was common knowledge until
+Linus’s video about choosing CPUs for their video render server a couple years back, (they
+have a new one up on Floatplane by the way) and all the Threadripper high core count nonsense
+started to cause people to cry foul about encoder performance on these rigs - but video
+encoders and decoders can only scale so far when it comes to CPU thread counts. This can be accelerated exponentially with
+GPU, but when it comes to direct thread counts on the CPU, X264 specifically stops being
+viable after 20 threads. This means if it uses more than that, you
+risk reduced performance and even reduced quality. This is part of what I mean about not running
+X264 Slow run rampant across a CPU - with a ton of threads that doesn’t help, and
+it’s far smarter to use CPU Affinity allocation to assign your encoder to specific threads
+and game to different threads, or to just thread-limit X264 in OBS. I limit my X264 session to 18 threads on my
+i9-7980XE, and sometimes tinker with using more than the default 3 threads for lookahead
+for better quality. Arguably, the 18 threads I give it is too
+much, the FFMPEG command line even tells me that I shouldn’t be using more than 16! So no, the newest 64-core 128 thread rumored
+Threadripper is NOT going to magically going to be a X264 Slow monster for 1080p streaming. It’s going to suck unless you’re carefully
+managing things - and a 10 core CPU with higher overclocks and faster memory would do better. With all of this, people tend to ask why Slow,
+Slower, Placebo, etc. even exist then - that’s because X264 is a video encoder that’s been
+around for a very long time and is used for many purposes outside just game streaming. It was never built for that. There are plenty of offline video mastering
+scenarios where Slower and individual flags are necessary to get the best result. Hell, there are some BluRay TV seasons encoded
+with X264! Conclusion
+Why do I put myself through the process of making such insanely detailed videos? 5 hour video courses, documenting every detail
+of capture cards, and now this? I.. don’t know. The takeaway I really want to give from this
+video is that while yes, X264 Slow can provide some improved quality gains over Fast or Medium,
+that isn’t always true, and comes at a ridiculous performance cost that virtually no one should
+have to deal with. For most people NVENC or X264 Fast is the
+perfect sweet spot, and most high-end processors should be able to tackle that with minimal
+issue, depending on the game. Plus, there’s a lot more you can do to optimize
+your quality than just mess with Usage Presets. I’ve been wanting to make this video for
+a long time, but it felt right to get it out following the GN video, and it was fun finally
+figuring out Netflix’s image analysis. I’ll probably use it for more fun projects
+in the first place. As mentioned, more nerdy details and links
+are in the descriptions below, and Patreons and contributors get access to the downloadable
+files, as well. Hit the like button if you enjoyed, subscribe
+for more tech education, I’m EposVox here to make tech easier and more fun and I’ll
+see you next time. 

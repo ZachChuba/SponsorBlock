@@ -1,0 +1,70 @@
+If there is one company that should have absolutely won
+social media and especially messaging, it is Google. Think about it, they have all of the necessary
+ingredients for success. Most people have a Google account already,
+many of them sync their contacts with Google from Android and Gmail, so Google knows their
+social network, and the company can push new services as default apps on Android, tie
+them in with Gmail and YouTube on the web, the Google Suite for business and so on. They are even one of the only companies that knows how to build internet services at really large scale as well as how to build a really great advertising platform, the lifeblood of almost all social app business. And yet, they have consistently failed in
+this category. They have no social media to speak of,
+and their messaging apps get rebooted every year or two. So in the 49th episode of The Story Behind
+series, let's talk about how and why Google has failed so spectacularly at social apps. Thanks to Skillshare for sponsoring this video
+and for giving the first 500 people who sign up with the link in the description 2 months
+of premium access for free. Quick timeline first. Here are all of Google's attempts at building
+messaging and calling apps, and here are their attempts at building social media networks. And as the internet historians among you might
+point out none of these ever became truly popular, except for maybe Google+ as a meme
+for how not to build a social media app. But still, this timeline shows us two things very clearly. First, it is apparent that Google's failure is not for the lack of trying. They have tried and failed again and again at both. And second, in hindsight, it becomes very obvious just how late Google was to every major social trend. Like, Social Media for example. After years of fumbling around with side projects
+like Orkut and Google Buzz, they finally joined the fight in earnest in 2011 with their Facebook
+competitor, Google Plus. Problem is, Facebook was 7 years old at that
+point, and even Twitter was 5. Google Plus launched the same year as Snapchat,
+which ushered in a whole new generation of social media. One focused entirely on smartphone users,
+AR stickers, and spontaneous, self-destructing video content, while Google Plus was still trying to emulate Facebook from a generation ago. Google was also late to take messaging seriously. It's first "real" smartphone-focused chat
+product was Hangouts after they finally unbundled it from Google Plus in 2013. But you know who had beaten them to this market
+by then? That's right, everyone. Whatsapp, Viber, iMessage, WeChat, everyone
+launched dedicated, high quality mobile-first services years before Google, and even Facebook
+realized they had to make Messenger a standalone app in 2011. Google was then also late to the insanely
+popular stickers, to advanced stuff like money transfers that is really popular in Asia with WeChat and Line and stuff, and also to the latest big messaging trend, which is encrypted messaging. They were even spectacularly late to business
+communications. Slack started kicking everybody's butts in
+2013, and even Microsoft was faster to react to the threat than Google when it launched
+Microsoft Teams in 2016. Think about that. When Microsoft with its enterprise solutions
+is faster at product development than you, you know you are too slow. This all points to the fact that Google leadership
+doesn't really have a strong vision for social apps. It seems like their whole corporate culture, and the DNA of the company is fine tuned to build utilities and tools. Google Search, Gmail, Maps, Docs, Drive, Chrome,
+ChromeOS, Google Assistant, all of their successful in-house solutions are tools and utilities. They help you get stuff done, not socialize
+and build communities. Google's only halfway successful social platform
+is YouTube, which they acquired, not built inhouse, and even so, to me it seems like YouTube has succeeded
+despite its social features rather than because of them. They are weak and constantly seem to be lagging
+behind competitors like Twitch. And without any real visionary leaders in this domain
+that can predict or invent the next social trends, the company is always running after the last social trend that somebody else introduced to the market and by the time they catch up with that, the market has moved on to the next thing, they are too late again, they haven't killed a userbase so they kill the service and they start from zero. Which starts this whole cycle again and again. And this concept of just killing an app that didn't work and starting again, I think is a very popular Silicon Valley-style startup strategy, and I think it can work for Google's sort of "bread and butter" products, like tools and utilities, because there you just kill it, didn't work, you try again, you do it until you find the right usable product. But it is extremely risky with social apps,
+because the value of a social app is its network of users. And with each reboot, Google loses their network
+and has to start from scratch again, with users who know that the likelihood of Google just
+killing that service again in a year or two is historically speaking around 100%. So with each reboot, building up this network
+becomes harder and harder, and one failure snowballs into another. But OK, let's leave Google's past behind, and let's focus on what they have on the market right now. At present, they seem to have abandoned social
+media altogether as they recently shut down Google Plus without a replacement, and they are simplifying their messaging portfolio
+to 4 apps. One chat and one video calling app for consumers
+and a similar pair of apps for business users as well. And you know what, while there is no telling
+how long these will be alive, at least that's a clear portfolio and 3 of the 4 apps actually
+have a unique value proposition that I think I could get behind. Their consumer chat solution, called RCS is
+not yet another messaging service, but rather a communication protocol built to eventually
+replace SMS. Instead of messages traveling through a Google
+server and being tied to a Google account, they actually go through mobile carriers,
+just like SMS messages do. If one of the parties has a carrier or a phone
+that doesn't support the protocol, then the system will fall back to just sending a regular
+SMS, but if all is in order, messages behave just like internet chat. They don't have character limits, they can
+contain stickers and pictures, they don't cost extra, like SMS messages do, and so on. Google has gotten a ton of carriers and phone
+makers to get on board with the system, apparently even Apple is rumored to consider rolling
+out RCS to iPhones, and SMS is certainly due for a refresh, but I can't help but feel like
+this is once again coming years too late. I mean, there are certainly some parts of the world like the US, that still rely heavily on SMS and text messaging, but the majority of the world, basically everyone I know here in Europe or Asia where I lived for a few years, nobody under the age of 50 still uses SMS for basically anything. I mean this graph shows the number of SMS
+messages sent in Germany for example, which doesn't look great for RCS, and people around the world are pretty tied-in to their chat ecosystems. Encrypted chat apps for example offer more security and services like WeChat offer superior functionality to RCS. Plus with so many players involved, I find
+it really hard to imagine that RCS would manage to keep up with the pace of innovation that other social apps are seeing and stay relevant for long. But OK, RCS is still a more interesting solution than just yet another Google chat app that nobody would use. Now, where I think Google does have a real chance at a come-back is with business communication tools. After all, these tools, these chat and video calling apps for businesses are as close and utilities as social apps can be, so I trust that Google can execute on these. And while their apps came way too late, they
+have one huge benefit. They come for free with G-suite, Google's
+competitor to Microsoft Office, which is very popular among small and medium sized companies. These companies typically pay for G-Suite
+and a dedicated chat app, usually Slack, but if Google can deliver a viable competitor
+to Slack for free with G-Suite, then I bet many G-Suite companies will be happy to switch
+over. It's one less bill to pay and one less service
+for IT departments to manage, which is a very attractive proposition. Microsoft was able to play the same trick
+with its own Slack competitor, Microsoft Teams, which has apparently seen fantastic adoption
+among companies using Microsoft Office. The only question that remains to be seen is whether Google will really put in the required amount of work and effort into developing and promoting these tools. Hangouts Chat has pretty terrible ratings
+on Google's own Play store which is in stark contrast to the overwhelmingly positive ratings
+both Microsoft Teams and Slack have on the platform, and the only real report I could find on adoption
+rates claims that Hangouts is actually losing market share in IT companies, to both Teams
+and Slack. I don't think this survey can be seen as 100%
+representative of the world at large, but it suggests that Google has a bunch of marketing
+and sales to do if it wants Hangouts to be adopted by organizations worldwide. But if they really get behind these ideas, they could end up with a real workplace communication tools, and a replacement for SMS. Not bad! 

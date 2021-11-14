@@ -1,0 +1,15 @@
+Right now there are tons of interesting uses
+for these mini PCs. For example, in the Airbnb where I was staying
+during my short time in London there was no like smart TV or anything that could read media of any kind, so I used some of the Pis that I got for this video simply as media consumption device sand
+my favourite background media to have there were some of the excellent documentaries on
+Curiosity Stream… Such as Catalyst, a look into what the heck
+is Quantum Computers and why they matter or Cyber War, a nice long documentary on the
+dark world of hacking, vulnerabilities and the effect the general lack of proper cybersecurity
+is causing. Curiosity Stream is an online streaming service
+from the founder of the discovery channel with over 2,400 high-quality documentaries and
+generally interesting content. Available via browser or app which works on
+Raspberry Pi or even on a really cheap phone. They have free content for you to get started
+and their unlimited access starts at like $3 a month which is a pretty low price to
+improve your media diet. And if you use the link in the description
+or the code lowspecgamer your first 30 days are free. Their support has been invaluable for keeping
+this channel going so be sure to show them some love. 

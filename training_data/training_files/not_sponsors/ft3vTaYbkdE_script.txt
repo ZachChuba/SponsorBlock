@@ -1,0 +1,46 @@
+For this video Lego sent me some of their
+Saturn V rocket sets. But this isn't a video about space - I actually
+want to talk about the physics of how to keep tall things from shaking, like how to keep
+skyscrapers from swaying too much in the wind, or in an earthquake. The taller something is, the more liable it
+is to sway back and forth, so to demonstrate this, the Saturn V seemed by far like the
+best and coolest Lego set for the job (even if not the most realistic). If you don’t your tall thing to sway, either
+because you’re worried it’ll fall apart or you’re worried it’ll freak out the
+people inside, you could just make it stiffer – either by adding more stuff or using more
+rigid materials – this isn’t always the most elegant solution, and gets expensive
+fast. But there’s another, clever solution. From a physics perspective, a tall thing like
+a building is really an upside-down pendulum - when it gets bent a little bit to one side,
+the building’s natural stiffness pulls it back the other way, and so on. And there's a neat phenomenon that happens
+with pendulums when you attach two of them together with a spring: they start swapping
+energy back and forth – first one oscillates, then both together, then the other has all
+the oscillations, then the first again, and so on. The same thing happens with solid blocks and
+springs, too, or any two oscillating things that are coupled together. In a perfect frictionless simulation this
+energy swapping will go on forever. But in the real world there's friction and
+air resistance and the spring itself might heat up, causing the objects to lose energy,
+and the oscillations dampen over time. And this phenomenon is what you can use to
+‘discourage’ your upside-down pendulum from shaking in ways you don’t want it to. A big tall object is going to want to sway
+back and forth at its own natural frequency of swaying (which depends on its height, weight,
+and stiffness). If you then attach a smaller object to it
+that can sway to and fro, and add a little bit of friction, then any time the big object
+trades its energy to the little object, the little object loses the energy to friction
+rather than trading it back to the big object, and this dampens out the big object's oscillations. In practice, you normally put the little object
+inside the big object, which looks more like this, but the principle is the same. And you don’t want to use just any old little
+object and any old spring. It turns out that for a particular big thing,
+there’s an optimal combination of weight and friction and spring strength for the little
+object. And only with your setup perfectly tuned will
+you get the fastest possible loss of energy and the best slowing down of the shaking. That’s why this setup is called a “tuned
+mass damper” – “damper” because it dampens the swaying, and “tuned” because
+the little object is specifically tuned to steal energy from this particular big thing’s
+natural tendency to swing. Which brings us to the Lego Saturn V rockets:
+in one of the rockets I’ve put a weighted pendulum in the place the lunar module should
+go, while the other just has the weights stuck in place. If all goes well, and if I’ve done my math
+right, then when I bump the table, the rocket with the pendulum should sway a lot less than
+the rocket without. As you can see, the tuned mass damper does
+actually help! (though it’s a bit subtle). Here’s a graph of the motion of the rocket
+in each case, which makes it more obvious. And though tuned mass dampers definitely weren’t
+used in the saturn V rocket in this way (since this is where the lunar module went), they
+are used in skyscrapers and even in other things that aren’t buildings (though they’re
+usually hard to notice). For example, if you look closely at power
+lines, a lot of them have this little dumbbell thing on them, which is a tuned mass damper
+that keeps the lines from shaking too vigorously in the wind. And tuned mass dampers have been used to reduce
+unwanted vibrations in airplane engines, formula 1 racing cars, and audio speaker cones. So there you go – the tuned mass damper,
+aka the physics of how to use little things to stop big things from shaking! 

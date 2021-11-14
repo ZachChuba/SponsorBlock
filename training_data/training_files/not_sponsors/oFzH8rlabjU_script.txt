@@ -1,0 +1,67 @@
+This episode is sponsored by The Ridge. Go to ridge.com/scishow and use promo code
+“scishow” to get 10% off your next order. [♪ INTRO] For better or worse, World War I saw tons
+of technological advancements. And one of the especially effective ones was
+a method of early, remote wiretapping. During the war, militaries ran telephone lines
+from their command centers to the battlefield, and the opposition did their best to intercept
+those signals. To do this, they stuck two prongs into the
+ground hundreds of meters away, then ran attached cables to a device called
+an amplifier. The prongs could pick up signals from the
+phone lines, and from a relatively safe distance, soldiers would be able to listen in on sensitive
+conversations. The goal here was pretty obvious: that sweet,
+sweet intel. But occasionally, those soldiers also picked
+up signals that were a little more alien-sounding. Things like twangs and hisses and [whistle
+sounds]. These were sounds that telegraph operators
+had heard for years, and no one was quite sure what they were. But once researchers started studying them
+more closely, they were able to turn those noises into one
+of astronomy’s most important tools. Although soldiers continued to hear these
+sounds until the end of the war, we didn’t understand what caused them until
+1953. That year, researchers at Cambridge conducted
+a study tracking when these noises occurred, and they realized that those sounds, which
+they called whistlers, are caused by lightning. Or, more specifically, they’re caused by
+the stuff that makes up lightning: plasmas. These are extremely hot, electrically-charged
+gases. And because they’re charged, they can interact
+with magnetic fields and form waves. When lightning strikes, these plasma waves
+travel along Earth’s magnetic field lines, changing speed and pitch as they go. They vibrate at really low frequencies, and
+can be heard as radio waves by field amplifiers, telegraph lines, or any
+magnetic device. With this discovery, scientists could finally
+explain where the weird telegraph and wiretapping
+noises came from! But as they kept researching, they also realized
+that whistlers weren’t the only plasma phenomenon
+like this. Instead, plasma could make a bunch of sounds
+depending on how it behaved. And together, these noises were named whistler-mode
+instabilities or whistler-mode waves. Today, we know they aren’t just caused by
+lightning. Auroras can make whistler-mode waves, too,
+which sound equally bizarre. But regardless of where they come from, these
+noises are more than just neat: They’re also really useful tools. Since each sound is produced by a distinct
+phenomenon, we can use whistler-mode waves to understand
+what’s happening in Earth’s atmosphere, on the Sun, and around other planets; really
+anywhere we find charged gases. And there’s a lot we’ve learned from them! Take what we discovered with the Van Allen
+Probes mission, which wrapped up operations in July 2019. It used whistler-mode waves to study the Van
+Allen belts, two big lobes of plasma trapped in Earth’s
+magnetic field. And it discovered that the shape of the belts changes
+all the time in response to conditions on the Sun. The Van Allen belts are a major point where particles
+from the Sun interact with Earth’s magnetic field. And since those interactions can affect things
+like electronics, and satellites, and astronauts on the Space Station, they’re
+pretty important to understand! Whistler-mode waves have also helped us understand
+the gas giants in our neighborhood. For example, the 1970s Voyager probes heard
+whistlers while flying by Jupiter and Neptune. And in 2006, the Cassini spacecraft heard
+whistlers on Saturn. That allowed researchers to infer that those
+planets have lightning storms, which opened up new areas of research. The Voyagers also gathered data on other whistler-mode
+waves, and that gave us insight into how Jupiter
+and Saturn interact with their moons. For example, Jupiter’s moon Io emits tons
+of gases, which form an electrically-charged disk that
+orbits the planet. This disk is pretty important to know about
+when you’re planning a mission to Jupiter, at least, if you want to keep your spacecraft
+functional. And whistler-mode waves have helped us figure
+out how thick it is. Meanwhile, on Saturn, Voyager 1 heard specific
+types of whistler-mode instabilities called hiss and
+chorus waves. And analyzing them produced evidence that Saturn was pulling plasma from the atmosphere
+of its moon Titan. It was siphoning the gases up along its magnetic
+field lines. And although we’re not quite sure what the
+implications of that are, it’s a really cool observation, because
+the Earth and our Moon are totally different. Since these discoveries, probes have continued
+to monitor whistler-mode waves to better understand these planets’ moons,
+magnetic fields, and atmospheres. And since gas giants have a lot of atmosphere
+to study, we’re really just scratching the  surface. So early telegraph operators, and WWI spies
+were listening to plasma, and from that we could learn about things
+like gas giants! Science is so cool! [♪ OUTRO] 

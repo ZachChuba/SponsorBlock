@@ -1,0 +1,84 @@
+In the first year of my physics degree, I had a birthday party and 30 people came. In the last year of my physics degree, I had a birthday party
+and five people came. Now it's not like physics turned me into a mega bitch or anything like that, at least not that I know of. But as the years went on, I became more and more
+serious about my studies. I stopped going out with
+friends, meeting new people and I spent most Saturday nights alone in my room, integrating equations. The better my grades got, the more my social life suffered. This is just an example of one of life's, many trade-offs. But trade offs aren't just unique to us. They play a pretty big role in the way the world works. In this video, we're going to talk about the uncertainty principle and you'll see that whether we're talking about position, momentum, good grades or a social life, it all
+follows the same logic. There are some things
+you just can't improve without messing up something else. The most well-known
+version of this is probably the Heisenberg uncertainty
+principle from quantum mechanics. And while we will get to that today, the uncertainty principle
+is a lot more general. Let's start with something simpler. Take this little old lady Mildred, now you've been watching her for a week and you notice that on Sunday,
+she goes to the market. Now, can you conclude that every Sunday she goes to the market? Well, not really. You've only seen her do it once. Now, you watch it for another week and lo and behold, on Sunday
+she goes to the market. So it's tempting to say
+that she goes to the market with frequency once per week, but it's still not enough. You need more time to draw
+an accurate conclusion. After a year of careful surveillance, you're pretty sure that she goes to the market
+with frequency once per week. But, what if the next week
+she goes to bingo instead? Or what if she needs more
+cat food and goes twice? Really, you need an infinitely
+long time to be 100% sure that Mildred frequencies
+the market once per week. Obviously you don't have
+an infinite amount of time. So the frequency of Mildred's market trips can never be known to 100% accuracy. There's this trade off between knowing the
+frequency and spending time. This is a version of the
+uncertainty principle and variables that have
+this trade-off relationship are called conjugate variables. Another more well-known
+pair of conjugate variables, are position and momentum. This is one version of the
+Heisenberg uncertainty principle and it States that the
+uncertainty and position, and the uncertainty and momentum, are always greater than or
+equal to this constant here. Basically we can never
+measure both the position and momentum of an
+object to 100% accuracy. We'll come back to the equation in a bit but first, let's talk about the intuition. The way my quantum physics
+professor introduced the uncertainty principle was, imagine you're trying to find
+the location of a basketball, but the only way you can do that is by throwing tennis balls at it and measuring where they bounce back. If you manage to hit the basketball, sure you know where it was, but, now it's moved. Keep the imagery in
+mind for this next bit. Heisenberg was a German physicist who loved classical music and was a pretty
+accomplished piano player. Oh yeah, and he won the Nobel Prize for the creation of quantum physics. One day, he was performing
+a thought experiment. He wanted to see if he could measure both the position and
+velocity of an electron. To measure the velocity of something, you just need to measure
+its position twice and divide by the time it
+took between each measurement. So it seems silly that you could measure something once, but not twice, right? But the most direct way of
+measuring where something is, is to shine light on it, and from the reflected light
+calculate its position. We do this every day when we look at things. Photons hit the object and
+reflect them back into our eyes, then our brain figures out where it is from the image produced on the retina. So Heisenberg imagined looking at an electron under a microscope, firing a photon edit and figuring out the position of the electron. But in order not to move the electron, he would need to hit it with
+a photon of really low energy. Now quantum particles have a property called Wave-particle duality, where they behave as both
+particles and as waves, so while they can be
+thought of as particles, they also have a wavelength and frequency. Radio waves have the longest wave length 30 centimeters or more. And they're great for capturing
+images of stars and planets, but they'd be hopeless at producing a good image of say your face. You would just get a blur. See you can't get better focusing power than the wavelengths that
+are forming on the image. The 30 centimeter radio
+waves can only make images of details at least 30 centimeters big. If you made the wavelength smaller, to about a millimeter, then you'd get a much better image. So if Heisenberg wanted
+to get a clear image of an electron, say to within a micron, he'd need to decrease the wavelength of the photon to within
+1000th of a millimeter. But, the energy of a photon is given by this equation where E is the energy and
+the lambda is the wavelength. So you can see that as the
+wavelength gets smaller, the energy gets bigger. If we decrease the wavelength allowing us to get an accurate
+description of its position, the photon has to be of such high energy that it hits the electron
+too hard and moves it. If we hit the electron with
+a photon of low energy, and then hit it again, we can get an idea of the velocity, but the images will be
+too fuzzy to measure it's positioned with decent accuracy. This is a conundrum. Position and momentum
+are conjugate variables. You can't gain information about one, without losing information
+about the other. Now let's come back to our equation. Hopefully now it makes more sense. These triangles mean uncertainty and this X means position, and this P means momentum. This H by on two is a
+teeny, tiny little constant. Don't worry about the
+exact value right now, the important thing is that
+it's greater than zero. So the equation tells us that the uncertainty in position, and the uncertainty in momentum, is always greater than zero. Basically we have to have
+some uncertainty somewhere. As we saw from Heisenberg's experiment. This had nothing to do with
+the equipment he was using. Unless we find a way to
+make wavelengths shorter without increasing energy, we're screwed. Now for those of you who need
+a mathematical description to go with the intuition,
+don't worry, it's coming. When Einstein concluded that
+light behaved as particles, this French guy named De
+Broglie made this outrageous, totally not founded on anything claim that all particles must
+behave like waves too. And it was right. The wavelength of an electron is just Planck's constant
+divided by its momentum. Therefore, the momentum of a wave, can be represented by a wavelength. So say we know the exact
+momentum of an electron, we can represent it as a beautiful, infinitely long sine wave. But the position of the electron is also
+described by this wave. The area under the curve,
+represents the probability of it being there. And we can say that we have
+basically no idea where it is, but waves have this cool property that when you add them together, they interfere and create a new wave. So say we presented with this wave that describes the electrons
+position and momentum, now the electron is much more localized and we have a way better
+idea of where it is. But this wave is made up of a sum of a lot of
+different wavelengths. And remember that wavelength and momentum of practically
+interchangeable. So then, we no longer have
+just one momentum value, we have loads. So in gaining information
+about the position of the electron we've lost information about its momentum. Position and momentum
+are just two of loads of different conjugate variables. Heisenberg's mentor Niels Bohr, gave this relationship between conjugate variables a
+proper name, complementarity. The data remaining is that there are some pairs of complimentary properties that just can't be measured or observed simultaneously. Trade-offs are built
+into the laws of nature, the particles that make up
+our universe and our lives. So next time you think
+you can have your cake and eat it too, you probably can't. Thanks for watching guys. I hope this video helped you understand the uncertainty principle a bit better. This video is part of a
+quantum physics series I've got going on at the moment which I've put for you
+at the end of this video. Like, subscribe, all that all the stuff that YouTube is meant to say, and I will see you next time. Bye. (upbeat music) 

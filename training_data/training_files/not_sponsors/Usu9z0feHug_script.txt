@@ -1,0 +1,167 @@
+- [Kento Bento] I'm Kento Bento. This video is made possible by Dashlane. Download Dashlane for free if you never wanna lose another password again at the link in the description. Bangladesh, February 7th, 2016. The director of the Bangladesh Central Bank
+got off the elevator on the ninth floor and headed to the back office of the
+accounts and budgeting department. This was the most restricted
+part of the building. He was there to deal with a problem, one that
+had been plaguing the office for the last few days. You see, the printer wasn't working. This was kind of a big deal.
+It was causing a real disruption. The automated printer, which was
+hooked up to the bank's software, was supposed to work around the clock 24/7,
+printing out the banks transaction reports in real-time. Due to this technical glitch, however,
+the printer tray remained empty. Much of the day was spent
+trying to fix the issue, and after a great deal of
+effort, there was success. They were able to restart the printer. And so, the backlog of transaction reports
+started rolling out, one by one. Now, it soon become apparent
+that something wasn't quite right. There were more statements than expected. When they took a closer look, they found 35 suspicious payment orders
+for what were ridiculously large sums of money. Having supposedly been transferred from the Bangladesh Bank's own account to various other accounts
+in other countries. Certainly, no one from
+their bank had authorized it and the SWIFT security system
+in place was unbreachable. As the director sifted through
+the suspicious transfer requests, the true scale of the situation started dawning on him. The transfers totalled to
+almost one billion US dollars, an absurd amount, a significant
+chunk of the nation's reserves. Where were they going? Who was responsible? Panic ensued as the workers
+scrambled to stop the payments. But, it was likely too late. The ill-timed printer malfunction from earlier
+had caused an unfortunate delay in their response. It seemed Bangladesh had
+just lost a billion dollars. But how? This happened in February 2016, but what led to this moment actually started nine months earlier. Philippines, May, 2015. Over 3000 kilometers away, a group of men
+enter the Jupiter Street branch of the RCBC Bank, just outside Manila, and opened four
+bank accounts with just $500 inside. The men then left, never to return. With their accounts left
+seemingly abandoned. Now, returning to Bangladesh, the country was becoming one of the
+fastest growing economies in the world. Their central bank sat in the financial
+district of the capital, Dhaka, a chaotic city, with almost 20 million people. But, despite all this rapid growth,
+it was a nation that could ill afford to lose one billion dollars of taxpayers' money. Fast-forward, January 2016,
+a month before the incident. An employee at the Bangladesh Bank,
+was checking his mail at work. Now, nothing seemed out of the ordinary,
+he thought nothing of it, but he went home that night not realizing he had just set in motion events that
+would soon shock the nation's banking system, if not the world. You see, he had inadvertently
+clicked on an infected email, one that immediately began
+installing a malicious program in the central bank's computer systems. This malware would allow intruders
+to enter the network and gain access to the inner workings of the Bangladesh Bank. Hiding in plain sight, these intruders could now spy on workers and study the bank's operational procedures. And that's what they did. It was now just a matter of time. A month later, on a Thursday, as the
+bank was shutting down for the weekend, which in Muslim-majority
+countries like Bangladesh, tends to be on a Friday and Saturday,
+instead of a Saturday and Sunday. The intruders once again
+entered the system. But it was for the last time, because
+this was what it was all leading to. Now, they were in the system, but manipulating international money transfers was a whole nother thing. SWIFT, you may have heard, is a global payment network enabling financial transactions to be sent in a secure and reliable way, using military grade security designed to be unbreachable. Just to be clear, SWIFT does not
+facilitate the transfer of actual funds,  but rather it sends the trusted payment
+orders between accounts, which the banks then act on. This is the standard in
+international banking. And, this is partly why bank hackers
+usually focus on stealing the login credentials of individual bank account holders, rather
+than focusing on the banks themselves. But, it wasn't the case
+here, not for this group. Their target was the institution. Using the bank's legitimate SWIFT
+credentials that they collected from the malware, they were able to take control of the SWIFT
+terminals, as if they were legitimate bank employees. Yes, SWIFT itself is safe and secure, but the banks using them first needed to be responsible
+for their individual cyber security, on their end. If their security happened to be lacking,
+as in the case with many developing nations, SWIFT could actually be used against them. And, that's what was happening here. 35 phony transfer requests, totalling
+$951 million, was by now being sent via SWIFT to the Federal Reserve Bank of New York. Okay, but why New York? Well, because the Bangladesh
+Bank owns an account there with billions of dollars on deposit
+meant for international settlements. The details of the requests
+sent from Bangladesh were to transfer the funds from New York
+to various accounts set up across Asia. I'll get to that part soon. Now, with that they were done.
+In and out in just hours. The next day, Friday, New York City. One of the world's
+biggest financial centres. The Federal Reserve Bank of New York
+was busy processing Bangladesh's payment orders, or supposed payment orders. The Fed, renowned for it's security,
+initially had no cause to stop the transfers, because SWIFT instructions are
+legitimate, they're trusted. So, oblivious to the deception, they
+began processing their requests. Sunday morning, the
+Bangladesh Bank employees, back from the weekend, were now
+trying to fix their darn printer problem. The automated printer connected to the SWIFT
+network hadn't been working the last days. And, the usual printouts of real-time
+transfer confirmations were backlogged. Of course, this was the most
+unfortunate time for a technical glitch, except it wasn't really
+a technical glitch. The hackers had indeed
+taken additional steps in preventing confirmation
+messages from revealing their theft. Wiping out evidence
+from the SWIFT database, and intentionally crashing
+the automated printer. This had bought them
+some much needed time. Now, meanwhile, in Sri Lanka, $20 million arrived in a Pan Asia Bank account
+of a company called the Shalika Foundation, sent from the Federal
+Reserve Bank in New York. This, of course, was just one of
+35 transfers making its way to Asia. Right back in Bangladesh, the workers
+had now finally got the printer working and they were sorting through
+the transfer requests. Panic quickly ensued as they realized 35 payment orders were made, totalling to almost one billion dollars. They immediately tried to send a stop payment
+order to the New York Fed, but it was a Sunday and there was no one there to respond. By the time New York staff would return
+on the Monday, it would've surely been too late. Now, little did they know, they had actually
+caught a lucky break, because it turned out the automated system in New York had
+flagged 30 of the transactions for manual review. By complete luck, one of the words on the SWIFT order happened to match the name of a shipping company that had been blacklisted for evading
+US sanctions against Iran, pure coincidence. This would prove
+devastating for the hackers. As $870 million worth of
+transfers were now blocked. Later, when staff took a closer look,
+they noticed several red flags. The unusually high number
+of payment instructions, the large transfers to private
+entities rather than banks, and the ridiculously large total. At this point, they had to
+seek clarification from Bangladesh. And, after getting word of
+their stop payment order, the transfers were shut down. It was over, the gig was up. Or was it? Yes, 30 of the transactions, worth
+$870 million, would never be seen by hackers, but there were still
+five transactions left. The remaining 101 million, which the
+fed's automated system failed to pick up on, and which was still a heck of a lot
+of money, had gotten through. Where did these five end up? The first transfer, Sri Lanka. $20 million, as we know, reached an account
+in the Pan Asia Bank via Deutsche Bank, which was the routing bank. Intended for a company called
+the Shalika Foundation. This was a supposed Sri Lankan non-profit. Now, an observant employee
+at the Pan Asia Bank noticed something odd, $20 million was an unusually large
+amount for such a small NGO, not to mention for the
+country of Sri Lanka. This employee then sent the transaction
+back to Deutsche Bank for verification. So, now Germany, Frankfurt, the payment order,
+just like in New York, was being reviewed. And, just like New York,
+there were red flags. Such as this one, spelling
+foundation as fandation. These suspicions were soon reaffirmed, and ultimately it turned out, no surprise,
+that this Shalika Fandation was indeed a fake company. The money was then rerouted back
+to the Bangladesh Bank's New York account. Then there were four, $81 million dollars. But, we won't drag this out because these
+four were all sent not just to the same country, not just to the same bank, but to the same branch. The Jupiter Street branch of the RCBC Bank,
+just outside Manila, in the Philippines. Four accounts had laid
+dormant for nine months with just $500 inside, untouched. Until a sudden cash
+infusion of $81 million. These sudden bursts should've
+triggered an alert from RCBC but for whatever reason,
+it slid under the radar. And, indeed, the accounts were later
+found to be under fictitious identities. From there, the money was quickly
+withdrawn and laundered through casinos. Where the electronic money transfers
+were converted to hard untraceable cash. The Bangladesh Bank did
+try to stop the transfers, but timing was just not on their side. The stop order was not
+received by RCBC Bank on the expected Monday, because
+Monday was Chinese New Year. A non-working holiday in the Philippines. By now you're probably
+noticing a trend here. Every step of the way there were
+delays that benefited the hackers. And, this was by design. A remarkably well timed attack. On Thursday evening
+they entered the system at the start of the Bangladesh
+weekend when the bank is closing. On Friday, the New York Fed tries to clarify
+the requests with Bangladesh, but no one's there. On Sunday, Bangladesh staff
+return from the weekend but can't get through to New York
+as it's now the weekend in the US. On Monday, the Fed finally
+gets the orders to stop the transfers, but not the Philippines because it just
+so happened to be Chinese New Year there. And, only on Tuesday,
+five days after the heist, that RCBC staff find out about
+the fraudulent transfers. But, by then it was too late. Now, two Chinese men, Ding
+and Gao, were eventually found to be responsible for setting up
+the fake RCBC accounts in the Philippines. They turned out to be just middlemen. But, they were still a
+crucial part of the operation. And, investigators hoped questioning
+them would lead to the true culprits. Unfortunately, before the Bangladesh authorities
+were able to apprehend them, they left the country, Boarding flights to Macau, a
+special administrative region of China where it was then
+impossible to track them. And so, with the remaining four transfers,
+the hackers were able to net $81 million. Not quite the original
+sum, but still enough, by some metrics, to be considered
+the single biggest bank heist in history. Now, despite the attackers best efforts
+at removing evidence from the bank's systems, cybersecurity experts were
+still able to analyze the malware. What they found were similarities in the techniques and tools used between the Bangladesh Bank heist  and many other cyber attacks on
+financial institutions around the world. Which means that, this one particular group had very likely been responsible for a series of global attacks. This group was dubbed Lazarus. But, there was more. As experts dug deeper, combing
+through the server logs of recent attacks, they found something even more unexpected. An IP address connecting Lazarus
+to a particular nation state. For a brief moment they had
+failed to cover their tracks. And the logs had indicated
+that the attack servers they used had been accessed at
+least once from a North Korean IP address. There was also Korean language found
+embedded in the computer code. Now, it is important to note, that it is
+possible that North Korea was framed, with the attackers leaving behind purportedly solid evidence in order to mislead investigators. But, according to the majority
+of cybersecurity experts, it is almost certain that
+North Korea was behind the attacks. And, it wasn't just attacks
+on financial institutions, they were also revealed to be responsible for many cyber terrorism and cyber espionage campaigns against the South Korean government
+and various South Korean infrastructures. Then there's the Sony
+Pictures hack of 2014. One of the biggest corporate
+breaches in history. Lazarus had taken great exception
+to the plot of the film 'The Interview', where the North Korean leader, Kim Jong Un,
+was targeted for assassination by the CIA. Cinemas across the US were threatened
+with terrorist attacks if the film wasn't pulled. North Korea, of course,
+denied any responsibility. But, it seemed fairly obvious that this group
+was actively targeting known enemies of the State. Now, as for Lazarus' banking exploits, like the
+Bangladesh incident, the attacks were just the start. They had to ensure the money would
+then get to the intended location. And, the way they did that was to have the stolen funds moved through places like Macau, which in particular, is known to be North Korea's financial
+point of contact with the outside world. We know, thanks to the two Chinese middlemen, that
+that's exactly where the Bangladesh funds ended up. And, from there, it wouldn't have been hard for the money to be wired directly to Pyongyang. Proceeds would then
+have likely gone towards advancing their nuclear program, funding the lifestyles of the elite, and propping up their economy. All this, quite possibly representing, a significant percentage of the country's current GDP. If this is all accurate, and North Korea
+is indeed behind these attacks, the international implications would be profound. Especially with the recent developments. As this would be the first known
+case of a nation state robbing banks. From there, perhaps, anything is possible. They could hack political campaigns, weapons systems, civilian bank accounts, or even YouTube accounts who have
+made content they may find unfavorable. 

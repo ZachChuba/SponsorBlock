@@ -1,0 +1,127 @@
+On Nov 25th 2018 Dr. He Jiankui announced,
+via youtube, that he had decided to push humankind across a controversial threshold. This announcement was, of course, that his
+work had resulted in the birth of twins who had both been subject to genetic engineering
+using CRISPR. This was a threshold widely considered to
+be off limits. In 2015 two of the foremost journals in research,
+Science [1] and Nature [2], both made similar statements stating that modification of human
+germ cells, that is sperm and egg, should be avoided. The scientific community seemed to have come
+to an agreement not to experiment with this technology until we could agree how and when
+to apply it to humans, but Dr. He Jiankui has unceremoniously dragged us across this
+line in the sand, whether we like it or not. Now, more than ever, there is an urgent need
+to stop and ask what the outcomes of this work are for the individuals who have been
+subject to it and also how the rest of society may be affected. ... To understand all this we’re going to need
+to understand how CRISPR technology works and what the intrinsic shortcomings of this
+technology are. DNA is made of nitrogen and carbon based rings
+which form 4 distinct chemical codes: Adenine (A), Guanine (G), Cytosine (C) and Thymine
+(T). These codes form an easily reproducible double
+stranded molecule which is read in group of threes, called codons, which are contained
+within structures called genes. These genes are simply the parts of the DNA
+that code for the more structurally complex proteins, which in turn, form the biological
+machines and structures that are required for all life on earth. Due to DNA’s ability to copy itself, until
+now the code in the DNA of all humans can be traced faithfully to the first cells on
+earth. Dr. He’s work changed all of this by employing
+the use of the CRISPR-CAS9 technology to purposefully change the DNA code in the two twins referred
+to as Lula and Nana. As its name suggests, the CRISPR/CAS9 methodology
+is dependent on two key parts: CRISPR and CAS9. CRISPR is a kind of repeating DNA structure
+that was first discovered accidentally in bacterial DNA by the Japanese scientist Yoshizumi
+Ishino in 1987 [3] . For 17 years following this discovery, the exact function of these
+DNA repeats went undiscovered until it was identified as the means by which bacteria
+identify and protect themselves against invading viral DNA [4]. It turned out that these strange DNA repeats
+actually came from viruses. Bacteria have the ability to cut up invading
+viral DNA, store it in their own DNA, and then subsequently use it as a guide system
+for the enzymes CAS9, which destroys the viral DNA sequence should it invade again in the
+future. In order to do this, CAS9 uses the stored
+DNA to make something called a guide RNA. This guide RNA is usually coded for by a CRISPR
+repeat, and guides CRISPR to DNA it should cut. There are two conditions for CRISPR’s binding
+to its target. First Cas9 must bind to the target sequence
+and a specific 3 code variation in DNA which is called a PAM (protospacer adjacent motif). Most PAMs can be recognized by Cas9 as they
+contain the code: *GG. These recurring patterns are targeted by a
+bacteria’s Cas9 system as they identify the DNA of invading viruses. This gives the bacteria an ability to target
+and destroy the viral DNA. However, in the last 5 years, we have learned
+to leverage this ability to direct CAS9 with guide RNA’s of our own design to alter the
+genome of other organisms [5]. The guide RNA binds to a part of CAS9 called
+the alpha-helical lobe. In turn, another domain of CAS9, the nuclease
+lobe, binds to any flanking part of the DNA strands that matches with the guide RNA, causing
+the double helix structure of the DNA to unwind [6]. This process is facilitated by the proximity
+between the DNA and the Cas9 complex and electrostatic interactions that occur between the RNA and
+DNA. At this point, 2 specific domains of the nuclease
+lobe cut the DNA. Although we’re not yet fully sure how this
+mechanism occurs, comparative studies suggest that the most likely way is that the two seperate
+parts of Cas9 are able to rip protons from water molecules, and in turns weaponize the
+deprotonated water molecule to break the DNA apart [ref]. This is done at two sites in the DNA, one
+which cleaves the DNA at the target site (HNH) and another which cleaves the DNA at a non-target
+site (RuvC). At this point a number of things can happen
+depending on which approach is needed: - Cas9 can be modified to include a deaminase
+enzyme which can target specific bases for mutation, leading to brand new mutations. - a process known as homology directed repair
+can be used to insert new DNA at the cutting site. -Or the targeted piece of DNA can be simply
+cut out and removed if it is deemed to be undesirable. Dr. He Jankui opted for the latter option
+and simply cut a section out of a gene called CCR5. The section that was cut corresponded to a
+mutation known as delta32, that confers it’s owners with protection to certain strands
+of HIV. Dr. He’s data seems to suggest he may have
+artificially induced a mutation, similar to, but not identical to the delta 32 mutation
+in these twins [7]. In order to do this, Dr. He had to first optimize
+the gene editing protocol in mice, monkey and human cells. The reason for this is to make sure the protocol
+has high specificity - simply put, that the gene editing technique was editing the target
+DNA and not some other sequence. This claim is of course key to the validity
+of the experiment. Unedited embryos can be thrown away after
+all - but for obvious reasons, making unspecific alterations to a human’s genetic code would
+be a major red flag...and Dr. He’s work raises major red flags for this exact reason. Their check for specificity of gene editing
+used parental genetics as a reference point, an inadequate approach due to the fact that
+a parent’s genetic material is subject to a certain degree of randomization every time
+a sperm or egg is produced. It’s further complicated by the fact that
+no two sperm or eggs will be the same and that their methodology did not account for
+the possibility that larger sections of the genetic code could be deleted by their implementation
+of the Crispr/Cas9 system. Further to this, from the data released so
+far we can tell that the mutation induced in the twins does not exactly mirror the delta32
+population that He is attempting to induce in the twins [8]. Although the protein produced should in theory
+largely mirror the naturally occuring mutation, we cannot tell that for sure because it has
+not been tested. Standard practice at this point is to test
+these mutations in an animal model in order to assess unexpected effects of the experiment. This is perhaps the most troublesome part
+of this experiment. Lulu and Nana are test subjects for a genetic
+mutation that we have not even taken the time and care to test in animals. Nonetheless, the mutation was induced in a
+total of 31 human embryos. These embryos were grown for a period of 5-8
+days and the 19 that were deemed “normal” were taken forward. Out of these 19 embryos 2 were implanted in
+the mother to give rise to the twins. These concerns over Lulu’s and Nana’s
+well being are only one of a myriad of issues: Perhaps most critically there was no medical
+need for this treatment in the first place. It has been claimed that the biological father
+of the twins is HIV positive. Given that the couple used IVF, and that there
+is no evidence that HIV would be passed on from father to child using this method of
+conception. The procedure was medically unnecessary. Furthermore, He claims to have induced this
+mutation completely into at least one of the twins. To do this, He and his group would have had
+to check the DNA in every cell in the growing blastocyst, a group of cells that exist from
+days 5-9 post fertilization that eventually becomes the embryo. Given that they would have to destroy the
+blastocyst to test all the cells, a clear logistical problem exists in trying to qualify
+that the mutation exists in all the cells. Accordingly, He and his group only checked
+a number of cells from the blastocyst. This means both twins might have a condition
+called mosaicism, where the deletion only occurs in a subset of their cells. This means that different cells in their body,
+have different DNA. In this context, the effects of this condition
+are completely unstudied. Finally, the gene that He took aim at has
+also been reported to have a role in learning. A link between the activity of the CCR5 gene
+product and the dampening down of the brain’s ability to form new neural connections has
+been previously described in mice models. Theoretically, there is a possibility that
+the induced deletion could have a positive effect on the twin’s ability to learn. Right now there are far too many unknowns
+to make an accurate prediction on what if any effect this experiment will have on the
+two twins and there’s an even bigger question about what effect the announcement will have
+on the progress of the field. Complicating this mess is the fact that this
+study did not go in front of an adequate ethics approval board and default Chinese law prohibits
+any kind of follow up with the twins. Because of this, we will likely never know
+what will become of Lulu and Nana. Dr. He has stated that he plans to publish
+the work in a peer reviewed journal, but given that he has gone M.I.A for almost 2 months
+now [9], the scientific community may never have an opportunity to properly review and
+digest the impact of this work. So where do we go from here? There is no doubt that genetic engineering
+is a valuable tool that can potentially safely increase human wellbeing and productivity. It’s not unlikely that plunging into these
+uncharted waters unaccounted and without approval may have a chilling effect on the proper utilization
+and development of this technology though. Perhaps, until a consensus on the way forward
+is established this is a good thing. Thankfully, the World Health Organization
+has stepped up to take a moderating role in the process and are establishing a working
+group to establish clear guidelines. We need these guidelines because we’ve stepped
+into a new era of medicine. One where the genetic modification of humans
+is not only a possibility but an increasingly real option. Humans have long sought to improve themselves
+through technology. From the printing press to the internet, these
+inventions exist to expand our knowledge and inform us. Maybe one day we’ll be able to alter our
+genes to make ourselves smarter, but in the meantime we’re already surrounded by tools
+for this, like watching educational videos on YouTube, or watching in-depth tutorials
+and classes like the ones you’ll find on You have nothing to lose and a valuable life
+skill to gain. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my instagram, twitter, discord server and subreddit are below. 

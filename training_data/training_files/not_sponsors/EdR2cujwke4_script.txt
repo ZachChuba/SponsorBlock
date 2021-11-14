@@ -1,0 +1,201 @@
+- There. Oi, oi, oi, Okay. I'm like Tom cruise. - Oh my God. - I'm a short man with a big ego. I mean, I do my own stunts. This... This is copper networking cable. Copper is lame. This... This looks nothing like the
+network cable in your house. Why? Because it carries data using light. That's right ladies and
+gentlemen, it's finally happening. I have been chasing the perfect network to video editing setup since before I even founded Linus Media Group. And the reason is simple. It is a massive pain in the scrotum to toss around external
+drives, use Google drive or whatever it is that regular people do to share footage across
+multiple team members. And when it's done properly... (man gasping) Network storage also helps
+protect your valuable data in the event of a drive failure. Now this project has
+been a huge undertaking but we learned a ton and
+we're going to be using the light from your monitor
+to network that info straight into your brain world interface. That's right, we're going
+25 gigabit to every one of our editing workstations,
+100 gigabit to our servers. And we are telling you guys all about it. Holy (beep). Really, are we sponsored by SolidWorks? Wow, holy (beep) to that too. Are you feeling stuck
+on your current project or waiting for your prototype
+to come off the 3D printer? Don't waste that time. You should be learning from industry pros who make products using
+SolidWorks every single day. This here is 3D Experience World is online and it's free to attend. Check it out at the link
+in the video description. (upbeat music) Before we talk about the how
+of installing and using fiber it's important to understand why fiber is even necessary in the first place. In both copper and fiber
+optic cabling information is transmitted by changes in
+energy at a given frequency. With copper ethernet, like rj45 cables, the conversion of these
+changes in electrical energy to actual data on either end is handled by the device that you're plugging into. That's why the devices
+tend to be expensive and the cables tend to be cheap. In the case of fiber optics the cables and devices can
+be relatively affordable but the transceivers which are used on both ends to convert the changes in light to data can be
+an absolute money pit. It's also worth noting
+here that your switch or network card can be fussy about the brand of transceiver you use. Kind of like printers that
+require pricey first party ink. Fortunately, all of our
+gear got along nicely. Without getting into too much detail about the nerdiness that is cable signaling, the main advantage to fiber optic cabling is that it can carry a signal over a much greater distance
+and at a higher frequency. This is thanks to the very
+low signal power loss incurred by the glass inside the cabling itself. It also has much greater
+resistance to interference because the light inside of a fiber optic cable
+isn't really susceptible to electromagnetic interference
+from heavy machinery or electrical lines, et cetera. Now it's not that copper
+cabling can't do high speeds. Even in our server room we have copper cables
+that run 100 gigabit. But those cables are usually
+limited to about five meters. And if you move up to 400
+gigabit ethernet, yes, that is a thing, the longest copper cables you'll see top out around
+three meters or 10 feet. That's nowhere near long enough
+for our editors to plug in. So we knew we needed fiber but fiber is the kind of rabbit hole where there's lots of documentation out there,
+but all of it is designed for people who already
+know everything about it. Do we need single-mode or multi-mode? LC or SC? Simplex or Duplex? OM3, OM4, OM5? (man yelling) So here we go. The two main types of fiber
+are multi-mode and single-mode. And the main difference between
+them is the size of the core which is the actual glass that transmits the optical signals. While single mode uses a very
+thin core isolating the light to a single beam, multi-mode has a much larger core allowing the light to reflect back and forth within it. This allows multi-mode fiber to send light along
+several different paths or modes at the same time. However, when it comes to longer distances the multiple paths of
+light can cause distortion at the receiving end, making it less ideal for applications like that. In practice, multi-mode
+is usually reserved for up to about a hundred meters,
+which means that inexpensive LED or laser sources can be used
+to send light down the glass. Anything greater than that,
+let's say 10, 20, 40 kilometers is typically single mode and requires much more
+expensive, solid state lasers. This means that for our
+application going from here to here we could use single mode but that would be really
+expensive and kind of stupid. Next up, we've got the type
+of connector or termination. LC, SC, FC, ST, et cetera. This one really comes down to your application or preference. The 25 gigabit transceivers
+that we're going to be using from fS.com, by the way thanks fs.com, use LC fiber connections. So naturally that's the type
+of cabling that we went with. You can easily adapt to
+between connection types. So if you get the wrong
+cable, it's not a huge concern but there is one big note here,
+re-terminating fiber cables in the field can be very
+expensive and time consuming. So whenever you can, it's best
+to use prefabricated cables. Then there is simplex versus duplex. Light can only be sent one
+direction at any given time. So in most cases, any fiber link is going to have two cables, one for transmitting and one for receiving. This is called duplex fiber. However, you can also get simplex fiber and run Bi-Di or
+bi-directional transceivers which make use of multiple modes of light each to send and
+receive over one cable. These transceivers are
+much more expensive though so they're not much use to us. But in the data center, Bi-Di can be used to increase density in fixed size conduits and patch panels, and can also
+help with cable management. Then there's the category of cabling. For multi-mode there's OM1,
+all the way through to OM5 with the primary difference
+being the bandwidth and distance capability
+of each generation. We went with OM3 because it's
+cheap-ish and has ample range for the relatively short
+runs to our editors. So okay, multi-mode Duplex
+LC connector OM3 fiber. Say that three times fast. But enough of talking
+headliners, let's take a look at the actual deployment and maybe we'll even run and test a cable. Ooh. Usually when you're working
+with this ultra thin stuff it's to save space in your conduit so that you can run more cables. But we were mostly concerned
+with fitting the boot of the wire inside of
+our electrical boxes. You'd also usually run it
+in conduit or by cabling with some kind of shielding
+or a protective cover but it's just going to kind of hang out up in our drop ceiling. So we weren't worried about the cables getting damaged over time. And even if one did we did run copper to every station just in case. And the server room happens to be just on the other side of this wall. So it's not like we'd have to go very far. So from each of these
+Keystone jacks right here... There we go. Each editor, oh, thank you, Jake... Will have a small patch
+cable like this running to the 25 gigabit nic in their system. Shout out to Mellanox for
+providing those by the way. We did a full video showing off their blazing fast speeds recently. And then each of these
+will be protected by... Here we go, here we go. A small bit of split limb. While the fiber lines in the
+office for run professionally, there's one that we kind of forgot to do. The one that goes from the
+server room here around where the camera guys sit to over
+here, our ingest station. Some of our camera operators
+got a little diva-ey about using the Mac Minis,
+so we're back to PC. And what we discovered
+is that running 10 gig with two red megs plugged
+in, actually saturates it. So Ed was like, "Hey, can
+we have a fiber connection?" And we were like, "Hey,
+we got you covered." - So the only thing here is we're working with the extra straps from that install. So we might have to couple
+two cables together. - Oh lordy. - But it's actually fine,
+fiber is really easy to couple. How should we start this, you think? I guess we have to start on one end. - Yeah, kinda. - So we already have wire
+mold that runs across all the way down to here,
+but then it pops back into the wall, like right
+there for some reason. - Oh, weird. - So I guess we can have it
+come out of here and then we'll just tape some
+split loom to it, I think. - Yeah, okay. - Blue loom is like this
+corrugated plastic stuff that's split and it's a wire
+loom, so you put wires in it to sort of protect them
+or keep them organized. In the case of fiber you don't
+want people to damage it. - Is there a reason this
+computer goes backwards? - [Andy] That way we can
+access the IO ports easier. - So you're going to leave this backwards? - [Andy] Yeah. - I think if we have
+the split loom come up, we can tape it or LTT's to
+our cable tie into right here. And then just a little bit
+of fiber will come out. - I absolutely hate everything about what I'm looking at right now. - You gotta be gentle
+with this stuff, aye? - Well I know, but it's not easy. - What are the odds that
+this fiber cable still works by the time we're done? - I give it at least 80%. - 80%?
+- Yeah. And you want that to go into the cable through that thingamajig there. - Yeah. - Oh my God, we have to move the shelf? How the hell are we
+going to move the shelf? Three, two, one... Oh, man. That should probably be enough. Okay, all right, all right. Here, I'm going to pass this up to you. - Well, should I just climb
+on the shelf, I guess? - I don't know. - How strong do you think
+this pillar case is? - Very - Oh wow, there's like
+a open wall socket here. We should probably tell Yvonne about that. I think this is a fire bell - Are you gonna take this at some point? - What?
+- Hello? - Hold on, I got to
+tell Yvonne about this. - Hi? - Oh, watermelon sugar. - Okay, you're still
+good, you're still good. - Are you gonna start putting it in there? - I mean, I don't know, a little bit. - I mean... - Okay, that's about the
+right length I think. - I don't think this
+shelf is going anywhere. So I'm just gonna...
+- Oh, okay. - I'm on the shelf now. - Yeah, good I guess. Are you all the way to the top? - It's not yet, not
+quite, just a little more. (men groaning) I think that's good enough for now. - Okay. - Where's the, oh geez. - Oh gosh. - Some people use ladders. - I think you should just climb up here to do this whole part. All right, I'm just gonna
+throw this over there. Oh, wait, we were supposed to do two. - Two, why two? - Cause there's two ingest
+stations going here. - All right. - All right, get on back down there. - Well, why do I have to get down there? - Cause you're the little one. I'm gonna take this one up here. - Hold on. - Can you just pass me the roll of tape. - Nope. - Hey, can you pass me the roll of tape? - Can you wait a second? Zoomers, man, they're so impatient. - Damn, boomers are so slow. - Your mom's a boomer. - I don't even think she is- (beep) I dropped the tape. - Are you there? You want to open up the thing? - Yeah, you want to pass me the thing? - Oh, we gotta open up
+the thing first, don't we? - Well give me the thing first. - How about tying here, use your thing. I can't believe we're
+running fiber straight to the backs of the ingest stations. This is kind of crazy. - What were you thinking instead? - I just thought they'd run ethernet. Where's my fiber in my office? - Okay, now climb up
+here and do your thing. - Sometimes I wonder who's
+actually in charge here. Okay, it's not going to fall, right? Can you hold it? - I'm holding it right now. I'm holding it braced against
+this one, you're fine. Plus, this one is in the way. So it's like...
+- Fine. Oh God. Okay. - All right, I'm gonna get
+down now, you have fun up here. See you later. Maybe we should have tested these tables before we put them in there. - Yeah, probably wouldn't
+have been a terrible idea. - I need some tape. Or are you just closing it? - Oh yeah. - You just got to not pinch it too hard. There we go. Man I'm like the pinch off King. Cause I'm pinching off the thing here. - I'm Linus Tech Tips. Hi, I'm coming to you
+from the top of the shelf. We got some great news up here. The lights are... They're warm but they're not hot. It's too hot up here with
+my LTTstore Stealth Hoodie. - You know why he wars the Tuks? So he doesn't have to do his hair. (both laughing) Exposed, I have to take a LIEnus. And I think I need like
+a Flathead or something. You have keys on you? - Yes. - Oh, you do have a knife. - Yeah that's a knife. - What is this thing called? - It's a ladybug. - I don't want to break the knife. - Yeah, why don't we use... Let's use the Flathead. Very graceful, this. - Well, no, that was my
+keys, that wasn't me. - Yet. - Oh God. Where is it? There it is. Okay, there we go. Not so bad. So how far are we going to make it here? - We might make it
+pretty much up to there. - Most of the way. - Which is good actually
+because then if the coupler... I'd rather the coupler
+not be in the wire mold. - Yeah, okay. - Wait, how did I end
+up on top of the ladder? - Oh no help me Jake, I'm
+stuck on top of the shelf. You're going to have to get the
+ladder and climb the ladder. He can't resist the damsel in distress. - The damsel, oh boy. Damn incel. - You know, for a fact I'm not celibate. You've met my children. Oh yeah that sounded worse than it was. - (laughing) that sounded really weird. - Yeah, no, not like that. (both laughing) Are you ready? - Yeah, give me that. - Oh God. - That wasn't very graceful. - Okay, hold on. We can do more graceful than that. Oi, oi, oi, okay. Not graceful, but it works. If it works, I twerks, you know? Can I climb it this time? - Oh, you want to come up here? - Yeah. - All right, if I come
+down I'm not going back up. You got long arms, right? - Yeah, I don't know
+if I'd describe myself as a long armed boy. - Hey, you better watch
+that sprinkler, all right? - Yeah, yeah, I'll try
+not to punch it too hard. This is very unpleasant. - Isn't it? Doesn't it suck? - Oh my God. Fortunately, my T-shirt
+is also LTTstores.com. It's not exertion sweat,
+it's like stress sweat. Like the really stinky sweat. I'm like Tom cruise. - Oh my God. - I'm a short man with a big ego. I mean I do my own stunts. - There's one more grievance we didn't talk about
+previously in the video, and that's that you can't get
+the end of these cables dirty. If there's any speck of
+dust or sweat or whatever... - Grease. - Grease stuck on the end of the ferrule, that's at the end of the fiber cable it can actually block your signaling and result in a connection
+that doesn't work. Fortunately, our friends over at Fluke sent us over
+one of their certifiers. This is like a $20,000 fiber tester. - Thanks Fluke.
+- Thanks Fluke. One of the coolest features with this thing is their fiber inspector. It's essentially like a little
+camera that you can stick on to the end of fiber
+cables and look directly at them to see if they're
+dirty and it'll even do a test to tell you for sure
+that that cable is clean. To some standard, I guess. - And you can even put it up your butt. I mean, technically that's a feature of pretty much anything,
+if you try hard enough. - I mean you wouldn't really See anything. It's very zoomed in. We got our tests set up as fiber inspector
+that's what we want here. - So I just stick the thing on the thing? - So yeah, did you pop the dust cap off? - Yup. - Stick it all the way on and then that ring there is to focus. Keep going, keep going,
+keep going, keep going. Keep going, keep going, keep going, stop. So now that it's in focus, we can analyze and we can see that there's
+only one tiny defect but that's within the
+specification and it's okay. It's cool though, they
+even show you the zone. So right in the middle there you can see the little white speck there. That's actually the light
+that's coming through the fiber from the other end. If you were to take a light pen and shine it up there, you'd
+have a big, big white spot. The actual glass part is
+just this inner ring there. And these are all just extra parts that are around it to protect
+it like part of the pharaoh. It's really really zoomed in. For reference, the part that we're looking at in the middle is only 62.5 microns. That's tiny. - I guess I shouldn't look into this, hey? - It's not that strong.
+- Is it a laser? - Not really.
+- Oh okay. - It's a light. - How are we doing? - Well that one's kind of dirty. So we're going to clean this one. - It's a dirty, dirty lad. - Now you might think
+I'll just give it up. - Yeah, and clean it off with your shirt. Try cleaning it with your shirt. Or maybe you're tip, it's probably got some nice Linus juice on there now. (Jesse laughing) Now fortunately, we have
+a little cleaning pen. That's probably good. Okay. The more you do it, the
+more staticky it gets it's probably just going to be dirty. - All right. - From what I was told,
+usually you do once and if it's not enough, then
+you do it a couple more times. - Wow, look at that. - That's pretty clean. So there's still some specs
+outside of the middle part but then it shouldn't really matter. Yeah, it still passes, we're good to go. - Does this thing cycle like
+a cleaning thing inside it? - Yeah, there's a little anti-static like cleaning towel thing in there. A little piece of fancy string. - That's sick. Okay, and then we're
+gonna plug this boy in. Whoa, Whoa, Whoa. - No, no, we got it, We got it. - Come on baby, yeah. - Okay, you can do it. Oh yeah, she's good. - Got it, woo nice. - Not bad. - It's clean. - How are we gonna get this- - Yeah, I wish we had put
+it through the other way. - Oh no. Oh no. We've got to unclear all of this. That's a pretty tight hole. Oh, the top one's a little looser - Hold, hold, hold, hold, hold. - Hold the door. - Yeah, you're good. - Hordor. - I don't want things to get
+too kinky here, you know? - Okay.
+- All right. - Okay so the last thing we're going to do to verify our link is still
+working is a loss test. That's basically going to make sure that we don't have too much signal loss for how long our cable is
+and it can also certify it for the specific application
+we're going to run. It's not only going to tell
+us that two 15 meter cables that are coupled together
+have this specific amount of loss and that's within
+the budget, that's good. It's also going to certify
+it, say for a hundred gigabit. So we'll say, yes we want this cable to be able to do a hundred gig, and it'll tell us if according
+to how much coupling we have that it's an appropriate amount of loss. Right, we're going to need
+two split limbs there, you know that, right? - Why? - Cause we have two different computers - Oh, that makes sense. - Dummy. All right, so we're
+going to do a hundred gig and we have one connection
+in the middle, right? We have one coupler. And then we have the two air
+gaps at each end, which is where our reference cases will connect. - Man, an accidental, snip on the fiber at this point would be not a good time. Please no. There's a better way to do this but we're not doing it in a better way. - It's gonna fall out of there. - What, it's not gonna fall out. - Yeah, it probably will. - It will not. How's it gonna fall out? It's all over the place. Okay, taking my tape off does not count as just having it fall out. - Well, I've just (beep) out now that you told me to do it. - Yeah but you're like (makes noises). You can move it around. - We should have just wrapped
+it all the way around. It's extra effort to specifically
+make little small pieces. - Yeah but it saved tape. - And we are within the spec for a hundred gig, even though
+we're only doing 25. - Oh, cool. All right, How about this one? - Our loss is a little
+higher than I was expecting but our limit is 1.9 DB, and
+our loss is only like 0.4. I'm guessing it might be a little dirty on this end cause we didn't
+clean this end first. But it's well within our margins. So we're good. Success. - Nice. Well, that was a lot of learning,
+but don't you guys worry cause next time on LTT, hopefully about a week or so from now,
+we are finally going to get all of our editors down here in the renovated editing den
+and plugged into our fiber with our brand new server that we're calling new
+new Whonnock server. - [Jake] It's Whonnock 3. - New, new Whonnock. - [Jake] It's Whonnock 3. - And we're going to use that to test the performance of the setup, to see if all of this work
+Was even worth it at all. to get 10% off your first purchase. If you guys enjoyed this video go watch the 100 gig switch video it's sick and shows you just what kind of crazy performance we're
+expecting out of this setup. 

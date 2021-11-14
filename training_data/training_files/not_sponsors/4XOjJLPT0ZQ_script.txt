@@ -1,0 +1,38 @@
+[ intro ] Nearly every large galaxy hosts a supermassive
+black hole at its center. The one at the heart of the Milky Way, for instance, is four million times the mass
+of our Sun. Which is…big. But despite the name “supermassive,” here are black holes out there over a thousand
+times bigger. So, how big can black holes get? Black holes grow when stuff falls into them. Despite what you may have heard, they actually
+don’t suck things up like they’re vacuum cleaners. They’re more like a big mouth at the bottom
+of a steep valley -- that’s why we say that matter falls into
+them. But black holes are messy eaters. Most of the stars and debris tumbling toward
+a black hole don’t take a direct path— they swing around in some kind of orbit. And along the way, stuff collides, exchanges
+energy, and most of it actually gets flung beyond
+the black hole’s grasp. So black holes grow slowly. Still, as they gobble up stars, gas, and dust, it might seem like they could gorge themselves
+forever. But there is actually a limit. When it comes to black holes, we talk a lot about the event horizon— the point of no return for anything that crosses
+it, including light. But there’s another important threshold, that you probably haven’t heard of, called the innermost stable circular orbit,
+or ISCO. That’s the inner edge of the accretion disk— the disk of matter swirling around a black
+hole. At this point, only light is fast enough to
+maintain a stable orbit around the black hole. Anything else will start spiraling downward, like water toward a drain. It hasn’t technically passed the point of
+no return, because if it got a good bump from another
+object, it could still avoid falling in. But if it remains uninterrupted, it’s doomed to eventually pass the event
+horizon, because it can no longer move fast enough
+to escape. As a black hole eats and gets more massive, its gravitational pull gets stronger. So stuff orbiting at a distance that used
+to be "safe" now becomes unstable. It too will start spiraling toward the black
+hole— which means the ISCO moves outward. As the ISCO expands, the black hole has access
+to more matter and can continue to eat. Which makes the ISCO expand even more, which gives the black hole more to eat. And so on. But only for so long. At a certain distance from the event horizon, matter is more gravitationally attracted to
+itself than to the black hole. That’s why giant gas clouds are able to
+collapse into stars and live in peace, and our entire Galaxy isn’t just one big
+accretion disk spiraling into its central black hole. So, once a black hole reaches a certain mass, the ISCO lines up with that distance. In other words, at that point, everything orbiting the black hole is so far
+away it’ll just clump up into stars rather than
+fall in. You can actually figure out what mass the
+black hole needs to reach for those to be the same distance. And in a paper published back in 2015, researchers crunched the numbers. They calculated that black holes can theoretically
+grow to between 50 and 270 billion solar masses. That seems like a weirdly large range but
+it accounts for the fact that some black holes are spinning, which pulls the ISCO closer and lets black
+holes grow more massive before they max out. Once it reaches that limit, whatever its mass
+is, the black hole can only keep growing if something
+falls directly into it. But that’s such a precise, unlikely trajectory,
+it almost never happens. Effectively, at that point, it stops growing. But that’s not quite the end of the story. Bigger black holes do exist, because black
+holes sometimes collide and merge into one. At that point, they pool their masses into
+one monstrous black hole. But as huge as they are, black holes like
+this can’t consume new matter. They can only grow by colliding. The matter around them will forever be out
+of their reach. cool! [intro] 

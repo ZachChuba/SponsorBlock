@@ -1,0 +1,163 @@
+- As a kid, I would often connect two ends of a wire to a battery to get the current flowing through it, and then very quickly joined
+the ends of the wire together. My hope was that if I
+could do it quick enough then I would catch the current, and it would just be going round and round in that loop of wire for ages. I don't think it's possible,
+but it is genuinely possible to get electricity flowing round and round in a loop of wire. All you have to do is make one end hot and one end cold like this,
+and look using my multimeter, you can see there really
+is a small current flowing round and round
+in this loop of wire. I say that all you have to do is make one end hot and one in cold. Actually, there's
+something a little unusual about the wires, they're
+not made of copper like wires normally are. Instead they're made of
+two different alloys. One is called Chromel, the
+other is called Alumel, and there's nothing particularly special about alloys in general. And alloys just a mix of different metals, in this case, mostly nickel, but with a few different ingredients to differentiate the two. And remarkably, when you
+have two different wires made of two different
+metals joined in this way, and you heat one of the junctions, while cooling the other, electricity will go round,
+and round, and round. It's an incredible effect that turns out to be incredibly useful, especially when you consider
+the fact that it's reversible. So in this case, we're using a difference in
+temperature to create a voltage, but the opposite is also true. If you present a voltage then it creates a
+difference in temperature. Those two phenomenon together are known as the thermoelectric effect. And I'll talk about both in this video, but specifically in this case, where a difference in
+temperature is creating a voltage that's called the Seebeck effect. What causes the Seebeck effect? Well, let's look inside
+this short bit of wire. You might know that metals have
+these free moving electrons. So normally electrons
+are bound quite tightly to their atoms, but in the case of metals some of the electrons
+are free to move around within the bulk of the metal. That's what makes metal conductive when electricity is moving through metal, it's because those free
+electrons are flowing through it. These freely moving electrons
+also have some thermal energy, unless the metal's at
+absolute zero, which is rare. I'm showing that thermal
+energy as a jiggle of the electrons, because that's all thermal energy is, it's atomic scale jiggle. These freely moving electrons
+are sometimes referred to as the sea of electrons. But thinking about the electrons as a gas is actually a more useful
+analogy for our purposes. And you probably know
+this, when you heat a gas the gas expands. In other words, the particles of the gas get further
+away from each other. And that's because as you heat the gas they get more thermal energy, the amount of jiggle goes
+up, they're moving faster. They're bumping into each other
+more often with more energy. So they're pushing themselves
+apart from each other. And the same thing happens with the gas in inverted commas of
+electrons in our metal. As you heat one end of the bar those electrons will move
+apart from each other. And while you're cooling, the other end they're gonna contract. They have less thermal energy. They're bumping into each
+other with less energy, less often, they can get
+closer to each other. So the overall effect now
+is a deficit of electrons on the hot end, and a surplus
+of electrons on the cold end. So what that looks like from the outside is a slight positive charge on one end, and a slight negative
+charge on the other end. So that's the Seebeck
+effect in a nutshell, but crucially the Seebeck
+effect is more pronounced in some metals and less
+pronounced in others. So imagine taking a different
+metal, heating up one end, cooling down the other
+in exactly the same way. but that charge separation
+is less pronounced, because Seebeck effects isn't as strong, because the lattice of ions of the metal have a stronger grip on those electrons. So a greater charge
+separation isn't allowed, but in the case, what happens if you take these two different metal wires, and join the two ends together? Well, the Seebeck effect is strong in the top wire in our diagram here. So the electrons are being
+pushed strongly to the right, and in the bottom wire at the
+Seebeck effect is less strong. So those electrons are being
+weakly pushed to the right. And they're actually
+pushing against each other. So the top wire is pushing clockwise, and the bottom wire is
+pushing anti-clockwise. But because the Seebeck effect is stronger in the top wire, the top wire wins, or to put that in less
+anthropomorphic terms the net effect of the top
+wire pushing clockwise, and the bottom wire pushing anti-clockwise is a net clockwise push of the electrons, so you get a flow of electrons
+in the clockwise direction. When you have two dissimilar
+metals joined together, like this, it's called a thermocouple, and a thermocouple is
+the working principle behind a lot of thermometers especially those probe
+thermometers that you put in the food that you're cooking, or the one I used when I was calculating absolute zero, that time. If you look inside the tip of one of those probe
+monitors there you'll find two dissimilar metals joined together. The voltage you get from the
+thermocouple is really small. If you want a decent voltage you need to put a load of
+thermocouples in series. And that's actually what's
+going on inside here. So in here, you've got loads
+of wires going up and down up and down, up and down,
+joined altogether in series. So the whole load of the
+junctions are all hot. A whole load of junctions
+are all much cooler. This is called a thermopile, and the voltage you can get
+from it is much greater, as you can see here. A thermopile is an important
+component in your boiler. You might call it a
+furnace or a water heater. So your boiler has this
+thing called a pilot light. Actually modern boilers
+don't always have one, but one of the jobs of a pilot light is to ensure unburnt gas
+doesn't leak into your house. So the pilot light is always lit. It's right there next to the burner. So if any gas comes out of the burner it's gonna get lit. That's how the pilot light
+prevents unburnt gas escaping. But what if the pilot light goes out, you need some way to detect that, and then switch off the gas supply. And that's where the thermopile comes in. If you look just above the
+pilot light in your boiler you'll see a thermopile. And that generates enough voltage to power a solenoid that can
+hold open the gas valve. So if the pilot light goes out the thermopile cools down,
+the voltage goes down, the solenoid shuts off,
+and the gas valve closes. You could instead use
+a single thermocouple producing a tiny voltage, and use that as a switching mechanism. So you have a separate power
+supply for the solenoid, and the thermocouple is
+just used as a switch. The issue then is every
+time there's a power cut, the gas valve closes, and
+you lose heat as well. Conversely, a thermopile system
+is entirely self-contained. You've actually experienced
+the effect of a thermopile in your boiler, if you've
+ever had to relight it, after the pilot light's gone out. And to relight a boiler with
+an extinguished pilot light, you have to push the dial in
+that overrides the solenoid, when you let go, you give
+control back to the solenoid. So if you don't leave the
+dial pushed in for long enough after the boiler is relit, the thermopile doesn't have
+enough time to heat up. When you let go the solenoid closes again, and you have to try again. I mentioned that the opposites
+of the Seebeck effect is also a thing. In other words, if you apply
+a voltage to this circuit one junction will get hot, and the other junction will get cold. That's called the Peltier effect. It's analogous, by the
+way, to the Sterling engine from my video by Entropy, you can use the difference in
+temperature to turn a thing, or you can turn a thing to drive a difference in temperature. Anyway, I'll show you an application of the Peltier effect in a minute, but first what causes it? To see why the Peltier effect is a thing we need to look at metal
+in a slightly different way to the way we were when we were explaining
+the Seebeck effect. Let's think about the energy
+levels of the electrons. So let's imagine we could
+extract all the electrons from a metal and then
+kind of pour them back in. They would start to occupy
+the lowest energy levels that they can, i.e. I, the ones closest to the nuclei of the metal ions, and
+the next atoms to come in will go in the next level up from that, and the next level up,
+and the next level up. You think of those as the
+orbitals of the atoms, but in a metal you get to the point where it's not orbitals anymore, it's energy bands where
+all the energy levels are kind of shared amongst the atoms. But in any case it's analogous to pouring balls into a beaker. Gosh, I haven't poured
+anything out of a beaker for a long time. At the moment, this analogy
+is missing something. It's missing thermal energy. At the moment this looks
+like it's at absolute zero. So to add thermal energy we need to put some jiggle in there. And it's only the top most electrons that are able to jiggle. In other words, they're able to jump up and down through higher energy levels, and that's what I've
+tried to illustrate here. I want to be clear that when you're filling
+a METAL with electrons, it's not like they're sloshing around at the bottom of the metal
+with no electrons at the top. It's that they're
+filling the energy levels close to the atoms, and
+then further and further out until you're looking
+at these energy levels that take up the whole bulk of the metal. It's just that we're
+representing those energy levels on the vertical axis. Importantly, different
+metals have different numbers of electrons, different
+strengths of nuclei. and so they'll fill up
+two different levels. So here's a different metal here, and you can see those free electrons, that are jumping up and down, they're higher overall. So we can bring these two metals together to form a junction. And in reality, there would
+be some movement of electrons between the metals, but
+I'm not gonna show that because it confuses what
+I'm trying to explain. So now what we're gonna do
+to show the Peltier effect we're gonna apply a voltage
+and you can think of voltage as just pushing the electrons. In other words we're going
+to push the electrons in this case we're gonna push them from the left and see what happens. Well, it's a bit like bouncy
+balls on two different shelves, at different levels. The bouncy balls on the lower shelf we're gonna push them across until they get up onto the top shelf. Well, let's look at what
+happens to actual bouncy balls when I release them onto the ground, they've got about 60
+centimeters of bounds here. But look the ones that happen
+to end up on the table, they've only got about 10
+centimeters of bounce, if that. And that's because there's
+this constant interplay between kinetic energy and
+gravitational potential energy. In other words, when a ball is bouncing it's constantly converting
+the energy it has between kinetic energy and
+gravitational potential energy. At the bottom of the bounce, it's got loads of kinetic energy no gravitational potential energy. At the top of the bounce, all that kinetic energy is converted to gravitational potential energy. And if at that point, you
+move it over onto the shelf, well, it's just gonna
+sit there on the shelf, because it has no kinetic energy. And the same is true
+when you push electrons across onto that high
+shelf, in inverted commerce. It's not an interplay
+between kinetic energy and gravitational
+potential energy we'd like, like with the bouncy balls, it's an interplay between kinetic energy and electrical potential energy. In other words, the
+potential energy it has because it's a negatively charged particle near a positively charged nucleus that it's moving away from when it moves up through the levels. The important thing is those
+bouncy electrons that make it up onto the shelf, they're not bouncing so much anymore. And that bouncing up
+and down, that jiggle, that kinetic energy it's
+on the atomic scale. So it's thermal energy. In other words those electrons that
+make it up onto the shelf they have less thermal energy, they cool down the metal. So when you apply a
+voltage across the junction in such a way as to push
+electrons from the low shelf to the high shelf, you
+cool down the junction. The opposite is true when you push the electrons off the shelf, they gain kinetic energy because
+they have further to fall. And that gaining kinetic
+energy is equivalent to a gain in thermal energy,
+so the junction heats up. If you make use of the
+Peltier effect in a device it's got a Peltier element
+like this one here. If I connect these two wires to a nine volt battery,
+one side gets really hot. The other side gets really cold. I pulled this one apart so you can see what's going on inside. It's hard to make sense of
+it really because, you know, some bits have stayed stuck to the floor, some of it stayed stuck to the roof, but hopefully you can
+see there's a whole load of thermocouples all in
+series with each other. And it's actually different
+semiconductors that are used in here, as opposed to different metals. With a heat sink and a water bath you can even use a Peltier
+element to freeze water. ElectroBOOM made a video
+about Peltier elements a while back that's worth a watch. And I know that Alpha Phoenix
+is using Peltier elements in an upcoming video
+where he's trying to grow huge single crystals of water. So subscribed to Alpha Phoenix in advance, so you don't miss it. It's a great channel anyway,
+so go and have a look. I'll leave a link to their
+channel in the description, and on the end screen. (electronic swooshing)
+(upbeat instrumental music) (upbeat trumpets begin) 

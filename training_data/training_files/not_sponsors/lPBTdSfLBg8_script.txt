@@ -1,0 +1,41 @@
+When I first heard about using particle accelerators
+to create solar panels, I thought… what?! I must not understand how solar panels are
+made. Or how particle accelerators work? And yes, there’s a key, unglamorous step that
+– unless you’re fairly familiar with solar manufacturing technology (which I’m not)
+– you probably wouldn’t think of, and it’s in this step where a particle accelerator
+turns out to be useful: cutting silicon into the really thin wafers that are the key component
+of a solar panel. However, even this wasn’t at all what I
+first thought, which was something like slicing through the crystal with a super powerful
+particle beam. That sounds awesome, but the actual technique is much less insane and much
+more clever. Ok, so a typical solar panel cell begins as
+a carefully grown cylinder of silicon atoms arranged in a regular crystal lattice, which
+are then trimmed and cut into wafer-thin…wafers. Some of which retain curved corners as hallmarks
+of the original cylindrical crystal. Then the wafers get covered with other metals,
+anti-reflective coatings and electrodes, and so on, to be able to capture the sun’s energy
+– but the part we want to focus on is the cutting. Because when you cut something with
+a saw, like silicon wafers normally are, there are two problems: one, you can't cut a slice
+too thin otherwise it might get broken – typical solar panel wafers are cut to about 0.15 millimeters.
+And two, unlike a knife which cuts by separating and wedging two pieces of material apart,
+a saw cuts with teeth that gouge and eat away at the material, turning it into saw-dust
+and leaving a gap called a kerf. In the case of silicon wafers, the gap is roughly the
+same width as the wafers themselves, which means about half of the original material
+goes to waste! This is where particle accelerators come in: not
+as a high powered ablative cutting particle beam, but by taking advantage of the physics
+of crystals. If instead you shoot protons with a certain energy at the flat face of
+the silicon cylinder, those protons will embed themselves into the silicon. The depth depends
+on how much energy they have, and the thinner you want, the less energy they take, so you
+can easily pick something super thin. But whatever thickness you choose, once inside
+the silicon crystal lattice, the protons kind of push it apart and create stress; if you
+heat the whole thing up, a wafer will break right off, cleanly cleaving along the crystal
+lattice lines where the protons were. So, if after the protons are embedded, but before
+the heating, you glue this proto-wafer onto a piece of glass or plastic, and then heat
+it up, you end up with a nice thin wafer of silicon attached to a durable (and possibly
+flexible) material, with no waste silicon whatsoever. To me, this is clever physics
+engineering! Of course, a particle accelerator is much
+more expensive than a saw, so there must be some upsides to it – the biggest is that,
+by using significantly less silicon per wafer and not losing any silicon in the cutting
+process, it’s possible to justify using much more expensive silicon that’s better
+at capturing sunlight, meaning the resultant solar panels for a given power output are
+smaller and need less other material to make them and hold them up, hence they’re cheaper.
+Hopefully enough cheaper to make up for the extra costs of using a particle accelerator
+to part silicon! 

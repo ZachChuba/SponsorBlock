@@ -1,0 +1,13 @@
+I also want to thank Protocol Labs for their
+support of this video. This is an organization that runs a number
+of research and development projects, and if you follow the links I’ve left in the
+description to read into the details of these projects, you’ll notice some strong parallels
+with the concepts covered in this video. The challenges and benefits of decentralization
+are by no means limited to currency and transaction histories, and the usefulness of tools from
+cryptography like hash functions and digital signatures are likewise much more general. For example, a couple of Protocol Lab’s
+projects, such as IPFS and Filecoin, center on distributed filestorage, which opens a
+whole field of interesting challenges and possibilities. For any developers out there, Protocol labs
+places a high value on open source, so if you’re interested you can join what’s
+already a very strong community of contributors. They’re also looking to hire more full-time
+developers, so if you think you might be a good fit for some of these projects, definitely
+apply. 

@@ -1,0 +1,85 @@
+You have probably heard that modern day science
+believes the universe to be 13.8 billion years old. It seems rather unfathomable how anyone can
+come to that conclusion, but actually the ‘how’ is not too difficult to understand,
+people just don’t generally ask the question, they either scoff at it or just accept it
+as truth. In this video, we will explore this ‘how’,
+but also throw a spanner in the works due to the newly discovered age of one of our
+local stars, called the Methuselah star, which apparently is older than the age of the universe… So, 13.8 billion years old, how did we come
+to that figure? We currently see that the universe is expanding
+and cooling. Everything is moving away from everything,
+excluding forces like gravity keeping things together. The speed of this expansion is known as the
+Hubble Constant, and currently the universe is expanding at a rate of 80,000 kph per million
+light years. So, the obvious conclusion from an expanding
+universe is that matter is becoming diluted, there’s more space in between things. A less obvious result of the universe expanding
+is the stretching of light wavelengths, known as redshift. What started off as extremely high energy
+and high frequency waves emitted very soon after the Big Bang, have become stretched,
+finally reaching us as less energetic microwaves, known as the Cosmic Microwave Background Radiation. It’s also why the James Webb Space Telescope
+is an infrared telescope, as photons of light emitted by galaxies billions of light years
+away have had their frequencies shifted to the red so much that we need an infrared telescope
+to observe them. A photon contains energy, and a higher frequency
+wavelength means more energy, which means it is hotter. Lower frequencies mean it is less hot. Hence why we say the universe was once dense
+and hot, but now it’s bigger but cooler. But how does knowing this help us work out
+the age of the universe? Well, we do need to assume a few things about
+the universe first. 1. The universe is uniformly dense on the largest
+scales. This seems wrong, it’s clearly not uniform,
+there are superclusters full of densely packed galaxies, and supervoids containing not much
+at all. However, like stars in a galaxy, zoom out
+far enough and suddenly everywhere looks the same. So, we assume the universe is homogeneous. As a result of that, not only is matter distributed
+evenly, but 2. we also assume the universe’s laws and properties are the same throughout
+in any direction. And 3. We assume the Big Bang occurred in all locations,
+everywhere at once. If you hadn’t heard that before, you can
+check out my video about it here. Under the laws of general relativity, if these
+three things are true, then there is a connection between how old the universe is and how it
+has expanded throughout its history. With these assumptions, we can get distance
+and brightness measurements between objects like stars, supernovae and galaxies. For instance, white dwarf supernova always
+appear about the same brightness. If an observed supernova is dim compared to
+what we expect, it is because it is further away. Finding out how dim it is tells us how far
+away it is, and thus how far back in time we are looking. We can also look for fluctuations in the Cosmic
+Microwave Background Radiation, which is a snapshot of the universe only a few hundred
+million years after the Big Bang. Comparing it to galaxy clusters we see today,
+there is a correlation, so we can see how it’s fluctuated to understand how the universe
+evolved and expanded. Based on the expansion of the universe today,
+and how it did expand, we now know the universe is 68% dark energy, 27% dark matter, 5% observable
+matter. What is dark matter and dark energy? We really don’t have much of an idea. However, we can see their effects. Dark energy is believed to be the driving
+force behind the universe’s expansion, as the expansion would have slowed down by now
+without it. And dark matter is gravitational force we
+can’t account for. Galaxies and galaxy clusters in particular
+seem to have a lot more mass than they should, meaning the gravitational pull is stronger. Dark matter is what must keep galaxy filaments
+together. We can observe its influence, in fact we can
+even map out its mass distribution like in this image, but we don’t know what it is,
+we can’t observe it. But for the purposes of this video, we don’t
+need to know what it is, only what it does, to be able to work out the universe’s age. So, we know the current rate of the universe’s
+expansion, or the Hubble constant. We know how that redshifts light. We know the composition of the universe, and
+we know its properties. We can see how galaxies have evolved over
+time. We look for fluctuations in the CMBR. We can use all of this together to extrapolate
+back to the earliest stages of the Big Bang. Using three different instruments, all looking
+at different aspects of the universe, all the answers have come back roughly the same:
+13.8 billion years, with an estimated 99% accuracy. But there’s another method, which has thrown
+a bit of a spanner in the works. And that is to measure the age of stars. Certain types of stars are very short lived,
+going supernova in a matter of a few million years. Others could last for trillions of years,
+not that we’ve seen one that old for obvious reasons. In fact, following the evolution of stars,
+we haven’t really seen any older than about 13.2 billion years old. But it does mean that long-lived stars that
+formed as matter was coalescing shortly after the Big Bang would certainly still be around
+today. And this is where our friend Methuselah comes
+in. Methuselah a metal poor star, meaning it is
+very old and incredibly rare, and most special of all, it is only about 200 light years away
+from us which means we can examine it relatively closely. Based on its evolution, it is an estimated
+14.5 billion years old, give or take about 800 million years. This means it might have disproved the ‘13.8
+billion’ figure. So, do we really know how old the universe
+is? Roughly. It wouldn’t be surprising to see this figure
+change as our technology improves, we have the WFIRST and James Webb telescopes coming
+out soon with specific mission objectives to peer deep into the universe’s past. Exciting times! Although I don’t think we’ll see this
+figure vary than more than about 1 billion years in either direction. Research is still in very early days in this
+field, even if it has been a topic of research for a while. To be honest though, I’m so impressed we
+have got this far. Who would have even thought we could come
+up with any figure a few hundred years ago? All this may throw up more questions than
+it answered, but that is science in a nutshell. The ongoing search for truth. Thanks again to Squarespace for sponsoring
+this video. Squarespace gives people a powerful and beautiful
+online platform from which to create your own website. They have bunch of features which you can
+integrate seamlessly into your own website, like their audioblock feature to embed your
+podcasts or music, with ITunes support. Or something I find particularly useful, which
+is the ability to link various social media platforms to your website and embed videos! So, if you’re looking to build a website,
+give it a go! If you use the link squarespace.com/astrum
+you can try it out for free and get 10% off your first purchase. Thanks for watching! Don’t forget to subscribe so you get more
+space related videos in the future. And want to help pick the next Astrum Answers
+video? Become a Patreon or a member today! Links in the description. All the best, and see you next time. 

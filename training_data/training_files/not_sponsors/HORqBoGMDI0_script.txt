@@ -1,0 +1,51 @@
+If you’ve been watching studying videos
+for like 5 minutes, then you’ve already heard of the Cornell Method, mindmaps or the
+famous outline technique. These are all proven ways to take effective
+notes in class or during revision because they provide a clear structure for ideas,
+facts and arguments and have been used by top-scoring students all over the world. But even if they are great, you’re probably
+sick and tired of hearing about those three. So today we’re going to cover note taking
+methods that usually no one talks about and are also incredible ways to organize information
+and ideas without resorting to the traditional note-taking methods. **Split page method** The split page method is a great note-taking
+method for factually dense subjects and is used as a more condensed version of flashcards,
+promoting active recall after your lectures or in preparation for evaluation. You can adapt it according to your class by
+using facts, topics or questions. Dividing the page in half, you can insert
+the name of the topic or the question that needs to be answered in the left side of the
+page and the corresponding answer or definition on the right column. You can either study these notes normally
+or by folding the page to create an added challenge and quizzing yourself on these topics. This type of note-taking method can be easily
+recreated in digital format and I will below an awesome video that explains how you can
+do it in Google sheets. **Q/E/C method** The Q/E/C method is another study method that
+Cal Newport talks a lot about in his Straight-A book. Q/E/C stands for Question/Evidence/Conclusion,
+and the main purpose of this system is to structure all of your lecture into question,
+evidence and conclusion formats that you can then compile into one big study guide. Besides reducing the amount of unnecessary
+information transcribed into your notes, the Q/E/C system creates a clear and obvious interrelation
+between topic, conclusion and the stream of facts and arguments that connect the two. Furthermore, this note-taking system is two-in-one,
+since, besides helping you organize information while you are reading or attending your lectures,
+you’re also creating valuable study materials to use during revision. **Morse Code Method** The Morse code method is a note-taking method
+envisioned by Cal Newport and focus mainly on taking advantage of written materials. Whenever you find a sentence that seems to
+be laying out a main idea, you should draw a dot next to it in the margin; if you then
+come across an example or explanation that supports that big idea you should draw a dash
+next to it on the margin. This allows you to record information without
+breaking your reading momentum so you can then take notes. The act of taking the dots you’ve written
+and transforming them into notes is called the processing stage and it basically requires
+you to paraphrase the main idea in your own words in a bullet point. The author then encourages you to take all
+of these sentences and review them in the format of a major question: [em fundo branco:]
+“What is the main question being asked in the article? What is the conclusion the authors point towards?” **Flow Notes** Flow notes are very similar to mind maps but
+they have no rules in terms of structure. Although difficult to review, they allow you
+to incorporate a large amount of information during your class, because they are a free
+pass for you to simply throw facts, arguments, topics and dates on the page with no specific
+order while connecting and linking these ideas as you hear them. Flow notes are great for those who hate transcribing
+information and prefer to process what they’re hearing into workable sentences or words;
+it’s an holistic method that works wonders for classes with no clear structure, or discussion
+with interrelated components that aren’t easily organized via outline or mind map format. In case your class is highly dense on information,
+making it impossible to compress all of the facts, you can still use flow notes as a hybrid
+system to comment and annotate original materials and textbooks to create summaries or visual
+aids for complex chapters or topics. **Sentence Method** The sentence method is similar to the outline
+method as it relies on an expansive vision of your notes, but instead of using indenting
+and topic formulation, it uses one-liners, one per paragraph, to create a guide for each
+topic that is easily readable, workable and memorable. The other major difference is that while the
+outline technique uses indentation to hierarchize the importance of different segments of the
+topic, by avoiding indenting the sentence method considers every sentence of equal value,
+which means that topics with a high-level of detail or information can benefit from
+this system as they force you to memorize details as well as key ideas relating to the
+topic. I hope you enjoyed this video and I will see
+you next week. Bye guys! 

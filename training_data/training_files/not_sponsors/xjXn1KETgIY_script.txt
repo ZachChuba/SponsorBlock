@@ -1,0 +1,113 @@
+hey, welcome to 12tone! as a music theorist,
+one of my favorite theory games is a thing I like to call the Random Scale Challenge,
+where I take a completely random scale that, as far as I know, no one's ever actually used,
+and see what sorts of music you could make with it if you did. I've done it a couple times already on the
+channel, link to that playlist in the description, and today I thought it'd be fun to revisit
+with a brand new scale. so which one are we looking at today? (bang) sweet. let's go. (tick, tick, tick, tick, tock) before we get started, a brief note on the
+rules. in the past, what I've done is generate a
+random set of 5 to 9 notes and then check it on one of my favorite websites, Ian Ring's
+A Study Of Scales, to see if it has a name there. Ring's list is pretty thorough, so if he hasn't
+named it then I'll assume it's not in use. I'm still basically doing that, but there's
+a slight problem: since the last time I made one of these videos, Ring updated his website. It's a gorgeous rework, with a whole bunch
+of new information and some awesome graphics: if you like scale theory I can't recommend
+it enough. he even included the names I made up for the
+previous scales in this series! but it does complicate our mission because one of the
+things he added was the Zeitler names. ok, quick bonus lesson: in 2005, a theorist
+named William Zeitler decided he was gonna name all the scales. like, all of them. he just published a list with a unique name
+for every possible scale in standard Western tuning. why? well, the way he explains it, he felt like
+we weren't being adventurous enough in our musical choices, and since humans have a tendency
+to view things as more "real" if we can call them something, Zeitler felt that naming all
+the scales would encourage people to write with more of them. and I can respect that: it's a pretty similar
+goal to the one I have with this series. still, this means that most collections of
+notes, or at least most of the ones in standard Western tuning, already have Zeitler names,
+but those names don't really indicate any actual use, so while I support what Zeitler
+was trying to do, for the purposes of this project, I'm gonna be ignoring his names. or at least I'm not gonna let them stop me,
+but honestly, they could be helpful. like, let's take a look at our scale: (bang)
+Zeitler calls this Phragian, which sounds a lot like the name of a fairly well-known
+scale called Phrygian. (bang) so is there a connection or is this
+just a weird phonetic coincidence? well, no, there's definitely something going
+on here, and to see what we have to talk about tetrachords. tetrachord analysis is basically just the
+process of splitting the scale in two, treating the top half and the bottom half as, like,
+two mini-scales that combine to form the whole thing. if we apply this to our new scale, we see
+the top half is 5, b6, b7, and the octave, which is the same as the top half of Phrygian.
+in fact, this shape is called the phrygian tetrachord, because both the upper and lower
+tetrachords of phrygian follow this pattern. now, I have no idea how Zeitler went about
+naming his scales so I don't know if he noticed this tetrachord or if he just got lucky, but
+either way, it's interesting to see. the lower tetrachord, though, is a bit more
+complicated. once again, we've got both a minor second
+and a major second. I swear, this happens every time I do one
+of these videos. I don't know why. anyway, opening the scale with two consecutive
+half-steps creates a sort of artificially slow start if your melody walks through both
+of them, and you can also just play one or the other depending on the mood you want to
+create at the moment. you can even switch back and forth between
+them (bang) letting you change the emotional color mid-phrase. this tight grouping is balanced out further
+up by the lack of 4th: we go straight from the major 3rd up to the perfect 5th. the perfect
+4th is an important driver of tension in traditional harmony, so missing it means we're gonna have
+to find our instability elsewhere. which brings me to the harmony. the first thing I notice here is that we've
+got a major I chord and a minor V chord, which is always a pretty fun vamp. the major I brings
+a sense of brightness and calm, and the minor V lacks the directionality of its major cousin,
+so you get this kinda cheery, kinda melancholy pad that doesn't feel like it needs to go
+much of anywhere but still seems like it's moving. beyond those, though, chords get pretty hard
+to find. the only other consonant triad is the bII
+minor, which gives us access to a technique called a slide, where you go back and forth
+between a major triad and a minor triad that share the same 3rd. it's a pretty jarring
+sound, because we're not really used to different chords in the same scale sharing a degree
+like that, but if you're looking to grab your listener's attention the slide is a pretty
+good way to do it. from there, we have to expand our search to
+more exotic chords, and this scale has two of my favorites: there's an augmented triad
+built on the root, and a diminished 7th built on the 5th. or, I say they're built on those
+notes, but really, both of these chords are fully symmetrical, which means they're the
+same interval from bottom to top, so really any of their notes could just as easily be
+the root. if the scale has E augmented, it also has G# augmented and C augmented, because
+all three of those are built the exact same way, and in a similar fashion the scale actually
+has four different diminished 7ths, it's just they all use the same notes too. interestingly, these two symmetrical chords
+intersect: both of them contain the major 3rd, so we can build either one off that note,
+and we can even switch back and forth between them there if we want to. (bang) this lets us juxtapose two very different
+kinds of dissonance: the augmented triad is more static, while the diminished 7th wants
+to collapse. but let's talk functions. I think the augmented triad is gonna be a
+pretty good replacement for our missing 4th degree: the point of the IV chord is to add
+instability without really pointing anywhere, which is exactly what augmented triads do. it also contains the root of the key, which
+helps contribute to that lack of directionality: we're already home, we're just not actually
+stable. normally, in the IV chord, the 4th degree
+hangs over the implied 3rd of the key, and we get a similar effect in our augmented triad
+with the b6 hanging above the implied 5. it's obviously not gonna be exactly the same, but
+if we're trying to create that sort of motion, I think this is the way to do it. the diminished 7th, on the other hand, is
+probably best used for setting up the V chord through what's called a common tone resolution. basically, if we build it off the 5th, we
+get B diminished 7, and we can sort of resolve that to B minor by keeping the B and D the
+same and then collapsing the F and G# together to form an F#. you can also set up the bII
+chord the same way, and you can even use the diminished 7th as a way to transfer between
+your two minor chords: you hit V minor, do a reverse common-tone resolution into the
+diminished 7th, then resolve out of it into bII. this is why I love symmetrical chords:
+being more than one chord at the same time opens up lots of really cool transformations. but ok, I've been putting it off long enough,
+let's address the elephant in the room: this scale has a major 3rd and a minor 7th, which
+makes it what's called a dominant scale. this just means you can build a dominant 7th
+chord off the root. dominant chords tend to be the most dissonant
+part of a harmony, so when you're soloing, they're a great place to experiment with clever
+new ideas, making dominant scales pretty exciting for improvisers. that said, I don't want to dwell on this point
+for too long because, somehow, this is the 3rd time one of these videos has given me
+a dominant scale. I don't know how that keeps happening. only about a quarter of all 7-note scales
+are dominant, but every 7-note scale I've found has been. I don't think it's a flaw in my methodology,
+especially since I've changed how I generate the scales a couple times now. I think I'm just unlucky. or lucky? I don't know. anyway, don't get me wrong, dominant scales
+are great and finding new ones is always fun, it's just I think I might be cursed. anyway, that's my observations on the scale,
+but we've still got a couple steps left. first off, we've got to name it. I mean, sure, we could stick with Zeitler's
+name, but again, that's basically just a random collection of syllables and it doesn't really
+indicate the scale's been used, so I think we can do better. my current tradition is to name these new
+scales after my friends, so I'm gonna call this one the Astrocyte Scale, after Alie Astrocyte
+from the YouTube channel NeuroTransmissions, where she talks all about neuroscience and
+the study of the human brain. there's a link to her channel in the description,
+and I can't recommend it enough. plus she just finished her PhD, so I think
+she deserves her own scale. and now that we have a name, all that's left
+is to write some music with it. the thing that most inspired me was, ironically,
+the lack of good harmonic options: we've only got a few chords and they're kind of awkwardly
+spaced, so I wanted to use them sparingly and let the melody tie them together. I'm always a sucker for trills, so I started
+working from that, adding in chords where I could in order to compliment it, and wound
+up with this: (bang) but as always, this isn't just about me: you can write music with the
+Astrocyte Scale too! just like last time, you can send them to me on twitter @12tonevideos
+and I'll be keeping a master thread of all the compositions I get, so even if you don't
+feel like writing something yourself, you can still check out what other people have
+done. trust me, every time I do this I get some
+amazing stuff back, and I'm sure this time will be no different. and hey, thanks for watching, and thanks to
+our Patreon patrons for making these videos possible! if you want to help out, and get
+some sweet perks like sneak peeks of upcoming episodes, there's a link to our Patreon on
+screen now. you can also join our mailing list to find
+out about new episodes, like, share, comment, subscribe, and above all, keep on rockin'! 

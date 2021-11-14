@@ -1,0 +1,66 @@
+If you’ve ever used a can of compressed
+air (also called a gas duster), to, say, clean crumbs out of your computer keyboard , you’re
+probably aware that after a little while, the air coming out of the can and even the
+can itself get really really cold. Like, cold enough they put frostbite warnings
+on the can! And for good reason! It’s tempting to think that compressed air
+cans get cold because when the gas comes out of the can it expands and thus cools off. But that’s not exactly right - whether an
+expanding gas gets hotter or colder (and how much hotter or colder it gets) depends on
+the exact manner in which the gas expands. And if we apply the relevant equation for
+“normal” gas expansion , we predict that the gas inside the compressed air can should
+drop from room temperature to around 100 degrees celsius below zero , which is, um, WAY colder
+than what comes out of a compressed air can. So the gas can’t be expanding in the normal
+way gases expand. . And here’s why: that would be like cutting
+the top off the can and letting the gas expand freely in all directions. But the gas is actually being squeezed out
+through a tiny valve. This difference is key; the gas passing through
+a valve isn’t simply expanding - it’s also being pushed through by the rest of the
+gas behind it! And that compression from behind gives the
+gas enough heat energy to essentially counteract the cooling from expansion. In terms of the gas law, this means the volume
+goes up by the same factor that the pressure goes down, so pressure times volume is pretty
+much constant and the temperature stays about constant. But not exactly - most gases at room temperature
+do get slightly colder when passing through a valve . A good demo of this is to let the
+air out of a bike tire; the valve gets colder , but not crazy cold. Similarly, the gas leaving a can of compressed
+air cools a little bit passing through the nozzle . But this can’t be the only contributor
+to the cooling. I mean, the can itself cools off by significantly
+more than can be explained by expansion through a valve , and it’s not like it’s even
+being sprayed by the air coming out. No, the real cooling power is hinted at by
+the warning labels on cans of compressed air telling you to not to shake them or spray
+them upside down - if you DO shake one, you’ll realize right away that it’s not just gas
+inside - there’s liquid in there, too! Liquid like 1,1-difluoroethane, which is a
+gas at normal temperatures and pressures, but a liquid once you pressurize it to around
+6 times atmospheric pressure. And it’s the essential component of these
+compressed air cans. Inside the can, 1,1-difluoroethane exists
+as both a liquid and a gas, in equilibrium - just enough of the liquid boils off to maintain
+six atmospheres of pressure in the top of the can, a pressure high enough that rest
+stays liquid. Because it’s at six times atmospheric pressure,
+when you open the valve the difluoroethane rushes out in a steady stream. But this then means that the inside of the
+can is no longer pressurized enough to keep the liquid from boiling - so more of it boils
+off until the gas reaches six atmospheres of pressure again and a new equilibrium is
+reached with slightly less liquid in the can. This is how the can is able to keep blowing
+a stream of consistent strength even when mostly empty. But more importantly to our temperature conundrum,
+changes from liquid phase to gas phase require a TON of energy, and that energy has to come
+from somewhere. Just like how the evaporation of sweat removes
+energy from your skin, cooling you off, inside a can of compressed air, vaporization - aka
+boiling - is what steals energy from the liquid and cools it off. Significantly! Spraying out 10% of the contents will cool
+the entire remainder of the can by around 20 degrees celsius! If it seems counterintuitive that a boiling
+substance cools itself off, look no further than the humble pressure cooker . Water normally
+boils above 100 degrees celsius, but by sealing in steam, the pressure rises, enabling the
+water in the pot to remain a liquid well beyond water’s normal boiling point - just like
+the difluoroethane in a can of compressed air. And releasing water vapor out of the nozzle
+of a pressure cooker lowers the pressure inside, allowing a bit more water to boil off as steam
+and lowering the temperature of the remaining water - just like the difluoroethane in a
+compressed air can. And if you keep letting off steam, eventually
+the water will cool all the way back down to its regular boiling point of 100 degrees
+, just like how if you keep spraying a can of compressed air, the difluoroethane inside
+will cool all the way back down to its regular boiling point of negative 25 degrees . A can of compressed air is quite literally
+a 1,1-difluoroethane pressure cooker. And just like you shouldn’t shake a pressure
+cooker or turn it upside down (unless you want to spray superheated water everywhere),
+cans of compressed air don’t work very well sideways or upside down: instead of spraying
+out gas, you’ll spray out the liquid that was only being kept liquified by the high
+pressure inside the can , so it immediately vaporizes and drastically cools down whatever
+it’s contacting . INSTANT ICE! (though difluoroethane can dissolve in water and is poisonous, so
+definitely don’t use this ice for anything food-related). In conclusion, the cause for the coldness
+of cans of compressed air can be clarified by comprehending the consequent clue: they
+aren’t actually cans of compressed air. They’re cans of pressure-liquified 1,1-difluoroethane,
+and lowering the pressure inside by spraying them allows more liquid to boil off, cooling
+what remains. I love learning about the physics of regular
+stuff; I mean, black holes and quantum mechanics let Brilliant know you came from here. 

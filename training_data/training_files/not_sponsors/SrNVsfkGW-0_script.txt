@@ -1,0 +1,38 @@
+In our universe, when you change from a non-moving
+perspective to a moving one, or vice versa, that change of perspective is represented
+by a what's called Lorentz transformation, which is a kind of squeeze-stretch rotation
+of spacetime that I've mechanically implemented with this spacetime globe. A quick reminder - spacetime diagrams plot
+position on the horizontal axis and time on the vertical axis, and something moving as
+time passes traces out a path through spacetime called a worldline. One of the first things you might notice about
+Lorentz transformations is that events that were at different places at the same time
+before the transformation aren't at the same time after the transformation. This means that from the perspectives of people
+going different speeds, simultaneous events for one person won't be simultaneous for the
+other, and vice versa. For example, if from my perspective these
+two boxes spontaneously combust at the same time, and you're moving at a third the speed
+of light to my right, then from your perspective, that is, the perpective from which you're
+not moving so your worldline is purely vertical, from your perspective the box on the right
+will combust first, and the box on the left will combust second. The takeaway here is that our universe has
+neither an absolute notion of time nor an absolute sense of simultaneous events, and
+that simultaneity breaks down more the farther away from each other two things are – a
+box even farther to the left that from my perspective simultaneously spontaneously combusts
+with the others will, from your moving perspective, be even farther out of sync with the box on
+the right. This is described by the time part of the
+Lorentz Transformation equations, the part that says t new = gamma times t minus v times
+x over c squared). Because of the x in there, the farther away
+an event is from you, the more its time from the new perspective will be out of sync with
+events closer to you. Though because of the factor of c squared
+in the denominator, which is huge, it's hard to notice anything being out of sync until
+either your speed or distance to the object in question are really really really big – like,
+you'd have to be going half the speed of light and be comparing things farther apart than
+the earth and moon before things would become more than 1 second out of sync. But in that case, events that were simultaneous
+from my perspective really would be out of sync for you! As surprising as this may seem, it might feel
+more familiar and comfortable when you remember that this “getting out of alignment” phenomenon
+happens to points at the same place in space, too, which is literally what we think of as
+defining motion – from my perspective, this box is at the same position at different times
+– that is, it's not moving; maybe, “simulspacious”– but from your moving perspective it's at different
+positions at different times – it is moving. Relativity of simultaneity is just the other
+side of the coin – the fact that events that happen at the same time at different
+spatial positions happen at different times when viewed from a moving perspective. All together, in our universe, the takeaway
+is this: events that were previously either all at the same place or all at the same time
+get out of alignment with each other when you change to a moving perspective. A big thanks again to Mark Rober for making
+the spacetime globe a reality, and to dive 

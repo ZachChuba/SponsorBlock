@@ -1,0 +1,67 @@
+So, first things first, this video is not
+about the hugely controversial and politically divisive places that you probably assume it
+is based off the title. Namely, this, this, this, and this. So let’s say you’re you, and you’re
+on a road trip heading from the bustling city of Shenzhen, China to visit the beautiful
+Lam Tsuen Park in Hong Kong. You wake in your room at the Sunflower hotel,
+and head over to the Northeast Dumpling House to start your day with some delicious steamed
+pork buns—the breakfast of champions. You drop off a letter at the Fulian Post Agency,
+make a quick stop at the Bank of China to get a few extra kuai for the taxi, and then
+you’re on your way to Lam Tsuen park. But wait, what happened to the road? Why is it split in two? Are you in a dream? Did Leonardo Di Caprio hack into your mind? Let’s turn on the satellite map. Wait, why are you in the middle of the Shenzhen
+Bay? And come to think of it, why was that bank
+in the middle of a lake? And why was that dumpling restaurant in the
+middle of a busy intersection? Why was the post office in the middle of a
+forest? And why was your hotel in a river? The good news is, you’re not going crazy,
+and Leonardo Di Caprio is far away, on a yacht with models. Your map is just wrong. The bad news is that you can’t fix your
+map, because every map of China is wrong. The 1992 Surveying and Mapping Law of the
+People’s Republic of China makes any surveying or mapping of mainland China illegal without
+specific authorization by the Chinese government. And it’s enforced—from 2006 to 2011 alone,
+the Chinese government brought 40 cases against people who tried making maps—everyone from
+Coca-Cola to three British geology students trying to conduct research on fault lines
+which is definitely one of the lamest ways to get arrested—image being in prison, having
+Marco the Machete Murderer ask you what you’re in for, and your answer is, “cartography.” Not exactly hardcore, but, according to the
+text of the law, the Chinese government believes that keeping its geographic data secret is
+important for “development of the national economy, the building up of national defense,
+and progress of the society.” And they’ve gone to pretty extreme lengths
+to make sure that nobody knows where anything in China actually is. There are only 14 companies that have been
+granted permission to make maps of China, and all 14 are Chinese—not a single foreigner
+has been allowed to map the country. That means that companies like Google have
+to partner with Chinese government-approved mapping companies, like AutoNavi, in order
+to have maps of China at all. But you might be wondering, if all these companies
+are allowed to make maps of China, then why are all the maps wrong? Well, that’s because the companies make
+accurate maps, and then they intentionally mess them up. You see, most countries in the world use a
+GPS coordinate system called WGS-84. WGS stands for World Geodesic System, and
+84 is because the system was established in, you guessed it, 1584….no, it was 1984. But instead of WGS-84, China uses a system
+called GCJ-02. The GCJ-02 system is like the WGS-84 system
+but with one major difference. It takes in all of the accurate GPS coordinates
+that government-authorized mapmakers have and feeds it through an algorithm that intentionally
+messes them up—randomly moving coordinates 50-500 meters away from where they actually
+are. On the one hand, that isn’t a huge difference,
+but, you know what they say, “close only counts in horseshoes and hand grenades.” That’s what the judge said after my last
+knife throwing show, but with the Chinese maps, “close” makes a big difference if
+you’re trying to drive here, over the Jiaozhou Bridge, and your map takes you here, into
+the Jiaozhou Bay. But let’s say that you don’t know your
+way around China and you want to fix your map so that it is accurate. Well that’s a lot easier said than done
+because the GCJ system doesn’t shift everything in the same direction or the same distance
+away. If it just made everything 20 meters further
+east, you could fix it by just shifting your whole map 20 meters west. Easy, problem solved. But the algorithm is designed so that each
+individual location is shifted a different random distance in a different random direction,
+which means that piecing it all back together is a lot more complicated. The only way to make things look right is
+to make the entire map, including the satellite map, use the GCJ system, which, for example,
+is what Google China does. So if you go to google.cn, you’ll notice
+that the Bank of China is no longer in a lake which is great for the Bank of China’s foot
+traffic, but doesn’t mean the map is fixed. You see, the bank isn’t on land now because
+the satellite map is right. It’s on land because the satellite map is
+now also wrong. So instead of google.com, which puts an accurate
+satellite image over an inaccurate map, google.cn puts an inaccurate satellite image over the
+inaccurate map. So everything lines up, but it’s all still
+completely wrong. The coordinates it gives you for a location
+are just not the real ones of that location. It’s like fixing your wrong answer on your
+geography test by crossing out part of your textbook and writing in that actually, the
+capital of Florida is Florida City. So if on Google China, you go to a border
+between mainland China and an area that uses a correct GPS system, the images don’t match
+up. If we go to that same bridge from earlier
+on Google.cn, on the border between mainland China and Hong Kong, the bridge is split in
+two. That’s because it’s trying to match up
+the accurate satellite images of Hong Kong with the inaccurate satellite images of mainland
+China. So in conclusion, there’s no real way to
+know where anything in China actually is. 

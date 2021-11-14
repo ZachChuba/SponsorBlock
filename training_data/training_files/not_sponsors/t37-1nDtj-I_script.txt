@@ -1,0 +1,85 @@
+According to an article in the New Yorker
+in 2014, the term hack in relation to technology came about in the 1950s. Back then, it had more benign connotations,
+mostly meaning working on a technical solution to something. Then in the 1970s we started talking about
+malicious hackers, people who would exploit vulnerabilities in a system. These people soon became known as “black
+hat” hackers, while the hackers that were less malicious were called “white hats.” Then we have the term life hacker, which is
+more or less neutral. Despite the fact there are the good, the bad,
+and the ugly in the hacking world, we still for the most part tend to think of hacking
+as something of a nefarious activity. We have good reason too, as you’ll find
+out in this episode of the Infographics Show, Hackers Who Broke into the Government. War Games
+Some media reports say one of the world’s most famous hackers, Kevin Mitnick, was the
+inspiration behind the 1983 movie War Games. But in numerous interviews he has denied this,
+although he did admit that he hacked a lot of big companies. Some reports tell us he also hacked the FBI
+and NORAD – the North American Aerospace Defense Command. Perhaps he is telling the truth and this is
+just bad journalism, so we’ll just say some sources state this happened. He did say this, though, in an interview with
+Salon: “Hacking to me was like a video game. It was about getting trophies. I just kept going on and on, despite all the
+trouble I was getting into, because I was hooked.” This hacker was revealed to the public, but
+you’ll see later that some of the world’s biggest hackers remain faceless. More War Games
+No one is denying that a British man called Matthew Bevan hacked into the United States
+Air Force, NASA, NATO, and the Korean Atomic Research Institute. This guy has been accused by security experts
+of almost starting World War Three. Along with another man, well, a 16-year old-boy
+called Richard Pryce, Bevan hacked into military computer systems in the USA. The US government started a case against him
+but later dropped it. While reports suggest this really did happen,
+Bevan told The Guardian in 2002 that the US government had overblown things at the time. Speaking about another British hacker who
+was accused of hacking American military computers, Bevan said, “I know how the American propaganda
+works because I've been at the sharp end of it. If he is extradited, he is stuffed because
+they will want to make an example of him.” The Winner
+Kevin Poulsen has had an interesting career, becoming an editor and journalist after starting
+out as a hacker. In 1990, he hacked his way to winning a Porsche
+944 S2 by hacking a radio station’s telephone lines. But it’s also said that at the age of just
+17 he hacked into ARPANET, the Pentagon’s computer network. He was arrested and sentenced to 5 years in
+prison. He was banned from using computers for a few
+years after his release, but he eventually became a writer working in tech journalism. The Loser
+Like Poulsen, a young hacker called Jonathan James ended up behind bars, albeit for a probation
+violation on the back of a cyber security crime he had committed. That crime was hacking into the United States
+Department of Defense, and he did it when he was just a teenager. It’s said he hacked many emails of employees
+and saw a lot of sensitive data. OPM Hack
+The US Office of Personnel Management (OPM) was hacked in 2010. This is an office that according to Wired
+staves off around 10 million attempted hacks per month. It’s said that in all 21.5 million records
+were stolen, and all of them were related to employees at OPM. This went on for some time, and for a long
+time no one had any idea who was behind it. The Washington Post reported in 2017 that
+a Chinese national had been arrested for the hack, but it’s thought more people were
+helping this one man. It was possible that the Chinese government
+was behind him and his crew. The court transcripts said he would “acquire
+and use malicious software tools, some of which were rare variants previously unidentified
+by the FBI and information security community, including a malicious software tool known
+as ‘Sakula.’” Pluck the Police
+The FBI was certainly embarrassed after a 15-year-old British kid hacked into it in
+2015. The media tells us that this teenager also
+hacked into the Department of Homeland Security, and then he plucked and leaked tens of thousands
+of highly sensitive files. He was said to be just one kid who belonged
+to a group called Crackas With Attitude. Hacking the Democrats
+In 2016, the media reported that the Democratic Congressional Campaign Committee (DCCC) had
+been hacked, and thousands of emails had been leaked. Mashable wrote, “The hack exposed emails
+indicating supposedly neutral DNC officials maneuvered in favor of Hillary Clinton over
+Bernie Sanders.” Russian hackers were blamed for this incident. Russian Snakes
+In 2018, there was another incident involving Russian hackers. This time, they were blamed for hacking the
+German government. Reuters tells us that a group known as Snake
+got into government computers and saw a lot of sensitive files. While Russian hackers were blamed, the Kremlin
+denied any part of this hack, saying, “We note with regret that any hacking attacks
+in the world are associated with Russian hackers but that each time they (the allegations)
+are made without any tangible proof.” Nonetheless, it’s said this group, which
+is linked to the Russian government, also tried to hack many other countries’ governments
+using the same malware. Sick Singaporeans
+The BBC writes that in 2015 Singapore’s government health database was hacked, so
+someone got hold of the health information of 1.5 million people in that country. The good news is that the hackers only got
+names and where the people went to the hospital. They also saw the medicine prescriptions of
+160,000 people. Panicky in the UK
+The biggest health hack of all time has to be when Britain’s National Health Service
+was infiltrated in 2017. Hackers locked files containing information
+about people’s health. They demanded money and then said if they
+were paid, they would unlock those files. The Independent wrote at the time, “The
+ransomware is shocking and horrifying.” Known as the WannaCry hack, these people got
+into around 200,000 computers in an estimated 150 countries, so it might well be the hack
+of all hacks. It has been reported that North Korea was
+behind the attacks. The US government as well as Microsoft and
+the UK's National Cyber Security Centre also said that. In 2018, the US charged a North Korean citizen
+called Park Jin Hyok for the hack. The Lost Virginians
+Staying with health, in 2009 the very personal health information of 8.3 million Virginians
+was hacked. The hackers demanded 10 million dollars or
+else they would release the information, which consisted of patient records and prescriptions. It doesn’t seem like they got paid. coupon code ‘infographics’ you can get
+10% off a premium subscription today! These are some of the biggest government hacks
+ever, but could you tell us if we’ve missed anything big? Have you ever hacked anyone, or have you ever
+been hacked? Tell us in the comments. Also, be sure to check out our other show,
+Most Dangerous Hackers In The World. Thanks for watching, and, as always, don’t
+forget to like, share and subscribe. See you next time! 

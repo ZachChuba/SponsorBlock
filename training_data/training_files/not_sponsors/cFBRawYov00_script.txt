@@ -1,0 +1,128 @@
+- [Jared] This is the space shuttle. It's kind of like a space plane. It launched like a rocket, but then landed like an
+airplane on a runway. In this video we're going
+to take a closeup look at the inside of the orbiter vehicle. We'll see the crew
+compartment, the payload bay and all the way to the
+engines on the very back. My name is Jared. I make 3D animations on how things work. In the past I've had a lot of fun doing other space animations like the International Space Station and the Apollo Spacecraft. I'll leave links for
+these videos down below. But I think it's about time
+that we finally take a look at the space shuttle. The space shuttle was
+used by NASA for 30 years and flew 135 missions. 2011 was the last time the
+space shuttle was flown. The space shuttle consists
+of the orbiter vehicle, the orange external tank, and then the two white
+solid rocket boosters or SRBs for short. The external tank is
+basically a big fuel container for the three main engines. The two SRBs each carry their own fuel. This is a partially reusable system. The orbiter and the two SRBs are reusable, but the external tank was not reusable. They had to make a new
+one for each mission. Keep in mind that a lot
+of people call this part the space shuttle even though technically this is just one part
+of the space shuttle. So, orbiter vehicle or space shuttle. Sometimes these terms
+are used interchangeably. Let me show you what a
+typical mission looked like. The space shuttle was launched from Kennedy Space Center in Florida. (bright music) The two SRBs did most of the
+work for the first two minutes. At that point they were detached and fell back down to the earth where they would be recovered
+and used for a future mission. The three main engines are on their own for the next six and a half minutes. (bright music) After that the orange
+external tank was separated and it fell down to the earth where it burned up in the atmosphere. The three main engines are now dead weight and won't be used for the
+remainder of the mission. The last push to get into orbit is done by the two smaller OMS motors. Now the shuttle will circle the
+earth once every 90 minutes. That's a speed of 28,000
+kilometers per hour. The payload bay doors will be
+opened once they are in space. And in fact for most of the time the orbiter will be facing
+backwards as it orbits the earth. This protects the astronauts
+in case of any space debris. Many of the missions were
+around 320 kilometers high, but some missions went as
+high as 550 kilometers. Anywhere in this area is
+called low earth orbit and it's where all of the
+shuttle missions happened. At the end of the mission, the OMS motor fires up to
+slow the spacecraft down. It doesn't change the speed by much, but it's enough to send it on a path back through the atmosphere and things are going to get a little hot. This part is called reentry. (bright music) Once we're close to the ground, the orbiter glides down to the runway. The wheels are extended and the orbiter lands
+similar to an airplane. This red parachute helps to
+slow it down on the runway. Now remember the orbiter is reusable. Before the space shuttle, launch vehicles were only
+designed to be used once. You had to build a new
+one for each mission, but with the space shuttle, the orbiter vehicle could
+be reused for many missions. There were five of them
+built to travel into space: Columbia, Challenger, Discovery,
+Atlantis, and Endeavour. And actually there was
+another one called Enterprise. The very first orbiter to be built. This one never flew in space, but it was only used
+for tests here on earth. Challenger and Columbia were
+both destroyed in accidents, but the other four orbiters
+can be found in museums here in the United States. Let's take a closer look at the orbiter. (bright music) Some have called this the most complex flying
+machine ever built. On most missions it had a
+crew of seven astronauts and stayed in space for one to two weeks. It is 37 meters long and 24 meters wide. For comparison here's
+the Apollo Spacecraft which landed astronauts on the moon and here is a Boeing 747. Let's take a look at the
+main parts of the orbiter and then I'll show you more
+of what's on the inside. The main body down the center
+is called the fuselage. We can break this up into three parts: The forward, mid and the aft fuselage. The aft fuselage has a vertical
+stabilizer in the middle and three engines on the back. These are called the space
+shuttle main engines. The two smaller ones up here are called the OMS rocket motors, and OMS stands for Orbital
+Maneuvering System. The mid fuselage has the
+wings attached to each side and then in the center is the payload bay. Sometimes called the cargo bay. This is where they would
+transport large items into space. Forward fuselage has the nose cone and the full reaction
+control system module. These tiny holes are thrusters
+which can help change the orientation of the shuttle in space. And most importantly the crew compartment. This is where the astronauts
+spend most of their time. On the bottom is the
+thermal protection system otherwise known as the heat shield. There are more than 27,000 silica tiles to protect the shuttle from
+the enormous heat of reentry. There are three doors on the bottom that contain the landing gear. These open up once the shuttle
+gets close to the runway. Okay, we've seen the
+outside of the shuttle, now let's take a look at the inside starting with the crew compartment. There are three levels in here: The flight deck, the mid
+deck and the equipment bay. The flight deck has the
+controls to fly the orbiter. The commander is on the left
+and the pilot is on the right. There are two more seats directly behind, but these will be stowed away for most of their time in space. At the back of the flight deck
+there's more control panels. These two windows look
+directly into the payload bay. There's also two windows on
+top and six in the front. The flight deck has a hole on the floor that leads down to the mid deck. There's a ladder, but when you're in space
+you can just float through. The mid deck is where the crew eats, sleeps and does some of their work. These are the lockers to store equipment and personal belongings of the astronauts. These are the sleep stations. It can fit three astronauts horizontally. More astronauts sleep in bags
+attached to the side here. There's no gravity in space so sleeping is a bit
+different than here on earth. This is the galley used to prepare food. Don't forget about the bathroom in space. This is called the
+waste collection system. This is the airlock for when astronauts get
+in their space suits and then go outside to
+access the payload bay. Behind this row of lockers
+is the avionics bay. This holds equipment and computers that can help fly the shuttle. Several seats can be
+set up in the mid deck for launch and reentry. The shuttle was designed to
+fit six to eight astronauts. On most missions there were seven, three on the mid deck and
+four on the flight deck. Below the mid deck is the equipment bay which holds the waste
+management systems, water tanks, pumps, and more storage space. The crew compartment here is the only pressurized
+part of the orbiter, which means is the only part
+that astronauts can be in without a space suit. The side hatch is how they enter and leave the orbiter on earth. The hatch is not used
+while they're in space. If they did it would suck all the air out. Not good. When it's time for some of
+the astronauts to go outside, they'll use the airlock. For now I'm going to skip
+over the payload bay. We'll come back to it. The engines are in the aft fuselage which is in the very back. This is the thrust structure
+which contains three holes for the space shuttle main engines. These are RS-25 engines which are powered by liquid
+hydrogen and liquid oxygen. The fuels are stored in the external tank during the launch through the atmosphere. The fuel was fed through
+the belly of the orbiter and back to the three engines. The fuel is extremely
+cold before it is burned. The hydrogen is pumped down
+the side of each engine and then back up the inside
+through many smaller tubes. In this way the fuel was
+used as the cooling system before it is burned. All three engines can be
+gimbaled from side to side or up and down. This was done during the
+launch to steer the orbiter. Right above there's the orbital maneuvering
+system rocket motors. These helped give the
+final push into orbit at the beginning of the mission and also slow the spacecraft
+down at the end of the mission. The OMS is actually made of two pods on each side of the vertical stabilizer. These contain their own
+fuel and oxidizer tanks. You'll also notice that there are more
+tiny thrusters out here. There's even more of them underneath. This is part of the reaction
+control system or RCS. We saw earlier in the video
+that there are RCS thrusters in the front as well. All three RCS modules can work together to change the orientation of the shuttle. The orbiter has several parts which are very similar
+to what an airplane has. The wings, the elevons, the body flap, and the vertical stabilizer
+with a rudder on the back. This rudder can also
+function as a speed break. These parts don't really
+matter in the vacuum of space, but they will matter once
+we're close to the ground and ready to land. Okay, now let's take a closer
+look at the payload bay. Once in orbit around the earth, the payload bay doors are
+opened up to expose the inside. It's very important to
+get these doors open because they have radiator
+panels on the inside to help get rid of excess heat. The bay is big enough to fit a payload of up to 18 meters long
+and 4.6 meters in diameter. This was used to launch many satellites including the Hubble Space Telescope. It was also used to launch modules for the International Space Station. On some missions they carried
+a module called Spacelab, which has extra working space
+for science experiments. The astronauts can get in here by floating through the access tunnel. Along the left side of the
+cargo bay, there's a robotic arm called the Shuttle
+Remote Manipulator System also known as the Canadarm. This was a contribution by Canada. It was operated from the controls at the back of the flight deck. They looked right through this window. The Canadarm was used to grab and move payloads around in space. It was also used to move
+astronauts around as well. When astronauts put on their
+space suits and go outside, it's called an EVA or
+extravehicular activity. The astronauts put their
+spacesuits on in the airlock then they can open up the
+hatch on the other side and go out into the vacuum of space. Later shuttle missions had the airlock in the mid deck removed and another one was installed
+inside of the payload bay. This whole system is called
+the orbital docking system. Here's the airlock, the
+supporting thrust structure and this top part is
+the docking mechanism. This is how the space
+shuttle was able to dock to the International Space Station. Once it's docked the
+astronauts can freely float to and from the station. (soft music) The orbiter does not have
+batteries or solar panels. All of the electricity is generated underneath the payload bay. You'll notice several
+spherical shape tanks for liquid hydrogen and liquid oxygen. Then at the front there
+are three fuel cells. The hydrogen and oxygen are
+combined by the fuel cells to generate electricity. As a side effect this also creates water which can then be used
+for the cooling system or as drinking water for the astronauts. 

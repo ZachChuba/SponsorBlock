@@ -1,0 +1,134 @@
+GamePad Digital, or GPD. You might already know what they do but if
+not here is a quick summary. When you think "Laptop" a very solid image
+comes to mind. The format of laptops has been pretty stable
+and while technological advances have brought progress
+in either cost, power, weight and thickness most of the big computer brands have to compete
+with either gradual improvements or experimenting with some occasionally questionable
+gimmicks. Chinese newcomer GPD figured that rather than
+try to compete in the already crowded market they could specialize in what was a relative
+ignore niche: Tiny, tiny Laptops. GPD got its name from doing gaming handhelds,
+first running Android and then Windows, of which I have done a fair bit of content and
+eventually decided to gather the lessons learned from handhelds to do an entire line of Pocket Laptops, and if you
+are a little bit older this might sound a bit familiar. In what now feels like prehistory the original
+line of Intel Atoms allowed for the netbooks. Cheap tiny laptops with or 2 GB of RAM that
+would barely run Windows 7 starter edition. The idea was to make super-portable devices
+meant for light tasks and they were not very good. I should know, this netbook was my personal
+laptop when I was starting university almost 8 years ago. Now that initiative was killed because not
+long after smartphones became a thing and they were much more portable and better at
+those tasks. Now Phones are great but certain tasks are
+better suited for a keyboard like writing any long document or of course gaming and
+advancements on the new line of Intel Atoms, Intel m3, m5 and Intel Pentium meant the moment
+was ripe for some company to bring netbooks back in spirit. I am in part an almost ideal user for this
+sort of device. I have carried my original intel Atom-powered
+GPD Pocket in pretty much every conference and trip that I do. I have written entire video scripts on this,
+I have done a lot of research and a lot of channel managements since the YouTube studio
+app in Android is very insufficient. And you might ask, isn't a regular-sized laptop
+better for that. Yes, yes it is, but if you had to walk 3 days
+of Vidcon with a full laptop in your bag versus a GPD Pocket you might arrive at the same
+conclusion as I did. Now, there have been 3 models of the GPD Pocket. The Pocket 1, The Pocket 2, and the GPD 2 Max... a larger model that I hope
+to review someday in the future. All past videos I have done on the devices
+I own are in the cards in the corner or on links in the description. Which takes us to today. GPD has released a refresh of their Pocket
+2 and this one... is actually downgrade from the older Pocket 2 model. Yes, this is a weaker PC. And that actually makes sense! I already did a video on the original Pocket
+2, on which I praised its improved performance and its keyboard. The Pocket 1's keyboard is a bit cramped while
+the Pocket 2 sacrifices mouse usability to maximize keyboard surface which actually makes
+this form factor work much better. Now, problem GPD products tend to run is price. In general, they tend to be a bit premium
+on their original launch campaigns and some of their stuff gets pricier after release. Alex: And that leads to this, the new version
+of the GPD Pocket 2. Now, this is my mate, Nate. He's a Spanish Techtuber extraodinaire who's
+actually I've asked to give me a second opinion because I know a lot of you guys have opinions
+regarding miniature computers and he has never seen one of these before. So, I asked him to evaluate both usage, built
+quality, keyboard, etc. and give me his opinions and what have you thought so far? Well, my attention is that the chasis is very
+similar to the macbook Air, actually I have my macbook Air over here and
+if you compare those, you can see that obviously the design was inspired by this laptop. And that's not something bad, actually is
+very good. Alex: It's actually really good. Nate: Yeah. Alex: It's not a cheap copy, it's a really
+good material. Nate: Yeah. Also, the chasis is very similar in the stiffness
+and also the hinge is very, very strong. Alex: Yes, very difficult to open. Nate: Compared to the MacBook Air, you can
+open it with one hand but that's just a detail- small detail, but the construction is very
+nice. It's very strong and premium. Alex: It has more ports than the MacBook. Nate: But you can use this without a dongle,
+that's something good about this laptop. The thing I can't figure out is how to write
+here because I really miss the keys everytime. Alex: Yeah, it's just, it's a matter of habit. Not everyone is going to be willing about
+using such a small keyboard. It is interesting however that- How expensive
+is that MacBook again? Nate: $/€ 1000 Alex: That's in Euros while this device has
+been dropped now to between €350 and €400, and that is because
+they did a significant cut in specs, now instead of using an Intel M3 they're using
+an Intel celeron which is a Dual Core, 1.5 ghz, non-hyperthreaded CPU, which is very
+basic and is very centered towards common office tasks rather than gaming, and we'll
+get to the gaming part later, don't worry about that. Nate: So, the new model is a downgrade. Alex: Exactly. At some point, they figured that most people
+were using the previous model for general tasks,
+and that there was no point in preserving the higher specs and will use something that
+will heat up less, have better battery life and will be actually cheaper. And the result is why I'm calling the GPD
+Pocket 2 lite. GPD is not calling it that way, they're just
+calling it the new GPD Pocket 2 and honestly I kinda prefer it over the old GPD Pocket
+2. It always comes with 8 gb of RAM, which is
+fantastic, that was a huge problem with the other one and it works for most tasks that
+you're going to do with something like this. Like, what I was mentioning before is that
+I take this usually when I go to conferences and I do a lot of my scriptwriting, a lot
+of my management of my editor, and a lot of like creating thumbnails for videos or doing
+small adjustments, and that led to a curiosity on the video in your channel that we were
+working together. Nate: Yeah, we made the thumbnail for this
+video actually- well for my video Alex: Yeah, you were curious about how- If
+we could create an entire thumbnail for your video in this device, so we connected it to an external monitor
+which was running in an obscene 2K resolution that I thought it would not work here and
+you got to it and what was the result? Nate: Yeah because- well, the result was very
+good, I mean, you can do a thumbnail in this computer but basically I always dreamt of a- some kind of computer/laptop/smartphone
+whatever that you can bring with you, all the day and then you get home, you plug it
+to your monitor, your keyboard, your peripherals and you just use it as your every day computer. Alex: General computer Nate: And I was trying to figure out that
+a device like this was able to do that. Alex: Yeah, it would be very interesting-
+an experienced company like GPD would actually try to do a mobile device, and also be a laptop,
+like that would be something I'd be definitely into because they have a very good track record
+with their small devices so far. The latest ones have been superb so that would
+be a pretty interesting idea. Nate: Also, one thing I like to mention is
+that, the first time you handed it to me, I didn't see, of course, the touchpad but,
+the first thing I thought is... well, there is no touchpad, the screen must be a touchscreen
+so I tried to touch it and it worked, and I think it's ok to use this laptop in a touch
+way, you know what I mean? Because, you actually have like iPads nowadays,
+that's how people use iPads and other tablets without a keyboard because you can actually
+touch it and... Alex: That might be why the hinge is so strong,
+because it needs to resist the pressure of clicking it continuously, yeah. Nate: That makes sense. Alex: That makes sense... um but yeah, we
+sort of prooved that as a general work office device, this works actually excellently. Nate: Yeah, this can be your only computer Alex: It can be your only computer. So, the real question there is, what sort
+of gaming can you do with it? And there, I got a little bit creative. Gaming on this device is going to be a bit
+of a challenge for several reasons. The dual-core Celeron is combined with a comparatively
+better Intel HD Graphics 615. However, a locked Bios and no turbo boosting
+means that we have no way to alter the TDP so we are going to run into thermal limits
+on the GPU and a very significant bottleneck on the CPU for most games Now that does not mean that it is not possible,
+it just means that since there is very little that can be tweaked to deal with a CPU bottleneck
+we have to carefully pick games that can at least get 30 fps from the CPU. Lighter indie hits like this year's Blasphemous
+work just fine, with only occasional CPU usage spikes. And I played a significant amount of cuphead
+on a machine that was way weaker than this one and that was at 720p at full 1080 or 1200p
+for the aspect ratio of this screen the game works with just occasional slowdowns. Both of those will play the best if you connect
+a Gamepad, but since that is another thing to carry around
+I was looking for something that could be played just with a keybord and a mouse and something like Age of empires 2 HD works just just great. Both here and in the original GPD Pocket 1 But none of those are big surprises so let's
+turn on the heat. Good classics like Skyrim are old enough at
+this point that wihout modification the CPU can manage a pretty playable framerate with
+the GPU at 720 having a fair enough space for lowest settings. I played a significant ammount of skyrim on
+my intel atom gpd win 1 so this is not much of a surprise. Rocket League is a great example, on lower
+settings the game is very GPU light so I have zero doubts the IntelHD could do it, but online
+play tends to particularly cause problems on these sort of low-end CPUs. To my surprise,
+it managed to keep it together and playable during an entire match. Due to the TDP limits, the GPU is rarely able
+to use its full power so I stuck to the lowest settings but this was still a rather enjoyable
+result. Now another surprise was the original Tomb
+Raider reboot from 2013. I have been planning to incorporate more of
+this game on my test on ultra-limited systems due to is surprisingly low CPU usage and the
+fact that I have made a video with some textures tweaks
+to improve GPU performance. On those settings, this device has zero issues
+on 1280×800 on the benchmarks which are not amazingly representative but an encouraging
+result while still being limited on the CPU. Actual combat drops significantly lower but
+it still much better than I expected except for any explosions that involve physics and
+overload the poor CPU and yet this still somewhat serviceable for an action game. What if we try something that is less reliant
+on quick reactions, such as an action game like Xcom 2. Now XCOM 2 on regular low settings is indeed
+too much for this GPU so I pretty much disabled dynamic lightning
+and reduced resolution to 960x600 using tweaks from my very old video on that game. The result is something that kinda works and
+is now once again limited by the CPU. Action scenes are a bit too much for it but
+since this is a turn-based game where it actually accounts you can get usable performance. Now this is not a gake recommendation but as an experiment, it is interesting to see what this device can do. Ok, but what are you actually want to play
+something and not just do experiments. Here are a couple of better examples: I already did a video on pubg lite, a super
+light re-port of pubg mobile that works on really absurd low specs. I did the original video while explaining
+how to tweak internal resolution to dramatically low levels to make it work on the first generation
+Pocket 1 so it stands to assume that this ligther version of the Pocket 2 would be more
+than capable to do this on 1920x1200 resolution with a 70% resolution scale and lowest settings. Given previous results of this CPU that is
+a great surprise. Just, keep in mind that this game is only
+available in certain countries, the list keeps growing but it is still limited. In summary, while not a powerful PC by any
+means I do think GPD made a solid step in the right direction by aiming for a cheaper
+device that still maintains the sexy aesthetics, ultra-portable factor, great keyboard and
+a CPU that is not as strong as the m3 of the old model, not even close, but still pretty
+decent for a basic laptop and will likely become my travel PC for most conferences next
+year and that is all I wanted. Thank you to GPD for providing the sample,
+Wargaming for the sponsor and you for watching. 

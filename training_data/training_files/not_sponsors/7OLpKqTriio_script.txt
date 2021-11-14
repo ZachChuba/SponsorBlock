@@ -1,0 +1,123 @@
+- [Narrator] Hey, there. In this video, we're gonna simulate some different versions
+of an infectious disease to try to get a handle on the basics. We'll explore three phases. The epidemic phase,
+when the disease is new. The endemic phase, when the disease has
+been around for a while. And the eradication phase, when we finally get rid
+of the disease for good. This city has two kinds of
+locations: homes and non-homes. Three blobs live in
+each home and each day, each blob will go to up
+to three different places near where it lives and then return home
+at the end of the day. The disease will have
+three different states. Blobs start out blue in
+the susceptible state. If a blob catches the
+disease, it becomes infectious and can then infect other blobs
+that are in the same room. Blobs stay infectious for two days and then they enter this
+recovered state, turning gray. And in this model, recovered
+blobs are permanently immune. This is called an SIR model. This is, obviously, a lot
+simpler than real life, so we're not going to try to make any specific predictions about COVID-19, but the goal here is to get a feel for the overall patterns
+of disease spread, so this should do the trick. All right, let's run our
+first full simulation. We'll start with 10 infected blobs and an infection chance of 1% each time blobs interact in the same room. Let's pause here. This graph stacks numbers from the three different
+states on top of each other. For example, at the end of the third day, out of the 1,000 blobs, 798 of them are susceptible, 172 are infectious, and the other 30 have already recovered. This R-naught number that
+I mysteriously put up here is called the basic reproduction number. It's the number of new infections caused by each infectious
+blob before it recovers, on average assuming there's no immunity. For example, if R-naught equals three and we start with two infectious blobs, each would infect three
+more blobs on average and stop being infectious itself. So the new number of infectious blobs would multiply by three
+getting to six total. And this multiplication repeats leading to exponential growth. At least, that's what we would expect. The real world is chaos though, so it doesn't work out so cleanly. That's one reason I like
+running simulations. They force us to look at the messiness. Here, R-naught was calculated by averaging over many possible
+versions of the simulation all with the same settings. The result is 2.5 so if
+everything were clean and tidy, we'd see the number of
+infections multiply by 2.5 over the two-day infectious period. But at least for this run, the
+growth is quite a bit faster. This is part of why we don't precisely know R-naught for COVID-19. In the real world, we don't get to run the
+simulation a bunch of times to average things out. Anyway, let's see what
+happens as we keep going. As more and more blobs become infected, the growth slows down. R-naught pretends that all
+the blobs are susceptible, but that quickly becomes untrue so we should really add this factor S here for the fraction of blobs
+that actually are susceptible. R-naught times S is given its own symbol, usually R but sometimes RT. It's like R-naught but for some later time when immunity is slowing things down. Instead of the basic reproduction number, R is just called the
+regular reproduction number. And as long as I'm
+throwing some terms at you, S goes down over time so
+instead of exponential growth, this becomes logistic growth which flattens out after a while. We won't dwell on logistic growth here, but I'll link to some videos
+in case you're interested in going more deeply into the math. When R is above one, the
+epidemic is still growing. When it's equal to one, the number of active cases stops growing. And when it's less than
+one, the cases decline. And when this fraction of
+susceptibles is small enough for R to go to one, it's
+called herd immunity, which we'll talk more about later. But one thing we should note now, herd immunity means the number
+of cases will start dropping, but it's not an absolute cap. The total number of
+cases can go much higher if a lot of cases are
+happening at the same time. In this case, at the peak of active cases, 41% were infectious at the same time. And when all was said and done, 85% were infected at one point or another. So that's the basic shape of an epidemic, but let's run through
+a few more simulations with different infection
+rates to get a better sense of what different
+situations might look like. I picked infection
+rates that would lead to R-naught values of 1.5, 1.1, and 0.9. (classical music) Looking at R-naught equals 2.5 again, the results are pretty close
+to what we saw last time. When R-naught equals 1.5, as we'd expect, we'd see a smaller peak
+and fewer cases overall, but it's still a pretty large
+portion of the population. When R-naught is 1.1, there's still an exponential
+light growth at the beginning, but it's just a 10%
+increase every two days so we don't see a big spike this time. And when R-naught equals 0.9, it's less than one so we
+expect the disease to decline even before any immunity builds up. And it's good to see that
+that is indeed what happens. Right now, you might be thinking as I was, okay, I get that R-naught
+determines whether it'll grow, but how do things like the
+length of the infectious period or the size of the population affect how the growth plays out? To help answer this, I made some more variations
+on that first sim. The first one has the
+same settings as before with a two-day infectious
+period and 1,000 blobs. The second has an
+infectious period of one day instead of two. The third one has an
+infectious period of 10 days. And the last one has 10,000
+instead of 1,000 blobs. And in each case, I adjusted
+the infection chance to keep R-naught close to 2.5. Before we hit go, try
+making some predictions about the peak number of infections, the total number of infections, and anything else you think
+might or might not vary. (classical music) Not too surprisingly, the
+timelines are different. The one-day infection peaked
+and burned out quickly, the 10-day infection took longer, and in the city with 10,000 blobs, it also took longer for
+the disease to spread from 10 initial blobs
+to a significant portion of that larger population. But the peak and total
+infection percentages turned out to be almost
+the same in each case. The only thing slowing the spread in these simulations is herd immunity so the fraction infected
+stays pretty steady in different situations
+with the same R-naught. I chose 2.5 as the example R-naught because that's in the range of early estimates of
+R-naught for COVID-19. There's some uncertainty there and it'll be different
+in different places, but according to our current
+understanding of the disease, if we did nothing at all, it would be reasonable to
+expect something like this. So that's what's worrying about it. All right, that's the epidemic phase. On to the endemic phase. In our model so far, the disease ends up
+dying off all by itself. Unfortunately, this doesn't
+happen in real life though. There are two reasons for this. First, immunity is often
+not perfect or permanent. And second, long-term
+immunity isn't inherited so there's always a constant stream of new susceptible people. To put this into our model, we'll give the blobs an average
+lifespan of three weeks. At the beginning of a simulation, the ages will be all spread out and then when an older blob dies, it'll be replaced by a
+new susceptible blob. So with that in place,
+let's run some more sims. This time, we'll track
+R-naught and R in real time. R-naught is still gonna be calculated from an average of many sims, but R is gonna be based on
+counting the new infections on this one run of the simulation so it'll bounce around a bit
+based on random happenings especially when the numbers are small, but it will let us see
+the growth in real time. Anyway, here we go. (electronic music) Now we can see a little bit more clearly why infectious diseases
+don't go away on their own. At first, there is this initial epidemic with R greater than one just like before. And then, again, we get to a
+point where R is less than one leading to a decline. But this time, the infection
+count doesn't decline all the way to zero. Once it gets low, the
+number of susceptible blobs starts increasing again and in
+turn, R climbs back above one and then the number of
+infections starts to rise again. There's an equilibrium here with R always getting
+pulled back toward one. And as we saw before, on average, we expect R to be one at
+the herd immunity level. We can calculate the herd immunity level for any value of R-naught. As we said before,
+R-naught times S equals R and herd immunity is where R equals one so the fraction of susceptibles for herd immunity is one over R-naught. And herd immunity is usually given in terms of the fraction of
+people no longer susceptible so it ends up being one
+minus one over R-naught. When R-naught equals 2.5, we get 60%. If you've heard estimates of 50-70% for herd immunity for COVID-19, this is where that range comes from. Before we move on to
+the eradication phase, I wanna say again that the
+goal here is to get a sense for the broad patterns at play. The size and the timings of these cycles and the average number of people
+infected will depend a lot on the properties of the real disease and how we react to it. And there are some other
+factors like seasonality or mutations that can
+complicate this picture. But even with these real
+world complications in place, an endemic disease always fluctuates around this herd immunity equilibrium. All right, on to eradication. 10 days into the simulations, the blob city will discover a vaccine. After that point, when a blob
+dies and a new blob appears, that blob will have a chance of getting vaccinated, turning green. They're just like the gray recovered blobs but they're green instead so
+we can keep track of them. We'll again use this disease
+with R-naught equals 2.5. Here, herd immunity is
+when 40% are susceptible or when 60% are not susceptible so I would expect a 60% vaccination rate to get rid of the disease,
+but we should check that and let's also look at 50%, 35%, and 20%. Again, before we hit go, try
+to make some predictions. Will 60% actually result in eradication and what will happen with the lower rates? (electronic music) All right, so 60% did indeed do the job, but none of the others did. Before running these, I'll admit that I thought
+that 50% might do it since some blobs would be immune from actually having the disease, but it turns out that
+as long as there is room between this vaccination floor and the herd immunity threshold, the disease still has room to
+wobble around in equilibrium. True eradication turns
+out to be really hard. We'd have to do this for all populations that can carry the disease. This is hard enough for humans, but for many diseases,
+it includes animals too. So that's just infeasible. But eradication isn't the only goal. More vaccinations still mean
+smaller spikes in infections and fewer sick blobs overall. It's encouraging to think
+about being able to manage, if not eradicate a disease, but right now we're still very
+much in the epidemic phase. If you find yourself doing okay right now and want to find some way to help but just aren't sure what to do, one thing you can do is hit
+that button below the video to donate any amount to GiveDirectly. GiveDirectly puts your donations directly in the hands
+of other humans in need. It's a top rated charity for making donation
+dollars do the most good. It's tax deductible and
+the button is right there. Whether you're in a place to give or not, I do appreciate you watching to the end. Thanks. 

@@ -1,0 +1,146 @@
+- In this box is the first laptop that I've bought for
+myself since high school. You heard me right. I've certainly obtained new
+portable computers since 2005 through work or my
+connections as a YouTuber. But I have gone 16 years now
+without ever feeling compelled to actually buy one for myself until I saw The Framework Laptop. I don't remember the
+last time I saw a device that so clearly rejected the
+trends towards disposable, non upgradable,
+non-repairable electronics, while still managing to maintain the premium field that we
+expect from a modern ultra book. I was so impressed during
+my initial impressions that on top of ordering one on the spot I publicly offered to
+invest in the company. Surprise! They called my bluff, offering me a chance to put up or shut up and I never shut. About sponsors like iFixit. Oh, wow. What an appropriate sponsor, from iPhones to Nintendo switches, iFixit has your repair needs covered with their lineup of fix kits. Find out how iFixit can
+help you repair your devices at the end of this video. (upbeat music) The point of this video is threefold, to disclose my position as a long-term investor in Framework, to explain why I decided to
+make this unprecedented move and to talk about what this
+means for LTT going forward. And as we go along, I will be building up the
+Barebones Framework laptop that I ordered to my exact specifications. This is actually my
+first time opening this I've got my packing slip, my
+Framework Laptop DIY Edition, core i7 11 65G seven. My accessories, love the recyclable packaging. Mhh, What's the padding? Oh wow. It is, it's shredded paper. One of the coolest things about the Framework laptop is that you choose your own IO, they come in these little
+cardboard containers. And I went with a single USB type A, two USB type C's and an HTMI. It drove me crazy, not
+having one of these. When I was daily driving
+the XPS 13 two in one, I also got totally unsolicited, this envelope a couple of weeks after my Framework laptop arrived. So we're not only going to be building it. We're going to be fixing it because there's an issue
+with some of the early units. Of course, none of this would even
+be worth talking about if the machine itself wasn't any good. It's got surprising stiffness
+for a laptop that is missing a bunch of pieces, all
+aluminum construction, 2256 by 1504 display,
+easily swappable bezel. You can even change the
+color if you really want to. And a surprisingly good keyboard, considering that it's modular overall, good machine at a fair price, but of course the laptop isn't
+the only thing that I bought. My preferred shares in the company cost me exactly $224,998,37 cents. And they give me a small but significant stake in
+Framework Computer, Inc. My investment was part
+of a seed funding round that will hopefully
+give Framework the cash. It needs to reinvest in its core business, by building out its team and designing and stocking new products. Something that we've learned the hard way over the last three years is that supporting a growing
+physical good business is shockingly expensive. Let's use LTT store.com as an example, our gross margins are somewhere
+in the 60 to 70% range, but that doesn't mean
+that every time we sell a $30 water bottle, we make $20, out of that gross margin
+comes business overhead like storage and handling fees, employee salaries and benefits, rent insurance, consumables,
+customer support, Shrink platform fees. I'm sure I'm forgetting some, but the point is that our net profit, what remains before we pay the tax man is in the 30% neighborhood. I'm not complaining.
+That's a healthy business, which is kind of a confusing message. How can LTT store be both profitable and expensive to support what sinks a fledgling
+company more often than not is a lack of cashflow, not
+a lack of profit margin. Oh, let's open up this computer and talk about how this applies
+to Framework's business. I ordered the DIY edition. So just add your own wifi,
+SSD, Ram and operating system. They charge $1049 for the
+mid tier core i7 model that I chose. And if we wanted to know the
+actual cost of all of this or the bill of materials, we would need to add up every single little capacitor and wire. Tedious. Thankfully, we can take some shortcuts. The bulk goes to Intel who lists the CPU in this unit at $426 US Dollars
+in quantities of a thousand. Most of the major cost contributors, like the battery keyboard,
+track pad, screen and cooler, we can approximate based
+on the street prices of similar replacement parts and for the motherboard, a non-tech did a wonderful
+write-up back in 2009, we're just going to borrow, let's say $120 bucks that puts us at $770 US Dollars. And we haven't accounted for the chassis or any of the other odds and ends yet, but it's also common knowledge that Intel never charges OEMs
+list price for their CPU's. So I'm going to say that the
+cost of this finished package is somewhere in the
+neighborhood of $800 US Dollars. That's certainly a lot less than $1049. So good business plan. Here we go. Right? Hold on. The first run of let's say a
+thousand units of this thing will easily cost north
+of a million dollars. Once we factor in production setup costs like tooling and molds, much of that, or sometimes all of it
+needs to be paid up front. Let's be optimistic though, and say that on top of fronting, the R and D to design this thing, the founder happens to have
+a million dollars in the bank and that order takes just eight weeks to get through production and
+reach Frameworks warehouse. Now we make another assumption that demand is strong and all 1000 units sell out in two weeks with a cool quarter million
+Dollars of gross profit. Damn. That's a lot of money, sort of remember all that
+pesky business overhead we've got to deal with that now leaving half, if we're lucky, a hundred grand profit is certainly better than
+a kick in the teeth, but if you want to grow your sales, well, you need to take all of that profit and put it back into your second order, which is going to give you
+a little over 1100 units. You'll get them eight weeks from now. If you are insanely lucky. And in the meantime, you have absolutely nothing to sell and no money in the bank to pay your staff while they twiddle their thumbs waiting for the next shipment. So even if my numbers are way off and Framework is netting twice that let's say $200 a unit on the spare bones, the best case scenario for them after a year of utterly flawless execution is $3 million in cash. That's enough to increase
+their bimonthly order from just a 1000 to 3000 units, but they still wouldn't have
+enough to meet customer demand and keep orders flowing
+smoothly from the factory. And they wouldn't have saved a penny to reinvest in facilities,
+equipment or R and D. Their competitors would
+bring new products to market slowing demand for this
+now out of date design. And unless they adapt, they will eventually have nothing but a warehouse full of
+laptops that nobody wants and an empty bank account. GG. Now let's do it again, but with a big bucket of borrowed cash at 8% interest compounding monthly. In this scenario Framework
+now gets to place four separate $1 million orders spaced two weeks apart, right out of the gate. After eight weeks, they start to get these orders
+in generating both the cash that they need to restock them. And a cool $200,000 in profit. Every time an order sells through, a year into this scenario, assuming zero sales growth, which is very unlikely Framework has now paid
+$330,000 in interest, which sucks, but they also low key
+shipped 26,000 laptops and made over $4 million net Party time, right? Not quite, remember that $4 million loan, whoever lend them that money
+needs something in return, or they're going to start
+looking for some legs to break Framework, could pay it back, but that would completely wipe them out. So they make a deal, how about instead of the money we give you guys a chunk of this company, and then we can just keep using that money to expand our product portfolio the same way we did last time, we eventually grow so
+big that we go public and you can sell that
+portion of the company that you bought on the open market for way more than you paid. Or you can just keep it
+forever if it suits you, maybe you just like the stock. Well now instead of a
+"loan", it's an "investment". And if all goes, according to plan, Framework grows faster. So more customers get super cool laptops and the investors get paid
+back their original money. And then some, everybody wins. By the way, I need to
+invest in some remanent SSD, I bought the Barebones, one moment please. Conveniently Framework
+includes the only tool that you'll need to assemble the device, It's refreshing not to be treated like I can't be trusted
+with my own hardware and you know what, there's going to be costs
+associated with that because people will break them and they will complain, but it's worth it to
+have more open devices available for consumers. And what's cool is for repair shops, they have even committed to providing the schematics of the boards if they want to do board level of repair, which is super awesome. The labels in each slot
+indicate that it supports up to 32G modules, but rather than go all
+the way to the limit. So I've actually just gone with two 8G, 3200 megahertz modules from Crucial and for storage it supports up to a single PCI express
+gen four, M.2 22 80 SSD. I decided not to go gen four though, because I'm more concerned
+with good enough performance and excellent battery life. So I want the SK Hynix gold P 31 SSD. Now at this point in the
+video, we've nailed down that Framework clearly needs money so they can build more of these things. But I haven't explained
+why they need mine. And the truth is they don't. They actually closed the
+bulk of this funding round back in Q2. And one of the other
+investors was already in line to take the remainder. They could have accepted that offer, but they didn't instead both Framework and I decided
+to take a leap of faith and I call it that because both of us are taking some big risks here, here are their risks,
+in no particular order, I could bring my own ego
+into internal discussions and try to have an outsize influence on their direction as a company, compounding that risk, I could take my disagreements
+public or worse, suffer some kind of
+catastrophic fall from grace, Zheng Shuang style, ultimately damaging their
+brand by association far more than I ever
+could have boosted it. The thing is dropping an
+influencer from your ad campaign, pretty straightforward affair, hosting a shareholder. It's a little more complicated. Meanwhile, I carry my own bag of risks, starting of course with
+the most obvious one, I could easily lose my entire investment of nearly a quarter million Dollars because unlike a loan, investments typically
+carry no personal guarantee or other securities. If we win, we win big. If we lose tough luck brah, and second, if I pump this company's tires only for them to turn around and abandon their open
+approach to repairability and upgradability, I'm going to look like a complete ass hat. And finally, since we're on
+the subject of my credibility, this move creates an enormous
+conflict of interest. Anytime I'm covering or
+commenting on any laptop. Can I really be trusted to speak my mind about a competing device when it directly damages the prospects of a company I'm financially linked to? Can I handle being pulled
+in two directions like this? I think so, but even if that's true, a portion of you won't believe me, and it means that I'm going to
+have to clutter up our videos with non entertaining disclaimers, disclosing my position all the time. So then, why do it, well, the bottom line is that I fell in love with the vision behind this
+product the moment I saw it, I want a Framework in my backpack and I want a seat at the
+front of this crazy ride. And as a shareholder, I get to throw my weight behind Framework in ways that you guys might not consider. Believe it or not, I have some connections
+in the tech industry. I know, I know, I know crazy, right? I don't find much time for personal relationships these days. I mean, you all know about my friendship with Terren from Coursera, actually Dell now, but he doesn't even
+work in press relations. I talked to John from Unraid on a fairly regular basis, but we usually talk shop. And the same goes for Gary Key from ASUS who by the way, was one of my idols when I
+was a young tech reviewer, I'm not a sociopath or anything. I've just always believed that I have a finite amount of time. And if I focus that on making the best content
+I can with my writing team, eventually I'll reach the point where whether I enjoy schmoozing or not, people can't really ignore me anymore. And I'm hoping to use
+that to help Framework get connected with partners
+you'd think of like AMD, Horizon version has the number
+one request they've received since my original video. And once you might not
+think of like D brand, the co-branding
+opportunities of working with someone like D brand on
+a skin drop are huge. However prickly their
+public persona might be. Those robots are absolute
+genius level mad lads. Now to be clear Framework would have sorted
+this stuff out on their own, but in the same way
+that bringing in outside money can accelerate growth. I'm just hoping to pour
+a little bit of gasoline on the relationship fire. Speaking of fires, by the way, please do not light up our support email asking when the LTT backpack is coming, it is coming, confirmed here, but not until sometime in
+the mid to distant future. The cleanest way to handle this, is to recuse myself from all decisions related to our editorial
+coverage of notebooks books. With the size and talent of our team. That's a legitimate option these days, frankly, I've had very little
+to do with it for a long time. Since there's been so little in the space, that's excited me, but my only issue with that is that means I'll be giving up the
+opportunity to talk to you guys about truly incredible machines
+that I am excited about. Like the ASUS RG flow X 13, that I've been daily driving
+for the last few months. Aside from some, yeah, we sent you a prototype, bugginess, I absolutely love that thing. It is so cool. So for that reason, I'm reluctant to completely bud out when there's still going to be stuff that I'm going to think is cool. And I'm going to want to talk about, what I know for sure is that even though I'm not ready to make a
+firm commitment to covering or not covering notebooks in the future, I will make a firm commitment to maintain the same level of honesty and transparency that you guys have come to expect from me. I will never say that I
+like something I don't, I won't hold back from anything I love. And I will keep you guys 100%
+apprised of the situation. My second commitment to you is that if Framework reneges on
+the promise they made to me, my breakup with them will be swift, absolute and in public. Here it is. I got this in writing from
+the founder Nirav Patel. We do promise not to up
+(beep) from a pro-consumer and pro-environment perspective, and you would be fully justified in holding us to the fire
+if we break that promise, sounds good to me, just like our sponsor iFixit. Thank you iFixit for
+sponsoring today's video. This is totally on message you guys. iFixit is all about consumer
+rights and repairability. They make it affordable to
+fix or upgrade your devices, using their custom iFixit kits. For example, the Nintendo switch has an all-in-one kit to fix joy con drift for just $20 US Dollars. They've got iPhone screen replacement kits from $75 US Dollars, and the kits include
+all the parts you need to do your repairs, including precision bits, opening tools, and suction cups to make the installation as easy as possible. iFixit also has numerous
+repair guides with clear photos and instructions to prevent
+you from getting lost while you're deep inside your repair. So check out our link to iFixit down in the video description
+to get your kit today. (upbeat music) If you guys enjoyed this video, maybe go check out my original video on the Framework Laptop where I went into a little bit more depth about who these guys are, where they came from and how
+it actually all goes together, speaking of which I forgot to put my IO in and I forgot to fix my
+touch pad cable issue. Because I was so busy hosting the video. The only reason other
+companies can't do this and Framework proved it is
+because they don't care. 

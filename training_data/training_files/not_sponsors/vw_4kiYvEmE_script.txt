@@ -1,0 +1,106 @@
+The Xbox has had a browser since 2014, so this isn't exactly new, but it's never had proper
+support for mouse and keyboard, it's never even had
+full controller support, and, most importantly, for us, it's never supported
+hardware acceleration. Well, with the latest update, the Xbox now gets a full Chromium-based Microsoft Edge browser that can do everything
+from watch YouTube videos to chat in Discord to, I mean, presumably, you could even stream PlayStation games on your Xbox using PS Now, isn't it? Don't they have a browser client? - [David] Yeah. - Yeah.
+- [Alex] No. - But no. So it's complicated. Just like this segue to our sponsor, Honey is the free-to-use shopping tool that helps search for the best promo codes on loads of your favorite sites. Get it today at joinhoney.com/ltt. We'll have that linked down below. (relaxed atmospheric music) (intense electronic music) This is a really fun type
+of video for me to shoot because basically, one of our writers, in this case, Alex, experiences some new piece of technology, or in this case, software, figures out all the ins and outs, and then I walk onto set, and I get to go through
+this curated experience as I learn both what's great about it, and what's not so great. And I'm super, super
+excited about this one. Please don't disappoint me. What should we do first? I mean, I wanna go to YouTube, obviously. Mouse input is perfectly responsive, everything is exactly
+as I would have expected for all I can tell. I'm moving the cursor, obviously, looking not very PC-like. This is basically just
+like using a computer. Wow, that load time though? It runs at 4K just immediately. To be clear, there is a
+YouTube app for the Xbox, but compared to being able to, I mean, even something as simple as, oh yeah, this looks like kind of
+a cool video for later. Right click, open a new tab, bam. These are like 30 bucks. Having this as an accessory to your Xbox could be probably the best $30 you ever spent on your Xbox, being able to just scrub
+through the video like this, rather than using a controller. I mean, not that you
+couldn't use a controller, moving our stuff around. Now, one thing that
+wasn't a great experience on the track-pad is two-finger scrolling. Oh wait, it's working now. Oh man, like the chapter
+selector over here, there's no way that's
+in the regular Xbox app. Can I play games on Neopets? - [Alex] One thing that's kinda weird is that IO games seem to hard crash it. - [Linus] Okay, I'll play Text Twists. Oh my God, I'm gonna
+play some Text Twists. (relaxed electronic music) Oh, my big brain figuring out the puzzle immediately broke it apparently. Okay, well, it's working. Is cashes a thing? Certainly not. Oh really? Oh, okay, "cashes
+a check," that makes sense. Let's see if it crashes this time. No, totally working. Okay. Frog Fractions? - [David] Yep. - [Linus] Oh wow. You have to
+download it, it's Flash game. Man, so much of the web died
+with the death of Adobe Flash. - [Alex] Ah, do you want another sad one? - Sure. - [Alex] Do you think
+this can run RuneScape? - [Linus] Well, you told me it's sad. - [Alex] Yeah. I kinda spoiled it, but... - [Linus] So you can't download Java? - [Alex] No, we've got Java. - Oh, because it's Chromium-based. - [Alex] Yeah.
+- [Linus] And they have no support for the Java plugin. Let's fire up some Google
+Docs here, shall we? I'm not a big fan of
+this keyboard that, oh... Whoa, yeah. Pops, oh, ah. (Alex laughing) Can I disable this? Large on-screen keyboard. Oh, well, it's already disabled. Okay, so this is... See, it's not there now. - [Alex] Yeah, it looks great. - [Linus] This is crazy. Imagine being like, "Hey,
+mom, I need an Xbox, so I can work on my homework." "Johnny, get off the Xbox." "Mom, I'm working on my science project." What else should we try? - [Alex] Open up Word, it's good. - It's funny that I'm
+looking at this going like, "Wow, this is so crazy, you can
+do everything in a browser." It's basically Chrome OS. Like that's foundationally,
+what Chrome OS is, the idea is that you don't
+really need the OS to do much because all of your apps and
+all of your main functionality should be through the browser. And then I can get notifications
+while I'm working on them about my daily quests and monthly quests. Let's go back to Discord. - [Alex] Because the thing that you want to do in Discord is be able to talk with
+voice chat while you game. - Yes. - [Alex] Wow, it's working. - Well, the headset is not working. Checkity, check, check,
+check, check, check. Oh, hey, hey, hey, it's working. - [Alex] What did you do? - I have no idea, but it's working. Here we go, are we ready? We ready? Oh man, I'm gaming like
+a professional now. Hello? - [Alex] Hey? - I feel like how, whatever his face is, Bell, the guy who's falsely credited with inventing the telephone. - [David] Alexander Graham Bell? - Yeah, being on like
+the first telephone call. Now obviously, the first
+thing we're gonna wanna do, now that we're in Discord,
+is play some Halo? Well, it's updating. We're gonna play a different game, Alex. - [Alex] God damn it. - [Linus] And that's a problem. As soon as I've changed tasks, Edge went to sleep in the background and the Discord call
+dropped, super unfortunate. Also, the mic input is now dead again. Whatever the reason was for the mic to start or stop working... Maybe super Xbox ecosystem immersed people are gonna be like, "Oh yeah, it's this, you
+just gotta change that." Either way, this is not
+what I was hoping for. - [Alex] There is an app called Quarrel that I have on here. - Quarrel, and is this like a
+third-party Discord client? - [Alex] Yes. - [Linus] Hello? - [Alex] Now, this is as
+far as I've gotten it. (Alex laughing) - I see so much potential here though. I mean, we've been saying for so long, ever since Microsoft officially added keyboard
+mouse support, we're like, "Well, the Xbox is officially a PC now." Obviously, as you can
+see, that wasn't the case. But between UWP apps and being able to run anything a Chromium
+browser could run, hopefully in the background at some point, again, Microsoft. - [Alex] Yeah.
+- There is endless potential here. Just like this endless, spinning bird. Now did I see you had
+addictinggames.com open? (Linus laughing) Oh, come on. N-64 Emulator in JavaScript. Your organization turned off access to local files in the computer. Oh, interesting. So Microsoft is running the Edge browser within a controlled sandbox. - [Alex] You can't go to websites that host their own BIOS and ROM, which is 100% illegal. - Yeah.
+- [Alex] There's no way to spin that as legal. - So the way to legally, or like at least, morally emulate, cannot be done here. I'll settle for it, I
+want to experience it. Can I use a controller? Wow, that audio though. Game pad is connected. Yeah. Oh damn. Okay. Game pad is connected. Every time you press a button, game pad is connected comes up twice. No way, playing Super Mario World on an Xbox, super
+illegally, please not do, please not do it. Now, tell me something... Ooh. The Chuck is real, boys. There's different
+definitions of intolerable, this is definitely in the neighborhood of like 40 to 50
+milliseconds, like it's a lot, but, it's playable. Tony Hawk's Pro Skater, oh boy. No. Play now, here we go. Oh, does this one not work? Was this just a... - [Alex] No, it works, you just have to play
+a lot of Whac-A-Mole. - [Linus] How much you wanna
+bet this is not Flash Player? Okay. Let's try this again. Oh my God, the keyboard is back. Go away, keyboard. Oh no, I clicked a pop-up. - [Alex] It might just be broken. - I mean, maybe it's 'cause you have so many browser windows open, Alex. PSX Emulator Online. Okay, what's Bing got for me here? Emulator Games, dock online. Wait, is this it? Or is
+this a different one? - [Alex] It's a different one. Oh. - [Linus] Ah. Alex, why did you have so
+many tabs open on here? - [Alex] It's a browser.
+What am I supposed to do? - I know, but it has a finite
+amount of memory, Alex. Okay, I wanna try playing
+Emulator.Online again without all this crap
+open in the background. One more shot to impress me here. yourhotfeed.com, oh yeah,
+I definitely want that. (Alex laughing) Fine, Sea-Doo PSX. Flash Player, is it working? No, I will not press allow. (Linus gasping) I think it's working.
+- [Alex] Oh yeah. - [Linus] If I go full-screen, every time I need to press this, it'll just go back from full-screen. Bombardinski, here we go. I have no idea what the buttons are. Hopefully my browser back
+button is not one of them. It is, but if I hold
+it, it should be fine. The analog stick is...
+- [Alex] All gas, no brakes. - [Linus] Oh no, the analog
+stick also does this, so... - [David] Oh yeah, let's go. - [Linus] Whoo. I am like a Sea-Doo PSX pro now. Going for the big win here, here we go, big jump, oh what? The control's getting super like twitchy right around there. Hey, not a perfect
+experience, but it works. - [Alex] Let's do something
+a bit more reasonable. So the Internet Archive MS-DOS games. - [Linus] I mean obviously,
+we're gonna have... - [Alex] Why? - [Linus] Late Night Sexy TV Show. I have no idea what kind of
+thing I'm filling out here. What is this button? That guy
+has the most jacked six pack. - [David] Wait, is here nipple out? - [Linus] Oh wow. (audio beeping) All right, fine. I'm
+playing as Homer then. Enter, space, control, shift. - [Alex] Maybe it's on the controller. - I doubt it. No. The delete key is used to
+jump, insert, used to attack. Those are keys I wouldn't
+have thought to press. All right, here we go, boys. Oh my God. I can't hear a thing. Oh, come on. Okay, hold on, can I
+jump and attack? I can. Hey, now we're going. Why am I beating up the small
+child? Wait, she has a burger. Get back here. What's her name again? Time to play something a little bit newer. Let's head over to Stadia. Controller linked, that
+worked immediately. Sound works, that was really easy. Press any button. Uh-oh. Oh wait, oh, there it goes. Oh boy. Okay, braking, okay, there we go. Oh my God. (Alex laughing) - [Alex] This is stressful to watch. - [Linus] Oh, there it is. (Alex laughing) Oh God. Yeah, all right. That's quite enough of that. Yeah, I'd say it was fairly excellent. I mean, on a good internet connection, the latency is very usable. - [Alex] Let's go to GeForce Now. - [Linus] Now the drawback of GeForce Now is that they have actually... - [Alex] That's the biggest
+drawback right there. - [Linus] Oh, bummer. Chrome Beta and Safari on
+iPhone and iPad, that's it. Now something to note is
+that even though apparently, there's a built-in
+coupon code functionality in Microsoft Edge, if you
+wanted to install, say Honey, or you wanted LastPass to manage your credentials
+or whatever else, there's no support for browser extensions in the Xbox version of Edge. So that limits your functionality probably more than you would think. Like, obviously it's not perfect today, but I can see what they're
+trying to do, I see the vision, and I think it's gonna be... it will be good. - [Alex] But if you had file access, you could like edit photos. - Give them time. I mean, even Apple exposes
+the file system on iOS now. So Microsoft, I think will come around, and there'll be a little walled garden where the browser will
+be able to download files or install extensions and stuff like that. I say, give them time. I'm
+willing to be patient with this. But a big part of that is
+that I don't actually rely on my Xbox as my primary gaming device. If I did, I might have
+a lot less patience, and I might wish that it was in a much
+more complete state today. But it isn't, and I don't think it was ever really advertised as such that you'd be able to run
+GeForce Now on your Xbox, so it's bonus, so we
+gotta treat it as such. And this video is brought
+to you by Privacy. Privacy lets you shop
+online with virtual cards that offer way more security and control than conventional credit cards. Like have you ever signed
+up for a free trial intending to cancel
+then forgotten about it only to find charges on your account for a service you never
+really wanted to do more than try? Well with Privacy, you can create a new
+card just for that trial. All you do is designate
+the card to be single use, set a monthly spending limit, set it to like $1, and then companies can't
+charge you past that even if you totally forget about it. privacy.com is PCI DSS compliant, uses military-grade encryption
+to secure your information, and offers two-factor authentication. And since they make money from merchants, not from you, there is no cost to you. If you sign up today, you'll even get five
+bucks on your account. So go check it out at privacy.com/linus. If you guys enjoyed this video, maybe go check out our
+previous look at when Microsoft first enabled keyboard
+mouse support on the Xbox, 'cause it really was a giant shift, or the one where we put it in Dev Mode and ran an emulator on it. - [Alex] That was really cool, yeah. - That was really cool. Man, the Xbox, it's a computer, it's a computer. 

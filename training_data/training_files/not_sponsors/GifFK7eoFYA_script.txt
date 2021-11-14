@@ -1,0 +1,42 @@
+- Faster is better with
+many things in life, including today's topic, DDR5 memory. So let's get right into it. DDR5 is expected to be
+twice as fast as DDR4, which mainstream PCs have
+been using for years now. Initially, the manufacturing goal for DDR5 was to run kits at 4800 megahertz, which is double DDR4 standard
+speed of 2400 megahertz. But of course, many of us
+are running our DDR4 kits at 3000 megahertz and beyond today, meaning the stock
+improvements don't seem to be that impressive at face value. That's why the powers that be
+decided to kick it up a notch and SK Hynix, a major manufacturer of DRAM has come out and stated
+it wants to roll out kits that can get up to 8400 megahertz, whoa! But realistically,
+consumers looking to snag some memory for their home systems, should get used to seeing kits somewhere in the 4800
+to 6400 megahertz range. With DDR5-8400 mostly being
+targeted at the server market and regardless of what speed you get, DDR5 can be accessed while some of its memory banks are being refreshed, which should cut down on latency and further improve performance. But as it's tradition, higher speeds will counterintuitively come
+with lower power consumption, thanks to shrinking transistor sizes. The standard voltage for DDR5
+is going to be just 1.1 volts, down from the reference
+of 1.2 volts in DDR4. And although this isn't going to mean a ton for desktop computing, lower power consumption overall should help extend the battery
+life of mobile devices, at least a little bit. Another result of smaller
+transistors, is greater density. And I don't mean that your memory modules will sink faster in a cup of water. I'm talking about storage density, how many gigabytes each module can hold? This is expected to roughly double so, you might see 16
+gigabyte sticks become a lot more common than they are right now. But hold on a minute there Jamesy boy, you're talking about DDR5 like it's something coming out in the future, even though you've seen that you can get your hands on it right now. What's up with that? Well, here's the thing, just like many other kinds
+of bleeding edge tech, availability for Joe
+consumer will effectively be non-existent for some time. Although we have seen variants of DDR5 incorporated into high end smartphones, you can't yet get your hands on a couple of sticks for your desktop PC. There isn't a current consumer
+platform that supports it and next generations of
+both Intel and AMD CPUs due out later this year, are still gonna be based around DDR4. Indeed, aside from the
+aforementioned smartphones that will benefit from DDR5's
+lower power consumption, we're more likely to see DDR5
+show up in servers first, as DDR5 has more robust
+error checking capabilities than older generations of RAM, which will be useful for data operations that need to be up and running
+basically, all the time. Current market estimates don't expect DDR5 to really start becoming widespread in consumer PCs or
+servers until late 2021. And it will likely represent less than 1/2 of the DRAM
+market until at least mid 2022. So don't wait around for
+DDR5 platform to come out, if you're thinking
+about upgrading your rig or you're building a new one this year, but that isn't to say, that it
+won't be a cool piece of tech when it does come out, especially as AMD's new CPU architectures have made RAM performance
+a lot more important than it was just a few years ago. I'm just hoping that when
+DDR5 does become the standard, rollercoaster RAM prices won't forced me to take out a sketchy paycheck loan, just to get my hands on some. The interest rates so high. Private Internet Access is
+a tool that masks your IP and encrypts traffic to
+boost your online security. Make websites think you're somewhere else with configurable encryption and internet kill switch,
+should you be disconnected and MACE which blocks
+malware and tracking domains. PIA has over 3000 servers in 32 countries and no bandwidth caps and they
+offer clients for Windows, Mac OS, Android, iOS, and even Linux allowing you to connect up
+to five devices at once. Try it out with a seven
+day money back guarantee at lmg.gg/piatechquickie
+or click the link below. 

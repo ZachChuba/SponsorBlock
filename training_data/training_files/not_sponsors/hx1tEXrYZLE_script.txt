@@ -1,0 +1,112 @@
+The first 200 to use the link in the description
+get 20% off the annual subscription. September 9th, 1976. The day, Mao Zedong died, three decades after
+founding the People’s Republic of China. Few countries are so easily divided into two
+distinct eras. With his death, the economic walls around
+the Red Dragon slowly fell, allowing the largest population on earth access to the world economy. In 1978, there were, essentially zero private
+companies. All were state-owned, with only a tiny 140,000
+people, or 0.01% of its population, employed privately. Just three years later, thanks to Mao’s
+successor, Deng Xiaoping, that number was already 16 times higher. China in the ‘80s and ‘90s was the golden
+opportunity to start a company. Big, inefficient state-owned corporations
+had left huge gaps in the economy, people were moving to the city, finally, with money
+to spend, and the government was eager to encourage enterprise. Which is to say, Ren Zhengfei couldn’t have
+picked a better time than 1987 to start his company, called Huawei! A few years later, it won a contract with
+the People’s Liberation Army, which, although small in financial terms, was huge for winning
+favor with the Communist Party, who then protected the company from competition. With this help, Huawei became, today, the
+2nd largest phone company in the world, just ahead of Apple, and behind only Samsung. Up until just a few months ago, it was expected
+to pass Samsung to become number one, lead the world in the spread of 5G and gain even
+more market share than its current 29% of all telecommunications equipment on earth. Then, with one, swift signature, Huawei was
+banned. Not only does this stop the company from selling
+equipment in the U.S., but all Huawei products, everywhere are banned from working with American
+companies, who supply Huawei with components like Intel chips, and software like the Google
+Play Store. So, is Huawei, as the United States claims,
+a real threat to national security? A trojan horse for the Chinese government? Or is the ban merely political? The problem with most answers to these questions
+is that they focus only on the technology, the politics, or China. But to really understand Huawei, you have
+to marry all three. Who really owns a company? It’s a pretty reasonable question and should
+have a pretty simple answer. You don’t usually need to go around reading
+Articles of Incorporation, just some common sense. A few decent clues are whoever’s office
+is on the 100th floor, or, maybe, whoever’s business card is most expensive. But not always. Because, of course, the structure of a company
+is not designed for our legibility, but, rather, to make more money or limit somebody’s power. So, you see lots of weird subsidiaries, holding
+companies without employees based in the Virgin Islands, deliberately confusing names, and
+dual-class shares. Things can get… weird. Take John, for example, of Papa fame, who,
+facing public pressure, resigned as the company chairman. A few weeks later, John decided actually,
+he’d like to return to his pizza Papa position. The board said, “Yeeeah… Hard pass!” and changed the company’s
+bylaws to block their own largest shareholder from taking over the company he founded. He then sued his own company. One time, a pharmaceutical company called
+Rockwell Medical split into two legal corporations, each claiming to be the real, legitimate Rockwell
+Medical Incorporated with the same address and same shareholders, leaving everyone wondering,
+who’s the real pope? The point is, it’s actually not that simple
+of a question. And, that’s before you add the whole Socialism
+twist. If you do ask Huawei who owns the company,
+they’ll happily take you to a special room in their Shenzhen headquarters, where a giant
+blue book, because little and red were taken, sits behind glass. Exactly the way you’d expect a multi-billion
+dollar tech company to keep its records. In it, Huawei says, is a list of every person
+who owns shares in the company. And, as they’ll enthusiastically assure
+you, none of these people are the Chinese government. Case… not closed, obviously. Here’s what we know: Huawei Technology LLC is 100% owned by a holding
+company called Huawei Investment & Holding, which is itself owned by two parties: Huawei’s CEO owns about 1%, and the rest,
+the Union of Huawei Investment & Holding. It says this is only for legal reasons, and,
+I’ll remind you, convoluted ownership structures aren’t at all unusual. For all practical purposes, Huawei claims,
+the company is owned by its employees - the names in the blue book - who own stock in
+the company. But, again, it’s not so simple. What Huawei calls stock is, actually, apologizes
+in advance to non-business majors, Synthetic Equity, or, for maximum, put-it-in-the-parking-lot,
+synergize, circle-back jargon-points, Restricted Phantom Shares. OoOooOoo… Phantom… spooky sounding! It’s a lot like regular equity - shareholders,
+in this case, Huawei employees, receive a share of the company’s profits - a dividend. They stand to make money, so they’re incentivized
+to add value to the company. Except it’s “synthetic” - as in not
+totally… real. It can’t be sold or transferred, doesn’t
+give much say in the operations of the company, and, if an employee, for any reason, leaves
+the company, he or she must also sell back their shares. As two American researchers summarize “…this
+virtual stock ownership has nothing to do with financing or control. It is purely a profit-sharing incentive scheme.” When we ask the question “Who owns Huawei?”,
+what we’re really asking is who, if they really wanted the company to do something,
+like, say, spy on foreign countries, has the power to do so. The answer, it seems, is the union, who owns
+the holding company, who owns the company. So, who controls the union? This time the answer is much easier: Under
+Chinese labor law, Unions are subject to their superior branch - local Unions answer to provincial
+unions, all the way up through a winding python of hierarchy, ending at the chairman of the
+All-China Federation of Trade Unions, who also sits on the National People's Congress. Unions in China are, therefore, largely an
+extension of the Communist Party. Now, you’d be right to point out that this
+alone shouldn’t be enough to ban an entire company from doing business with an entire
+country. After all, this logic applies to many Chinese
+companies, not just Huawei. It would be ridiculous to ban all of them. To that, defenders of the ban would say, But
+Huawei is no ordinary company; it has a long history of alleged misbehavior. It’s CFO was, quite prominently, arrested
+in Canada on the grounds of violating US sanctions on Iran. Cisco accused the company of copying their
+manuals after finding the same typos in Huawei’s, which its CEO said was just a coincidence. The CIA also claims it has evidence that Huawei
+has taken money from Chinese intelligence services. And finally, in 2012, China gave the African
+Union a new $200 million headquarters in Ethiopia. Then, last year, a French newspaper quoted
+anonymous technicians in the building who claimed they caught Huawei equipment copying
+and sending data to servers in Shanghai - which China and the African Union officially deny. On one hand, there’s a lot of smoke here,
+on the other, there’s also a lot of people who have a strong interest in you believing
+there’s a fire. All of these incidents are alleged, and, neither
+the UK nor the US has ever presented clear evidence of a backdoor in Huawei equipment,
+despite having many years to investigate. Before the ban, before its phones were cut-off
+from Google services, before it lost its relationship with ARM, before it was, indirectly, forced
+to sell off its undersea cable business, Huawei was unstoppable. Experts tend to agree that it’s years ahead
+of anyone else on 5G technology and that its equipment is, in general, significantly cheaper. That’s why, despite pressure from its allies,
+Britain has continued buying Huawei equipment - doing so saves, at least, millions of dollars. It mirrors the predicament many countries
+around the world face with Chinese investment: Even knowing the risk of dependence on China,
+can they resist the economic benefits? It’s no secret that, while this is going
+on, the U.S. is in a trade war with China, and banning Huawei gives it both negotiating
+leverage and protects American telecommunications companies from foreign competition, exactly
+at its strongest. So, make no mistake: The ban is political. It’s been strongly hinted as being on the
+table for trade negotiations. And it’s quite possible the ban will soon
+be reversed if a deal is made. But, it’s just as important to note that
+just because something is strategically motivated, doesn’t mean there aren’t, other, perfectly
+legitimate arguments. Much of the confusion around this issue is
+centered around the fact that politicians can agree on the same policy for vastly different
+reasons. The truth is you don’t need to make a judgment
+call on whether you trust Huawei or its CEO. You only need to recognize the most basic
+feature of the Chinese system: everything is the concern of the state. From what is shown on TV, to who is allowed
+to travel, even how long you can play Fornite, and certainly the movements of its largest
+corporations, the Communist Party is everywhere, if not now, and quite possibly, not, in the
+case of Huawei, eventually. Having an enemy is, unfortunately, useful
+for American politicians, especially one as misunderstood as China, but so too is it crucial for a country to
+keep its communications infrastructure, through which national secrets are shared and information
+wars, increasingly fought, free from foreign influence. This is much bigger than any one company,
+bigger than who controls 5G, bigger even than the trade-war. It’s really about the Chinese system being
+used against it. The story of Huawei is very much the story
+of China - both only realized their full potential upon opening up to the world’s markets,
+where Huawei now makes the much of its revenue, and how China was turned into one of the most
+powerful nations on earth. Huawei is what it is today to a significant
+degree because of its close relationship with and subsequent protection by the Chinese government. Now, it’s a victim of that same closeness
+- the other side of that very profitable coin, which, ironically, has long blocked many western
+tech companies - Google, Facebook, Twitter, YouTube… - from operating in China on, you
+guessed it… national security grounds. China would like the benefits of free, open
+trade abroad, while closely protecting and controlling business domestically. But now it’s forced to chose. In a trade war like this one, each side is
+trying to use game theory to interpret and outmaneuver their opponent, who may or may
+not be lying. 

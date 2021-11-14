@@ -1,0 +1,122 @@
+If you have been on the internet in the past
+month, you have probably seen a picture of Elon Musk’s latest project. A rocket that looks like the brainchild of
+a H. G Well’s fever dream of the future. It doesn’t look like any current generation
+rocket by any shape or measure. It’s shorter and fatter than your typical
+Space X rocket, and most strange of all, it’s made of stainless steel. A material that has largely fallen out of
+use for propellant tanks since the 60s. Steel is strong, but it’s pretty heavy. Making it unsuitable for flight structures. Reducing the weight of the launch vehicle
+is an art form in rocket science. Every kilogram matters, and engineers have
+come up with some innovative ways to reduce weight. WD-40, was originally developed to displace
+water, which is where its name comes from, to protect the metal tanks of the Atlas rockets
+from rusting, because they weren’t painted to save weight. [4] And those Atlas rockets were made of stainless
+steel. In those days aluminium alloying material
+science hadn’t quite developed far enough, and the engineers of the Atlas rockets instead
+opted to use extremely thin stainless steel for their propellant tanks, varying from 2.5
+millimetres to about 10 millimetres. These were essentially metal balloons. As they were structurally unstable when unpressurised. In one infamous case on May 11th 1963, an
+Atlas Agena D lost pressurisation on the launch pad, allowing the weight of the upper stage
+to buckle the thin steel. Pressurisation adds strength to pressure vessels
+as the pressure provides a restoring force for small deformations, so if the metal attempts
+to bend inwards the internal pressure pushes it back out. This strengthens all rocket tanks allowing
+their thickness to be minimised, but this application took it to the extreme to make
+up for steels density. Our choice of material for aviation and aerospace
+applications has evolved with our mastery of material science. Specifically with the materials available
+to us that have the highest strength to weight ratios. We can visualise these strength to weight
+ratios on graph like this. Plotting the strength of the material against
+its density.[6] Looking at this it’s pretty clear that steel
+adds a significant amount of weight, while not adding a proportional amount of strength. Steel is typically 2.5 times heavier than
+aluminium, but it is not 2.5 times stronger. So why use stainless steel? Well, strength to weight ratios are not the
+only factor engineers have to consider. Something you may not consider are things
+like thermal conductivity. Aluminium has a much higher thermal conductivity
+than steel, and thus can conduct heat from its surroundings into the cryogenic fuel much
+faster. This can vaporise the fuel, which requires
+boil-off valves to vent the vaporised fuel. To minimise this problem, rocket fuel tanks
+are often sprayed with foam insulation, that’s what gave the external tank of the space shuttle
+it’s distinctive orange colour, but this adds a substantial amount of mass itself,
+which in turn decreases the weight saving benefits aluminium provides. [2] However, the Falcon-9 fuel tanks are not insulated. To prevent major boil off of the fuel, the
+fuel is loaded as late as possible. This reduces the amount of fuel that will
+be vaporised, but also makes the job of getting the Falcon 9 certified for human payloads
+a bit of a nightmare. NASA did not want Space X to fuel the rocket
+with passengers on board, because as we saw earlier things can go wrong during this phase. In August 2018, they finally approved the
+Falcon 9 for this “load and go” style of fueling for human flight. [3] The aluminium-lithium alloys used in the Falcon-9
+were not developed until the late 50s and early 60s, which increased their strength
+to weight ratios, allowing the introduction to aerospace applications. [4] The stainless steel balloon tanks of the Atlas
+rockets were eventually made with this aluminium alloy metal, and their strength to weight
+ratio were boosted by using a unique stringer pattern called an isogrid, which boosted the
+aluminiums ability to resist buckling, like that of the Atlas Agena D. NASA performed these huge compressive buckling
+tests on the aluminium lithium tanks of the SLS rocket. Typically you use little strain gauges, whos
+electrical resistance change as you stretch them forcing the electrons along a longer
+path to keep track of the strain in the material, but for something this big they would have
+needed thousands. Instead they painted dots all over the structure
+to allow computer imaging software to keep track of the strain. That isogrid structure is excellent for maximising
+strength while minimising the material needed. It is essentially an inter woven pattern of
+I beams that increase the stiffness of the overall structure. You will see this pattern everywhere in aerospace. From these sixties era rockets to Space X's
+new dragon 2 capsule. Space X, to date, has used aluminium-lithium
+alloys in their propellant tanks. But they opted not to use this isogrid structure,
+even though it provides fantastic strength to weight performance, it is absurdly expensive
+to manufacture. To manufacture isogrids you start off with
+a thicker piece of aluminium and machine it down using a CNC machine. This results in about 95% of the material
+going to waste. Instead Spacex opted for a thin skin of aluminium-lithium
+alloy and then stir welded strengthening stringers in place. We are constantly balancing a huge number
+of factors. Here the cost of manufacturing the rocket
+influenced it’s design. Typically the cost of launching an extra kilogram
+of material to space far outweighs the cost of material, but in cases like this the waste
+in the manufacturing process can influence our material choice. For example Musk attributed the cost of carbon
+fibre composites as one of the primary reasons he abandoned it as a material for the Starhopper. Carbon fibre composites cost about 135 dollars
+per kilogram, and a significant amount of it is thrown away in the lay-up process. The manufacturing process for carbon fibre
+composites is extraordinarily expensive and difficult. As explained in my carbon fibre video. Carbon fibre composites gain all of their
+strength from the long and thin carbon fibres inside the plastic resin that holds them together. This means that their strength is not the
+same in all directions, and in order to ensure the material can be strong in all directions
+you have to layer your carbon fibre composite in a very specific way. You then have to cure it in a pressurised
+oven. This was one of the major flaws I pointed
+out in predicting the failure of the early prototypes of the BFR carbon composite tanks,
+which were made in two parts presumably because they couldn’t find tooling and an autoclave
+big enough to cure a full sized tank. Being perfectly honest this is the only subject
+area where I have enough expertise to make comments on other peoples designs, and I was
+surprised Space X were pursuing the material at all, for the reasons stated above, and
+as it’s unsuitable for a vehicle that not only has to withstand the freezing temperatures
+from the cryogenic fuel on assent, but the scorching temperatures of re-entry. Not once, but twice. As this will be the first vehicle in history
+expected to visit Mars AND return. Here we really start to see where stainless
+steel shines, and why Musk is opting for a stainless steel vehicle. Let’s plot another graph, this time plotting
+strength against maximum operating temperature. Here we can see that stainless steel outperforms
+both aluminium alloys and carbon fibre composites by a significant margin. [6] The Falcon 9 first stage rocket serves only
+to boost the second stage to about 65 to 75 km in altitude and between 6,000 to 8,300
+km/h, before flipping over and performing re-entry burns to slow down before entering
+the thicker atmosphere at relatively slow speeds. Even then, the engine nozzles, which are designed
+to tolerate massive temperatures take the brunt of the re-entry heating, allowing the
+aluminium tanks to avoid any major reentry heat. This is not how the Starhopper is intended
+to work, because it is being built as an interplanetary vehicle. The starhopper can expect to enter into the
+Martian atmosphere at speeds of up to 21,000 km/h and experience temperatures up to 1,700
+degrees. Well above the maximum service temperature
+of both aluminium and stainless steel, but we have ways of leaching some of that heat
+away before it can heat the metal. The curiosity rover utilised a phenolic impregnated
+carbon ablator, which is extremely extremely light, has a low thermal conductivity, and
+can resist extreme temperatures of up to 1,930 degrees. [5] But nothing this heavy has ever entered the
+Martian atmosphere before, and it’s not going to be any easy task for it to slow it
+down. It’s going to have to enter the martian
+atmosphere at an extremely high angle of attack to allow the thin martian atmosphere to sap
+away speed through drag for an extended period, but drag comes with heat. Stainless steel may be heavy, but it will
+require significantly less heat shielding that an aluminium or carbon fibre composites. Once again closing that weight advantage gap
+of these alternate materials . In fact Musk has stated that the rear side of the Starhopper
+will require no heat shielding at all, and he plans to use a strange technique to cool
+the wind facing side of the vehicle. Using the same method humans use to cool down,
+by sweating. Musk plans to pump liquid methane between
+two steel panels on the windward facing side of the Space X rocket, where it will gain
+heat, vaporise and evaporate through small holes in the rockets surface. This is pretty weird way of cooling a ship,
+and I wondered why you would not just opt to use the tried and true method of ablative
+tiles. Then I remembered that this ship needs to
+make a return journey, and the entry into the Martian atmosphere will damage the tiles
+and require maintenance. There is no oil on mars to manufacture new
+phenolic resin or the carbon needed for ablatives. So, using methane, the fuel the new Raptor
+engines that Space X will use for the Starhopper, makes a lot sense. It reduces the equipment the rocket will need
+to carry to Mars, making the rocket significantly lighter. They can just use the equipment they already
+needed for refueling, making it double purpose. They just need to mine water and extract carbon
+dioxide from the atmosphere, and then do some fancy chemistry to produce methane and oxygen. The prototype they are building at the moment
+is likely just to test the manufacturing techniques needed to build it, and test it’s flight
+capabilities. This ship does not need to be space worthy,
+it just needs to have the same weight, centre of gravity and shape to allow space x to test
+it. On the surface though the whole operation
+looks like a bit of a shitshow, and I really try to be positive about engineering advancements,
+but the thing literally fell over in the wind last week. I’m really curious on how this whole thing
+is going to unfold. Sometimes you just need to make mistakes to
+learn, which is why you should sign up to As always thanks for watching and thank you
+to all my patreon supporters. If you would like to see more from me the
+links to my instagram, twitter, discord server and subreddit are below. 

@@ -1,0 +1,84 @@
+- [Jared] The year 2019
+marks the 50th anniversary of the Apollo 11 moon landing. Let's celebrate by using 3D animation to show the inside of
+the Apollo Lunar Module. All right, so we're
+gonna land on the moon. What should our landing vehicle look like? Early artwork got their
+ideas from science fiction. Then, we started building prototypes. This one had five legs. Our astronauts will want to see outside, so let's make a cockpit with some windows. (soft music) The final design has only four legs, and the windows are much
+smaller to save weight. It was about 23-feet tall. For comparison, here's
+the size of a person. The LM was designed and
+built in Bethpage, New York, by the Grumman Corporation. It took hundreds of engineers and most of the 1960s to complete. It was originally called the Lunar Excursion Module, or just LEM. Eventually, the word excursion
+was dropped from the acronym, but everyone still
+pronounced it the same, LM. It was a long process to get this machine all the way to the surface of the moon. It was launched aboard the Saturn V rocket and then went to the moon along with the Service Module
+and Command Module. These three parts together are what we call the Apollo Spacecraft. The LM was the only part that goes down to the surface of the moon. It was the first spacecraft designed to only operate in the vacuum of space. So for example, the Command Module needed to be really aerodynamic for the launch through the earth's atmosphere. The LM wasn't exposed until
+it was in outer space. Since there's no air up here, the outline really doesn't matter. This is part of why you get a spacecraft that looks unlike anything
+we've seen before. Starting with the famous Apollo 11, there were a total of six moon landings covering a span of about three years. Apollo 13 had an accident in space and was forced to come home early without landing on the moon. Earlier missions tested the
+lunar module in earth orbit, and then once in lunar orbit without actually landing on the moon. More Apollo missions were planned but were canceled due to budget cuts. The LM was split up into two parts: the ascent stage and the descent stage. For the landing, both parts
+went to the surface of the moon. When it's time to leave, only the ascent stage leaves the surface, which means that each of
+the Apollo moon landings left behind a descent stage. Let's zoom in for a closer look. There were four legs attached to the side. These were originally in
+the retracted position so that the limb would fit
+into the Saturn V for launch. Then, once they are getting ready to land, the legs are extended. Three of the legs contained
+a contact-sensing probe, which told the astronauts
+that they were close enough to the surface to shut
+off the descent engine. This leg has the ladder which
+the astronauts can climb down. On the left side of the ladder, there's a container which
+holds the American flag. The shape of the descent stage
+is somewhat of an octagon. Here's what the structure
+looks like underneath. Inside there were five
+box-shaped compartments. The center one contained the decent engine which was used for landing on the moon. In order to light this engine up, we'll need two oxidizer
+tanks and two fuel tanks. They both feed right into the engine. This gives us the propulsion we'll need to safely land on the moon. These outer areas are where
+they stored more equipment. They called them quadrants. So this was quadrant one,
+two, three, and four. Quadrant one was for general storage. For the last three Apollo missions, there was the Lunar Roving
+Vehicle packed inside of here. Once on the surface, it was
+unpacked and ready for use. This allowed them to explore much further from the lunar module. Quadrant two contained a water tank, and then below here was the Apollo Lunar Surface
+Experiments Package, or ALSEP, which basically contained
+several science experiments for them to perform. Quadrant three had another
+helium tank, oxygen tank, and on a few missions it
+carried retroreflectors, which is a special kind of mirror. They were left behind on
+the surface of the moon, and they allow scientists even today to balance laser light from
+the earth to the moon and back. Quadrant four contained the Modularized Equipment
+Stowage Assembly, or MESA. And if you've ever
+wondered how we recorded those first few steps on the moon, there's a camera here that
+points right towards the ladder. The landing legs were attached
+on the main structure. The covering on the outside
+was made out of Mylar, which looks like gold tinfoil. They used it because it was lightweight and it made sure that the
+inside temperature didn't get too hot or too cold. This the platform that
+leads to the ladder, and these are the plume deflectors. They protected the spacecraft from the thrusters on the ascent stage. We'll talk about that later in the video. Before we look at the ascent stage, I want to thank Audible for
+sponsoring today's video. Not everyone has time to sit
+down and read a physical book, but Audible allows you
+to listen to audiobooks while you go about your day. One audiobook that helped
+me create this video is Neil Armstrong: A Life of Flight. It tells the story of the
+first man to walk on the moon and the different life
+events that led him there. And yes, it's available
+to listen to on Audible. If you're ready to sign up
+and help support my channel, visit Audible.com/JaredOwen
+or text jaredowen to 500 500. It's only 14.95 per month. However, for the month of July only, Amazon Prime members can
+start and Audible membership and get three months for only 4.95. That's three months for the price of one. After that, it's only 14.95 per month. Visit Audible.com/JaredOwen or text jaredowen to 500
+500 to get started today. Okay, let's take a look
+at the ascent stage now. If we remove the cover, you can see some of the
+machinery underneath. Let's start with the main structure. This is the crew compartment, the midsection, and the aft equipment bay. Both the crew compartment
+and the midsection were normally pressurized, which means that they can safely
+take off their spacesuits. The crew compartment
+didn't have a lot of room. Controls were mostly in the front, and then there's two windows to look outside at the
+surface of the moon. The commander was on the left, and the LM pilot was on the right. Remember, that the third astronaut was still orbiting the moon in the CSM. After landing, this hatch
+is for the astronauts to leave the cabin and start
+their climb down the ladder. In the midsection, you'll
+find more equipment and this cover which
+protected the ascent engine. And of course, the tunnel to
+dock with the Command Module once back in lunar orbit. The aft equipment bay has
+more oxygen and helium tanks as well as other electronics for the LM. There's a fuel tank here and
+a smaller oxidizer tank here. This is the reason that we have these bulges on the side here. Both of these tanks feed
+right into the ascent engine which was used to blast off
+the surface of the moon. On the outside is the Reaction
+Control System, or RCS. It's an arrangement of 16
+thrusters in groups of four. It was powered by fuel and
+oxidizer tanks on the side here. During the flight, these
+thrusters could be used to maneuver the LM. The plume deflectors helped redirect the exhaust to protect the descent stage. On the outside were several antennas to let them communicate with
+Mission Control back on earth. So much effort went into
+building each Lunar Module. What's sad here is that they
+could only be used once. Most of the descent stages
+are peacefully sitting on the moon, and most of
+the ascent stages crashed into the moon after they were
+discarded in lunar orbit. A few lunar modules never got
+the chance to fly in space. They are now located in museums along the east coast of the United States. My name's Jared, and I
+make 3D animated videos about how things work. Click here to learn more
+about the Apollo Spacecraft, and click here to subscribe to my channel. Thanks for watching, and
+I'll see you next time. 

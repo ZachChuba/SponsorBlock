@@ -1,0 +1,31 @@
+One of the biggest secrets of physics is that
+we still don't fundamentally understand what happens when the smallest things interact
+with big things - that is, when quantum mechanics meets our everyday world. You've probably heard of the "Schrodinger's
+Cat" experiment where a particle (in this case a cat) is in a superposition of two states
+(both dead and alive) at once, until it interacts with the outside world - normally a photon
+of light that we send in to see what's going on (but it could also just be a random particle
+that has nothing to do with us). Upon interaction with the outside world, the
+cat is observed as being either dead, or alive, but not both. The problem is, physics can't explain how
+the cat, or particle, goes from being in a combination of two states at once to being
+in "just one", or "just the other"; nor do we know how the "decision" is made. This isn't just a problem with cats, either
+- it plagues every single quantum mechanics experiment, famous or otherwise, from the
+double slit experiment and quantum teleportation to the Stern-Gerlach experiment and tests
+of the Bell inequalities. In every case, we can predict how likely it
+is for a particle to be in one state or another, but have no clue how it actually ends up that
+way. That's where the many-worlds picture of quantum
+mechanics comes in - basically, "many-worlds" proposes the idea that the quantum system
+doesn't actually decide - rather, at every junction where large everyday stuff interacts
+with a quantum system, the timeline of history splits and both possibilities happen on different,
+alternate branches. You know, a choose-your-own-adventure where
+every possible story happens. In this scenario, we'd think that only one
+possibility happened because we'd be stuck on one of the branches, in a version of ourselves
+that only sees one possibility happen. In some ways, this sounds pretty fishy - I
+mean, it's hard to test the reality of a universe that hides its true nature from us by not
+allowing us to test or observe its true nature. But anyway, in the many-worlds picture of
+quantum mechanics, "branch-points" are predicted to happen all the time, everywhere. Pretty much any time subatomic particles interact
+with each other, or with anything else, anywhere in the universe, there are multiple possible
+outcomes. Which means a LOT of branching of history. There may even be infinitely many branches. So is the Many Worlds hypothesis true? We don't know - it hasn't yet been tested
+experimentally. There's a bit of mathematics that supports
+it, and there are also a number of mathematical models that don't require such an extravagantly
+big & complex picture of the universe. But luckily, physics is science, not speculation,
+and eventually, someone, maybe even you, will perform an experiment that helps us  

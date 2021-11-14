@@ -1,0 +1,70 @@
+- It seems like more
+and more physical media is getting overtaken
+by digital substitutes, affecting everything from game
+downloads to event tickets, leaving some folks nostalgic for the days when you could enjoy the smell
+of a freshly unwrapped CD. (inhales) Did that ever smell good? And yet another piece of tech
+that could be going that way is the humble SIM card. You probably know what they
+are, but in case you don't, they're those little chips
+that go into your phone to allow you to connect
+to a cellular network. Their function is to identify who you are to your mobile provider so that they know you're not some outsider
+trying to randomly use their network for free. You can learn more about
+SIM cards right up here, but once you're done, come
+on back because this episode is all about their virtual
+successor, the eSIM. A lot of phone manufacturers
+are interested in moving to the eSIM, and in fact, a
+number of flagship devices already have them,
+including newer iPhones, Samsung Galaxy devices,
+and Google's Pixel lineup. But why are we bothering to change? The biggest reason is flexibility. With traditional SIM cards,
+getting a new phone plan meant that you needed to physically go and pickup a card
+somewhere, and then fiddle with that stupid little
+tray on your phone. And God help you if you lose
+that pokey SIM removal tool. ESIMs instead can be
+delivered over the air by dialing a designated phone
+number from your provider, scanning a QR code, or using an app, making things a lot easier
+for frequent travelers who might need to get
+on a different network when they're traveling internationally. It also looks like more
+phones will feature both, eSIM and traditional SIM
+support, and many eSIM devices will support storing more
+than one SIM code at a time. This means it'll be a lot easier to simply add a traveler SIM to your plan when you're abroad, instead of having to deal with finicky roaming when ya land, you can just buy an eSIM before your trip and ensure your connected at all times. I mean, other than
+while you're in the air. You can also easily use your business and personal phone plans
+on the same device. Your boss will like that. Or even have completely
+separate voice and data plans if you find a better deal or faster speeds with another provider. That's pretty sweet. But eSIMs could end up
+having greater benefits than just making your phone
+a bit more convenient to use. Although physical SIM
+cards aren't all that big, the card slots in our devices
+are still bulky enough to take up valuable space, a
+big problem in small gadgets. ESIMS, which obviously don't
+require that extra slot, could increase the
+adoption of smaller devices like in net of things gadgets, or smartwatches that don't
+have to rely on a phone to connect to a cell network. And importantly, eSIM
+technology has the blessing of the GSMA, meaning major
+cell carriers are backing it. So, it really looks like it's
+gonna be a question of when it becomes widespread, as opposed to if. However, don't be surprised
+if your next phone doesn't support it, especially
+if you're not buying a top-end device. Although the benefits of eSIM are coming, people trying to use it
+currently have remarked that in many cases you still
+have to go into a store to buy an eSIM QR code. And moving an eSIM subscription
+to a different device can be at least for the
+time being, more complicated than just swapping out a physical card. And speaking of physical cards, there is some concern that eSIM, because it can be pushed over the air, is more susceptible to social
+engineering type attacks than traditional SIMs are,
+though there are some backstops already in place to help us
+keep that from happening. And there's a chance that
+eSIM could improve security by making it easier to
+track a stolen phone, and harder to sell one since
+you can't just yank out a card. And of course, it takes time and money for the cell carriers to
+transition the current systems over to eSIM to make it easier to use, but hopefully it'll happen before too long as I'm pretty bad at losing
+small, removable objects between my couch cushions. I have so many cushions, there's cracks, there's so many cracks. Cracks for days. So thanks to Brilliant
+for sponsoring this video. Brilliant's mission is
+to help people achieve their learning goals, so
+whether you're a student, a professional brushing up,
+or someone who just wants to understand the world better, you should check out Brilliant. Interested in setting a
+goal to improve yourself a little bit every day? Well, Brilliant makes that easy with interactive
+explorations and a mobile app that you can use on the go. Check out their Calculus
+in a Nutshell course where Brilliant uses visual
+and physical intuition to present the major pillars of calculus, the language of change used
+be colleges, urban planners, and physicists to describe our world. Brilliant's thought-provoking
+math, science, and computer science content
+helps guide you to mastery by taking complex concepts
+and breaking them up into bite-sized, understandable chunks. The first 200 people to head
+to brilliant.com/technquickie will get 20% off their
+annual premium subscription. 

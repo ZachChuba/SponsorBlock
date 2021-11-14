@@ -1,0 +1,105 @@
+- This is a tough video to make, because the popular, cool
+thing to do right now is to praise AMD and dunk on Intel, and for good reason. It does appear to be that, thanks to AMD, we have experienced more excitement in the last three years
+than the prior decade. But I need to make it anyway. Not because I'm trying to influence your next purchasing decision. You guys should always buy the
+product, not the cool brand. But, rather, because
+I'm worried about Intel. Not Intel the company, they're doing fine, they're making billions of dollars, but, rather, the people at Intel, and I need them to hear this. After this message from
+our sponsor, Ridge Wallet. (upbeat music) It can be really easy to
+forget that, branding aside, a company isn't some kind of hive mind entirely aligned to one purpose, and that it's easy for a handful of people who are too disconnected from the customer or too focused on bean counting to steer the ship in the wrong direction, in spite of the hard work and best intentions of the vast majority. And the thing is, while Intel
+does a lot of stuff wrong, as someone who has actually met many individuals over
+there over the years, I can say confidentially
+that Intel employees, well, they might not have cute nicknames, like Googlers or Yahoos, but that company is chock-full of really awesome people who care a lot. Like, imagine the most hardcore overclocking enthusiast you know. Now imagine that he's got an awesome beard and he's jacked and he's
+carrying a surfboard. I basically met that
+guy at an update event. One of my other favorites is a gentleman who is always inviting me to see the secret room at trade shows. All you guys have ever seen
+of it is some laptop B-roll, but even though there's
+literally no ROI for the company or, really, for me, since
+I can't report on it, he's always sneaking me
+away from the laptops to get a look at what his team has been working on behind the scenes for no reason other that he knows that I'm gonna share
+his appreciation for it. Even ex-Intelers seem to take a disproportionate amount
+of pride in their work. I've had it happen on multiple times that I do a retrospective on an old piece of
+enthusiast gear from Intel only to have an ex-engineer reach out and be like, you know what, hey, I poured my soul into that thing, and I'm just really
+glad that you liked it. Knowing these people, I
+can say with confidence that many, if not most,
+of Intel's mistakes happen for reasons that
+are closer to human flaws than they are to pure evil. And we all make mistakes. Let's take their most
+recent self-inflicted wound. It's very clear from the revenue growth and steady profits over at Team Blue, that the business folks are in charge and doing a very good job of delivering maximum shareholder value, or whatever it is that they do. But it's also clear that this strategy wasn't one that rewarded
+delivering exciting products to enthusiasts and gamers. Intel spent the better part of a decade with no competition in the CPU market, and used that opportunity to do what monopolies do best, get very, very comfortable delivering incremental,
+generational improvements, targeting the widening upgrade
+cycles of their corporate and small and medium business customers. Even something as simple as using proper thermal
+interface material on their CPUs didn't happen until AMD forced their hand. It's also clear that they were focused on growing markets
+rather than mature ones. With R&D so laser-focused on mobile and data center products, that talking points about
+performance per what always seemed to make their way into the product sheets
+and reviewer guides for overclockable case
+series desktop CPUs, where young Linus was
+looking at them going, sorry, what, performance
+per what, who cares? How fast does it go, how
+much does it overclock, why is there a GPU taking up
+valuable silicon on my CPU? Where is my mainstream six-core? Well, the sleeping giant
+awakened two years ago. And don't kid yourself, they have awakened and they will come roaring back. I've seen this movie
+a couple of times now. But some of the rumors
+coming out have me worried that, until they're ready
+to make a legitimate play for the performance crown again, Intel might do some desperate things that will damage the things
+about them that I still love, even if I'm not a big fan of their price to performance right now. So Intel employees, Intelers, blue badges, in no particular order,
+here are some things that I really don't want to see go away. Good engineering. In my experience with our
+AMD-based NVMe storage server, I learned that AMD has a
+whole server/data center platform out there that,
+as far as I can tell, no one ever thought to
+go, hey, what happens if I light up all these
+PCIe lanes with data, and then actually load up
+the CPU at the same time? Turns out that the data
+gets retrieved so fast from that big flash array that, by the time the CPU comes back
+around to get it, it's gone. Ruh-roh. Wendell made an offhand comment
+to me that really stood out while we were troubleshooting the issue. I said to him, man, I never saw any of these kinds of stupid issues when we rolled our Intel
+all in DME storage server, and he goes, "Yeah, Intel's
+got fewer PCIe lanes, "and they're a generation behind, "but they put some really
+good engineering into them." I've always kind of taken for granted that a PCIe lane is a PCIe lane, and it made me hesitate
+to fully transition the backbone of my company to noVNC server until these wrinkles are sorted out, either by AMD or by the Linux community through kernel patches. And as someone who has forgotten more about both software and hardware than I will ever know about
+either of them put together, Wendell's words carry a
+lot of weight with me. Go subdivision, by the way,
+Level1Techs, great guy. Then there's the talent
+pool and team size. Intel is a much, much
+bigger company than AMD, and that can be a double-edged sword. Their massive R&D resources are how they can be simultaneously competing head-to-head with AMD, also a multibillion
+dollar company, on CPUs, Samsung on data center storage, Broadcom on network
+connectivity solutions, and soon to be NVIDIA on
+GPUs and deep learning, all multibillion dollar companies. But, guys, it's the attention to detail that makes customers happy. Back to my AMD server again. I was blown away that there is no official Windows 10 support on EPIK or an onboard RAID controller
+on the EPIK platform. There is basically no material cost to adding either of these things, so, as far as I can tell, it just came down to R&D priorities, and not having enough to do everything. I mean, Intel might try
+and nickel and dime you on a license to unlock
+motherboard capabilities, like a special RAID mode, but I wouldn't even
+consider the possibility that it wouldn't be there. The next big one is partnerships. Intel is always out there, nurturing new and emerging technologies, whether it's VR or wearables or global connectivity solutions, even if those initiatives don't use any Intel silicon yet. And the time and effort that they put in to working with other industry leaders is a big part of why they end up at the heart of so many products. I mean, do you guys think it's an accident that Intel design wins outnumber AMD ones in laptops by so much, even at a time when AMD genuinely has a competitive laptop product, like their new 4th gen mobile Ryzen? Finished goods manufacturers
+rely on silicon makers, like Intel, AMD, and NVIDIA, for a lot of guidance
+and engineering support, something that takes time and resources if you want to do it right. Industry consortiums are
+another prime example of this. Name one, and Intel is probably a member. And recently, they even gave Thunderbolt 3 to the USB Implementation Forum to make its features available
+cross-platform as USB4. Something everything in my
+list had in common is trust. And over the last little while, the cracks in that trust
+have been starting to show. Meltdown, Spectre, and
+since we're on the subject, a Thunderbolt 3 security flaw that Microsoft has evidently
+been wary of for years. But while those problems have catchy names and they do make for good headlines, they're honestly unlikely to cause real, everyday problems and damage to Intel's long-term reputation
+with the average Joe. My real concern there comes from rumors about the upcoming 10th
+gen consumer chips. Early reports seem to indicate that Intel's geriatric
+14 nanometer process with however many pluses we're adding to the end of it by now, is gonna be used to build 10 core chips that'll run at 80+ degrees underwater, out of the box, without any overclocking. There is a reason that, in
+the absence of competition, Intel wasn't doing that, obviously. So that gives me some worry that a compromise has been made somewhere. Like I said, I've seen this movie. Last time Intel fell behind, their Pentium D processors
+ran hot and loud, and while, to my knowledge, the CPUs didn't have a higher than
+acceptable failure rate, the motherboards, oh man, that was hard, that was hard to look at. We would pull those boards out, even just two or three years
+down the road from the system, and the backs, the backs of the boards where the VRMs were
+sautered on on the front, they would be dark, and sometimes warped,
+bowed, from the heat, even if they were somehow still running. I'm not saying that's going to happen. Validation techniques and
+CPU power delivery technology have certainly come a long
+way since the early 2000s. I'm just saying that pushing
+the envelope in this way is a dangerous path, with the potential for
+unforeseen consequences. Because here's the thing, when an enthusiast, like you, asks me for a recommendation, these days, you're gonna hear a lot of AMD, AMD, AMD. What can I say, they're
+rocking it right now. But when someone who might
+come back to me for help asks for a recommendation, they are more likely to hear Intel. I wanna know for sure that everything from the CPU to memory compatibility to the USB controller on the motherboard to Wi-Fi is all just gonna basically work. I'm not saying the upcoming
+10th gen consumer chips are bad, or that they're gonna fail prematurely, not by a long shot. I've still got that trust. I'm just saying, please
+tread carefully, guys, because the better long-term play may be to just take it on
+the chin for a couple years, learn from it, especially you, executives, more R&D to enthusiast stuff, please. There's not a lot of us,
+but we're really noisy. And then come back with
+your performance leadership and your reliability intact. Because it's not even my word on the subject that matters, really, it's the tier one system integrators that are pumping out
+millions of machines a year. And I'm sure those guys
+are watching all of this much more closely than I am. Just like you guys are watching closely to see how he's gonna
+segue way to that sponsor. Micro Center is open to
+supply all your work from home or learning from home technology needs. The MAINGEAR Element laptop is available at 25 Micro Center locations,
+as well as on Amazon, for anyone who's not
+near one of their stores. It's got an Intel Core i7-9750H Processor, Nvidia GeForce RTX 2070 graphics, 32 whopping gigs of DDR4 memory, two terabytes of NVME storage, and a 15.6 inch Full HD
+Narrow Bezel IPS display. Check out it and other
+Micro Center specials at the links below. If you guys enjoyed this video, maybe you'll enjoy a more
+critical letter to Intel from back at Computex 2018. I'm not sure if anyone over
+there really took it to heart, but, hey, I'm gonna keep doing these every time I feel like they're necessary. 

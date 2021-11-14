@@ -1,0 +1,102 @@
+Pretty much everyone has a cell phone these
+days, but obviously they're not always perfect. Sometimes you get spotty coverage even in
+really populated areas, and in some rural areas it's impossible to get any signal at
+all. But imagine you had a phone that didn't rely
+on cell tower signals, but rather used the satellites overhead to get a signal anywhere
+in the world. As you may know, satellite phones do actually
+exist, in fact I have one right here, so that's what we're going to talk about today. Why you might want one, how they work, how
+much they cost, all that. So first of all, why would anyone actually
+need a satellite phone anyway? Well it shouldn't be too hard to imagine,
+they would be really useful in any situation where your usual phone won't work. One example might be during a natural disaster,
+like the big hurricanes we've seen, and all the phone networks go down, landlines and
+all. Or maybe you're just going somewhere with
+no cell service in the first place. If you're someone who likes hiking, maybe
+you trip and break a bone and need to call for help, or even something as simple as letting
+someone know you're running late while hiking. On the flip side, it would allow someone to
+get in contact with YOU when they otherwise couldn't. Some other situations might be if you go mountain
+climbing, or camping, or even if you're going on a road trip where you'll be driving through
+rural areas with poor service. I'm sure you get the idea. Now the first thing you'll want to know about
+satellite phones is what kinds there are. Because there are several different services
+out there, all with their own satellites, and they are not interchangeable. But there are really three big ones to know,
+which are Iridium, Inmarsat, and Globalstar. And these are the ones I'll be using as examples. As I mentioned all of these networks have
+their own so-called satellite constellations orbiting above earth. First we have Iridium, which is the only one
+that has 100% global coverage, even the north pole. This is because their satellite constellation
+consists of 66 satellites orbiting in a pattern that covers the entire planet. And because the satellites are constantly
+moving at 17,000 miles per hour across the sky, this means that even if you can't get
+a signal at one point, it's only a matter of time until a satellite moves into a better
+position. Though this also means you could have a connection
+then lose it if the satellite moves away, but at some point you will get a connection. Next we have Globalstar, which has a similar
+network as Iridium, except it has 24 satellites, and doesn't have coverage right up near the
+poles. So it's got nearly complete global coverage,
+and it works the same way where you'll be able to get a signal anywhere within that
+coverage area, even if you sometimes have to wait a bit. The third service Inmarsat, works very differently. They own 13 satellites which serve different
+purposes, but for the normal satellite phone service, only 3 of the satellites are used. Now you might be thinking, three? That's it? But there is a difference. Inmarsat satellites are much further from
+earth, meaning each satellite can cover more area. And, these satellites are in geo-synchronous
+orbit, which means they are in perfect sync with the earth's orbit, and stay perfectly
+stationary in the sky. An advantage of this is that if you get a
+lock on a satellite signal, you don't have to worry about losing the signal, because
+the satellite isn't going to move. But there are a couple drawbacks as well. If you don't have a direct line of sight to
+the satellite, you'll have to move until you do, such as if something is in the way like
+a big mountain. Also, these satellites orbit the equator,
+so as you go further north or south, the satellites have a lower angle in the sky, making them
+more likely to be obstructed by a land mass or something like that. And if you go too far north or south, you
+won't be able to get a signal at all. Ok so now you know about the different companies,
+so how much does it cost to use them? Well first you'd have to buy a satellite phone. And you have to choose carefully, because
+each satellite company only makes a few different phone models at most, and they can only be
+used with their respective network. In any case, all of them are pretty expensive. Iridium Phones are going to cost you somewhere
+around $1000 depending on where you buy it from. The one I have their latest model, the Iridium
+Extreme, which goes for about $1100 for example. Inmarsat's main phone is the ISatPhone 2,
+which I think is actually the best looking one at least, and that goes for about $700. Then Globalstar has the 1700 model phone,
+which is around $500. Of course, if you only need one for a little
+while, you can rent one of these for maybe 5 to 10 dollars a day. But wait, that's not all you have to consider,
+because you also have to buy a service plan. And those ain't cheap either, no matter what
+service you use. And prices wil also vary because most cell
+plans are sold through resellers. From what I've seen, if you plan to actually
+use your phone, the bare minimum plan is going to cost you around $50 a month. And that might get you, literally 10 minutes
+of talk time. Yea, it's not much. And prices can go up to hundreds a month. Or you might be able to get an "emergency
+plan", which I know iridium has, which is about $300 a year, and comes with a whopping
+zero minutes. And every time you use it, it costs you $6
+a minute, nothing's included. So even to just use the phone at all, or be
+able to use it, it's at least $300 a year. Which brings me to the next topic, how much
+it costs to make calls to a satellite phone from a regular phone. This is going to vary depending on your phone
+company, but again, it's always expensive, and it's treated as making an international
+call. For example, on AT&T, calling an Iridium phone
+is about $4, and calling Inmarsat or Globalstar is whopping $12 a minute. Though I should point out that you might be
+able to find a service that will give you a local telephone number that connects to
+your satellite phone, which would make it easier to call you. I know this is possible with Globalstar, where
+you can get a USA number, but I'm not sure about the others. Another thing to note is apparently some cell
+companies block calls to satellite phones unless you specifically ask them to allow
+you to do that. So that would be something to look into as
+well, and tell people who might try to call you. Oh and believe it or not, yes you can get
+text and even data service on some satellite phones, but we'll get to that in a minute. At this point, let's say you got your satellite
+phone, you bought the service, and it's ready to go. How do you go about using it? Well first of all it won't work inside, because
+you need an unobstructed signal. But if you do have a strong signal, it probably
+won't take long at all, just a matter of seconds. If you don't have a visible satellite, assuming
+you're on Iridium or Globalstar, you probably just have to wait a few minutes or so. Of course if you're in a really unfortunate
+area, you might only have a short window of signal before you have to wait again. If you want to make a call to or from a satellite
+phone, it's definitely a bit more involved. Calling from the satellite phone, you have
+to dial the international prefix, 00, then the country code, such as 1 for the United
+States, and then the regular phone number. If you're calling to a satellite phone, it's
+even more complicated. First you dial the outgoing international
+dialing code for your country, which would be 011 for the US, or 00 for Europe. Then, you need to dial the prefix for the
+particular satellite network, such as 8816 for Iridium, or 870 for Inmarsat. And THEN you can dial the satellite phone
+number. Maybe it's best you just save the contact
+in your phone. We've almost covered everything, but we haven't
+yet gone over data and texting. Yes, depending on your phone model and service
+plan, you can do both. Texting is pretty straight forward, it's mostly
+the same as with a cell phone. You can also use email to message a satellite
+phone, but we won't get into that. Some phone models also have the ability to
+automatically text out GPS coordinates which is convient to let someone know where you
+are. For data, as you can imagine, you're not exactly
+going to get 4G speeds. In fact, it's so slow you'll be WISHING you
+had dial up. Typical data speeds are up to 10 kilobits
+per second, yes, that's 1 / 100th of a megabit. It's pretty much only good for checking email
+basically. However, Iridium is currently launching upgraded
+satellites, so in a few years they say they can offer speeds of about 1.5mbps, that will
+be nice. Also, you might be able to get separate wifi
+hotspot devices, like the IsatHub from Inmarsat, which can supposedly do up to 300 kbps. But either way I think it's safe to say you
+won't be streaming and YouTube videos from your satellite phone. So I believe that should cover everything. A satellite phone probably isn't something
+that most people need, but depending on what you do, it could literally be a life saver. And as I said before, if you know you're going
+to be taking a trip where you could use one, you can always just rent one. Anyway, I'd love to know what you guys think. Are you considering getting a satellite phone? Did you even know anything about them before? We can talk about that down in the comments. If you want to keep watching I'll put some
+other videos right here, and if you want to subscribe I make a few new videos every week. Again I'm looking forward to hearing from
+you, so thanks for watching I'll see you next time, have a good one. 

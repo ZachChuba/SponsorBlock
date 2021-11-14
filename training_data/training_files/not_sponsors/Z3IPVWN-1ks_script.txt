@@ -1,0 +1,63 @@
+This video is based on joke presentation I
+gave last year. I was recently on the phone with an internet
+service provider whose name shall remain unspoken because they promised me their mediocre internet
+services for one price and then charged me another price . And you may not be surprised
+to hear that price B was greater than price A. So I was on the phone to see if I could
+get B to equal to A. Which reminds me of the first of the axioms
+of Zermelo-Fraenkel set theory. For those of you who don’t know, Zermelo-Fraenkel
+set theory is the, how shall I put it – pedantry? that forms the foundation of modern mathematics. And to get a good idea, you only really need
+to know two things about it: – it exists (that’s a math joke, though
+I guess so is this whole talk) – and, using the Zermelo-Fraenkel axioms,
+the number 2 is written like this , which in English reads “the set that contains
+the set that contains only the set containing nothing as well as the set containing nothing”. I can see the logicians in the audience are
+loving this. Ok, so the first axiom of Zermelo-Fraenkel
+set theory says that two sets are equal if they have the same elements. However, the internet company that shall not
+be named was providing the same set of services for different prices – . So B≠A, but they
+both contain the same set of services… this is a violation the first axiom of Zermelo-Fraenkel
+set theory. At this point, perhaps, I should have been
+worried. But I continued nevertheless. I again asked for price A. And they replied: “The option we offered
+IS all that we can offer.” I was horrified. For, you see, the second axiom of Zermelo-Fraenkel
+set theory implies that a set cannot be a member of itself, and yet they had just said
+that the set of all options they could offer was the same as the option they offered, which
+clearly must be contained in the set of all options they could offer. And thus they violated the second axiom upon
+which modern mathematics is built. “Let me speak to your manager” I said,
+which is code for “I think your working axiomatic system is crap.” But, as expected, the manager did not immediately
+improve the situation. Just so we’re all on the same page, I simply
+wanted internet for the promised price A, let’s say, $40, but had been charged B,
+say, $50 for the same service. And I had been told that “$50 is the best
+offer they can make.” The manager promptly offered me internet,
+PLUS a home wifi router, for $45. You might think this is an improvement, as
+did I until I asked if I could have the offer of internet plus router, but hold the router,
+and I was told “No.” The third axiom of Zermelo-Fraenkel set theory
+was not happy with that. Because you’re supposed to be able to make
+a subset out of elements of a set, and have that also be a set, but apparently not in
+the world of ISPs. This also violates axiom 6 , by the way. The fifth axiom , combining existing sets
+together into new sets – well, I have to give it to the internet companies; they’ve
+got this down pat: they call it “bundling”. The violation of the seventh Axiom, the axiom
+of infinity, is, to be honest, more a criticism of modern mathematics than telecommunication
+companies (though they still violate it). Speaking as a physicist, I can tell you that
+internet service providers and any other physical thing in our apparently non-continuous, finite-sized
+observable universe – they can’t have an infinite amount of anything. I can’t even say they have an infinite absence
+of customer service, because that would require the possibility of an infinite amount for
+them to be lacking. But there was still something bugging me – the
+manager told me that the offer for $45 was comprised of internet for $40 a month, plus
+5 bucks a month for the router. So breaking things down: the possible monthly
+services provided include {internet for $40, internet for $50, TV, phone, and wifi router
+for $5}. Now, it was clear that “internet for $40”
+was an element of the set called “internet plus router”, and “internet plus router”
+was an element of “possible service combinations”, while “internet for $40”, on its own,
+was not. And yet, the possible service combinations
+should include all possible combinations of services, which Zermelo-Fraenkel would call
+the power set. And thus I realized that the 8th axiom was
+violated (and, also, the 4th). I think at this point we’d hit all 8 axioms,
+and my internet company violated 7 out of 8 – but as all of you doubtless know, the
+standard Zermelo-Fraenkel axioms often come packaged with a 9th axiom. And you need only see the name to know this
+axiom is seriously violated by telecommunications companies. And so, I almost despaired, except despair
+can’t be constructed without the Axiom schema of specification . And then I remembered something important:
+even if all of the axioms I hold dear are violated, that doesn’t mean there’s no
+logic or reason remaining. What’s “true” in the mathematical world
+depends on what underlying axioms you take to be true. So I said “Hang on,” and took a deep breath. “Can I get the 45 dollar option, which consists
+of internet for $40 and a router for 5 bucks a month, and then just send you back the router
+so I don’t have to pay for it?” And you know what the guy from the internet
+company told me? He told me what every scheming mathematician
+wants to hear from their axioms: “I can’t tell you you can’t do that.” The End 

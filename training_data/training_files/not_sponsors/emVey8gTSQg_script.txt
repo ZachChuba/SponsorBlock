@@ -1,0 +1,125 @@
+I’ve always played Minecraft in a very particular way. I like to build bases that blend in with the
+natural environment. This house I carved out of the side of a mountain. There’s a living room with dogs and fireplaces. A bedroom. Some balconies. An observatory with a map of the world. And a little tower at the top. I have some crops, and a bunch of animals, all with adequate space, shelter 
+and water to play around in. Aside from sheering the sheep, I don’t use them for resources, I just like having them around. Everything I build is fairly simple as I don’t
+really understand how to use the redstones to make those complicated structures you see
+in other videos. I also don’t really engage with Minecraft’s
+more conquest oriented gameplay. I only went into the Nether dimension once. Never defeated that dragon at the end. I pretty much spend my time improving my base
+and exploring the immediate world around me. Although I enjoy playing this way very much, I do find the game doesn’t offer me as many interesting game mechanics as I would have if I were to pursue building more complicated structures or achieving conquest goals. And it got me thinking about what exactly it is 
+that the creators of Minecraft expect me to do, what do they think this game is about? Every video game is created based 
+on certain assumptions, assumptions about the world and its people that are reflected in the game’s mechanics which enable and constrain virtual behavior. Examining these assumptions is a great way
+to understand why a game is designed the way it is, but it could also reveal what would
+be different if the creators were to change them. And so, my first question for today is; what are the assumptions at the heart 
+of Minecraft’s virtual world? Back when I was getting my master’s degree
+in environmental sociology, we’d do this exercise called frame analysis. Framing is basically a tool to understand how individuals, movements, and societies as a whole organize experience into social constructs. Take an issue like deforestation, is this
+an urgent problem of ecological preservation? Is it the price we pay for human progress? Or is it simply a luxury problem of developed
+countries? All of these are frames, they are ways of
+looking at the world we live in. Frames are created continuously and change
+over time. They define what we see as good and what we
+see as problematic, and subsequently guide our behavior 
+into specific directions. Frames can align with each other, or challenge
+each other in opposition. They can be a basis for stability, 
+or a trigger for change. A frame can be broken down into three layers
+that feed upwards into each other. The first and deepest layer is ontological. This layer deals with the fundamental assumptions
+about reality. How do we conceive the world? How do we look at ‘the way things are’? The second layer is normative. Here we tackle questions of morality. What is good and what is bad? What is problematic, and why? The third and final layer is strategic. Knowing how we see and judge the world, we
+can then determine practical measures. What can and must be done? What can I do? What must others do? While this method is not exactly designed
+to analyze game design, I think we can apply it nonetheless, 
+albeit with a few minor tweaks. So, to rephrase my first question: let’s
+examine what Minecraft’s frame looks like. I’m going to begin at the surface and from
+there we can dig our way through the layers. When you start a new survival game, you’re thrown into the virtual wilderness with a slowly depleting stamina bar, and the threat of monsters that come out of hiding 
+after nightfall. Given the available gameplay options, the
+advocated course of action is to gather materials, craft tools and build a shelter. When this is done, you can then begin to domesticate
+animals, create weapons for combat, cultivate the land to grow crops, 
+and mine for further resources. Later you can use certain materials to create
+more complicated structures and mechanics, trade with other villages, 
+and explore different dimensions. All these elements are strategic ones; they
+are all concerned with the actual gameplay; the things that can and must be done. Moving into the normative layer, things get
+a little less obvious. Unlike some other games, Minecraft does not
+have an explicit morality system. There are no points to be earned for either
+good or bad actions. There is no meter measuring the player’s
+amount of honor. On the surface, the game seems morally neutral. But this also isn’t exactly the case as the gameplay does allow the player freedom of action, it allows agency, and agency always
+has moral implications. This becomes more evident not by looking at
+what the game encourages you to do, but by looking at what the game 
+doesn’t discourage you to do. Let’s look at animal farming for example. In terms of rewards and punishments, it doesn’t make much of a difference whether you keep your animals on a pasture with plentiful space, or in a nightmarish factory farm designed to slaughter as many as possible, as fast as possible. The latter might actually be encouraged as
+it gives the player more resources, more rewards, without imposing any penalties that might
+give cause for moral concern. The same goes for villagers. The player can trade with them, but also kill,
+kidnap, and even breed them with impunity. In fact, Minecraft’s world as a whole never
+gives you any real feedback to your actions. And this brings us to the ontological layer, the fundamental assumption on which 
+Minecraft’s world exists, which is that the world is ultimately indifferent 
+to the player. You can terraform the entire landscape, and
+the world will remain silent. It exists solely for the player’s manipulation. This, I think, pretty much sums up the foundations
+on which Minecraft is created; it’s essentially a sandbox, a playground, 
+a virtual box of Lego’s, where the only moral restrictions are the ones players impose on themselves. And while I’m perfectly fine enjoying it
+as such, a part of me does wonder: should it be? Because the thing is, in Minecraft, you’re
+not really playing with Lego’s. The world isn’t just a collection of raw
+materials waiting to be assembled, it already has some life to it on its own. You’re not building inside a vacuum, you’re playing in a world where there are different biomes, different animals, trees and water. There’s gravity, sort of. The point is, the world very much resembles
+our own natural world, and thus it is interesting to examine the extent to which Minecraft’s frame is informed by similar frames in the real world; both to understand where it may have originated, as well as to explore the potential 
+of assuming a different one. So what frames does Minecraft resemble? By and large, Minecraft lets you do what humans
+have always done. Ever since we moved from being hunters and
+gatherers to an agricultural society, we began to manipulate the natural world to let it
+better service our needs, and started treating nature, at least in part, 
+based on its functionality for us. And we did so pretty successfully, as those roots eventually led to the modern society 
+we live in today. Looking at our more recent history, I think Minecraft most closely resembles a specific frame that became dominant after the 2nd World War; a period marked by neoliberal politics and global economic expansion. To generalize it somewhat, this neoliberal frame assumed that nature is unaffected by human activity, that we can treat nature as instrumental, 
+and therefore; that we can freely extract resources, expand, and build without having to seriously concern ourselves with the wellbeing of the environment. The similarities to Minecraft’s frame are
+probably pretty obvious, and it could explain why the game’s expansions have been mostly
+oriented towards conquest instead of survival. Because by assuming this frame, the world
+is only as interesting as the amount of things that there are to exploit, and there is an
+everlasting hunger for more; more items, more rewards, more treasures, 
+and I want something different. And I think it is exactly by linking Minecraft’s
+frame to frames in the real world, that we can explore this unfulfilled potential. For the time of neoliberal expansion was also
+marked by something else, by a new frame that would challenge the status quo. In 1962, Rachel Carson published Silent Spring, and was among the first to bring attention to the environmental impact of our actions by documenting the damage caused by the indiscriminate use of pesticides. Later, in 1972, the Limits to Growth report
+sparked a worldwide debate about the sustainability of our current hunger for resources and material
+expansion. Together with many other books and reports, these environmental concerns laid the foundation for a new frame that challenged the neoliberal zeitgeist. This frame, let’s call it the environmentalist frame, 
+can be broken down as follows: nature is strongly connected and reactive 
+to human activity. We have to be mindful in our interactions
+with nature. And therefore, we have to find sustainable
+ways of development, and take action to ensure things like better animal welfare, habitat protection and ecological preservation. Now, I’m not arguing for Minecraft to be
+turned into political propaganda. As I discussed in my video on The Witcher 3; 
+I think a great game does not dictate morality, but uses clever game design to make you think
+about it for yourself, to make you reflect on certain issues that you otherwise wouldn’t have considered. And so what I want to focus on is not the normative, 
+but the ontological assumption of Minecraft, on what would happen if we were
+to change the assumption that nature is indifferent, to the assumption that nature is strongly
+connected and reactive to human activity. Just to reiterate; I’m perfectly fine with
+Minecraft the way it is. As a matter of fact, to this day, I’ve only
+played the vanilla version and I’m still having a ton of fun with it. So when I’m discussing things I would like
+to see differently, I don’t mean it in the literal sense that Minecraft needs these changes in order to be good, I merely like to imagine what could be, either within Minecraft, a potential sequel, or in a hypothetical sandbox game completely unrelated to Minecraft. I’m just using Minecraft as an example because, 1; 
+it is arguably the most popular one, 2; aside from a few examples like Factorio or
+the still-in-development Eco, Minecraft’s frame is comparable to the majority 
+of other sandbox games, and 3; I simply enjoy this one the most. So let’s change Minecraft’s frame. As of now, Minecraft presents a seemingly
+natural world, but no real nature. The only real natural process that is linked
+to your behavior is that if you remove a piece of grass and place it back again, the grass will have turned to dirt, and you have to wait a while for the grass 
+to grow back again. By assuming the environmentalist frame, this
+will be expanded significantly, and there will be much more feedback from the world
+based on how you interact with it. Imagine biomes now thriving or deteriorating based on the available amount of water per X amount of blocks. I could probably drain this entire swamp by
+cutting off this major water source. Or I could redirect existing waterways to
+return green back to this desert. And what would happen if I were to plant trees
+from one biome into another one? Will they grow? Maybe they will even do so well that they
+ultimately overtake the native vegetation? Same goes for animals. What would an overabundance of predators in
+one area mean to the herbivore population? And what about a lack of them? What would happen to grasslands if herbivore
+populations grow too big? What effects do different types of farming
+have on the world? Do certain crops exhaust the soil more than
+others? Do happier animals produce better quality
+products? Does keeping too many animals in one place
+cause environmental problems? Like an overabundance of manure poisoning
+the ground or contaminating water? Does keeping too many animals together increase
+the likelihood of diseases? What if excessive industrialization caused
+issues like sour rain or smog? Would you be forced to keep your base small
+and simple? Or would you be able to find sustainable ways
+of modernization? These are but a few of the questions that
+would be relevant in this imaginary version of Minecraft. To emphasize; environmentalism as a frame
+and potential foundation for a videogame is much broader than the hotly debated topic
+of climate change. The point isn’t necessarily to raise awareness
+about the global environmental consequences to our collective behavior. I don’t want a game where I start a campfire
+and melt the entire arctic, that wouldn’t make a lot of sense as in Minecraft it’s just you, or you with a small number of other players. Either way, that’s hardly enough impact
+to make an explicit point about global developments like climate change. The point is that introducing more mechanics such as these will breathe more life into Minecraft’s environment, and this can help us to better understand ecological systems and our interactions with them, not by dictating morals but by letting you find out 
+for yourself how the different elements of the environment
+interact with each other; by letting you explore the dynamics of a complex ecological system, and showing how even individual behavior, 
+for better or worse, leaves a footprint. But above all, the thing I really want is to experience Minecraft like I did when I first started playing it; exploring and discovering,
+not really knowing what I’m doing. There was an unmistakable charm to those early
+days in this virtual world of blocks, and I would love to see new mechanics that could
+revitalize that feeling. I want to mess around in natural environments
+and find out what the consequences are. I want to learn about ecological cause and
+effect and utilize them to improve my base and the world around it. I want to feel the danger of new and unexpected
+environmental hazards, the joy of surprising opportunities, and that blissful sensation of, 
+after hours and hours of work, standing within your own creation, 
+existing in peaceful harmony. And if those mechanics were to invoke you
+to reflect on our natural world and your own ecological impact, to make you question your worldview in a meaningful way. That, to me, sounds like a pretty great deal. 

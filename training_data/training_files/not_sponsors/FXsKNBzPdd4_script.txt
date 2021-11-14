@@ -1,0 +1,105 @@
+Hey smart people, Joe
+here. I'm here with Don Pettit you
+probably recognize this guy. He's my
+favorite astronaut that I know. Hold on
+Joe, you only know one astronaut. That's
+not important, you're still my favorite. Last time that
+I was here, we were hanging out, we were talking about how to drink coffee in
+space and the cool invention that you made to do that, and and when we were
+done I walked over here to this building to check out this thing. This is a Saturn
+five. It made me think when I was
+sitting in here looking at the size of this thing, because until you're standing
+up next to this thing, you just do not have a sense of how massive the Saturn 5
+is. It took all of this to get
+just this little bit to the moon and back. That's the command module. So why did it
+take all of that to do this. That's
+called the rocket equation. Oh I was told
+there would be no math. So there’s a famous saying: the dinosaurs
+went extinct because they didn’t have a space program. But we do! Half a century ago, astronauts got in a rocket
+a lot like this one to send this tiny little bit up here on a 384,000 km trip to the moon
+and back. And they were able to do it because a lot
+of extremely smart and dedicated people pushed engineering and chemistry to the limits to
+create a 36-story tower of carefully-controlled space fire powerful enough to escape this… …this is Earth’s gravity well. This is a way to visualize how anything in
+the universe with mass causes spacetime itself to warp, bending or attracting any other thing
+with mass. The more massive the object, the deeper the
+gravity well, and… well, if you don’t expend enough energy, you’re trapped inside
+the well, unable to escape. Fortunately, rockets are excellent energy-expending,
+gravitational well escape devices. But the ability of a rocket to escape a gravitational
+trap–or not–depends on some basic rules of physics and chemistry. And these rules… …are written down in the Rocket Equation. The rocket equation deals with
+moving from point A to point B in a gravitational field. And it tells you how much propellant you need
+in order to do that, compared with how much your total rocket weighs. Let’s explain this idea of “mass fraction”
+real quick. Take a typical gas burning car. You don’t need very much gas in the tank,
+compared to the total mass of the car, to get from point A to point B down here on Earth I’m on my way to Houston to talk to Don
+the astronaut… but you already knew that because you’re watching the video right
+now… but the point is, this car, its total weight is only 3-4-5% fuel. But that airplane… that’s 30-40% fuel. JH: What percentage is this thing fuel? DP: A rocket, per the rocket equation, is
+85 to 90 percent propellant, which means everything you see here as this rocket, is only 10 to
+15% of the mass of the total vehicle. And that 10-15% is the entire structure of
+the rocket. The people, life support, and all the cool
+science stuff we want to carry into space? They’re only 1% of the mass of the total
+rocket, propellant and all. JH: So it takes 99% of the mass of this thing
+to get the 1% of cool important space stuff up there. DP: That’s correct. So this is the Rocket Equation, a simplified
+version of it anyway. It was figured out by a Russian rocket scientist
+named Konstantin Tsiolkovsky. Don’t be scared by how mathematical this
+looks. It’s actually pretty easy to understand. e is 
+just a mathematical constant, it’s roughly 2.72 or so. And what this means is that when there’s
+an explosion here, how much of that energy is directed to the rocket going this way. We lose some of that explosion energy to things
+like friction, heat, engine efficiency and, most importantly, gravity. And since this is all an exponent, it means
+that if we increase the strength of the gravity field we’re in, this number goes up really
+quickly. Like compound interest. And that means the ratio of your rocket that
+has to be propellant goes up really quickly. The stronger the gravitational field, you
+pretty quickly find that you need a lot of rocket to get a little bit of stuff out of
+your gravity well and up into space. So, if you’re in the business of engineering
+rockets, what can you do? DP: To get off the planet Earth, you’ve
+got the gravity of Earth… and we’re not gonna change that. And then you have the energy in your rocket
+propellant, and once you max out what is possible with chemistry, then there isn’t anymore. That’s it? That’s it. You max out the energy density, and you
+plug it in the rocket equation, and you have to abide by what it says. Think about that. A rocket is basically a way to take the energy
+stored inside chemical bonds and use it to crawl out from the bottom of our gravity well. So rocket science isn’t just physics. We have to fiddle with chemistry too. We have 4, maybe 5 classes of rocket propellants
+to choose from these days, just a handful of chemical options to try and nudge the rocket
+equation in our favor. So the universe has set the rules, and
+we’re just playing the game. That’s one of the best ways of describing
+it. I call it the “tyranny of the rocket equation”. Now I love talking to Don because I like how
+his brain works. He understands the rocket equation in precise
+mathematical detail. But he’s also able to engage his imagination,
+and use this knowledge to answer unexpected questions, like what would our space program
+look like if we lived on a slightly different planet. Say you increase the size of Earth, so
+Earth’s gravitational constant increases. If Earth were about 10 percent, maybe 15 percent
+bigger, we would not be able to make a rocket to carry any useful payload into space. In essence, we could not get off this planet. This is shocking news. Huge new developments. This makes me think of something: Do you
+think there could be alien planets, extraterrestrial civilizations, who just live on planets that
+are too big for them to get off of? The sky’s not the limit! Whew. Gravity is. The tyranny of the rocket equation is also
+the main thing separating us from making x-wings and Enterprises in real life. As long as we’re using chemistry for our
+rockets, we’re engineering rockets at the edge of what is possible in order to escape
+Earth’s gravity well  But what if we could find somewhere else nearby with a smaller
+gravity well we could fuel up? Hmm… what could that be? There’s a lot of talk about going back
+to the moon. You wanna go? Oh, I’d go the moon in a nanosecond! It would take you a little bit longer
+than a nanosecond. Yeah, it takes 3 to 5 days to get to the
+moon. But it’s an enabler for allowing humans
+to expand into other places in our solar system. A rocket scientist named Krafft Ehricke made one of my favorite quotes: 
+“If god intended man to be a spacefaring species, he would have given us a moon”
+If Earth had no moon, next stop past Earth would be Venus or Mars, both very difficult
+to go right out of the box. The moon, 3 to 5 days away, there are resources
+we can use, What kind of resources? Primarily propellant. Imagine if you could make your rocket propellant
+from resources you find on the moon. What can you make rocket fuel out of that
+you can find on the moon? You can’t make it out of rocks. Water! There’s water on the moon? There’s water on the moon! We didn’t know this during the Apollo era,
+but now we have verified there is water on the moon, significant quantities of water
+on the moon. Water is found throughout the rocky planets
+where human beings would be interested in exploring. So if you make rocket propellant systems based
+on hydrogen and oxygen, you will at least in concept be able to refuel your rockets
+almost anywhere you want to go in our solar system. So right now, would we have the ability to launch a rocket from Earth with people
+on it and point it directly at Mars? Or is that just really really hard? Yeah, it’s tough to do that. It would take a lot of propellant to go from
+Low Earth Orbit straight to Mars and back again, would require 8-12 Saturn V launches
+just to stage one mission. Wow. That’s basically the whole Apollo program
+for just one mission to Mars. And here’s where a little bit of imagination, combined with the science we’ve just learned,
+can show us a solution to another interesting problem. Now remember how different vehicles require
+a different fraction of propellant compared to their total mass to go from point A to
+point B? A car is a few percent, an airplane is 30
+to 40 percent, and a rocket is more than 80 percent. This number is so high because… …Earth is a really hard gravity hole to
+get out of. But the moon is a much smaller gravity hole
+to escape from. Launch your rocket from lunar gravity, and
+according to the rocket equation it only has to be about 30 to 40 percent propellant… …and 30 to 40 percent propellant is less
+like the Saturn V, and more like the aviation industry here on Earth, and we’re already
+pretty good at engineering planes. The dinosaurs got stuck down here. To explore the rest of the solar system, like
+centuries of explorers before us, we need to cross over this one tall hill so we can
+see what’s on the other side. And we’ve got a much easier climb ahead
+of us if we start from the moon. Sounds like a pretty good reason to go back,
+and even stay for a while. And you’ll get to see some cool rocks
+while you’re up there too. You’ll see some cool rocks. Stay curious. 

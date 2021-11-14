@@ -1,0 +1,203 @@
+- Hi it's me Tim Dodd,
+the Everyday Astronaut! I just recently got back home
+from SpaceX's headquarters where I witnessed history
+as Elon Musk introduced us to Yusaku Maezawa from Japan as SpaceX's first
+privately funded passenger. Their destination is a
+quick flight around the moon on SpaceX's enormous next
+generation spaceship, the BFS or Big Falcon Spaceship, That's the upper stage portion of the BFR, the Big Falcon Rocket. We only get updates on
+SpaceX's behemoth of a rocket about once a year, so I have to say I was
+a little disappointed in the lack of technical
+updates in the presentation. That being said there is one thing that was so mind blowingly crazy, Elon had to show us it twice because it's so
+counterintuitive and so unique. I think it deserves it's own deep dive. Today we'll to cover three topics. First, we'll compare the
+reentry of the space shuttle to the reentry of the BFS
+and show how they differ. Then we'll explain the control surfaces that allow the BFS to
+perform this reentry, and then we'll compare the
+thermal protection systems of the space shuttle and the BFS. We'll look back at all the little clues in past presentations,
+tweets and Reddit AMAs. I think there's actually a
+lot of information out there that will help us understand just how exactly the BFS
+will reenter and land. - Ever since SpaceX tweeted this photo on September 13th, 2018,
+a lot of people fear the BFR is slowly turning
+into the space shuttle. Quoting ever growing wings and a giant heat shield
+covering the belly of the ship, so how is this any different
+than the Space Shuttle? So first up, to compare these two, let's look at them side by side. The space shuttle's body and
+delta wings provided lift, and kept the vehicle in the
+upper atmosphere longer, bleeding off speed slowly so as not to overheat the
+silica tile heat shield. Then the wings and control
+surfaces were used to glide, albeit very steeply, to the runway to make a horizontal
+landing, like an airplane. Now on the BFS, instead of
+having the fins and body of the vehicle generate lift, it's trying to create
+as much drag as possible using the entire broadside
+of the vehicle to aerobrake. Its purpose is basically to scrub off as much speed
+as possible, very quickly. When the space shuttle reentered, it had a 40 degree angle of attack. That's quite a bit different from the BFS which is going to have about
+a 90 degree angle of attack. The reason the BFS will be able to do this is because of those wings. Now really, these aren't wings and we shouldn't call 'em that. We need to think of
+these more as airbrakes at they are not there to provide lift, they're only there to
+provide more or less drag. Now they do this by changing their angle, just like an airbrake. And by adjusting the amount of drag at the top or the bottom of the BFS, they can change the pitch! So you might think, isn't
+this kind of similar to how Virgin Galactic
+controls SpaceShipTwo's reentry which has that giant tail that flips up that allows it to reenter safely? Or perhaps you're a history buff and you're familiar with the
+Soviet Union's MIG 105 Spiral or later the BOR-4, which
+have a variable dihedral wing which changes their angle
+of attack during descent. Although these vehicles
+do have variable surfaces to change their orientation,
+they aren't really dynamic. They move only to provide
+different configurations. Either a more stable reentry profile or then they change to provide more lift and
+control for the landing phase. They don't actively go back and forth to continually adjust the
+vehicle's orientation. Maybe the best example I can think of, of a vehicle that actually
+changes its orientation by changing drag, would
+be the B-2 Stealth Bomber. The B-2 bomber actively changes it's yaw by utilizing a split aileron to create drag on the
+left or the right wing. By deploying what's
+essentially an airbrake on one wing or the other, the drag will actually steer
+and orient the vehicle. This is honestly about the
+closest example I can think of to a vehicle that changes drag to modify its orientation in this manner. And when you factor in
+that belly first reentry, this dynamic drag control
+is one of the reasons why the BFS is more like a
+skydiver than an airplane. A skydiver controls their orientation by shifting the amount of
+drag each limb generates. Bend your legs a little
+and your head will rise, bend your arms and your head will lower. One time I went indoor
+skydiving to test out a grid fin and it was awesome! But I was really,
+really, really bad at it. But there was an instructor there that was really good at it,
+which was awesome to see. Instead of me going back into
+an indoor skydiving place, I decided I'd just build
+something in Kerbal Space Program that falls and controls
+itself like a skydiver and can land on a dime! Okay, now full disclosure,
+I just spent about two hours doing a livestream building
+and flying and testing this kinda little BFS here in Kerbal. So if you want to watch the
+entire thing for some reason, there's gonna be a link right here. All right, welcome to
+Kerbal Space Program. Now if you're not familiar with this game, it's basically 50% rocket
+builder, 50% flight simulator and 300% explosion factory. Okay, I know, I know, this
+doesn't look right at all. There's six airbrakes down at the bottom, four up at the top, and we
+have separate landing gear. This looks kind of nothing like the BFS, but bear with me, this is because I built
+this entirely around physics and making sure that those airbrakes were producing the right amount of drag and that the built-in stability control in Kerbal Space Program,
+could use the airbrakes to change the amount of drag
+and therefore actually control the orientation of the
+vehicle though reentry. Airbrakes are the only
+things that work like that. Fins don't work like that, or wings and other surfaces don't. This is only using airbrakes. In order to prove that
+we're only using airbrakes to maintain our orientation, I turned off the reaction wheel
+inside the Command Module. We're gonna turn off the
+RCS throughout reentry and even when we do need
+it for that flip maneuver to put the tail down,
+we're only using 25%. So that's like nothing! Now
+the only thing I did have to do in order to make this actually
+work in Kerbal Space Program, I did speed up the airbrakes 10 times, and that's so that the computer
+has enough control authority and can actually maintain
+precise enough movement to actually let it do
+everything it needs to do. So that's the only way I
+could get this to work, but let's take this out to
+the pad and see if it works. Okay, so we're gonna take this
+thing out of the atmosphere, or out of most of the atmosphere, get it just above 20,000 meters, and then we're going to
+leave a little bit of fuel left over to land with. So let's do this. Here we go, three, two, one, hip hip. (engine roars) Gear up! And fast forward. Okay, now we're just gonna
+coast up to our apoapsis. We're gonna be just shy of 20,000 meters, but it'll be high enough that we get a reenter
+through the atmosphere. Once we get to our peak, our
+apoapsis, our highest point, we're gonna go ahead and flip belly first, using the RCS, the actual thrusters. Then we're going to deploy the airbrakes and turn off the thrusters, and just let the airbrakes glide us safely and point us in the correct orientation. Here we go. So I'll hit one, which is going to make it so
+it wants to fall belly first, so we're controlling from this point. Once we're there, seven
+to deploy the airbrakes and R, we're turning off the thrusters. And now, we are just falling and changing our pitch and
+fixing our orientation, using only these fins. These fins are doing
+their job phenomenally, but again, I did have to
+speed them up like crazy in order to give them the right
+amount of control authority. But this is kind of how it'll work. This is a lot more dramatic, I think, but in real life the fins on
+the BFS will all move together, they'll be one unit at
+each of the four corners. But look at this, once it's stable the thing just falls no problem. And the beautiful thing is,
+even though we're really high and probably, if we had
+fallen straight back down, we would have had a pretty massive burn. We're actually slowing down
+almost the entire way down. So look at us now. We're scrubbing off velocity. As the atmosphere actually gets thicker
+and thicker and thicker, we're actually slowing down
+more and more and more. That is perfect. How cool is that? And it's stable! Here we go, three, two, one, and flip. Gear out.
+(rumbling) Firing up the engines to help orientation. Really firing up the engines. Closing the top fins. Oh, this is gonna be perfect. Oh yeah! A little Blue Origin
+hover there for a second. Oh, look at that, with 200
+meters per second to spare even. And we hovered for a while. I mean, that's pretty amazing, right? That's pretty amazing. Okay, we're gonna pop this
+thing up into orbit now. All right so we are in
+orbit around Kerbin. We're going to go ahead
+and try to land here at Kerbal Space Center. So I'm gonna do a reentry burn and then we're gonna flip belly first. Extend the airbrakes,
+and then turn off RCS and let just the airbrakes maintain our belly first orientation. So here we go. All right, there we go. We're starting to glow red
+hot, getting kinda spicy. And now that we have some
+atmosphere to play with I'm gonna go ahead and turn off RCS, and just let the fins
+(buzzing) maintain our orientation. So here we go. All right, the airbrakes seem to be doing their jobs fantastically. Man, I hope we don't overshoot this here. We're still going pretty quick, but there's also still quite a
+bit of velocity to scrub off. So hopefully it's doin' okay here. I hope we don't overshoot
+this, but I think we're okay. I think we're okay. Now notice the airbrakes
+are goin' crazy right now, especially as we kinda slow down as the atmosphere gets
+thicker and thicker. They're really gonna have
+their work cut out for them. But I think we're gonna be close. Let's see if we can't land somewhere here in Kerbal Space Center. That'll be awesome! Ah, yeah! So it looks like we did
+overshoot it a little bit. I'm just gonna do a little
+bit of a boost backburn here and see where we end up. See if we can't get this
+thing close to the VAB. All right, well we're gonna
+miss the VAB this time, unless. (engines firing) I would not wanna see
+this flying over my head if I was working. I don't know where we're gonna
+land, but we're gonna do it! (landing engines firing) (Tim screams) (Tim laughs maniacally) Good morning everyone! How's work today? Just comin' in for a grasshopper landing. (Tim laughs) Hey we'll go heads-in. This is the processing facility. That's where it needed to be. We're just trying to park it next to all the extra parts and stuff. But look at that. (laughs) That was pretty sweet. I'm not gonna lie, that was pretty great. Okay, I'm gonna cut you off there. But if you do wanna see the rest of that, or all of the other hundreds of takes of trying to land that thing, there is a link in the description. But let's get back to
+talking about the BFS. Okay, okay, so that was all
+just to help illustrate the fact that you can control two vectors
+of a vehicle belly flopping by just using airbrakes. Now one thing we don't know for sure yet is how exactly they're going to move those giant fin slash airbrake things? Now Elon did mentioned in the talk that they'll require an
+awful lot of force to move, as in the meganewton scale of force. That's a lot. People on Reddit have already been doing some really deep dives, trying to figure out what
+systems they could actually use that's be strong enough and fast enough. And the consensus is, (gasps) who really knows at this point? It could be hydraulics, or
+it could be electric motors Now hydraulics might be used, but they're pretty slow and awfully heavy. Motors on the other
+hand can be lightweight, but they might not be able
+to handle that kind of load. But then again, if anybody knows anything
+about motors it'd be Tesla. I wonder if anyone at SpaceX
+knows anyone over at Tesla? So my personal bet, I think
+they'll go with electric motors, but I really have no idea. It's just one of those things
+we'll have to wait and see. So a huge amount of control
+will be done with the fins, but let's not forget about
+the fact that the BFS will for sure have some huge thrusters to help maneuver it too! As a matter of fact, I asked Elon all about this in exact thing in 2016, after we saw the first video renderings of what the interplanetary
+transportation system would look like, reentering
+Mars belly first, and then it did that
+maneuver to go tail down. - Besides those fin, wingy things, and some massive control thrusters, another key piece that will allow the BFS to do a full blown belly
+flop through the atmosphere is the heat shield. The space shuttle used over 24,000 individual
+and unique silica tiles to cover the belly of the shuttle. The size of the wings
+and the amount of lift the shuttle needed to achieve
+in the upper atmosphere was largely due to making sure the shuttle didn't over
+heat the silica tiles. Overwhelming them would
+transfer the heat from the tiles to the fuselage of the orbiter. That's a really bad thing. The BFS on the other hand will
+use something very similar to what SpaceX uses on
+their Dragon Capsules. This is an ablative
+material known as PICA-X or if you don't like acronyms and prefer cool sounding words, Phenolic-impregnated carbon ablator. Ablative heat shields are the ones that purposefully flake off
+material as it heats up, which then takes some of the heat with it. SpaceX has had great luck with the heat shields
+on their Dragon Capsule, and although I don't think they've actually reused a heat shield, they did say they could
+probably reuse heat shields about 10 times before
+needing to be refurbished. And SpaceX continues to
+advance their PICA-X, and they hope to get to the point where it can be used 100 times before needing to be replaced. PICA-X can handle the
+much higher temperatures than the shuttle tiles, which is necessary when trying to reenter from Mars or the Moon. Not to mention, with a
+really steep reentry profile, one that tries to slow down
+as quickly as possible, the heat shield will be
+pushed to the limits. So if the BFS will have
+an ablative heat shield that needs to be replaced, isn't that an even worse
+refurbishment process than the space shuttle, which had thousands and
+thousands of hours of checks to ensure that their tiles were okay for every single reflight? Well, when it comes to mounting
+the heat shield to the BFS, according to Elon, "The heat
+shield plates will be mounted "directly to the primary tank wall. That's the most mass efficient way to go. "Don't want to build a box in box." Unlike the space shuttle, a good amount of the fuselage is uniform, just a giant nine meter tube. So there could be some
+really common plates that are easy to mount,
+replace, and manufacture. But as the nose tapers, or where there's unique
+areas like the fins, I'm sure there will need to be more specialized heat
+shields in those areas. And just like that ugly little wannabe BFS I made in Kerbal Space Program,
+there's a common radiator I mounted to the belly of the beast. They were all the same,
+and easy to pop on. It should be something like this, ish. Just like how making
+hundreds of Merlin engines is cheaper than building
+dozens of rocket engines from a manufacturing standpoint, having a common heat shield plate that's easily mountable and replaceable should help alleviate
+some of the headaches the space shuttle experienced
+in its refurbishment process. Not to mention, the space shuttle tiles
+were extremely fragile. They could fall off if you
+just looked at them wrong, and it was very important to
+make sure that every single one was literally perfect before each flight. A more traditional heat shield is a lot more resilient in this sense. Okay, now I hear you, but beyond the fact that
+it does look like the BFS is beginning to evolve more and
+more into the space shuttle, the way it performs reentry
+is completely different. Using different techniques, different technologies,
+different materials and an entirely different reentry profile, I think it's really unfair to say it's similar to the space shuttle. And I know, the fins on the back do make it look like Tintin's rocket or the Planet Express ship from Futurama, but don't forget, those fins
+are also the landing legs, and this in my opinion makes it look more like the TWA Moonliner originally featured at
+Disneyland's Tomorrowland in 1955. I think it's clever to take
+advantage of the landing gear and make it function as a control surface. That's something I wish
+was technically possible on the Falcon 9's landing legs, because it would be super cool, but then again, I think
+they're doing quite fine with the system as it is! Like I mentioned about my
+last video about the BFR, it is still evolving, but I think it's getting closer and closer to its final configuration. Now that they're starting
+to make some hardware, it's time they start
+putting it to the test! If all goes well, we'll start seeing those
+first little test hops by the end of 2019. That'll be amazing. So what do you think? Do you think the BFS is
+just a new space shuttle or do you think it's
+something entirely different? Let me know if you have
+any other questions about the BFR or BFS, or
+anything space flight related in comments below. I also owe a huge and sincere thank you to my Patreon supporters for helping me be able
+to go out to California and cover this event, and all the other events
+that I attend as well. It's only possible thanks
+to my Patreon supporters. So if you want access to
+our exclusive subreddit or our exclusive Discord channel, head on over to
+patreon.com/everydayastronaut. Thank you. And now a huge shout out
+to to Lukas from kNews for those amazing animations. He honestly makes some of
+my favorite YouTube videos. So if you're not subscribed to him, be sure and check out his channel! And while you're on the old internet, head on over to my web store. I've got a ton of new shirts, hats, prints of rocket launches, mugs, lots of other fun stuff. Head on over to
+everydayastronaut.com/shop. Thanks everybody, that does it for me. I'm Tim Dodd, the Everyday Astronaut! Bringing space down to
+Earth for everyday people. 

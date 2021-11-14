@@ -4,18 +4,17 @@ import json
 import csv
 import math
 import os
+import time
 with open("video_ids.txt") as file:
     ids = file.read().splitlines()
 for id in ids:
+    time.sleep(5)
     print(id)
     jso_list = None
     try:
         transcript_list = YouTubeTranscriptApi.list_transcripts(id)
         transcript = transcript_list.find_transcript(['en'])
         jso_list = transcript.translate('en').fetch()
-        #dump to json
-        with open(id+'.json', 'w') as outfile:
-            json.dump(jso_list, outfile)
         #read csv
         with open('shit.csv', 'r') as readcsv:
             reader = csv.reader(readcsv)

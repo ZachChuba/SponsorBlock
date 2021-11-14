@@ -1,0 +1,245 @@
+I was putting together a stage show for kids years ago about polymers, and I wanted to show polyethylene oxide. See how you just tip
+the beaker a little bit and all the polyethylene oxide comes out, it self siphons, how cool is that? For the stage show I wanted
+to show a physical analogy for what's going on with that polymer. And I'd seen Steve Spangler
+do it with Mardi Gras beads. Look, polymers are really
+long chain molecules, and here is a really long chain of beads. So it's similar and it
+behaves in a similar way. See how it self siphons from the pot, but that's noisy, isn't it? But I wanted to use metal
+beads instead of plastic beads 'cause I thought they
+would stand out better. I don't know why they're smaller. So they definitely didn't. But what's interesting is
+they don't just self siphon. They do this extra weird thing. With the metal beads the
+chain rises above the pot before it falls back down. Isn't that mental? So I did the first thing you do when you notice something strange, you go on Google and find out the answer, except I couldn't find the answer. I couldn't find any
+reference to this effect. You might be thinking, hold on. It's easy to find, it's
+the chain fountain. It's all over the internet,
+except in 2013 it wasn't, I couldn't find anything about it. And I started to think, hold on, have I discovered something? Is this, is this a discovery? I wasn't using YouTube much back then. So I thought, you know, I'll post it. It might be a fun video. And maybe someone will be
+able to explain the phenomenon in the comments. Well, that's not how YouTube
+comments worked back then. Most of the comments were just about what my mum had been up to. There was also some suggestion
+that video was fake. For example, that I just
+reversed the footage, but come on, that's even
+harder to explain, isn't it? By the way, I send one meter
+of the chain from this video to everyone who supports me on
+Patreon in the very top tier. But anyway, this video was
+my first viral success. It was posted on the video subreddit and it got lots of views. It was discussed on the
+ask science subreddit. There it is, just a brief discussion, really brief. I actually read the whole discussion. I don't think anyone came
+up with the right answer. So I decided to film it in slow motion to see if I could figure
+out what was going on. And I asked around, does anyone
+have a slow motion camera and Earth Unplugged got in touch, another YouTube channel, they
+said, "Come and film with us." You can watch that video though, I believe my explanation is wrong. So don't pay too much attention to it. There, it has got some pretty visuals. I had all this slow motion
+footage and I poured over it. And eventually I worked out slow motion footage doesn't help. Actually, that's not fair. One way the slow motion video did help was that it reached a wider audience. It was picked up by the New York Times. It was on Japanese TV. It's been on QI, The
+Action Lab has done it. King of Random. Like I don't wanna say
+it's a global phenomenon, but this is a three-story
+high sculpture in Guatemala by architect Axel Paredes
+inspired by the slow motion video of my beads coming out of a pot. It's no big deal. It's just a three story
+high sculpture in Guatemala. More importantly, the video
+is watched by two physicists at Cambridge university,
+John Biggins and Mark Warner. They decided they were
+gonna figure it out. They have an explanation,
+they've written a paper about it. It's called understanding
+the chain fountain. They've made a video about that as well. I'll also link to that in the description. But ever since then, I thought I need to make a followup video about it. And I just dragged my feet
+because I was doing other videos. I had other things I was interested in, but then I got an email from
+Mehdi at ElectroBOOM saying, I think Biggins and Warner are wrong. I'm planning to make a video about it. I'll send people to your channel
+at the end, is that okay? And I said, wait, I've been
+planning to make this video for ages, why don't we
+release them at the same time? So we've been sending
+each other little videos back and forth, video messages
+with the chain and everything and I thought we'd eventually
+come to an agreement where we understood but even now we don't. So we're releasing both videos. We completely disagree on what's going on. And I had an idea, something I've learned
+from YouTube recently, if you have a scientific disagreement, it's not official unless you have a wager. - Wager? - Yeah, a wager. So I propose that whichever
+one of us turns out to be wrong gives the other 10,000. - [Mehdi] 10, 000? - Cents. - Cents, okay. - Canadian.
+- Yeah. - Obviously because you're Canadian. - Yeah, sure. - What'd you think? - I think it sounds good, especially since I'm gonna win and it's gonna pay for my lunch money. No, if we can have someone
+like Neil deGrasse Tyson to settle our dispute, it would be nice. So you're on. - I'll go through Biggins
+and Warner's explanation in a second, but first
+one of the predictions of their explanation is the further the chain has
+to fall out of the pot the higher the fountain will rise. So I went on the BBC, we went up a crane about 40
+meters and we dropped the chain and the fountain rose about
+one and a half meters. I won't show you that footage in case it triggers an
+automated copyright thing. But also I want to try it for myself. I want to beat that record 'cause at this point I actually
+think it is a world record. I contacted so many people
+about getting high up somewhere and UK Bungee Club were
+the first one to say yes. And they were just like, yeah,
+we can do that, no one else. Is it all right to spin
+round to the other side here? Do you wanna get a shot
+looking straight down see where we are? - [Camera Man] I can't
+even move right now. - We're 45 meters up. We're outside the O2, God,
+what an amazing building. Got the River Thames over there and over there 'cause it snakes around. Honestly, I've been so
+stressed about getting up here. I haven't even thought
+about how high up we are. - Ready to go? - Yeah. - I don't know if that's
+safe but that's all right. - [Camera Man] Steve,
+it directly below you. - Yeah, great. My daughter's just in the car. She's like, " I don't wanna watch it." - [Camera Man] What are we talking about? - Yeah, I've got a thumbs
+up, should we do it? - [Camera Man] Five, four, three, two, one. - [Camera Man] Oh that is great. - Yeah. No, it broke. - [Camera Man] Two, one. - Here's that attempt again,
+but I'm showing you the camera that's tracking the top of
+the arc so we can read off how high it got. It looks to be around 140 centimeters. This is the long one, this is 200 meters. Hopefully, we'll get a bit more height 'cause it, you know, it
+goes higher and higher as it is going. - [Camera Man] Five, four, three, two, wait, wait, wait, we got, and action, go ahead. - Oh my God, that's incredible. That was amazing. I'm so annoyed that it broke though. Don't you use these links to
+make sure a chain is longer and I guess I just need
+to get one continuous long length of chain. How'd you feel about
+doing it again next month? - [Woman] You know, I'd be
+happy to do it again next month. - That was amazing though. I mean, at 170 is the highest
+that got on the one show. I don't think I've seen a
+higher than that anywhere else. So I'm very happy with that. I didn't know those links
+would break like that. The force must be incredible on it. They take a huge amount
+of force without breaking. So that, I mean, it
+must've been incredible. The force on that thing. I'm glad that didn't happen
+when I did it on the one show that would have been
+embarrassing on live TV. This is just gonna be embarrassing later on my YouTube channel. So the chain broke on both
+attempts, which is so annoying because it actually means that that one meter 70 we measured doesn't equate to a chain
+fountain of one meter 70 because that one meter 70
+is measured from the ground, but the chain broke halfway through. So we have to measure
+from halfway down the pot. Well, so look, that's
+about 30 centimeters. So you need to knock 30 centimeters off. In other words, we managed
+about one meter 40, whereas on the one show they
+reckon they got one meter 50. I actually think on the one show, there was some parallax issues 'cause of the way they were filming it. Whereas we tracked up with
+the camera to reduce parallax. It may actually be that we
+recorded a world record here, but we'll never know. To be absolutely sure I
+need to come back again with one long piece of
+chain, no links in there. So there's no weakness in it. I think I look for a new location as well because well, the cabin was quite tight and I wasn't able to fit
+the entire experiment into a wide shot. Also, I think I can probably
+find somewhere higher. If you wanna be sure
+to catch that attempt, subscribe to my channel and
+click the notification bell. But why does the chain go
+up before it goes down? Well, I gave an explanation in the Earth Unplugged slow-mo video and I think that explanation is wrong. I said that the chain leaves the pot with a lot of upward momentum and it can't change to
+downward momentum instantly because an instant change of direction is equivalent to infinite acceleration and that's not allowed. It needs to take its time. So it rises up a bit and curves down. But I don't buy that
+for a couple of reasons. Well, first of all, it
+doesn't work experimentally. Like you don't see the
+chain fountain effect with regular chain, it only
+works with bead chain it seems. Second of all, we're not asking for an instant change of direction
+or infinite acceleration. The change of direction can happen over the thickness of the lip of the pot. Like this, that's not an
+instant change of direction and it's the behavior we
+see with regular chain. So it must be something else. Well, we should be able to figure it out by looking at the forces involved, like in this simplified view, for example, we could look at the
+force in this curved part, that's causing the chain
+to change direction. We can do that by zooming in
+on a small section of the chain and looking at the tension at either end, there's a net force towards
+the center of that arc. I won't go through the derivation, but I'll put it on the screen. The end result is that
+the force on the chain is equal to the tension in the chain multiplied by that little
+length that we're looking at divided by the radius of that arc. But we also know the
+equation for the force on something that is experiencing
+centripetal acceleration it's equal to the right mass of the thing multiplied by the velocity
+of the things squared divided by the radius of the arc. So these two things must be equal. Instead of writing mass as M we can write it as the mass
+per unit length of the chain multiplied by that little
+length that we're looking at. So now we can cancel those two Ls but here's the crucial part. We can also cancel the Rs and
+that's really significant. It means that the radius of curvature doesn't play any role in these dynamics. Like the radius doesn't have to go up when the velocity goes up or the radius doesn't have to change as the tension changes. There's nothing like that. What it suggests is that for a chain moving through its own length the chain can turn through
+an arbitrarily sharp corner, not infinitely sharp, but
+anything less than that is okay. So long as the chain is strong enough to withstand the tension. And it really does put
+another nail in the coffin of the explanation that I
+gave on Earth Unplugged. The chain doesn't need time or space to minimize the tightness of the curve. It can be arbitrarily tight, it can flow straight over
+the rim of the beaker and that doesn't cause any
+problems mathematically. What we really need to
+do is look at the tension in the chain just after it's left the pot, because we can know that
+tension in two different ways. We can work it out as the tension
+required to move the chain up to a certain speed and we
+can work it out in terms of balancing the tension at the top and the weight of the chain in between. Again, I won't go through the derivation, but I linked to Biggins
+and Warner's paper. And what find is that the
+tension just above the pot is equal to this. The force required to bring
+the chain up to speed. And this the tension at the top minus the weight of the chain
+between the top and the pot. So these two things are equal, but we already know the tension at the top because we worked it out earlier. So let's substitute that in. Look, these two things cancel out. So that tells us that
+lambda HG must be zero. In other words, the height
+of the fountain must be zero. So by looking at the
+forces in this naive way, we see that there can't
+be a chain fountain, but we noticed one experimentally. So there must be another
+force coming from somewhere, either from the ground or from the pot. Experimentally, the
+chain fountain gets going before the chain has even
+reached at the ground. So it must be coming from the pot but how can the pot be
+producing this extra force? Well, the Biggins Warner approach is to model the chain of beads
+like it's a chain of rods. We'll discuss whether that's
+reasonable in a second, but first let's look at
+the consequence of it. Look, here's a simplified view. You've got some chain that's still at rest and you've got some that is in motion. Look, this rod is about
+to be pulled into motion by this rod. The center of mass of the rod is here and it's gonna be pulled from this end. That means that when the
+rod comes into motion, it won't just move up it will also rotate. So that part of the ride ends
+up lower than it was before. But actually that can't happen because the rods are resting
+on the rods beneath them or resting on the bottom of the pot. So instead of this end of
+the rod ending up lower than where it was, it pushes
+down on what's beneath it. And every action has an
+equal and opposite reaction. So what's beneath it pushes back up and then we have our additional force. Here's a great demonstration
+of the effects. A block of wood is shot with
+a bullet from underneath dead center on the block of wood. And obviously it shoots up into the air. But look, what happens when
+you shoot the block of wood at one end instead of in the middle, it actually goes higher than when you shoot the block of wood from the middle because
+of that kickoff effect. Thanks to James Pantaleone of that video, the link to his paper
+on the chain fountain is in the description. Is it reasonable to model the bead chain like a chain of rods? Well, what's interesting
+about the chain is it's very flexible, but if you try to bend it
+beyond a certain curvature, beyond a certain tightness, you can't, it becomes stiff beyond
+a certain tightness. So if we look at the
+chain of beads like this, look, this corner is at maximum tightness, meaning that these few
+beads here are a rigid body. Again, you can consider
+the center of mass. You can consider the fact
+that it's being pulled from this end. And so there will be a
+downward force from this end just like there was
+with the chain of rods. So it's not a perfect analogy
+for what's really going on, but the mechanism is still there. Actually, this explains why you don't see the chain fountain effect so
+much with the plastic beads. With plastic beads you can pinch the chain completely flat against itself. There's no maximum curvature like there is with the metal bead chain. Actually, there's another possibility for how the additional
+upward force is created. Imagine two rows of beads
+inter locked with each other. As the chain is being removed from the pot sometimes it's pulled
+horizontally like this. If the beads are interlocked like this, there will be a kick upwards as the top row of beads is pulled along. That's two possible mechanisms
+for the additional force. There may be others. These two may be insignificant
+compared to those others. It would be reasonable to try
+and measure this extra force. You know, the pot is pushing up and the chain is pushing down. So in your hand, the
+pot should feel heavier than it would if it wasn't
+for the chain fountain. It's obviously going to be very subtle and not something you can
+detect with your hands. Also, if you put it on
+scales and take readings, well, that's difficult as well because the mass of the
+pot is constantly changing as the chain leaves. I haven't seen any successful attempt to compare the two scenarios. But what if you could remove gravity and remove the bottom of the pot, you should expect the pile
+of chain to move downwards. And actually you can kind of do that by switching to a horizontal
+orientation for the experiment. Look, here's a pile of chain on the table. I'm gonna pull it from this end and we'll see what happens
+to the pile of chain. And they're like, you can see the recoil of the pile of chain which
+is exactly what we need if there is an extra force there. You can even see the point
+where the chain kicks back. It's just where the chain is
+being lifted from the pile and it moves up and down the
+pile as it's being pulled. At this point, you might
+be thinking, well, hold on where does the extra energy come from? And that's a good question. Often with problems like this, you can look at it from
+a force point of view or an energy point of view. And actually it's a
+good idea to look at it from both perspectives. It's a good way to test your working out because it needs to make sense
+from both points of view. Well, the whole process is driven by gravitational potential energy. The chain starts off
+at the level of the pot and ends up at the level of the floor. It loses gravitational potential energy, and that's converted into kinetic energy. Again, I won't go into the
+mathematical derivation because this video is already quite long and it's all in the paper which is linked in the description. But the upshot is that half the gravitational potential energy is lost as heat and the rest
+is turned into kinetic energy. Interesting side note, there
+are loads of dynamic problems where half the energy is lost to heat. For example, pouring
+sand onto a conveyor belt or connecting a charged capacitor
+to a discharged capacitor. But anyway, half the energy
+is up for grabs in some sense. And the mechanisms I've
+described in this video that might account for the
+extra force from the pot are able to reclaim some of that energy. So it doesn't look like
+we're breaking the law of conservation of energy. I recommend you watch
+Biggins and Warner's video on the subject as well, the
+link is in the description, but I will just play a snippet from it. This is Martin Warner
+talking about the project. - We could blend this research project 'cause nobody understood the Mould effect. - I mean, Einstein doesn't
+even have an effect named after him. I'm not saying I'm better
+than Einstein, it's just. You know, Mould is a
+difficult surname to have when you're at school. I've always worried about my kids telling people that that's their surname, but now it's like, oh,
+that'd be great, won't it? They go into school
+say, "My name is Mould." And people will be like, "Hold
+on, as in the Mould effect?" No? And they'll be like,
+"Yeah, that's my dad." That's how that will go. Right, there's something
+that I really, really want to happen as a consequence of this video, will you help me? You know, we talked about
+the fact that these R values cancel out at the start of the video and the consequences of that. Well, another consequence is that you can have any
+arbitrary arrangements. You know, the chain can be going like this through space, right? And it will, the chain will just continue to move through that. And we've seen that actually
+in the slow-mo video. The chain gets into
+these different patterns. The pattern remains while
+the chain moves through it. What I really want to see is on the International Space Station an experiment with chain. So I want one of the astronauts to have just the chain floating there, you know, and just to pull on one end
+and to see what happens, to see if the chain will
+float through that shape. If anyone knows how to get the attention of someone on the International
+Space Station let me know. The main thing that me and
+Mehdi disagree on is that I think there needs to be this extra force from the pot, and he doesn't. You know, disagreement is a
+really good thing in science. So I really want you to
+go and watch his video. See what you think about it. Obviously, leave comments, be civil, come back here and leave
+comments here as well. And he has loads of great videos. We've collaborated in the past. If you're not subscribed
+to his channel already, you really should be. Do you think this is more fun than watching daddy
+throw beads off a crane? - Beads off a crane? Nothing, I've been getting
+Kiwi crates for my kids for almost a year now. So I'm really glad that they're
+sponsoring one of my videos. KiwiCo put together these projects. They come in the post once a month. Everything you need for the
+project is there in the box. There are eight different
+subscription lines for every possible age group. For me, I get these crates because I love to see
+them getting excited about making and building, like
+those are my fondest memories from childhood. And, you know, I think we
+need more makers in the world. But two things that
+really stick out for me the first is it's not just the build, there's always a STEAM angle to it. Science, technology,
+engineering, arts and math. So for example, you're
+building a kaleidoscope, but you're also learning about symmetry or you're building a robot but you're also learning about coding. The second thing is the replay value. You're not just building
+something and then that's it. Like for example, with this one, there's a puzzle element at the end, you work through these puzzle cards to try and get the little robot
+from one end to the other. And every crate comes with a magazine full of additional ideas to
+explore and things to do. You know, I love the long
+summer holidays for my kids, but it's kind of crazy
+that we take them out of formal education for
+such a huge stretch of time. Like we really needed
+to their brains working in that period. And I can really
+recommend KiwiCo for that. Like start your subscription
+at the start of summer. See how you feel when you
+get to the end of summer. You'll probably wanna keep going, but for that stretch of time, it's gonna be a great
+way to keep them away from TV and screens. And you can get the first month for free if you go to my special URL, kiwico.com/stevemould, the link is also in the description. So check out KiwiCo today. I hope you enjoyed this video. If you did, don't forget to hit subscribe and Todd thinks you'll
+enjoy this video next. Who is Todd? (upbeat music) 

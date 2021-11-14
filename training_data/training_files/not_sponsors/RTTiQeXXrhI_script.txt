@@ -1,0 +1,148 @@
+- I thought the next big
+thing in TVs was gonna be MicroLED, a technology with
+all of the advantages of OLED and none of the downsides. It was gonna be sweet, but I was wrong. Samsung recently announced
+that they are ceasing all LCD production by the end of
+the year and investing eleven billion dollars in OLED,
+but with quantum dots? Quantum dots don't go with
+OLEDs, why would you even want that? Why didn't they do this already then? To learn more, we talked
+to nanosys, a company that actually makes the majority
+of the worlds quantom dots, who gave us absolutely fascinating
+answers to all of these questions and more. Quantum dots can make OLEDs
+better in three key ways, more accurate colors, higher
+brightness, which is great for HDR, and wider viewing angles. Sound familiar? Great because that's exactly
+the same benefits that quantum dots have been
+bringing to LCDs for years now. But the way that Samsung's
+going to use them on OLEDs is different from anything
+that we've seen before. Look at this nanosys road
+map for 2018, it's divided into three sections which
+we can think of as present, near future, and not so near future. Here in the present, all
+quantum dot displays are LCDs with quantum dot enhancement films. What Samsung's planning with
+their QD display OLEDs is in the near future, second
+half of 2021 to be exact, but COVID so. Then in the far future we've
+got wacky microLED competitors that are neither LCD nor OLED, but we'll save that for later. To help us understand this
+road map and the tech that could be in your next TV,
+let's start with a quick primer on why quantum dots are
+useful in the first place. - Quantum dots are molecule
+sized spheres of nano semiconductor materials that
+emit light if you provide them with energy and they
+behave differently according to their size, so if you
+shine a high energy photon like a blue light, at a
+quantum dot that's seven nanometers wide, it'll glow red. Shine the light on a three
+nanometer dot, and it'll glow green. The best part is nanosys
+can vary their output in one nanometer steps. So they get to be really picky
+about what color shines out. Blue? That's just what I wanted. - So quantum dots allow a
+display to load true red or true green and that's not just an opinion. You can tell by looking at
+the wave form of the light. For comparison, here is a
+typical LCD back light unit, these lights don't actually
+shine white, they shine blue. As you can see here. Then their treated with a
+yag phosphor so that it all mixes into white, but you see
+how narrow that blue light is? The industry uses a measure
+called full width half max. It's the width of the wave
+half way up it's amplitude. So our blue LED has a full
+width half max of about twenty to thirty nanometers right here. The yag portion on the other
+hand, well that is a big wide one hundred nanometer
+mess containing contaminating colors like pink, orange, and teal. That's a problem. The white light from the
+source then passes through color filters at the displays
+sub pixels to separate the light into red, green, and blue. Now these filters themselves
+have a pretty loose definition for each color, so
+what ends up hitting your eye, inevitably goes through
+this game of telephone. Garbage in, garbage out. But what if we made our
+white light using a blue back light with red and green quantum dots? Well now, everything has a
+full width half max of just thirty nanometers, then when
+the color filters take say red, they only get red, not, you
+know, orange or something. Now we get really accurate
+output, something that's good enough for color professionals
+in print or content creation or for a high quality
+HDR monitor since HDR specs require wide color gamuts in
+addition to very high contrast. But it kinda makes you wonder. If you start with pure red,
+green, and blue, why do you even need the color filters? Ah ha, so this is the different
+between phase one and phase two of the nanosys road map. The new quantum dot OLEDs that
+Samsung's making don't use quantum dot enhancement films
+like we've seen on every quantum dot display so far. Instead they have quantum
+dot inkjet printed onto the panel substrate itself. These displays then don't
+have color filters, they just have quantum dot color
+conversion and the difference in wording there is deliberate. A filter stops all of the
+colors of light that you don't want and keeps the color that
+you do, but that's a waste of light and therefore energy. Conversion with quantum dots
+takes all of the light and converts it into the desired
+color with an efficiency or quantum yield, man that's
+sci-fi marketing term if I ever saw one, greater than 95%. So with this new knowledge,
+let's go back to the three ways that quantum dots will make OLEDs better. Number one, they will
+have more accurate colors, because quantum dots have
+slightly narrower full width half max's than the current OLED solution. Number two, the brightness
+will be higher because more of the emitted light will
+be allowed to pass through instead of being blocked. And number three, they will
+have wider viewing angles because quantum dots are just
+plain better at scattering light evenly in all directions
+than the around 50 degrees that current OLEDs give you
+before the colors turn to shift. So that's what's happening,
+but why is it happening now? Samsung's been using quantum
+dots and making the worlds best OLEDs screens for smart
+phones for years now. I mean, didn't they already
+have all the ingredients? Does anybody know why they
+didn't just put them together? - Not really. Samsung's amoled phone
+displays are RGB OLEDs, while the big screen TVs
+that LG makes are WOLED. No one's been able to scale
+RBG OLEDs beyond small screen sizes like this because
+of manufacturing limitations. And Samsung's inexperience
+making big screen OLEDs, means they have to play catch
+up in terms of addressing geometry because the driver I
+see on the edge of the display are so far away from the
+pixels in the sender. - They also have to figure out
+exactly how to make an OLED using a lone blue phosphor. Ideally the blue light
+wouldn't have to be converted, avoiding any efficiency loss
+at all but for that to happen it has to be the right blue, royal blue. and not aquamarine or
+something dark and purply, which has been common in the past. It's difficult because unlike
+quantum dots, these phosphors are complex, organic materials
+that are doped with your opium and other rare earth
+materials and you can't sort these millions of molecules
+after the fact, you can only control the manufacturing. The rumor right now is that
+Samsung will be targeting the DCIP3 color gamut using a
+mix blue emitter without conversion. - Then there's the manufacturing
+side, the color converting quantum dots have to be
+imprinted onto the display substrate. That means that not only does
+the inkjet printing for color filter in a large splays need
+to be possible, which only happened recently, but the
+quantum dots themselves need to be integrated into inks that
+don't clog the inkjet nozzles, can be printed at open air
+rather than in a vacuum, and can be cured using
+standard manufacturing methods. Seems expensive, I'm not gonna throw it. - I personally cannot wait
+to get my hands on these QD OLED displays so get
+subscribed so you don't miss that. But what about that far future
+section of the road map? Well this is where
+things get really sci-fi. Quantum dot electro
+luminescent or QDEL displays. Sounds kinda dumb but QLED
+was already taken I guess, so door. Remember how quantum dots
+shine when you put energy into them? Well that energy doesn't
+have to be a shining light, you could power them with electricity. Here, the quantum dots
+themselves would form the pixels, simplifying the technology
+stack and because quantum dots aren't as sensitive as
+OLEDs, they don't need to be manufactured in vacuum chambers
+with walls as thick as a battleships. That enables manufacturing
+that is so much simpler that it could reap other breakthroughs
+like truly flexible substrates that can fold
+entire radius' that we've seen so far or devices so cheap and
+so thin that your wallpaper could be a display. That tech is actually in the
+lab today with research by nanosys customers happening
+all over the world. So then what are we waiting for? Well the limiting factor
+right now is lifetime, particularly of the blue
+and green quantum dots. The problem has to do with
+non radiative recombination pathways. In layman's terms, if you
+put energy into a device and not all of it turns into
+light, the rest is either creating heat or breaking chemical bonds. That's a problem. Now nanosys thinks that we're
+gonna get this sorted out within the next five years or so. So that would mean that the
+first devices to hit the market would come in around 2025 to 2027. Not bad considering that
+we're trying to understand these materials at the atomic scale. What's in your online security tool kit? Private internet access
+let's you mask your ip and encrypts traffic to and from
+your device and they've got reliable service with over
+three thousand servers in more than 30 different countries. With PIA you've got no bandwidth caps, you've got configurable encryption, and an internet kill switch
+to keep you in control of your connection and when
+combined with private browsing, PIA can make even websites
+that are pretty competent think that you are in a different country. Try it out risk free with
+their 30 day money back guarantee and connect up to
+five devices at once with clients for windows, macOS,
+android IOS, and Linux. Their mace feature even blocks
+requests to known malware and tracking domains altogether. We're gonna have it linked down below. So if you're wondering where
+microLED fits into all of this, check out our video where we
+explain why something called mass transfer is keeping
+those from hitting the market on mass, it's a really good one. 

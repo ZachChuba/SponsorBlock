@@ -1,0 +1,15 @@
+[ad start]
+This free video series about the basics of browser exploitation, is supported by SSD
+Secure Disclosure. If you find a critical vulnerability in a
+popular and widespread software or hardware, for example browsers, my recommendation would
+be to first contact SSD. On their site ssd-disclosure.com you can also
+find a list of targets they are generally interested in. So let’s say you have found a critical vulnerability
+on one of those targets. Then you can send this vulnerability to SSD,
+they will confirm and pay you for it, and start a responsible disclosure process where
+they contact the vendor and the vulnerability is responsibly disclosed and published while
+you still get the credit for it. Not every vendor offers bug bounties for researchers
+(for example Apple). Also, other exploit acquisition programs usually
+do not disclose the vulnerabilities to vendors. So checkout their site and make sure to read
+more about the scope and the submission process. SSD Secure Disclosure is also involved with
+the offensive security conference TyphoonCon, so keep an eye out for that conference over
+at typhooncon.com 

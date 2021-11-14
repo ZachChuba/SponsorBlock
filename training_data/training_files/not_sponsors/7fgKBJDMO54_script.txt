@@ -1,0 +1,35 @@
+Most physical objects in everyday life maintain
+the same identity whether we’re interacting with them, or not. Like, a baseball is a baseball whether you're
+holding it in your hand or it's flying through the air. Even electrons are electrons whether they're
+part of an atom or flying freely through interstellar space; they have the same mass, same charge:
+they are electrons. But neutrinos, those weird, super light, super
+fast, electrically neutral, hard-to-interact-with particles - they are identity-agnostic. Neutrinos have different identities depending
+on whether they’re interacting with other particles, or traveling freely, and on top
+of that their identities can change over time! Here’s what I mean: when they interact with
+other particles, like when they're produced in fusion in the sun or in radioactive decay,
+there are three different kinds of neutrinos, characterized by the particles involved in
+their creation or annihilation. And when they're traveling through space,
+there are three different kinds of neutrinos, characterized by their masses. But these two sets of identities don't match
+up in a one-to-one correspondence; instead, each of the "interaction" identities is actually
+a mix of the three "traveling" identities. And this weirdness allows neutrinos to change
+their identities. That's because the traveling identities have
+different masses, so they travel differently from each other – technically what happens
+is they each pick up a complex-numbered phase depending on their mass and how far they’ve
+traveled, but I’ll just show that using arrows that rotate at different speeds, which
+is essentially the same thing. Anyway, because the arrows rotate at different
+speeds, over time a combination that initially looked like an electron-interacting neutrino
+might become the muon-interacting combination. And then, if you wait longer, the combination
+will look like an electron-interacting neutrino again, then muon-interacting, and so on, back
+and forth – all happening as the neutrino flies super fast through space. It’s kind of like if I took my violin and
+played an A , and somehow by the time the sound waves reached your ear, the relative
+strengths of the frequencies had shifted so you heard the sound as an E, or a D, or an
+A, depending on how far away you were. In fact, the oscillation of neutrinos back
+and forth between different identities was discovered in part because we didn’t see
+as many neutrinos coming from the sun as our understanding of fusion suggested. It turned out that about 2/3 of the electron-interacting
+neutrinos had turned into muon and tau-interacting neutrinos en route to the earth, in a very
+real, very long-range example of quantum superposition! Oh, and one other little technicality: even
+though the three “interaction”-neutrinos are named after the specific electron-family
+particles that are involved in their creation and annihilation, they can still interact
+with (that’s physics-speak for “bounce off of”) other members of the electron family
+as well as quarks . Ok, I’d like to thank the Heising Simons
+foundation for their support of this video 

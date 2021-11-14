@@ -1,0 +1,107 @@
+- I read an article on
+Forbes the other day that kind of ground my gears, but I wasn't going to
+make a video about it, at least not until
+several more just like it popped up in my newsfeed. The author wrote an opinion piece mocking the $700 wheels
+that Apple recently put up for sale for
+their Mac Pro workstation as tone-deaf, a bad product for consumers and as an expensive fail. The author contrast the price tag with both the MSRP of the Mac Pro itself and an assortment of other Apple products that you could buy for
+such a princely sum, finding it outrageous that
+something as simple as wheels to help your Mac roll away from you could cost so much. I agree with all of that, none of that is what ruffled my feathers. Mr. Spence is right, it's outrageous, but I think he's also playing right into Apple's hand
+by complaining about it. Let's discuss, let's
+discuss how this video is brought to you by Ridge Wallet. Ridge Wallet wants to refine the wallet with its compact frame and
+RFID-blocking inner plates. Check out how you can
+keep wallet bulge down by using offer code linus to save 10% and get free worldwide
+shipping at the link below. This isn't a one-off, the cycle has been going on forever. Apple does something outrageous, the community reacts with
+adoration or condemnation, depending which sticker's
+adorning their bumper, then Apple takes all of that feedback and changes absolutely nothing. In the last five years alone, we've been treated to the following, the solid gold edition first
+generation Apple Watch, that was $10 to $17,000 for a product that turned into a paperweight
+a mere three years later when they dropped software support. There was the PictureBook that
+took eight years to create, cost two to $300 dollars and served no purpose other
+than to market Apple's products to visitors in your home. Even we got in on the
+mockery that time around and let us not forget
+the $1,000 monitor stand. - 999 and like the Mac Pro, they'll all be available in the fall. - It's like other monitor stands except that it traded basic features, like swivel and height adjust, for more magic.
+(harp crescendo) All of these products
+were created to serve a number of purposes, the first and most obvious of which is to exchange them for money
+from people who want them, so for profit, but the thing is, with how few of them Apple
+would expect to sell, that wouldn't be enough to
+justify their existence. To get to the root of why
+they are so expensive, we need to go one layer deeper. Something every single one
+of the products I listed has in common is that
+it's the very definition of a luxury item. Quite literally nobody on Earth
+actually needs any of them. Computer wheels, for instance, the Mac Pro cannot operate unless it is plugged into the wall. So even if you wanted to move it around while you were using it,
+you actually couldn't. Okay, so Mr. Spence actually touched on this one in his article. Reason number two is that products that are as unnecessary
+as they are expensive serve to create a perception
+of scarcity and prestige that is incredibly
+valuable to consumer brands 'cause the cold hard truth
+is that Apple products at face value are neither
+scarce, nor prestigious. Walk around a high school and okay, it's empty right
+now because of COVID, but if it wasn't, everyone
+and their little sister would be blue bubble
+texting away on an iPhone. Apple makes consumer electronics. And yes, they are pricey, but
+between the second-hand market and carrier subsidies,
+even kids can afford one if they go without food or, let's say, a kidney for a little while. Although I'm not saying I
+recommend either of those. And here's the deal, if
+you want to stay cool as a status symbol brand, it's important to have
+products in your portfolio that most people really
+will only ever get to see in the studio's of influencers, or in a product placement on TV, or by getting up off their
+butt and going to your store. These are called halo products.
+(angelic choir singing) Let's use Nvidia's Titan line of graphics cards as an example. An RTX Titan costs twice
+as much as a 2080 TI while performing nearly identically. And why not, I guess? If someone is enough of a fanboy, or is ignorant enough
+to give you more money than other people can reasonably afford, why not let them do it, but you're also not gonna
+spend three billion dollars creating a product that will sell so few. You'd have to sell it for
+two or three times as much in order to justify that. Exhibit A, here, would be
+enterprise GPU pricing, so that's why the Titan graphics card uses exactly the same GPU, but just has a golden shroud. The third and the least obvious
+reason that they do this is to make even the people
+who aren't impressed by it, talk about Apple. We all know the expression, there's no such thing as bad publicity. That's because even a negative article about their overpriced wheels serves to add to the allure of the logo while, even more importantly, providing Apple with free brand exposure that they would've
+otherwise had to pay for. Not only would that add
+space in my Google News feed have cost Apple money, but it actually would have
+been far less valuable. A properly constructed opinion piece contains both a thesis and
+balanced background information in order to support it. And since Mr. Spence is
+a professional writer, he provided me with some
+negative commentary sure, but also some positive points, referring to the Mac Pro as a beast, highlighting the comparatively
+more reasonable price of $400 if you bought the wheels
+in the first place and pointing out what a great value some of the Apple's
+other products might be if you had $700 to blow on shiny gadgets. I mean, good luck getting all
+of that information across in one of your slick TV
+advertisements, Apple. Or wait, that wouldn't be necessary, Forbes and everyone else already did it for ya', ya' sly fox. And anyway, the more
+interesting question, for me, isn't why Apple did this 'cause, like I said earlier, this isn't a one off.
+(popping) But rather why they chose a
+status symbol Mac accessory rather than a golden iPhone or something. (water sloshing)
+After thinking about it in the bath for a while, the best bet that I could come up with was that they just weren't as worried about angering the Mac
+community as the iPhone one. It's smaller for one thing and it's already taken such a beating over the last 10 years that what's one or two more insults? And this would be completely consistent with their attitude
+towards the Mac Pro so far. After the trash can,
+Apple obviously thought that mobile was going
+to completely take over and they would never need
+to create another Mac Pro, until mobile didn't take over and people do still need desktops and they finally caved to the pressure, but they did it on their terms. As we discussed in our review, they made no effort whatsoever to make the new cheese grater the Mac that you would have in your home, like the G5 was before it. It's just there as a, "There,
+okay, we made it for you. "Oh, I'm glad that's over, God." "Now, we can go back to selling
+Air Pods type of product." Outside of a very small
+subset of loyal users with big-time Hollywood budgets bankrolling there near expenses, Apple, rightly, seems
+to view the Mac Pro 2019 as an unnecessary luxury that they can sacrifice sales volume on in order to maintain the illusion that they are a luxury brand when they are in fact a
+consumer electronics brand because that's what they are. Again, I know their stuff is expensive, but by contrast, the
+pricing for the things that anybody actually needs, like some way to listen
+to music on their iPhone now that it doesn't have
+a freaking headphone jack, isn't that detached from reality. Yes, they target the
+premium end of the market and there is an Apple tax, but their gross margins
+are public information and they're only making around 38%. They aren't marking their products up nearly as much as actual
+luxury brands are, or even other tech hardware companies and they're nowhere
+near the profit margins of software giants,
+like Oracle or Facebook. Anyway, the point of all of us wasn't to slam Mr. Spence, Forbes, or any of the other people whose job it is to cover the
+consumer electronics industry, or even Apple, it just was
+to help people understand why this keeps happening so that they can make an
+educated decision for themselves about whether they want to send out that angry tweet about expensive wheels, or maybe just do what is actually the most destructive
+thing they can possibly do to Apple's business and completely pretend that they don't exist. Speaking of existing,
+Squarespace is a great way to make sure that people
+know that you exist. Squarespace is the easy way
+for you to make a website in a matter of minutes. They're a leader in website design and their all-in-one platform makes it so just about anybody can create a website on Squarespace. You can buy domains from them, you can create email campaigns, you can set up a portfolio or resume, you can maintain a fan fiction site, although I'm not giving
+you guys any ideas, and you can even sell products online. They've got website analytics tools to help you keep track of
+how your website's doing and find all the weak areas to make sure you've got a
+steady stream of traffic. And their award-winning templates will help make your website stand out instead of looking like it's from the 90s. Both our Linus Media Group
+and LTX accessible websites were built quickly using Squarespace and if you get stuck,
+they've got 24/7 support ready to help you out. Just go to squarespace.com/ltt
+for a free trial, when you're ready to launch, you can get 10% off at the link below. So thanks for watching guys, if you enjoyed this video, maybe check out one where
+we totally participated in all of this and made
+a video about there, what was it called, TableBook, oi, it was a fun video to
+make actually though. We threw that together
+in, like, an afternoon. Hi, my kids, what can I do for you?
+- Recess is over. - Recess is over? All right.
+- If you want, you can take a little longer. - All right, I gotta go home
+school my kids, see ya'. 

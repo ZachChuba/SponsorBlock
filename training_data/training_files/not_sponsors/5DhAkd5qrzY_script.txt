@@ -1,0 +1,123 @@
+We spend a ton of time and energy studying the human body. Globally, hundreds of billions of dollars
+a year go into health research. The vast majority of that research asks questions
+broadly within the realm of physiology, or how our body functions. But discoveries in anatomy — or the study
+of the body’s structure and form — still happen all the time. Like, even in the last decade — or since
+2010 for our purposes — researchers have found multiple new body parts, including some
+you could even see with the naked eye. Here are four of them. First, there’s the interstitium. And for you etymology fans, yep, interstitium
+literally means “in between”. But in between what? Well, kind of everything. The interstitium is a sort of nebulous network
+of fluid-filled compartments spread all around the body, but we didn’t identify it until
+2015. Now, we’ve known about interstitial fluid
+for a long time — fluid that isn’t inside cells, but between them. [interstitial fluid: fluid in between cells] And before finding this new structure, we
+thought this fluid just kind of drained into the empty space between cells. But this discovery finally gave the space
+itself some structure — and turns out, that might be more important for understanding
+disease than we thought. Here’s how it went down. Around 2014 to 2015, doctors at Mt. Sinai
+Beth Israel stumbled upon the interstitium while looking for signs of cancer in a patient’s
+bile duct. That’s a tube that takes bile from the liver
+to the small intestine. Using a really tiny microscope on a wire,
+they were able to get a super close and precise view of the area. And they noticed that the spaces around the
+bile duct were filled with connected, fluid-filled compartments, which was a total surprise. That’s because when doctors had taken out
+this tissue in the past, they’d had to remove liquid from the tissue to look at it under
+a microscope, so the tissue condensed on itself. But with this microscope on a wire, they didn’t
+have to drain anything. Recognizing that this structure might be a
+new thing, the team took biopsies of 12 more patients’ bile ducts and found that they
+all had this tissue, too. And in fact, as they kept looking around,
+they found more of this same tissue around different, compressible body parts, like the
+gut, bladder, and skin. It was mostly fluid, but it also had tough
+collagen proteins and flexible fibers. And this new tissue was the interstitium. As we’ve studied this network, we’ve started
+realizing that all these new fluid-filled spaces might act like shock absorbers to other
+organs. But also, we’ve learned that the interstitium
+acts as a holding place for fluids en route to the lymphatic system, the system that moves
+waste and fluid around your body. So, if cancerous cells get into the interstitium,
+they might drain into the lymphatics and spread elsewhere. Which, well, would make the interstitium pretty
+important to understand. If you’ve ever been putting in contact lenses
+and accidentally poked your eyeball — or if you’ve, you know, just had a really bad
+day and poked yourself in the eye — then congratulations, you’ve poked your cornea. The cornea is made of transparent layers of
+tissue that protect the eye from physical harm. It’s a tough, resilient tissue that comes
+in at about half a millimeter thick. But until recently, we didn’t know what
+all its layers were. Like the Dua’s layer, which we identified
+in 2013. In our defense, the Dua’s layer is especially
+thin, coming in at only 15 microns thick. It’s thinner than some human hairs. Before finding it, we thought the cornea had
+five distinct layers. But then, during some transplants, surgeons
+noticed something new. So, during procedures like this, a surgeon
+might separate the cornea’s big, middle layer, called the stroma, from a thin, deeper
+layer called Descemet’s membrane. And to do that, they might use the Big Bubble
+Technique. It involves injecting bubbles between Descemet’s
+membrane and the stroma to delicately peel away the desired tissue. With bubbles, surgeons are able to take out
+only what they need and leave everything underneath untouched. And aside from being delightful to say, Big
+Bubble also leads to fewer transplant rejections. But during some of these procedures, some
+surgeons noticed separation of the deepest layers of the stroma. And they wondered if this was just, like,
+a delicate part of the stroma or something new. So, researchers from the University of Nottingham
+collected 31 human eyes from cadavers and performed mock transplants on them. They separated the layers of the cornea with
+air bubbles like they normally would. But by using even tinier bubbles, the team
+was able to peel away this new layer. Then, they followed that up with a super powerful
+electron microscope to study it in further detail. And yep, this was a new piece of anatomy! Today, we know that this layer — the Dua’s
+layer — is mostly collagen, which makes it tougher than some of the other layers. And that’s actually really helpful for us. Because of its toughness, surgeons can inject
+their bubbles between the stroma and Dua’s layer to prevent anything underneath from
+tearing. Hopefully, this will help us improve the quality
+of corneal surgeries and transplants going forward, especially for surgeries on the deeper
+part of the cornea. Next are the trans-cortical capillaries. These capillaries are extremely thin blood
+vessels found in long bones like the femur, and they help transport things like stem cells
+between the bone marrow and outside of the bone. Specifically, inside that bone marrow are
+stem cells calls HSCs, which can mature into different types of blood cells and different
+immune cells. And on the outside of the bone, you’ve got
+a tissue called the periosteum, which wraps around the bone and has plenty of blood vessels
+that hook up to the rest of your bloodstream. Somehow, those stem cells need to get from
+inside the bone to the periosteum and into circulation. Prior to this discovery, we knew that there
+were a few blood vessels at either end of the long bones that moved blood in and out
+of the marrow — at least, in mice. But there was a problem. Past experiments in mice had shown that cells
+from the bone marrow get into circulation more quickly than what you’d expect if they
+only used those vessels we knew about. So there had to be something else going on. Some previous studies had found extremely
+tiny holes in the bone that might act as a path between the marrow and periosteum — holes,
+like, 10 to 20 microns wide. But they didn’t find blood vessels. But thanks to some newer imaging technology
+like X-ray microscopes, the researchers were able to track them down. In a study published in 2019, researchers
+used a three-dimensional scan and saw that the holes in the mice bones went all the way
+from the outside of the bone to the inside. But more than that, they also saw tiny blood
+spots around the holes. And that implied that blood vessels ran through
+them. Now, like we’ve said loads of times, mice
+are not humans. You might notice that we have pretty different
+anatomy. So, next, this team looked at images from
+human surgeries, and lo and behold: They found little bleeding spots where they suspected
+our capillaries to be. They also followed that up with a different
+imaging technique and saw little canals in human shin bones, and blood vessels similar
+to the mice’s. Except, the canals in the human bones were
+much wider because, you know, we’re a little bigger than mice. That was the evidence they needed to confirm
+that trans-cortical capillaries also exist in us! Now, that’s great for our general understanding
+of our bodies and all, but this discovery also came with some big implications. See, the researchers also noticed osteoclasts
+in the middle of these canals in the mice. These are cells involved in bone remodeling
+— an ongoing process of building and trimming bone. And this made the research group think that
+these canals and blood vessels are linked to bone turnover, and keeping bones strong
+as we age. As we get older, the number of mature bone
+cells we have declines, which makes our bones weaker and more likely to break. Maybe not coincidentally, we now know that
+we also have less of those trans-cortical capillaries as we age. The researchers think that losing the capillaries
+may be one of the factors that predisposes us to fractures as we get older. So future research may look into preserving
+the capillaries to help heal fractures. Finally, your brain has a lymphatic system,
+little vessels that help transport waste and immune cells around your body. And while that might sound like a given, we
+didn’t know this for sure until 2015. Which says a lot, considering how many studies
+we’ve done on the brain. The conventional view said that any waste
+products the brain made would flow into the cerebrospinal fluid before being moved to
+the bloodstream. But over the years, a few experiments made
+scientists question if maybe the lymphatics were involved after all. Like, in 2015, by sheer coincidence, two separate
+labs found lymphatic tissues in mice brains — specifically in the dura mater, a tough
+layer of tissue between the mouse’s brain and skull. So if these brain lymphatics showed up in
+mice… well, hey, maybe they existed in us, too. Historically, imaging techniques make blood
+vessels and lymphatic vessels look similar. But in 2018, thanks to new imaging and staining
+technology, we could finally get a more precise picture of the lymphatics in living bodies. That year, researchers published a paper about
+an experiment they did on monkeys and human volunteers. In the experiment, the subjects were injected
+with a special dye-like substance. The dye molecules were tiny enough to leak
+out of blood vessels and into any sort of potential lymphatic system, but they were
+still too big to travel to the rest of the brain through the blood-brain barrier. The hope was that, if the human brain did
+have a lymphatic system, we’d be able to find it by following the dye. And we did! Using a special MRI, the researchers saw the
+dye had pooled into a network of vessels that sat next to the blood vessels in the dura. Then, to be sure, they repeated the imaging
+with a similar substance that doesn’t leak out of blood vessels at all. And as expected, they didn’t see the new
+lymphatics. Finally, to really confirm what they were
+seeing on MRI, they autopsied some brain tissue and found cells and proteins that were unique
+to lymphatics. Now, this is a big deal because it means we
+need to rethink how normal brain and lymphatic physiology work. But by understanding that, we can hopefully
+come up with better treatments for neurological diseases. For instance, something like Alzheimer’s
+disease has a lot of moving pieces — one of which is the buildup of certain proteins. We know from mice studies that lymphatic activity
+slows down with age, which means they won’t be able to clear some of those harmful proteins
+as efficiently. So if we can keep track of someone’s lymphatic
+activity in their brain, we could spot Alzheimer's disease in that person before it becomes problematic. Or at least, that’s the hope. That’s what makes new discoveries in anatomy
+so exciting! Whether it’s a network of vessels or a whole
+new organ, each of these new body parts represents a new opportunity to advance medical research. The anatomy itself is cool, but what we do
+with this new body of knowledge, pun very intended, is the exciting part. 

@@ -1,0 +1,80 @@
+We have all been there, visiting your local
+hardware store like a kid in a candy shop. You arrive at the pick and mix screw section
+and you are just overcome with excitement. How could you possibly pick just one type
+of screw. Woooooow look at all these screws. Amaaaazing. You have sultry slotted screws, rowdy robertsons,
+playful phillips, oh and look at this one a hex screw. You naughty polygon. In your excitement you pick the largest bag
+you can find and fulfill your childhood dreams to buy 2 of every kind of screw. Mother can’t stop you now. You arrive home with the glee of a spring
+lamb. Oh the assembly that awaits. What joy. Then, to your horror, you open your toolbox
+to discover you only have a fat flat head screwdriver that doesn’t even fit the flat
+head screws your bought. Your life is a lie. You spent your life studying theory and never
+learned practical application. You are no real engineer. Shhh it’s all going to be okay, dry those
+existential crisis tears. We are going to learn what all these screws
+are for, and how they came into existence. The humble screw is a technology so old that
+we cannot easily determine who first invented it, but the answer as best we can tell is
+Archimedes who used the helical screws ability to turn rotational motion into linear force
+to pump water, though he probably stole the idea from the Egyptians. You can imagine how a screw works fairly simply
+by viewing the cross-section at the bottom. This part is essentially a wedge, and when
+you force a wedge under something it will lift it up. This wedge shape spirals all the way up the
+screw, allowing that force to be applied along the full length of the screw. This idea was used for centuries to pump water,
+dig holes, and for pressing the shit out of grapes to make some wine. Then some unknown person had a bright idea. If we can apply an opposing force, we could
+create compression to hold two parts together, and so someone slapped a head on one of these
+screws that would press down while the threads pulled upwards. Creating an incredibly useful fastener. This idea didn’t really take off until a
+method of mass manufacturing them came about in 1797, when Henry Maudsley invented this
+metal cutting lathe that allowed for the consistent and precise cutting of screw threads. He even set up a standard screw thread geometry
+for his machine shop , and cut all his nuts and bolts to fit those threads, and thus the
+chaos started. Several decades of differing standards resulted
+in headaches far worse that your annoyance at new phone not fitting your old charging
+dock. Perhaps the most notable incompatibility occured
+during the great boston fire of 1872 when fire departments from neighbouring regions
+arrived to help, only to discoverer their fire hoses didn’t fit Boston’s fire hydrants. [Maybe show XKCD comic] Most of the world has now accepted ISO metric
+threads as a standard, although one country is still holding onto the inch as the standard
+unit of measurement. A measurement that was legally defined as
+the length of “three grains of barley, dry and round, placed end to end, lengthwise”
+for 8 centuries until it was redefined as 25.4 millimetres. Because, as we all know, the best in class
+is always defined by the second best, but I digress. We can now generally trust that a nut and
+bolt with the same diameters will fit, even when mixing freedom units and metric, but
+what’s the story with all these different screw heads. Why can’t we just agree on one shape so
+we don’t need a toolbox full of screw drivers? The simple slotted screw head was likely the
+first type used as it’s easy and cheap to manufacture with a cutting tool, but is a
+pretty terrible design for anything other than manual screw driving into wood. Screwdrivers can slip out of sides and you
+can turn the screw off its centre axis, which causes it drive into the material at an angle. This was not acceptable for mass production
+methods, which as we explored previously, needed a foolproof production method. So Peter Lymburner Robertson designed a manufacturing
+process for this square bit screw-head. Which was designed to be easily and quickly
+driven home, without danger of the screwdriver slipping out and damaging either the screw
+of the workpiece. 700 of these bad boys were used in the Model
+T, and it saved Henry Ford about 2 hours of manufacturing time on each and every vehicle. Henry Ford was so happy with the design that
+he wanted to licence it and manufacture them himself to ensure he had a reliable and steady
+supply of the fastener, but Robertson wasn’t about that money making life and said no. He continued doing this with other manufacturers
+for some bizarre reason and now the design is mostly just used in Canada, and so in stepped
+Henry F Phillips with his infuriating screw design. He licensed out the design to Henry Ford and
+many other people. This conical cross design allowed for a single
+screw driver to fit many sizes of screws, was self-centering, and was designed to cause
+the screwdriver to slip out of the slot at a certain torque and thus prevent workers
+from over tightening it and damage the screwdriver or workpiece. It also prevents you from getting the blasted
+thing out of a workpiece with even the slight bit of rust. By 1939 this design was licenced to nearly
+every automotive, airplane and rail manufacturer in the US, just in time for the boom in manufacturing
+created by World War 2 [1] With the lend lease act, many American designs were sold to their
+Allies, and thus the screw design spread even further. Now that most screwdrivers can automatically
+limit torque the phillips design is pretty much just a pain in the ass, so other designs
+have come to the fore in more recent years. Specifically designed to stop that slipping
+called cam-out, like hex screws and torx screws. Let’s compare these two types of screw to
+see how their design came into existence. These two screws have the same diameter tool. Both have six points of contact between the
+screw and tool. However we can see when we rotate our hex
+tool it contacts the screw at a greater radius. Allowing it to applying more torque with the
+same force, but the plane of contact is not perpendicular to the circle and that means
+some of the force from the rotation of the screwdriver is being applied outwards radially
+to the screw. This can damage both tools. With the torx screwhead the angle of contact
+is near perpendicular, meaning it can applied more torque without fear of damaging the screw. But ironically, even though this is a great
+screwhead design. It was designed to not be used by the general
+populace. It was used in Apple’s first personal computer
+[2] to make it harder for the average guy with a phillips head screwdriver from opening
+up the machine. But thanks to it’s design, Torx screws started
+proliferating, and more and more people had the correct tool to loosen it. So someone decided to place a pin in the middle
+to make it even harder. Bringing us to an age where our right to repair
+is questioned and many random screw designs have appeared to make it harder for us to
+take apart our gadgets . Why? Because screw you that’s why. If all these nuts are driving you crazy, you
+might just be a squirrel and being a worldly squirrel you probably learn about all the
+other types of squirrels around the world. There’s ones with wings, ones with cute
+little ears and tails. Look at this ginger one, class. a month. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the
+links to my instagram, twitter, discord server and subreddit are below. 

@@ -1,0 +1,137 @@
+- [Dianna] Thank you to
+Brilliant for supporting PBS. This is a detector. It stands 50 feet, tall
+weighs 14,000 tons. And yet, it's meant to
+detect the tiniest particles in the universe. Detectors like CMS. Like this one, can only
+be found in one place, the largest scientific facility on earth. Why do you build this? Along with an underground tunnel, 27 kilometers around and
+powerful superconducting magnets. Why do you accelerate particles so small we could never see them with a microscope? Close to the speed of light
+and smash them together. What even is a particle? What exactly are these detectors for, and what is it like to work at and visit the most expensive scientific experiment in history, Cern? Hey, I'm Dianna and you're
+watching Physics Girl. If you've seen my two previous videos on anti-matter and dark matter, then you know that over the summer I visited CERN in Geneva, Switzerland. This is my face seeing
+CMS for the first time. (laughs) When you visit CERN, you need to drive pretty far along winding country roads to get to one of the four main detectors. Situated along that, 27 kilometer ring. To go underground, you
+need special access, and usually you only get
+to go see one detector because it's a whole process. You get your helmet on. - Oh, we got to put on some helmets. Oh, thank you. (laughs) - [Dianna] You go through
+security doors one by one, you descend a hundred
+meters in an elevator. You get briefed on not using the stairs if anything goes wrong. And you stop to admire the
+strange signs and equipment. - And if you devote two
+entire days of your life, you might just get to see
+a couple of the detectors like we did. We were there for awhile. I think they wanted us to leave. - We're about to go down and sem us. - So the elevator is like
+the safest place to be. - Yeah.
+- So in any emergency, that's the, soft of, meeting point. - This is the video where I
+get into the essence of CERN. It's the most advanced and expensive scientific lab on earth. And it's used to study particles. I know, not the most
+fashionable area of physics upon first inspection, but it's the most fundamental question. It's the one we all
+asked when we were kids. What are we all made up of? What are the fundamental particles that make up everything in the universe? Oh. (laughs) Sorry. And how did these detectors go about answering that question? This is what I was most interested in, and it was a bit of a rough start because after three minutes of thinking, I realized I didn't even
+know what a particle is. Turns out that I don't
+know what a particle is because I never got to
+quantum field theory in my physics classes. So if you don't know
+either, join the club. So let's start there. What are these particles
+that CMS is studying? Like say, the Higgs boson. - So the Higgs was discovered in 2012, - 2012.
+- July 4th. So we call this, Higgs dependence day. (laughs) - The discovery of the Higgs was the crowning achievement of the large Hadron Collider at CERN. By the way, the large
+Hadron Collider, the LHC and CERN are two different things, which I didn't really know
+going into my tour at CERN. The large Hadron Collider
+is the giant ring. The particle Collider, that
+is part of the facility, the entire place called CERN. They're actually smaller
+colliders that were built starting in the fifties. I didn't know any of this. But the large Hadron
+Collider is the large ring that collides hadrons. Duh. Anyways, the discovery of the Higgs. The Higgs is the tip of the iceberg when it comes to particles. It's just one of 30 fundamental particles that make up everything in the universe. Take any material, any wood, any frogs, any cats, any aliens, any snatoms, shout out
+to Derek, any Dereks, any non materials like anti matter, or even beams of light, break them down into
+their fundamental bits and you'll get 30 fundamental particles. Maybe 31 if you count the graviton, but let's not because it's not observed. So 30 fundamental particles and the standard model
+of particle physics. I'm not going to read
+off all the particles 'cause there are too many, but there are some fun ones to say, like the charm quark and the gluon, and some familiar ones like the electron, the photon and the up and down quarks. Okay, maybe those are not as familiar, but those are the ones that
+make up neutrons and protons. So elegant. But the real story is more complicated. The universe is actually
+made of quantum fields not particles, if you want
+to be really accurate. And if you want to know
+what particles are, cause particles are a phenomenon that emerges from quantum fields. - The universe is a collection
+of these quantum fields. For each particle, there's
+an associated quantum field. Of course, for the photon, the associated quantum field
+is the electromagnetic field. - What's a field? - What I mean by a field is just having a value, a number perhaps at each point in space
+that can evolve with time. - A field is like a grid, like a 3d map onto all of space. It's like a topographical
+map with numbers, except instead of showing
+Hills and ditches, with a quantum field, you measure something like the energy density of the gluon field. Even if this point in space right here doesn't have an electron, it still has a value
+for the electron field. Just like if there's no hill
+on the topographical map, there's still a number value to represent the elevation there. Particles are like little
+Hills in the quantum fields. They're actually vibrations in the field, which kind of start to make it clear on how a particle can act like a wave. The quantum field exists even if there's no particle in it, just like an ocean can exist even if there's no wave in it. This seems like a good moment
+to pause for dramatic effect because all the stuff
+that we're familiar with that we typically describe
+as being made of particles, is actually made of a bunch of fields. I'm not even going to say, "So cool" because I can't even
+wrap my head around this. Physics is so bizarre. More bizarre is that
+particles are not absolute. Particles can appear to exist for one person looking at the field and not for another, depending on how fast they're both moving, which has to do with
+changing reference frames. - A particle that can
+travel at the speed of light will travel at the speed of light. The fact that you were traveling slower than the speed of light means that an observer, a different observer, you can change reference range. - If you're moving super fast, like close to the speed of light, then the value of the field changes, which is kind of like time dilation, the phenomenon where
+if you're moving fast, then your clock appears to tick slower than a person who's stationary, which is a real thing that if you've never heard of, then I envy how blown
+your mind is right now. So this all indicates that
+the fields are fundamental and not the particles. And once you start to think
+in terms of the fields, then the experiments at the LHC start to make a lot more sense because the LHC smashes protons, which are made of two up
+quarks and one down quark held together with gluons. So you might've thought that you get a mess of quarks and gluons out of the collision
+like I initially thought, but they managed to get a Higgs boson. It's like you blend it up a
+bunch of fruit in a smoothie and popped out a chicken nugget. But the thing is, the
+quantum fields can interact. - One way you can see it is there's this sort of instrument or musical instrument analogy where you might have, maybe
+a piano strikes a chord, and if there's other instruments around, there might be residents, right? So one of the strings on a
+guitar might start vibrating because the piano is
+hitting the right note. - So it makes more sense if you think that collisions
+are creating great disturbances in the quantum fields rather than thinking
+about particles colliding. You can imagine the energy of one field transferring to another and another, like a vibration in the up quark field causing a vibration in the
+electron neutrino field or the Higgs field. Speaking of the Higgs boson, which was the most elusive
+particle for physicists to detect in the standard
+model of particle physics. I'm not really going to go into the significance of it or what it is 'cause there's so much material out there on the internet about it. But now that we understand
+what particles are, I want to talk about how
+we detect the Higgs boson. The insane sensitivity of detecting it and the crazy methods, because we don't actually
+ever directly detect the Higgs boson with detectors like CMS. So how do we do it? - The decay products from the Higgs decay are fundamentally indistinguishable from the decay of other particles. - Decay products refers to the fact that particles like the
+Higgs, which are unstable, can spontaneously turn
+into other particles. - So, a scientist that's trying to find a new species that's invisible. Well, what do you do? You have to look at the decay products. So let's look for poop, right? - Yeah. - And then how do you
+distinguish this animal's, this new species' poop from other species. - Yeah. - The answer is that you don't, you can't. If you produce a Higgs particle, again you don't see the Higgs, you have a bunch of poop in the forest. That's the challenge
+is you have to be super confident in your prediction. And then you have your measurement, you have to go to the forest
+and actually find this poop. What if you think this is poop,
+but it's, I don't know, mud. I don't, have no idea. Can you, is there anything in the poop that you can use to identify the species? You can see why we need a lot of data. You only produce the Higgs very
+rarely in these collisions. Another way to say this is that most of the poop that you
+think comes from the Higgs, comes from other species. You have to very confident
+about your prediction and be very confident
+about your measurement. If your prediction and your
+measurement match exactly. Let's say you somehow calculate, okay, we're going to find 100,000 poops and you find 100,200. There's an excess of 200. - Yeah.
+- Is that significant? So that's why when we
+discovered the Higgs, we had to had a lot of data and that's why it took so long because we needed to
+compare the prediction to the observation. And when we finally said,
+"We did discover the Higgs" it was actually after we
+had many, many collisions. Sorry, if this analogy is kind
+of gross by the way, but-- (laughs) - I was pretty happy with
+the fact that you used poop. That was my first thought. I was like, "Oh, you could use poop." And I was like, "I shouldn't say that." you could also use footprints and then you said poop
+and I was like, "Yes!" - Well yeah, I usually use footprints - Okay.
+- for this analogy, but Sarah encouraged me to go for poop. - Go for the poop. (laughs) - Go for the poop. - So we're looking for an excess of poop. It all makes sense now, except
+why do we need all of that? The giant colliders,
+the massive detectors. Why do we have to smash
+protons at such high energies? Well, the Higgs boson is the second heaviest
+fundamental particle after the top quark. And the heavier the particle, the more energy you need to produce it. E equals MC squared. Thanks Einstein. So if you transfer enough
+energy into the Higgs field, you get a Higgs boson. So you need a lot of energy to make particles out
+of seemingly nothing, but then you need massive detectors to see all of the debris that comes out and all of the particles that
+those particles decay into 'cause there's a ton of it. And they're all going really
+close to the speed of light. So they're going to make
+it pretty far, pretty fast. So you need massive detectors with massive magnets and
+massive numbers of wires. But let's rewind a bit because the whole purpose
+of making this video is that I went there. I went to see these detectors. So I really wanted to
+know what it was like to work with them. What's it like to work at CERN? - [Scientist] A little
+bit like a college campus, but it's really dedicated, it's sort of like everybody
+is on that mission. Let's try to understand the universe. People here are super passionate. I feel like people here would be willing to work almost for free that their motivation is
+to understand the universe. - I very much support scientists getting paid for the
+amazing work that they do. But I definitely understand
+the excited sentiment because it was almost
+as exciting being there, just visiting. So were they colliding
+particles while we were there? No. See those guys? They were in the beam path. No one is in the beam path when it's on. Cern has been in shutdown
+since December, 2018 and it's going to reopen in 2021, then they'll close those
+giant magnetic doors we were looking at and then it'll take an entire day to do so because they weigh hundreds of tons and you don't want to bump a
+multi-million dollar magnet, but it was super lucky that
+it was shut down when we went, because we got to go
+underground and see everything. There were wires everywhere. Cables and wires are like
+the wallpaper of Cern. And the internationalness
+was so noticeable. Every person that we met was
+from a different country. - [Man] CMS is a very large
+collaboration, over 3000 people. - So what's next for
+particle physics at CERN? Well just in 2018, they
+made some crazy discoveries like finding evidence of
+another exotic particle, made a four quarks, a Terra quark. Precisely measuring the
+spectrum of anti hydrogen and making the first 3d
+color x-ray of a human body, which is based on technology
+developed at CERN. And in the future, hopefully dark matter. - Maybe not dark matter, but maybe we find some
+other type of particle that then decays into dark matter. And this other type of particle, maybe it lives pretty long. Like maybe it lives for awhile. So that means they can have a collision and then a particle pops out. Maybe it moves outside your detector and then it decays into dark matter. So you're missing that. We have our detector a
+hundred meters underground. We're considering to install the texture modules in the surface in case one of the particles struggles a hundred meters through the surface and then it decays. - I'm super pumped to see what happens when CERN turns back on in 2021 cause that collaboration of thousands of scientists and engineers from around the world are digging into the fundamental
+physics of our universe. And that is cool. - It's hard for me to understand how you would not be
+fascinated at what we do here. It's really remarkable. And the fact that this all works as well, like I mentioned all
+these careful predictions, this careful measurements, the fact that we've
+made the Higgs discovery simultaneously with the Atlas detector, the Atlas collaboration. To me, it's super cool. - Thanks for watching
+and happy physicsing. (bright music) 

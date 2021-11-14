@@ -1,0 +1,155 @@
+- These are bacteria growing into
+increasingly concentrated antibiotics. The bacteria stop growing when they hit the first antibiotic strip, but then a mutant appears
+capable of surviving in the antibiotic. Then another mutation occurs and now the bacteria can survive
+10 times the concentration, then a hundred times, and finally, after just
+11 days of evolution, these bacteria can survive antibiotics a thousand times stronger than what would have
+killed them at the start. You're watching evolution in action. (plane engine roaring) (bright upbeat music) - This is Richard Lenski. He started the experiment 33 years ago, and along with a team of colleagues, he has kept it going even
+on weekends ever since. In this lab are 12 flasks
+of live E. coli bacteria. They are the lucky few,
+the ones that have survived over three decades of evolution in a lab. - So there are 12 long-term lines. - [Derek] In 1988, a
+single common ancestor spawned these 12 separate populations. And ever since that day, they have been growing and
+dividing independently. So how have they evolved? There are other long running
+evolution experiments like since 1896, scientists at the University of Illinois have selectively bred corn, but they get only one generation per year, whereas these bacteria go through six or seven generations a day. So after 33 years, the bacteria in these flasks
+are generation 74,500. If those were human generations, it would represent 1.5 million
+years of hominid evolution. - What we do to start the experiment is we dilute a large
+population of bacteria onto a Petri dish and each
+individual cell makes a colony. And so then we take a
+little bit from one colony to start one population, a little bit from another colony to start another population, but effectively they all
+started from individual cells. And that's important because it means if we see the same thing happening
+in replicate populations, it's not because they started out with the same genetic variants and natural selection just fished out the same thing over and over. You actually had to have
+independent mutations that would give rise to
+these competitive advantages, whatever it might be that
+would produce the repeatability across the 12 replicate populations. - [Derek] The lab
+environment is very different from the one the bacteria are used to. It's much simpler, there are no other organisms present, they're kept at 37 degrees Celsius, and they live in the same solution, a mixture including glucose,
+potassium phosphate, citrate, and a few other things. Their only carbon source is
+glucose, which is limited. - Above all else, consuming that glucose and
+converting it to offspring, replicating as fast as possible has been essentially what
+we seem to be selecting for. - [Derek] Every day in each flask the bacteria divide six or seven times, which increases their
+numbers a hundred fold. Normally we think of generations as being limited by the
+time that has elapsed, but in the case of these bacteria, they're limited by the
+resources available to them. If they had 10 times the solution, they would increase their
+numbers an additional 10 times. Then almost every day
+for the past 33 years this transfer process has taken place. 0.1 milliliters or 1% of
+the solution from each flask is transferred to a sterile new flask containing the same solution. It essentially dilutes the
+bacteria a hundred fold. This gives them the space and resources they need to grow and divide again, increasing their
+population a hundred times before this same process
+is repeated the next day. And then the day after that
+and the day after that, even on weekends, this process has been going
+on for over three decades. What happens to bacteria
+that are not transferred to the new flasks, the 99%? - That's the autoclave room. - [Derek] What happens
+in the autoclave room? - Every day 99% of the
+E. Coli meet their demise in this horrible room. - [Derek] Is this like
+a bacterial crematorium? - Yeah. Yeah, exactly. - [Derek] You can imagine if
+the scientists didn't do this, but instead gave all the bacteria a hundred times more solution
+to grow on every day, well, the experiment would
+soon become unmanageable. On day two, you would need
+a cubic meter of solution, but by day 13 the experiment would be 10 times the volume of earth. And by day 42, the experiment would fill up
+the entire observable universe. To me it seems like the
+whole idea of genetics is for them to stay constant and for mutations to be rare. - Yes. - Yet in your experiment
+it seems they're not rare. - So we estimate that in our bacteria only about one out of maybe a hundred or one out of a thousand cells will have even a single mutation. So that's not very much. By contrast, in humans it's
+estimated that each one of our offspring has perhaps
+10, 20, 50 new mutations. So the bacteria are
+extremely conservative, but they're also billions of
+them and even a tiny flask. And so if you have a chance
+in a thousand of mutating and you have a billion individuals, then every day in one of these flasks we might have a million new mutations. So that's a lot of variation on which natural selection can act. Maybe half of those mutations
+have no effect whatsoever on the bacteria's ability to grow and thrive in that particular environment. They might be mutations that would matter out in the great outdoors, but this was a very simple environment, maybe those genes aren't even expressed. Another half of the mutations
+speaking very, very roughly might actually be deleterious mutations. They make the bacteria
+an inferior competitor, but there's maybe out of
+those million mutations that occur every day, maybe there's 10, maybe there's a hundred, maybe there's a thousand of them that actually change something in the cell that gives the bacteria
+a competitive advantage over their progenitors. And those then grow over
+the course of that day. Then every day 99% of the
+population is eliminated. It's lucky 1% prevails, and if those lucky 1%
+include one of the guys from the previous day that
+was growing at 10% faster than the other guys, it has a higher
+probability of contributing to that next flask, the next day's flask and in the fresh medium, and it will continue to
+grow faster at a 10% clip, and that compounds by
+an exponential process. So the mutations, y'know, are
+really rare when they first occur and many of them are lost, but once they get common if they have that competitive advantage, they'll just sweep through the population. - [Derek] But how do you
+know that the bacteria actually have a competitive advantage? I mean, how can you tell that
+they're getting better suited to their environment? Well, this is where one
+of the unique properties of bacteria come in. They can be frozen for
+long periods of time and then revived. - And so they're stored in
+suspended animation here. So these are the racks that
+contain the frozen samples of the bacteria from
+the various generations. - [Derek] Every 500
+generations, roughly 75 days, they freeze a sample of each population. By freezing previous generations, Lenski and his team have
+a frozen fossil record. - So our samples from over 30 years ago remain perfectly viable. And so that gives us an ability to do what I like to call time travel. We can literally compare
+organisms that lived at different points in time. So we can compete bacteria from generation 70,000
+against their ancestor. - [Derek] That's right. The way they measure
+fitness is by competing the current generation of bacteria against older generations. It's like a strange bacteria fight club. - Hey! - [Derek] They thaw
+out the old generation, mix it into a flask with
+the current generation, and then plate out a
+sample of the solution to see the relative abundances of the two populations at the start. Then they incubate the flask for a day, and then plate them out again. And the point is to compare
+their relative growth rates, which generation was better
+able to utilize the glucose and divide faster? - Well, how the heck do you
+tell the evolve bacterium from its ancestor? Do they wave little flags at you and say, "Hey, I'm the evolved guy." And of course they don't. But what we have is this color marker embedded in the experiment. So six of our populations on
+a certain kind of agar plate make red colonies and six
+of them make white colonies. And we have one version of the ancestor that makes red colonies and
+one that makes white colonies. We can compete one of the
+red evolved populations against the white ancestor, or one of the white evolved populations against the red ancestor
+and we can distinguish them. - [Derek] In this case, it's clear that the evolved red population outcompeted their white ancestor. Now, to determine the winner, all of the colonies are counted by hand. - So what was the earliest
+sort of big findings from the experiment? - The first thing we found, not that there was any doubt about it, but it's one of the most
+direct demonstrations of Darwinian adaptation
+by natural selection, you can imagine. Yes, they're getting to be
+better competitors over time. It's a common observation in
+other evolution experiments that evolution in a new
+environment gets off to a rip-roaring start and then tends to slow down over time. And so we repeated that observation and I imagined that the longterm lines would actually sort of
+flat line at some point. And I actually thought about
+stopping the experiment, but I got wise advice from colleagues and from my wife, Madeline,
+let's keep it going. And so I agreed to that. - [Derek] And it's good
+thing he did because in 2003, the bacteria started doing
+something remarkable. - One of the 12 lineages
+suddenly began to consume a second carbon source, citrate, which had been present in our medium throughout the experiment. It's in the medium is what's
+called a chelating agent to bind metals in the medium. But E. coli going back to
+its original definition as a species is incapable of that. But one day we found one of
+our flasks had more turbidity. I thought we probably had
+a contaminant in there. Some bacterium had gotten in there that could eat the citrate and, therefore, had raised the turbidity. We went back into the freezer
+and restarted evolution. We also started checking those bacteria to see whether they really were E. coli. Yep, they were E. Coli. Were the really E. coli that had come from the ancestral strain? Yep. So we started doing genetics on it. It was very clear that one
+of our bacteria lineages had essentially I like to
+say sort of woken up one day, eaten the glucose, and unlike any of the other lineages discovered that there was
+this nice lemony dessert, and they'd begun consuming that and getting a second source
+of carbon and energy. Zack was interested in the question of why did it take so long to evolve this and has only one population
+evolve that ability? He went into the freezer and he picked bacterial
+individuals or clones from that lineage that
+eventually evolved that ability. And then he tried to
+evolve that ability again starting from different points. So in a sense, it's almost like, well, it's like rewinding the tape and starting let's go back to
+the minute five of the movie. Let's go back to a minute 10 of the movie, minute 20 of the movie and see if the result changes
+depending on when we did it, because this citrate phenotype there were essentially
+two competing explanations for why it was so difficult to evolve. One was that it was just
+a really rare mutation. It wasn't like one of these
+just change one letter. It was something where
+maybe you had to flip a certain segment of DNA and you had to have
+exactly this break point and exactly that break point. And that was the only way to do it. So it was a rare event, but it could have happened
+at any point in time. The alternative hypothesis is that, well, what happened was a series of events that made something perfectly
+ordinary become possible that wasn't possible at the beginning because a mutation would
+only have this effect once other aspects of
+the organism had changed. To make a long story short, it turns out it's such a
+difficult trait to evolve because both of those hypotheses are true. - [Derek] The experiment uncovered other surprising findings. Like instead of the bacteria getting more numerous over time, they actually decreased in number, but each individual bacterium got larger. Six of the 12 populations
+evolved hypermutability, mutation rates a hundred times
+higher than their ancestors, but these populations
+subsequently acquired additional mutations that brought the mutation rate back down. I mean, it's advantageous to be able to evolve faster than others, but if the mutation rate is too high, then offspring have too
+many deleterious mutations. But maybe the most
+surprising finding of all is what didn't happen. - This view I had that
+they were flat lining turned out to be quite false. I had sort of imagined a very
+simple mathematical model. You can create something
+called a rectangular hyperbola, I guess, which has an initial high slope and then reaches an asymptote, but they're equally simple models. There's a model that also
+has just two parameters called a power law model
+that says things slow down, but it doesn't have an upper bound. It says, just keep going
+for time immemorial, and things will just keep going faster, but at a slower and slower
+rate of further improvement. And it turned out that
+model actually fits our data better than that original
+model I had imagined. And not only does it fit it better, okay, you say statistics,
+science, fitting curves, it actually predicts the future. And that's what's really cool
+because the original model, if you give it say just 5,000 generations worth of our fitness data and ask it to predict into the future, it says the asymptote is here. But then when we get more data, no! The bacteria are up here. They've passed that asymptote. Whereas this power law model, which says things are slowing down, but never reaching an asymptote? We give it just 1/10 of
+our data from the past and it projects very
+accurately out to 50,000 and even 60,000 generations
+when we last looked. It predicts sort of the future course of the evolutionary trajectory. And to me, that's kind of profound and it's sort of changed the
+way I look at this experiment, and even a little bit how
+I look at life on earth. I mean, life on earth
+doesn't stop evolving. We know that. And we know that, but we think that's, oh, that's because
+they're asteroid impacts. That's because of human impacts. That's because they're viruses that are attacking their hosts and that the co-evolution
+is causing evolution is causing evolution to never stop. The world is always changing. So of course, evolution never stops. And that is 100% true. But what our experiment suggests is that even in the absence
+of environmental change, there are so many opportunities of smaller and smaller magnitude to
+continue to make progress that, in fact, progress
+probably would never stop even in a constant environment. To me, it's one of the reasons to keep this experiment going. Does this model continue
+to predict the unfolding of the future fitness trajectory? and I wanna thank you for watching. 

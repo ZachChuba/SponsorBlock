@@ -1,0 +1,194 @@
+- If your desktop looks like this, then you and I need to have a chat. And well even if not, you're
+gonna wanna stick around for this video because remember when I said my paper
+file organization video was the most exciting video
+you were ever going to watch? Well, that is a thing of the past because everyone knows
+that everything gets cooler when it makes the transition
+from analog to digital. So buckle your seatbelts once again, because this week, we are
+talking about how to organize and systematized the files
+within your computer. So organizing your computer
+files is simultaneously easier and harder than organizing
+your paper real world files. It's easier because computer
+files don't weigh anything, they don't take up any physical space, so they can't really
+create a mess on your desk or in your living space. But it's harder number one, because well, we were never taught how
+to organize computer files. I don't know about you, but I remember being an
+elementary school, middle school and having teachers tell me to put things in separate folders, to have a Trapper Keeper,
+all that kind of stuff. But when it came to my computer files, no one was ever around to teach me how to organize my folder structure, where I should save things,
+all that kind of good stuff. And secondly, we create
+much more on the computer than we do in the real world these days. We have so many different
+documents, pictures, music files, so it can easily get
+out of hand much quicker than it can in the real world. And for that reason, I think it is crucial to create
+a usable logical structure from the get go with your computer files. This is much more important
+than it is in paper files because, well, in the real world, there just isn't a whole
+lot to have to reorganize if you realize that you've made a mess. But if your computer is a mess, you might have hundreds of
+files sitting on your desktop. So step one is to create
+an organizational structure of folders that makes it easy to find anything you're
+looking for quickly. And there's a couple different rules here. Number one, every single file in your
+system should be within a folder that represents it
+well, a specific folder. Nothing should be sitting
+out on the desktop, and nothing should be
+sitting in random folders, like Documents or Downloads. Everything should be in
+something that makes sense. But number two, you wanna have a structure that makes it easy to find
+those folders themselves. Now, you could just have
+one long list of folders on one particular level of your system, but that's gonna make things pretty cumbersome, pretty quick. So instead, you wanna follow in the steps of that great philosopher, King Xzibit, and start putting folders
+inside of folders. I call this a tree structure. If you think of a tree at the
+bottom, you have the trunk, and then that trunk
+eventually branches off into main branches which in turn branch into smaller branches. And that splitting process keeps going on and on until you reach the leaves. And actually if you
+look closely at a leaf, you'll see that the branching
+process even continues with vein splitting off from the midrib. Bet you didn't think you're gonna some tree anatomy in this video, huh? And if you look elsewhere, you'll find the structure
+replicated both in nature and in manmade systems. Take your body's circulatory
+system for example, all the blood goes through
+arteries from the heart. But from there, it splits off into smaller and smaller blood vessels until it finally reaches
+the smallest of them, the capillaries and gets delivered to the exact right place in the body. And road systems are very similar. Any two points in a city separated by a lot of distance are
+going to be best reached by first making your way
+to a highway or freeway or main road and then
+branching off into smaller and smaller residential road. And just as the branching
+paths of trees, blood vessels and road systems provide
+the most efficient way of moving resources around, a tree structure provides
+the most efficient and usable way of organizing your files. So the first thing
+you're gonna wanna do is to create this tree structure, which starts with what's called the root. Essentially the trunk of the tree. And in my file system,
+which I'm gonna show you for the rest of this video as an example, the root is called Google Drive. And the reason for this is
+that I use Google Drive, which actually just recently
+changed its name to Google One, to sync all my files up to the cloud and between all my different computers. But we're gonna talk about
+that a little bit later. Within the root, I think
+it makes the most sense to organize your main files
+by kind of the main categories of your life or as I like
+to call them life buckets. So the buckets of my life include College, College Info Geek, Learning,
+for learning projects, My Life, which is all my
+personal files, like taxes, and apartment files, things like that. Now, I do want to note that
+this is not the only way of organizing your file tree. And that is something
+that could be repeated for every single level of the file tree. In fact, if you go look at the datacurator
+filetree project on GitHub, you will see that the top level of their suggested file tree
+actually has folders split up by media type, audio files, documents, literature, video, etc. Personally, I like to keep anything that isn't a document in
+a specific media folder within my file system. And that brings me to kind
+of the main point here. Your file system should be expandable, it should be flexible, it should maintain its
+logic when it does expand. But most of all, it
+should represent the way that your brain organizes files. Assuming you are the only person who's going to be you using this folder, because I know a lot of
+you guys are gonna go into the professional world,
+start working in companies and start using shared directories. So with your own file system, you can kinda query your
+brain a little bit more often, but with shared directories, you're probably gonna wanna adhere to some agreed upon rules and conventions. So I wanna go over just a couple of here. First one is organizing by category, which is exactly what I'm
+doing in that main folder, in my file tree, and it's the structure that I adhere to for
+most sub folders as well. To give an example, let's go into my College Info Geek folder. This is where basically any file related to my business goes,
+whether it's LLC paperwork, or the thumbnail for this video. So once we drill into that folder, we're gonna see some folders
+like Business, Content, Courses, Projects, Speaking and Tools. And within the Content folder
+to go a little bit deeper, we're gonna see other folders
+like Articles, Email List, Graphics, Podcasts, and Videos. And with this structure, it is easy to find pretty much anything that I need really, really quickly. And just to give you an example, I'm gonna throw the path of a random file onto the screen right here so you can see the
+logical sequence of steps that I would take to get to it. And again, it's very
+easy to find this file and pretty much anything else. That being said, organizing by category isn't the only way you can organize your files. And you're gonna get
+into certain sub-folders where it makes sense to adopt
+a different structure such as organizing by date. And I find this particular
+structure to be very useful when the files that I'm
+trying to organize would fill so many different category based folders that would end up with a huge long list. And a great example is my college classes. During my college career, I
+took over 40 different classes. And well I could just shove every single class folder
+into my college folder, that would be kinda messy, I'd be looking at a list
+of 40 different folders every time I needed to
+go save or open a file. And most importantly, during
+every single semester, I would go into that college folder and I would see a bunch
+of very irrelevant folders from previous semesters. So instead of just organizing by category, I instead created another
+level of organization by splitting things up by year. So I've got Freshman,
+Sophomore, Junior, and Senior. If we go into say, Sophomore, we're gonna see all the classes I took during my sophomore year. Then once we drill into
+a class based folders, such as English 313, we're
+gonna see all the files that had to do with that class, but also project specific folders as well. So if you have a project,
+but lots of different files, I think it absolutely makes sense to group those files
+into their own folder. But anything that's kinda
+like an individual handout for the class, just keep
+that in the class folder, and you'll be able to easily find it as long as you name it intelligently. And speaking of naming your files, that is actually step two in this process, which is honestly an ongoing process, 'cause you're always
+gonna be naming files. But I do wanna talk a little bit about how you should name your files. And we don't have to talk a lot here because the main principle is that your files should be
+named relatively specifically. You should be able to know at a glance what it means within the context of its location in your file tree. And I make this point
+because there are a lot of other productivity gurus and organizational gurus out there who have these overly complex
+file naming conventions. They're putting the
+date in their file name, they're putting, like every
+bit of context they can. And honestly, I think
+this is a waste of time, because as long as you are being vigilant about where you're saving your
+files in your file system, then each file really only needs
+a little bit of specificity for you to know at a glance what it is. So obviously, don't name your
+homework, just homework.docx or paper.docx. Give it a name that at
+least jogs your memory as to what it should be, but don't worry about being
+overly specific either. And that brings us to
+step three in the process, which I referenced earlier in the video, I think that you should
+absolutely use a Cloud Sync app, like Google One slash Google Drive as the root of your file tree. So if you don't know
+what a Cloud Sync app is, basically, it's an app
+like Dropbox, Google One, Microsoft OneDrive, iCloud Drive, there are some other
+ones out there as well. They basically sit on your computer, and they upload anything
+within the sync folder to the cloud, and then sync
+it to any other computers that you have as well. And using an app like this gives you several different benefits. Number one, all of your
+files are kept up to date across your entire system. So if you make a change
+to a Photoshop document or a Word document on one computer, that change will be dutifully
+synced up to the cloud, and to any other computer that you have. Secondly, you have access to
+your files, wherever you are. You got access on your laptop,
+you got access on your phone, I'm actually reading the script for this video off of this bone right now. Even have access on any
+computer in the world as long as you can log into your Google or your Dropbox account
+and download those files. So that brings us to a question, which Cloud Sync app should
+you use, which one is the best? Well, I'm gonna go ahead and recommend Google One for most people. Now there are a lot of
+competitors out there again, Microsoft One Drive, Box,
+sync Dropbox, iCloud Drive, but I think Google One makes
+the most sense, number one, because they give you 15
+gigabytes of free space, which is much more than
+any other competitor. And I think that unless
+you're a content creator or photographer or graphic designer, you're gonna take a long time to fill up that 15 gigabytes of free space. So that just keeps you from
+having to spend a whole lot of money right up front. Secondly, if you do need more space, with a competitor like Dropbox, you have to immediately go
+up to their two terabyte plan for 10 bucks a month. Whereas with Google One or Google Drive, or whatever you wanna call it, it's just $2 a month for 100 gigabytes. And again, I really don't
+think most people need a whole lot more than 100 gigabytes. But what you do need
+regardless of who you are, even if you don't need a
+tonne of extra space is to make sure that your files are adequately backed up and secured. Now, if you are using a Cloud
+Sync app like Google One, then you do have some
+measure of protection for at least hard drive
+failure on one computer. So if I have all my files
+just on this one computer, just on the hard drive, not synced to Google One
+or anything like that, and this goes down the toilet, well, this probably won't
+fit down the toilet, but someone tries to
+force it down the toilet or someone steals it, or
+Loki comes out of a portal and cast a spell on it, he gives it legs and
+runs away from me, right? I would lose all the files, because they're only on this hard drive. But if they're synced to the cloud, and all I lose when this
+thing runs away from me and goes to frightened children
+is the hardware itself. And this computer can
+be replaced with money, but all those files,
+they cannot be replaced. So at least with the Cloud Sync app, you have some of measure protection against hardware failure. But what you don't have
+protection against is people who are malicious. If someone goes in and like
+hacks your Google account and deletes all those files, then you don't have a whole
+lot of protection against that. Now with Google One and
+a lot of Cloud Sync apps, you can go back in time and
+restore files out of the trash. But you usually have like a
+30 day time limit on that. But again, somebody could go
+in there and empty the trash. Or you could accidentally change a file and not realize it until a
+month down the road and realize, oh, well, I needed the
+old version of that file, and now it's gone forever. So I think you should
+have a backup strategy that extends beyond Cloud Sync. And there are a couple
+of different options. So the option that I use personally, and the one that I
+recommend for most people is to use a separate cloud backup app like Backblaze or CrashPlan. And I'm gonna use Backblaze here 'cause it's the one that I use, but for about $5 a month
+or 60 bucks a year, they will backup an unlimited amount of data on your computer
+across any hard drive connected to it with the exception of anything like network attached storage. But the other thing is that provides some measure of redundancy. If something gets into your
+Google Drive and messes with it, or someone deletes all those files, they're also backed up and Backblaze. And for me, I wanna have my data in multiple different places. This is kind of a pain in the butt to do, but if there ever comes a time where one of those data silos goes down, you're gonna be very happy
+you took the precaution and had a backup. Now the other option, which I
+think is a little less robust than good cloud backup, but it's still useful is
+to just get your hands on a small external hard
+drive, plug it in once a month, and copy your data over to that one drive and then just keep it
+unplugged from the computer, keep it stored somewhere
+that's secret and safe. And then actually remember to plug it back in once a
+month and make that backup. And that brings us to the
+final step in this process, which is to make use of shortcuts to more quickly access
+the most used folders and files in your system. Because here's the thing, when you have this beautifully
+organized tree structure, sometimes you're gonna have files that are six, seven, eight
+levels deep from the root. And if you need to
+access those files a lot, you're gonna be clicking through eight different levels of folders, and that is not very efficient. But luckily computers allow you to create shortcuts or aliases. These are kind of interchangeable terms to access those files quickly. But even more efficient than
+shortcuts, in my opinion, is the Quick Access and
+Favorites areas of the Finder and Explore on both Mac and Windows. So on Windows, it's called Quick Access, you can easily pin any folder
+or file to it on the sidebar. And in Mac OS, it's called Favorites, and it gives you the
+exact same functionality. So if you see my explorer here, you'll see that I am have
+pinned many different folders that I access on a regular basis. Some are permanently there, but you're also gonna see folders related to the individual video
+that I'm working on at any given time. So right now you're gonna see
+172 Computer File Organization since that's the video that
+I'm currently working on. So, start using Quick Access,
+start using Favorites, start creating shortcuts, and you're gonna find yourself navigating your file tree much more quickly. And then as long as you
+maintain the integrity of that file tree, as long
+as you maintain vigilance when saving new files
+and creating new folders, you're never going to
+lose another file again and you're gonna be so
+much better organized. Of course, the best way
+to stay organized is to be very deliberate about
+the projects that you take on, about the files that you
+create in the first place, about the content that you consume. This is called being an essentialist. It involves being very in
+tune with your priorities and your values in life. And thank you as well for watching. Hopefully you found this video helpful. Hopefully it was a great complement to that paper organization video which I'm gonna put right here
+in case you didn't see it. And of course, you can
+always subscribe right there, if you haven't done so already and you wanna get
+notifications of new videos. Click right there to get a free copy of my book on how to earn better grades. Or if you haven't seen my
+latest collaboration video with my friend, Matt D'Avella, I'm gonna have that linked right here. So definitely check that out. Thanks again for watching and we'll see you in the next video. 

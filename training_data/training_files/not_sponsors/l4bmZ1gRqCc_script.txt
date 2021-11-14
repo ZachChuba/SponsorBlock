@@ -1,0 +1,81 @@
+Tom: We tend to think that numbers are a universal language like if there was a extraterrestrial single the hit Earth, that
+it would start with one plus one is two and it would work up from there and work
+from there and work up from there and then eventually we're building a machine opens a wormhole to Vega. And that's a really good idea for formal mathematics and formal logic
+it might work... but the way that humans actually use
+numbers and we talk to each other it is not nearly as universal as you might think I mean I should say I'm a linguist not a
+mathematician. I've kind of moved over to numberphile briefly here but to my background's
+linguistics and the number of ways that humans use numbers... The number of ways
+that humans use numbers? Doesn't even make sense... And you might say okay this there's some weird
+examples where English is base 10, but it's not
+entirely because we still have dozen which is based 12, we still have Gross,
+which is 12 times 12, which is 144 that's all base 12 that's duo-decimal
+we still have 'score' in the language in the language, we still have 'four score and
+seven years ago' with Abraham Lincoln he meant eighty-seven but 'four score and seven' resonates because we used to have base 20 counting. We used to have vigesimal, and that still resonates well in the language today. We still have all of that. I looked up specifically one linguist
+called Glendon Lean who spent twenty years touring round Papua New
+Guinea, Oceania, all kind of south eastern areas he found languages that were base 6. He found languages that were base 15. He found all sorts of outliers that you would find if you have isolated populations on isolated islands. They're not that weird though. I mean you've done a
+French video before right you have 'quatre vingt sept' which is
+four 20s & seven. That's strange before you even get outside Europe. Hindi is so
+irregular that for the numbers 1 to 100 you
+essentially have a hundred different words. There is a pattern in there behind them
+but the forms are so irregular and they change so much that you basically have to learn a  hundred
+different words. Danish ... Danish is an astonishing one the Danish number for 58 is I'm totally not going to pronounce this
+correctly 'otteoghalvtreds' I think I apologize
+to the people of Denmark 'otte' is eight, that's easy, I think the 'o' is in there as well ignore the 'g', that's just to link things together, and then you've got this, which is 'halvtreds' -- 'half third' now hang on, that's meant to mean 'fifty'
+so what's going on there? so dot is the freebie action that so that is an abbreviation, it's 'halvtredsindstyve' again I'm sorry but that is 'half thrice times 20' which still doesn't make any sense
+because how can you manage, half times three times ... how does that make fifty? well then you get another catch because this
+bit here 'half thrice' is like Roman numerals what you got there is 'half away from thrice'
+this literally means 3 minus 1/2 times 20 which if you actually do the maths is
+two-and-a-half times twenty which is 50 so you finally have 58 you have half thrice two-and-a-half times twenty plus eight, 
+58 so the complete opposite end of the scale is Tonga. 
+Which is wonderful there there are a few more formal
+ways you can say them but essentially if you're saying a really complex number like 771,216 you say the numbers for 7 7 1 2 1 6 in order that's it. It is as simple as
+that you just say the numbers for one thing I suspect most of your viewers will think
+is that at least we've agreed on Arabic numerals now. At least we've
+we've got the standard 5, 6, 7, 8 standard 0 to 9 that everyone uses. Ehm, Not Quite someone languages, particularly those in India and China still use their own numeral system particularly for formal things 
+like we still use Roman numerals for clock faces they might use them in similar places 
+Brady: And the SuperBowl Tom: And the SuperBowl!  Of course, yes. 
+although SuperBowl 50 is going to be SuperBowl 50 (five zero)  
+because Super Bowl L doesn't really sound all that impressive. 
+There's a few other obvious points mainland Europe uses a comma for the decimal point and a
+full stop to separate thousands 
+UK and US are the other way around If you're using currency then there are a whole
+load a different ways to say 'and no cents' you might put a slash. You might put a comma and a slash, you might put dot double '0'. And then there's the big one 'cos
+I said thousands separator a while ago and
+that's not universal either and I really got surprised by this when I looked it up there is not a universal thing for how
+many digits should be in each group if you go to
+South Asia to India to Pakistan to areas around there you will find they don't use, I mean they
+do, they can use that as well but frequently the system that is used is the 'crore' and the 'lakh' watch a British guy try and explain
+'crore' and 'lakh' your lack is 10^5 and your crore is 10^7,
+and here's the thing they are written like this your least significant group is three
+digits and each group that's more significant than
+that is two so you can have a lakh crore,
+which is going to be 10^12 and watch me mess this up that's 5, that's 7, that's 9, that's 11
+which is going to be written like that that's a trillion and there's no reason why that should be a trillion instead of a lakh crore its just what we happen to decide you might be able to argue that constant threes is maybe a bit more understandable but
+that's coming from a really English perspective. I would be absolutely certain
+that someone who grew up with this system would have just as good a reason why
+theirs is more logical let's say all written spoken language
+fails, let's say you have someone who you have about absolutely nothing in
+common with at all at least you can gesture. At least you can say, you
+know, 8, 9 these are ... no ... no. I even thought that was universal until someone I know came back from China and told me that if you are going to
+be in certain regions in China you are going to be using hand gestures
+that are complete different so you get 1, 2, 3, 4, 5 I'm gonna try this, and I know someone in the comments is gonna call me out for hand positions being a little wrong, but it is roughly 6, 7, 8, 9, 10 or sometimes 10 are which are based on the shapes of the original Chinese
+characters for those numbers that kinda blew me away but then I found the paper from Glendon Lean I mentioned right at
+the start about Papua New Guinea and languages in that area
+who use a brilliant thing called a body count tally system so they will go 1, 2, 3,4 5, 6 7, 8, 9, 10 and then depending on which language
+it will follow different points around the face of it might go across and down the other side okay there are a lot differences between
+languages but the majority who use that system? base 27 because you have 27 points that
+that they refer to to keep tally. We're not going to be
+doing advanced calculus in this we're going to be you know during
+everyday conversations but that means you can do things like one man and here. 37. you can start keeping tally with things and
+that's wonderful because that is something but I hadn't even thought of. I haven't even come up with
+before reading about it that wasn't something that my my mind was open to. 
+What I wanted to do here, kind of a grand finale, was to look at what science fiction
+writers have done with alien languages but they're nowhere even close to that. I
+looked up Klingon, from Star Trek
+Klingon on is base 10 with words for thousands and millions it's clearly written by an English
+speaker and it's more English and more normal for us for those with over here than half the languages i've talked about! And it's meant to be an alien species and I know in Star Trek they're all meant to have come from
+a common ancestor but we did come from a common ancestor and
+we've got much much weirder numbers in our own human speech than science fiction has ever come up with. I think that's one of the best things about linguistics, about
+being human, about all of this is that someone on the
+other side the world something that they will consider
+absolutely normal can completely blow your mind 

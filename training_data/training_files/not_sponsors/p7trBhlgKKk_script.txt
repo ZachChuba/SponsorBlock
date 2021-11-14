@@ -1,0 +1,95 @@
+- This video is about one
+of my favorite examples of an evolutionary arms race, in this case between viruses
+and your immune system, actually the immune
+system of all vertebrates. You probably know what a virus is and what it does by this point, especially if you watch my
+videos, but just in case, my video primer on the
+subject is linked in the card and in the description there. But very briefly, a virus is a packet of
+genetic information, the instruction manual for
+making a virus, essentially. A virus is too simple
+to reproduce on its own, so this instruction manual needs to find its way into a cell where the molecular machinery of the cell, that factory, if you like, will read that instruction manual and start making viral
+proteins, those viral proteins, some of which will
+assemble into new viruses, and so the virus multiplies. So how does an organism
+protect itself from viruses? It's actually quite difficult because once a virus is
+inside a cell, it's hidden, it can't be seen by the outside world. And this is where the first innovation in the evolutionary arms race comes in, and it comes from the
+immune system of the host. At some point in our evolutionary history, our cells found a way to
+tell the outside world what was going on on
+the inside of the cell. Here's how it works, so part of the everyday functioning of the molecular machines inside your cell is the making of proteins. So you've got one molecular
+machine called a ribosome that reads your DNA, it reads the instruction
+manual, and spits out proteins, and those proteins are important for the functions that
+help you to live and grow. But at some point, these
+proteins will become damaged or they won't be useful anymore, so they go through this recycling process. And there's another molecular machine that is part of that process,
+it's called proteasome. So protein that's been
+tagged for recycling is passed through the proteasome, and the proteasome chops it
+into small fragments of protein. That's just the everyday
+activity of the cell, by the way, that's nothing to do with the innovation. The innovation is this, every so often, instead of one of these
+fragments of protein being broken down even further for reuse, it gets fed into this separate chamber, that's cordoned off by a membrane. And in the wall of the
+membrane is another molecule that basically holds open a hole for the protein fragment to pass through. Once the protein fragment is inside, it attaches itself to a molecule that's embedded in the
+wall of the membrane, it's called a class I major
+histocompatibility complex, but I'll just call it MHC I. This membrane enclosed bubble then travels to the edge of the cell, where the two membranes fuse, creating a hole which widens out until the inside of that
+membrane enclosed bubble is now the outside surface of the cell, the two have fused. So now you have this MHC I molecule embedded in the membrane of the cell and presenting a fragment of
+protein to the outside world. I wasn't gonna use animation originally, so I filmed this. - Just a little taste of what
+we got going on inside here, plenty more where that came from, mhhh. - What do you mean I'm going mad? That was a clever way to illustrate the, I am not going mad! This process is happening all
+the time in a healthy cell, so if you look at the outside of a cell, you would expect to see it
+covered in these MHC I molecules, presenting different
+fragments of the proteins that are created by the molecular
+machines inside your cell. At the same time, our ancient ancestors were
+evolving new immune cells that we call killer T cells, and they patrol around your body looking for these fragments of protein, to see what they are. So what happens when a cell
+is infected with a virus? Well now, the molecular
+machinery of the cell is producing viral proteins, as well as your normal human proteins, and they're just as likely
+to be tagged for recycling as any other protein. And so they get fed into
+the proteasome machine and chopped up into little fragments. So now your cell has
+floating around in it, little fragments of viral protein, as well as little
+fragments of human protein. And one of these
+fragments of viral protein is just as likely to find itself attached to an MHC I molecule as any
+other fragment of protein, and then it's presented to
+the outside of the cell, along with all of those other fragments. This is where the killer T
+cell really comes into play, actually we have millions
+of different types of killer T cell, each different type recognizes a single
+fragment of viral protein, and so these killer T cells are constantly bumping into
+the cells in your body. The killer T cell has a
+little receptor on the surface that bumps into the MHC
+molecule of your cell, and it checks the little
+fragment of protein. And if it doesn't match
+the specific viral fragment that that killer T cell recognizes, then it moves on, you get
+a tick, you're good to go. - I think you'll find
+everything's in order. - So your cells are
+constantly being checked by different killer T cells. And as long as the cell is
+only producing human proteins, and then presenting fragments
+of those human proteins to the killer T cells, those killer T cells will
+always give it a tick, because it's never recognized
+as a viral protein fragment. But when a cell is infected with a virus, and the right killer T cell comes along to recognize just the right
+fragment of viral protein that's being presented on
+the surface of the host cell, well, then the killer T
+cell latches on to the cell, it locks on to the MHC I molecule. - No don't, ooh, oh, ow! - The killer T cell then
+releases some molecules called cytotoxins. And when those cytotoxins find
+their way into the host cell, they induce something called apoptosis, which you can think of as
+a self-destruct sequence, programmed cell death. The cell dies for the good of the body, it can no longer produce new
+viral particles if it's gone, the next step in the
+evolutionary arms race comes from the virus. Amazingly, some viruses
+have evolved the ability to hinder this process by
+which the cell dubs them in, the way cells present
+evidence to the immune system of the skullduggery
+that's happening inside. Different viruses have
+found different ways of preventing MHC I molecules
+from grassing them up, and in fact, individual viruses may have multiple techniques
+within the one virus. HIV is an example. So the genetic instruction manual of HIV codes for a number of proteins that inhibit the function of MHC I, for example, one protein initiates a pre-existing
+process within cells called endocytosis. Endocytosis is the process by which cells bring proteins back inside
+the cell from the surface, so this HIV protein
+induces the endocytosis of MHC I molecules. So if you examine a cell
+that's infected with HIV, or a similarly innovative virus, then you will see fewer MHC
+molecules on the surface, holding on to those protein fragments. And from the virus's point of view, the virus hopes, in
+inverted commas because viruses don't really have hope, I'm anthropomorphizing here, obviously, but as I've said before, it's okay to anthropomorphize
+so long as everyone knows, that it's happening, and we all understand that
+it's kind of like a shorthand for the fact that evolution
+selects for advantageous traits. Anyway, the virus hopes that
+the proteins will pull in enough of these MHC molecules, that there will be no more
+viral protein fragments presenting on the surface of the cell, and it will evade detection
+by killer T cells, and that's exactly what happens. So the next step in this
+evolutionary arms race story, the final step comes
+from the immune system. So the vertebrate immune system evolves, a new kind of immune cell
+called a natural killer cell, and a natural killer
+cell looks out for cells that have an unusually small
+number of MHC molecules presenting on the surface, because that, in itself, is fishy. When it finds one of these cells, they latch on and release
+molecules called cytokines, slightly different to the killer T cells releasing cytotoxins. They're a signaling molecule, and once they're in the host cell, they instruct the cell to
+self-destruct through apoptosis. So there you go, the natural killer cell, So check out Skillshare today. I hope you enjoyed this video, if you did, don't forget to hit subscribe
+and I'll see you next time. (upbeat music) 

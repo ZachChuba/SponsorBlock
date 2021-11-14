@@ -1,0 +1,58 @@
+- As difficult as isolation
+and social distancing have been for many of us, imagine how much more
+unpleasant things would be without the tech that
+keeps us all connected. And perhaps, nothing has
+exploded in popularity recently as much as Zoom, the teleconferencing
+and video chat software that has seen huge levels
+of adoption worldwide since the start of the COVID pandemic. But now the app is being
+banned left and right. Everyone from companies
+like Google and SpaceX, to agencies like NASA and
+the Australian military to the entire government of Taiwan has forbidden their
+people from using Zoom. But why? Well there have been a number of well-publicized security
+problems with Zoom, which is a little strange considering that we don't really worry all that much about having our video calls on other platforms being broken into. I mean, when's the last time you worried someone was gonna hack into your call on a platform like Skype,
+Google Hangouts, ha ha, or Facebook Messenger? Well, it turns out Zoom has actually had security issues for a while, but many of them are
+just now coming to light due to its recent burst in popularity. Back in summer 2019, there was a widespread
+security flaw on Mac systems where Zoom's installer would effectively turn your computer into a
+server without telling you which made it much easier for a stranger to add themselves to your conference and look through your webcam
+with just one errant click. The feature was put in
+place to make it easier to jump into meetings
+without additional clicks because the web server
+feature accepted connections that normal browsers wouldn't. I mean, we all trade security
+for convenience everyday, but that one went a little
+too far, don't ya think? Apple actually ended up
+issuing a Mac OS patch to fix the problem, but since then, a number of other issues
+have been discovered. One was a relatively easy way
+to bypass email confirmation and gain access to any account where the email address was known simply by using the same ID tag in the sign up page's URL to
+access the confirmation page without ever having actually had access to the email account. No fancy hacking skills needed. And because of how
+Zoom's permissions work, a simple attack like this could
+actually allow an outsider to access all accounts
+associated with a domain if the compromised
+account is from a company rather than an individual. Wow, that's terrible. Is anybody using Zoom? - [Respondent] Nooo! - Okay, good! Although that issue has been fixed, Zoom's encryption is still rather weak. In early April of 2020,
+researchers discovered that the encryption Zoom used at the time was actually AES-128, not
+the advertised AES-256, which is much more secure. Perhaps a larger issue
+for most people though is how easy it is to find Zoom meetings without even breaking any encryption. Attackers have had success
+rapidly trying random ID's until they found some that were active, making it simple for them
+to break into meetings and sometimes transmit disruptive or offensive audio and video, a practice dubbed Zoom bombing. So it's like chat roulette,
+but at the office. And to top it all off,
+Zoom has been routing lots of traffic through servers in China, and unlike other countries which have strong privacy
+protections for user data, China's government doesn't need a warrant to see what's happening on servers located inside the
+country at any given time, raising fears from the privacy conscious. And if that's not enough, Zoom is also facing issues
+that aren't strictly its fault. Zoom's installer has been a
+favorite target of hackers who are modifying it with malware and then releasing it
+back out into the wild. And because so many people are quickly downloading and signing up for Zoom using existing email and password combos involved in previous data breaches, it hasn't been tough for
+attackers to steal accounts. Over half a million credentials are up for sale on the dark web at the time we wrote this episode. So what can you do if you're using Zoom and you can't convince your
+friends or organization to move to a different platform? Well the easiest form of risk mitigation is to simply slap a password
+on your Zoom meetings, which will effectively
+stop Zoom bombing attacks, and there's also an
+option to lock meetings after everyone has joined so no unauthorized
+participants can butt it. If you don't have Zoom yet
+and you need to install it, one pro tip is to make sure
+that you're only installing it from Zoom's official website, not from some other source that could be giving you
+a compromised installer. Of course, with so much public scrutiny, Zoom is attempting to
+fix some of these issues, and they won't be rolling
+out any new features for the next couple of months so that their developers can focus on security and privacy patches. It just means that, given their
+mentality around this stuff and that it took this kind
+of outburst from the public in order to focus on those things, (sigh) it just raises the question, should you be trusting
+them with your messages, or should you instead
+communicate with your colleagues via pigeons, like we do. So go check it out right away, guys. Thanks for watching. Like, dislike, check out our other videos, and leave a comment with video suggestions so that you can see your
+idea on Tech Quickie. We're not gonna pay you for it, but we are gonna use it. (tongue clicks) (ding) 

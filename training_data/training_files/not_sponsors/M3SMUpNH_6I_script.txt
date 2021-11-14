@@ -1,0 +1,66 @@
+- Not everyone has the
+cashola to shell out on a fancy 3D printer. And even relatively basic
+home enthusiast ones can still cost hundreds or
+even thousands of dollars. Or at least, they did. Feast your eyes on the Easythreed X1, a sub $100 3D printer, straight to you from Shenzhen, China. It moves, it extrudes,
+sometimes it goofs up. But it has basically zero
+competition in this price bracket, so we absolutely needed
+to take a look at it. (upbeat music) (electronic beeping) I know what you're thinking because I was thinking
+the exact same thing. This thing has to be
+a hot pile of garbage. But hold on for a second. Even if it is hot garbage, you have to appreciate that hitting such a low price point while delivering something
+that functions at all is pretty impressive. There are multiple injection-molded parts, each one requiring a
+costly tool to manufacture and it even comes 99% preassembled. There's clearly a lot of
+value for your money here, as long as you temper your expectations. The accessory package
+includes what you need and absolutely nothing more, you get a small screw driver, a few meters of PLA filament, a card reader and microSD card preloaded with manuals, software, and a test print file, and finally a 12-volt
+2.5 Amp power supply. The X1 gets away with such a
+wimpy power supply, by the way, because there is no heated print bed but that means that you're
+only able to print in PLA as most other plastics will have bad adhesion and warping issues without a heating bed, which is fine. I mean, we can't recommend
+PLA for anything structural but for decorative prints, single-use widgets or toys, it gets the job done just fine, that is as long as it's a
+decent quality filament. Out of the gate, the included G-code file
+produced this little cat model and there is a lot that
+we can learn from this. The stringing between
+the ears and the tail tells us that while the
+X1's hot and cooling fan seems to be working, the lack of a part cooling fan, so one that helps solidify the plastics after it's been extruded, means that the printer ends up either dragging material
+along with the nozzle or printing on top of
+semi-liquid material, There's also visible porosity along the perimeters of the model that tells us that our filament
+is not extruding evenly. Now initially, we blamed the printer
+for this, understandably, but upon closer inspection
+of the included filament, we discovered that it is complete garbage. The diameter of this small
+length of the starter filament varies by over 0.3 millimeters
+from one end to the other. To put that in context, most manufacturers strive to
+keep it under 0.05 millimeters across an entire spool like this one. The good news is that once we switched to some decent filament, the print quality actually
+improved dramatically. It's still not great, especially side by side against prints that are coming
+out of our Ultimaker 3 Plus, but it's in line with our expectations given the price point and I think we can do even better. So from here out, we're gonna be making our
+own G-code using a slicer which takes our 3D model and slices it, hence the name, into multiple 2D layers that are laid down in order
+to make the 3D shapes we want. Now Easythreed did
+include their own slicer called Easyware which
+uses the Unity engine. Yes, that Unity engine
+from "Escape from Tarkov," so that's neat. And it functions just fine
+with the default settings, but the menu is a bit
+unwieldy and for some reason the settings list kept
+scrolling itself upward. So after one test print of our LTT logo, which I have right here, sort of holding together still. We made the decision to move to a slicer, that Colin, our writer for this video, was more familiar with. That's Prusa Slicer which actually ended up making things worse rather than better, believe it or not. Too much material was being extruded and the nozzle was too
+low on the first layer, dragging itself around in the PLA. After iterating half a dozen times though and moving to a slightly larger coin, mostly just to help with the part cooling so that it's not going
+over the exact same spot that's still liquid right away, we actually started to see
+some half-decent results. Now we've still got some infill and perimeter blending issues, which was a little surprising given the up to 30% overlap that we tried, but overall big gains were made and we felt like the X1 was
+ready to take on Benchy. The Benchy benchmark model is an excellent trial
+print for a few reasons, one, it contains nearly every
+difficult 3D printing feature, like curved overhangs,
+tiny surface details, long curved perimeters, and both small and slanted holes. For comparison, this blue one here is printed
+on our Ultimaker 3 Plus. You can check out our full
+review on that printer in the card up here. Now it's not perfect. There's a bit of weird patterning
+in the vertical surfaces but it has nice crisp
+edges with no stringing, and its bridged sections are pretty good considering that there's no
+support structure included. Most of these issues
+can really be attributed to the lack of tuning and our fast print speed. Compared to the X1s, it's easy to see which
+machine did the better job. Oh, by the way, we didn't mention this but it comes with a magnetic print bed. Mind you, it's kind of ruined already from just a dozen prints. But anyway, with more dialing in, we probably could get
+better results than this, particularly on the
+under-extruded sections but the results here are as expected. Our solid infill is still under-extruded which means that even after
+the tuning we've done so far, there's more time we would need to invest in order to improve print reliability. These hanging bits under the roof here, indicate both a lack of speed and cooling. We see a similar problem in
+the undersides of the archways and as for the smokestack on the top, that turned into a hot gooey blob. And this is an example of
+fine detail print problems that you simply cannot fix by slowing down the printhead because it can't solidify with
+the hot end so close to it. Now there are some files out there to hack a cooling fan onto this printer, and actually a heated
+bed while you're at it. But this isn't the printer to buy if you're trying to do even a moderate amount of 3D printing. It's an ultra low buck starter machine, designed to fit onto a bookshelf or in a dorm room closet along with all of your
+shirts from LLTStore.com. If all you wanted was
+something to tinker with, and if you can manage to
+make a bath toy or two for your kid, so much the better. Well it works, which is actually more than we expected for under $100. But if you want consistency and plug and play operation, it's worth the money
+to grab something like a Monoprice Mini which comes in at 219 or if you can swing it, a Prusa Mini. If you guys enjoyed this video, wow, we don't actually do
+a lot of 3D printing videos but hey, you could check out our Ultimaker 3 Plus review I guess. That was a long time ago. Luke was still reviewing stuff. 

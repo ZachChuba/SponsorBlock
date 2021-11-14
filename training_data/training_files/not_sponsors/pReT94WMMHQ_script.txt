@@ -1,0 +1,110 @@
+- Even after playing
+around with it for a while, it's still just weird, you know? It just looks kinda wrong. But there's no denying it. The argument about whether this thing is a computer, or not, is over. With the Magic Keyboard and trackpad, Apple's iPad Pro is, for
+better or for worse, a laptop. Leaving only one question behind. Is it a good laptop? Still weird though. Displate has over 800,000
+poster designs that are vibrant, durable, and long-lasting. Check out the LTT collection, and save 15% with offer
+code LTT at the link below. At first glance, you'd
+be forgiven for thinking that the Magic Keyboard case is an incremental upgrade
+over its predecessor, the iPad Smart Keyboard Folio. It's got the same polyurethane
+exterior and color palette, and it attaches to the iPad
+Pro with super strong magnets, but the two keyboards are in
+entirely different categories. For one, look at the range
+of motion on this puppy. It is leagues beyond
+the two static positions of the Keyboard Folio,
+improving ergonomics, in almost any situation. Our one complaint here is
+that it would have been nice for it to be able to go
+a bit further and back, but I understand that that's hard because the iPad Pro is pretty
+heavy for a laptop display. Which is why, as Riley
+pointed out on ShortCircuit, the Magic Keyboard actually weighs slightly more than the iPad Pro, to prevent the whole assembly from being comically
+unable to stand upright. Another big improvement is
+the built-in USB-C port. Now, it doesn't carry data, but it's kind of magical to
+be able to charge the iPad Pro through the keyboard's Smart Connector, without having a cord
+dangle from the tablets own USB-C port. Of course, even the most Magic Keyboard still has to be a good keyboard and, good news, 'cause it is. It uses the same scissor based switches that Apple has now returned
+to the MacBook line, after replacing them with the universally loathed Butterfly switches. And while the keycaps are a bit wobblier than their laptop counterparts, and it would have been
+nice for them to include a row of function keys for things like volume and brightness adjustment, this Magic Keyboard
+gives an undeniably more laptop-like experience than
+the Keyboard Folio did. And if you really do want an escape key, you can just modify another
+key to serve as one. Although, the go-home trackpad
+gesture, mostly does the job. As for the typing experience, there is a distinct tactile
+bump, with a soft bottom, and typing at speed
+makes you feel like you really are being productive with an iPad. I thought that renders me, a PC enthusiast and laptop die-hard, deeply uncomfortable. Thankfully, I can feel
+a lot more comfortable if I just touch this nice
+soft shirt from lttstore.com Aw. Surprisingly, though, an equal
+if not greater contributor to this productive
+feeling is the trackpad. Yes, iPads can have trackpads now, and this one is actually kind of great. I mean, don't get me wrong, it is tiny. But if Microsoft can get away with using the same tiny trackpad on
+every Surface Pro ever. I think I can accept that
+there simply wasn't enough room to make this one any bigger
+without other compromises. It's got a smooth glass top layer, just like MacBook trackpads, and does not use a diving board mechanism, so it's actually clickable
+everywhere on its surface. And because it's so small,
+yet feels so smooth, we actually ended up
+leaving trackpad inertia on in the settings. I know, it's a sin, but seriously, guys, it's kind of neat because
+it lets you fling the cursor from one end of the monitor to the other, with just a tiny finger movement. I just call it an iPad Pro monitor? What is happening right now? Okay, now we've already
+talked about the way that regular mouse
+support works in iPad OS, but the trackpad has a number
+of multi-finger gestures that completely change the game for using the iPad on a desk. Obviously, two-finger scrolling is here, along with two-finger tap to right-click, although that doesn't work
+on everything in iPad OS. In fact, nothing works
+on everything in iPad OS, it's not very cohesive. But you can also use
+two-finger swipe in browsers to go forward and back,
+and two-finger swipe down from the home screen to
+bring up Spotlight search. The big navigation gestures involve three-finger swipes though. Swipe left or right to
+switch apps, up to go home, and swipe up and hold to
+enter the multitasking menu, from which you can two-finger
+swipe on any app to close it. I gotta say being able to
+zoom around the iPad's UI without lifting your arm up or moving around so much
+to touch the screen, not only makes navigation
+feel much less tedious, actually feels kind of cool. But the story here isn't all
+rainbows and lollipops either. Making the Magic Keyboard, more like a laptop conversion mod and less like a tablet folio
+means you cannot flip it all the way around and use the iPad Pro like a tablet with the
+case still attached, and the stiff supportive
+engine super strong magnets mean that it's impossible
+to open with one hand. And actually, annoyingly
+difficult to open, even with two hands. Here's one. Something we found infuriating
+in the age of laptops whose lids can be lifted
+effortlessly with a single finger. Then there's iPad iOS. Now it's come a long way. I mean, using multiple
+windows in the same app while replying to messages with Slide Over and dragging and dropping files
+to an external hard drive, while plugged into an external monitor is something iPad users
+could only dream about a couple of short years ago, but the fact remains that
+as an operating system, it is still miles behind the versatility that one can find it,
+Windows, Mac OS, and Linux, and that continues to make
+Apple's moves with the iPad Pro, and by extension the Magic
+Keyboard, so confusing to me. In our last video about the
+iPad Pro, we said that Apple had dropped the ball by
+turning it into a laptop because it seemed like they had
+envisioned this grand future where the iPad Pro existed as a different kind of
+professional computing device, one that you use with
+touch and a pencil input, instead of with a mouse and keyboard. And then they pulled
+this big, "Hey, gotcha!" and released a $350 attachment that seems to completely
+negate that vision. I just have no idea how to interpret it. Like, what is this thing? And then making my life as a
+reviewer even more complicated, This 12.9 inch iPad Pro
+starts at $1,000 U.S. with just 128 gigs of onboard storage. That means that altogether
+this setup is $1,400 U.S. For a machine that in the
+mind of any sane laptop user is a clear downgrade from a
+MacBook or Windows Ultrabook. But then there's this funny thing, that doesn't seem to be
+how iPad users see it. We keep making these videos about the iPad where we express confusion and incredulity at Apple's huge missteps with
+their flagship pro tablet, and then iPad Pro users keep telling us about how each of these
+updates, iPad iOS in 2019, and the Magic Keyboard this year, have made them love
+their iPads, even more. They talk about alternative workflows, where they type on their
+iPad at their desk, then pop it on the keyboard
+and use it on the couch. They extol the virtues of apps
+that PC enthusiasts like me have never even heard of
+that let them mix audio and edit images and 4K videos
+and write code on their iPads. I mean, sure, the shortcomings
+that we find so frustrating, mean that they actually cannot
+do the exact same things, the exact same way that we do
+them on a traditional laptop, but they just don't care. It seems like that,
+different way of using this separate pro category device
+is still alive and well, but rather than an either-or
+it's more of a both-and. Use the iPad Pro as a
+touch and pencil device. Use it as a keyboard and trackpad device. It works pretty well either way, mostly. As I alluded to before,
+iPad OS has a long way to go before the kind of uninterrupted, magically smooth UI experience
+that you get in Apple's apps extends to the whole ecosystem. But, even with that in
+mind, after this review I think I'll be looking
+at the iPad Pro's future with less confusion and
+more skeptical interest. With a really light wallet. Speaking of light wallet. Have you checked out our sponsor? They wouldn't mind lightening
+your wallet, but not much. Private Internet Access
+is an affordable VPN, that won't protect your credit cards or your password or your identity. It's just one tool in your
+toolbox for online privacy. It masks your IP and encrypts traffic to and from your devices. Combine it with private browsing tools and you can make even savvy websites think that you are somewhere else. They've got reliable service
+with over 3,000 servers in more than 30 countries,
+it's fully configurable, and you can try it risk-free with their 30-day money-back guarantee. They've got clients for
+Windows, Mac OS, Android, iOS, and Linux, by extension, iPad OS, and you can connect up
+to five devices at once with a single account. So go check it out. If you guys enjoyed this video, maybe check out our recent
+video on, yeah, the MacBook Air. It's a good MacBook Air, go watch it. 

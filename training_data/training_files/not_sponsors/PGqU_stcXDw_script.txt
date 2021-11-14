@@ -1,0 +1,79 @@
+- As many of you have noticed, there's a stark difference between the quality of the videos that I shoot in the studio with my staff and the quality of the videos that I shoot at home by myself. Bless their hearts, my Logitech webcam and
+second generation ModMic, try real hard, but we are day seven into
+the quarantine beard here and I figure if I'm gonna get serious about streaming at home and making videos at home, it is time for an upgrade. Here is what we're starting with. And by the end of this video, this is gonna be about the ballinist streaming
+setup within reason. That is at least if Jake's
+word is anything to go by. First, we've got one of
+Elgato's key light airs. So these are a nice lightweight, super bright WiFi app controlled light that comes with a stand and it doesn't really need a diffuser 'cause it's got its own built in kind of diffusion layer. We've got an Elgato Multi Mount, which I originally thought was a mount for multiple key light airs. Not so in fact that mount
+is for this Canon T6i. We didn't choose this camera for any particular reason and this lens is in fact a placeholder. But the idea was just to have
+a better camera than a webcam. We're replacing the ModMic with a broadcaster mic from RODE that's gonna be powered by a
+U Phoria UM2 from Behringer. Got a nice little stand
+from RODE to go with it. Capturing the video from our camera is gonna be the Cam Link 4K from Elgato. That's a USB 4K capture card. We've also got a power
+adapter for the camera, so that we don't have
+to run batteries in it. An HDMI cable also for the
+camera, pop filter, hammer. I promise you this will get interesting. And finally an Elgato Stream Deck. So this is the 12 button variety. They've got little
+screens on all the buttons so you can set up all your scenes and all that good stuff. Now it's after midnight, which means that I can't
+really count on Yvonne to shoot this whole thing with me. So we're gonna throw
+the camera on a tripod and get real creative about the way that we're filming this
+late into the night. It really is harder to do
+this without a camera crew. (upbeat music) Many people's first impulse
+when they wanna improve their video quality is
+to upgrade their camera. But as you can see, I'm getting a dramatically better feed out of the same webcam that I started this video out with just by changing my lighting. So that's where we're gonna start. But of course rather than grabbing a couple of studio quality lights and bringing them into my house and putting them on C stands. I am of course going to begin
+with these key light airs. Wow, that's a heavy base. They got weights in there. Power supply. So we've got a little ball doodad, we're gonna tighten up them here, key lighter diffusion pad thing here. That's kind of finicky. So you gotta undo this and then you gotta stick both things in without the whole thing coming apart. That goes down at the bottom. And the experience is 100% tool less, except for the user. Eee, got 'em. I'm gonna want these on kind of the right and left to evenly light up my face. You know, I told myself
+that part of this process was gonna be cable managing my desk. That's clearly not happening. Oh, how convenient is that? They've got little numbers on them, so you can actually make them even. Nice. Select the accessory you want to control. Turn it off and back on. Wow, that looks so soft, you can hardly tell I've got
+an isolation beard at all. So you can go ahead, you can adjust the
+temperature of the color. Well, I'm definitely lit AF now. Actually, hey Von, can you
+turn the room lights off, so that we can see what it looks like with just the stream lights? Okay, then well, fancy lights are still not going to compensate for the fact that I'm still using a webcam, but this is progress. Let's see if we can kick things up another notch. This looks even simpler
+than the other mount. You got one of these handy dandy, tighten it to attach it arms right here. And you basically screw this end into the bottom of the camera. Look at it go! Wow, look at that. To be clear, I'm not hating on the Brio. It is an excellent webcam. It's just still a webcam, that's all. The next cool item in our bag of tricks is this DC power adapter. So it actually comes with a wall wart, but I'm not gonna need that because I have a high powered USB port on my USB hub. So I'm just gonna take these cables and plug straight into that. We got video, it's set to 60 FPS, 720p, but I have no idea how
+to get rid of this stuff on the screen or how clean the HDMI feed is right now. For that, we will need
+an HDMI capture card. Just gonna plug the Cam Link directly into the back of my Thunderbolt hub here. We are setting up Cam Link 4K. To hook it up all I
+need is this micro HDMI to HDMI cable, I hope. We had it for a second there. See, that's this. I don't get any output on the back screen when I've got an HDMI
+cable plugged into it, that's sort of inconvenient. There it is, see that? Oh, it's like interlaced AF here. Of course this game
+wouldn't have been as fun without the side quests. Now we're updating the
+firmware on our camera. Firmware update complete, let's plug her back in. Yeah that still looks horrible. Well, that might be a slight problem. It appears that I selected a USB two port. I don't know about that. The Elgato software seems to think so. Now let's try one of
+these other ones then. Okay, we get signal that
+also looks like 60 FPS now. After fighting my way
+through the menu here, I figured out how to
+disable the auto power off. So that's there. What I don't know yet is
+while it does say 60 FPS here, that seems to suggest that
+that's internal recording that doesn't necessarily indicate that the output will be 60 FPS. So it says here 1080i 60 FPS, but then on the input
+than the output is 30 FPS, on Elgato's utility. Maybe that's an Elgato
+setting I can change though. What is good is that a
+60 FPS interlaced output turning into a 30 FPS progressive
+input is perfectly normal. So we're gonna be stuck with
+30 FPS for the live feed, but that should be fine as
+long as the gameplay is 60 FPS. Really doubt anyone's
+gonna be bothered by that. So this is configured. Oh it's got that face detecting. Wow that is a lot of beard. Hey there we go, alright cool. Now I am getting some
+interlacing artifacts you can see that, hopefully we can apply some kind of deinterlacing filter,
+hey deinterlacing. Oh-hoo, that is better, isn't it? That is one heck of an improvement. I think what I'm gonna wanna do is actually match my lights here
+to the light in this room so that I can have a little
+bit of light behind me. This is gonna look that
+much better than the webcam. Webcam, real cam, webcam, real cam. Yeah, I just don't think the webcam is gonna get there, alright? And something to consider guys remember you're gonna see it like this. So at 720p that's gonna look pretty sharp. Okay, then this is progress. This is camera upgrade
+and lighting upgrade. Now it's time for audio upgrade. For this we will need the microphone arm, so I'm gonna go ahead and just attach that right next to where my headphones go. Kind of like that. And this hold the microphone. Oooh, shiny yeah, this clearly goes on here. I have a slight problem right now though. I feel like there's
+supposed to be a little ring in here and I can't find one. Thankfully, there is a backup plan. I'm going to steal the nice
+shock mount from the RE20. Of course a microphone
+like this doesn't plug into just any old three
+and a half millimeter jack, you need an XLR interface. So that is where the Behringer
+Euphoria UM2 comes in. This thing's pretty cool. It's actually completely USB bus powered so you won't be powering
+anything like super, super crazy off that
+or anything like that. But you just plug this
+little puppy and via USB. XLR goes in the front and bippity boppity you are off to the races. This mic requires 48 volt phantom power. So we'll go ahead and turn that on. Now it's time for the big test. Let's see if there's an improvement going from the ModMic
+to the broadcast mic. This is the ModMic. And this is the broadcast mic. What do you guys think,
+ladies and gentlemen? So we got our broadcast mic, and we're back to the ModMic now. So if I was sitting here, Oh, I'm playing a game. It's real intense. I'm got my gamer face on. Now, I'm switched over to
+the broadcast microphone. Now I got my gamer face on, pretty good? I don't know, I have no way of knowing. I'm monitoring this one, but I'm not monitoring the other ones, so I got to go back
+and look at the finish. - Small update. I did my issues with the GOXLR sorted out, so I'm using that now. It might not have the
+most amazing reputation for audio quality either, but I really like a lot of the features and it's super-easy to use. Full credit to the ModMic. It's actually a lot better sounding by comparison than I expected. I mean, obviously, this one
+has a lot more dynamic range, but yeah, credit to the
+multi year old ModMic. Now I remember I promised to use a hammer. That's because one of the biggest problems with my setup right now
+actually has nothing to do with the computer, or really streaming at all. It's that my stupid, stupid
+horrible carpet protector is sliding around all the time. I'm gonna nail it into the plywood. Last piece of the puzzle. Time for the stream deck. Can you program macros a little pictures so you don't forget what they do. The good news is that going
+through this software, I've got this like, epic streaming setup that I can use. Alright, OBS. So title, screen, scene,
+blindness, screen share. I'm all set up. So now all that's left
+is to jump into a game and see if I have got what it takes to be the next Twitch sensation. Here we go ladies and gentlemen. Let's see what we can do about our eyeglasses supply chain. You've got to get some more eyeglasses. There's no way to win, right? You get to the point
+where you use propaganda and people get mad 'cause
+you use propaganda. And if you don't use propaganda, they're mad because you
+didn't use propaganda to increase their happiness. Like why are the Engineers so mad? I feel like I'm watching my
+future as a Twitch streamer. Okay, well, let's go,
+just attack the harbor. Do we have anything? We're gonna have that link below. If you guys enjoyed this video, maybe check out some more
+of my isolation content. I replaced the cells
+inside a battery bank. That was a fun little adventure. The sparks definitely flew
+so maybe check that out. The beard wasn't quite as glorious at that point yet though. 

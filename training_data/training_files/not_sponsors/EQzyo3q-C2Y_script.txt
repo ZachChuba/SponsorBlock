@@ -1,0 +1,27 @@
+You are currently watching an online video,
+which means your screen is shooting photons at your face in a pattern determined by pieces
+of data that have traveled around the world as electrical impulses. The motions of these electrons and photons
+are undeniable physical actions with real energy costs that even energy-conscious video-makers
+can’t avoid: by the end of this video, you will have used the equivalent of about two
+double-A batteries. Some of that energy is used by your device
+itself. Laptops consume around one double-A battery’s
+worth of energy every five minutes; mobile phones and tablets use one every half hour
+or so. That’s a lot of juice, but it’s only a
+portion of the total energy used to watch an online video. The rest comes from delivering the data to
+your screen. Every pixel of every frame starts off as a
+string of 0’s and 1’s stored somewhere on a distant server until called for, at which
+point those 0’s and 1’s are transferred via local metro networks, high capacity long-haul
+networks, undersea cables, more local networks, local access points, and your own internet
+router, all before reaching your screen. Estimates for the total energy used on this
+journey are hard to make, but various analyses suggest that a double-A battery’s worth
+of energy will get you around ten megabytes of data. A three-minute live-action video is around
+30 megabytes, so it drains 3 double-A’s to stream or download. MinuteEarth actually has it better, because
+stick figures are awesome conservers of energy: videos with simple visuals can be stored as
+smaller files and transferred much more efficiently, so our videos only drain about 2 batteries. Add in the energy your device uses to display
+the video, and the grand total is somewhere between two and two and a half batteries per
+view. But MinuteEarth videos can get upwards of
+five hundred thousand views – collectively, the same as draining over a million double-A
+batteries, or as much electricity as an average American household uses in three months. Which is a lot for one video. Don’t even ask how many households’ worth
+of energy have been used watching Gangnam Style. The numbers in this video are based on averages
+for the energy consumption of various devices and servers and on the average data sizes
+and bitrates of online videos. Actual energy use may vary. 

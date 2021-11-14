@@ -1,0 +1,151 @@
+Should I just try it? Should I 
+just swing my arm right through? You didn't think I was actually going to show you 
+that in the first five seconds of the video... Don't worry, it does happen though. So in case you've been living under a rock, Disney recently announced that they've created the world's first retractable lightsaber which is kind of strange considering I have a certificate right here from last year. Ok ok so ours is still technically a proto 
+lightsaber since it requires a backpack but we are actually working on a 
+newer version that might just be fully self-contained in the hilt. But more on that later. So has Disney really made a real 
+working, fully in the handle gosh darn, laser beaming, 
+plasma cutting, lightsaber? Well probably not it's actually probably similar 
+to the toy lightsabers that I grew up with. In fact they actually filed a 
+patent a few years ago about it, but of course patents are always 
+a little confusing to read. And if you're looking at 
+this with an untrained eye you might be like "yeah 
+this is a lightsaber, cool" but if you look a bit closer it's pretty obvious 
+it won't be cutting through anything anytime soon. Luckily benriddout on Twitter created an animation that kind of explains the 
+rough concept of this patent. And it's pretty cool. I just hope the LED's they're using 
+are super bright because if they are   it will be the most realistic and coolest 
+extendable prop lightsaber on the market. Anyway let's talk about the closest 
+thing to a real lightsaber on the market. Well I guess it's not really on the market 
+since we're not willing to sell it... But I'm talking about our current proto saber. In celebration of May the 4th be with you we thought this would be a good time to answer 
+a few more questions about our lightsaber and maybe try a few new tests 
+including putting a hand through it. Which we'll do at some point in this video. Our original lightsaber video 
+is now our fourth most viewed   video on the channel with over 31 million views! That's absolutely insane! If you add up all the views of all our lightsaber 
+videos it's over a hundred million views! You guys must like lightsabers or something. So let's take a deep dive and talk a 
+bit more about how this actually works, what it can and can't do, and touch on how 
+we're going to make it better for the future. As we mentioned in the build 
+video the basic principle of   a proto-saber is burning a 
+mixture of laminar flow gas. In this case propane and oxygen. It's not creating pure plasma but there is a 
+certain amount of plasma in the burning blade. What makes it possible is the laminar flow nozzle 
+which is from GTT glass torch technologies. That's right the secret to our proto-saber is 
+a piece of tech that's been around for decades! And I guarantee anyone who's ever used or seen a   glassblowing torch has probably waved 
+it around humming lightsaber sounds. The cool thing is we're actually 
+going to be working with GTT   to develop a new type of torch more 
+suitable for our lightsaber-like application which might just be the key in being able 
+to make one of these fully cordless...maybe. So what are the biggest issues with our design? Well for starters it's a proto-saver 
+and having a cord is kind of lame. But we've explained in past episodes one of 
+the biggest issues with a real lightsaber is getting enough energy into such a small hilt. It's just one of those things that you know 
+is limited by our technology of the time. Maybe someday though. The other big issue that lots of people pointed 
+out is how the length of the blade kind of varies. Since it is a torch flame it's susceptible 
+to having its gas flow disrupted like this. When it's pointed straight up we can get a blade   length of almost three feet 
+or around 100 centimeters, but when moved fast the blade can shrink 
+down to a foot or about 30 centimeters making swinging a lightsaber 
+around kind of difficult. Now the thing I'm curious about is if 
+it's air resistance that causes this, what if I use this lightsaber in outer space? I'm probably not going to be able 
+to try that anytime soon but what   if I could test it out in a 
+large enough vacuum chamber? Hypothetically since this lightsaber provides 
+its own oxygen it doesn't need air to work, and if it's the surrounding air 
+that's causing this disruption of gas you might be able to swing this around in a 
+vacuum chamber without the blade changing at all which would be really cool. The issue is, where do we find a giant vacuum 
+chamber that we can put this in besides like NASA? Seriously if any of you guys know of a 
+vacuum chamber that this could be tested in   let us know and send us an email 
+at contact@thehacksmith.com. A lot of people also asked what are lightsaber 
+sounds like without any added lightsaber sounds...  and well this is what it sounds like... it basically sounds like a louder 
+version of a mini saber blowtorch. Which honestly is probably what a 
+real lightsaber would sound like   if a real lightsaber is in fact plasma. It would make some noises not 
+unlike that of a real lightsaber is. In fact, a laser well it probably 
+wouldn't make any sounds at all. Okay now what about cutting power. In the movies lightsabers can swing quickly 
+through things cutting them instantly. Unfortunately in real life we have to deal 
+with a branch of physics called thermodynamics. Specifically heat transfer. Have I lost you yet? Let's start with a basic example. Take a tea kettle for instance. Water boils at 100 degrees Celsius. A tea kettle heating element can 
+heat up to 100 degrees Celsius, but water doesn't just boil instantly when 
+you turn on the kettle or when you blast fire. You see it takes a few minutes. That's because the heat created from the 
+element needs to transfer into the water. In order to heat it up or in 
+the case of a light saber, how long does it take for the heat from   the light saber to heat up the 
+material to its melting point, at which point it would start to cut? So how do we figure out how long that 
+takes using specific heat capacity? The specific heat capacity of material is 
+the energy required to raise one kilogram   of the material by one degree Celsius. The specific heat capacity of water is 
+about 4180 joules per kilogram Celsius. A watt is a joule per second so how 
+long does it take to boil water? Well let's try out the calculation. If we take one kilogram of water which would   be one liter since water is a 
+kilogram per liter in density and it has a specific heat capacity 
+of 4180 joules per kilogram Celsius. We want to hit 100 degrees Celsius and it 
+starts at room temperature or about 20 degrees. Therefore the calculation is one kilogram 
+times 4180 times 80 degrees Celsius which equals 334 400 joules which means in order to have a kettle boil a 
+liter of water in just one second   you would need 334.4 kilowatts of heating power! Remember the average North American home only has 
+about 48 kilowatts of power for the entire house! Luckily no one needs to boil water instantly. Even our original tungsten titanium proto 
+lightsaber which was essentially a giant 20   kilowatt heating element well it would take 
+that 16.7 seconds to boil a liter of water. It's fast but it's definitely not instant so if you want to boil a liter of 
+water in a minute we can divide   this total power by 60 seconds 
+which will only be 5.56 kilowatts. Quite a bit more reasonable but the 
+average kettle is only 1.5 kilowatts   because of the limitation from an outlet. At 1.5 kilowatts of heating power it 
+would take the average kettle about   3.71 minutes to boil an entire kilogram of water so yeah it takes a while to heat things up. Luckily water actually has a really really   really high specific heat capacity 
+while water's around 4200. Steel is only 420 or a tenth of water. That's great right, that means you 
+can slice through a wall of steel 10   times faster than boiling a wall of water. Right? That doesn't even make any sense. Anyway for those that didn't 
+listen to my physics explanation, is it takes a long time to transfer heat into 
+an object or cut an object with a lightsaber. The only things we can control to speed it up is   the temperature of the lightsaber or 
+the melting point of the material, or the amount of material. So yeah we can cut through a sheet of thin lead   quite quickly since it has a 
+lower melting point than steel, but there's less material to heat up. And it's not steel, so the real question 
+is how hot could we get a lightsaber? Our current saber clocks in at an impressive 
+2200 Celsius or about 4 000 Fahrenheit. Using the current fuel mixture an acetylene torch 
+can hit about 6200 Fahrenheit or 3500 Celsius which is hotter than most 
+materials melting points. Unfortunately there are some challenges in 
+running oxy acetylene in a torch like this which is why we use propane instead. Anyway the issue is even at 
+those massive temperatures   we still need to take into account heat transfer. A focused oxy acetylene torch can cut 
+through steel plate fairly quickly, but part of the reason that works is 
+because a cutting torch is good at cutting. It's because it has a very thin blade which means   it only needs to heat up a 
+small amount of material, which means it can cut things a lot faster. Even though our lightsaber is 
+hella hot it's got a big blade and that means the heat isn't 
+very focused when cutting things. It has to heat up a lot of material 
+before it can start cutting   and unfortunately that's just the 
+reality of lightsaber physics. In fact the only time lightsabers 
+were portrayed in a reasonable way   was when Qui-gon Jinn cut 
+through the blast shield doors. It actually showed that it took time to heat up 
+that much dura steel in order to cut through. Even though every other depiction of 
+a lightsaber shows it either cutting   through things instantly or in 
+the case of vesgar not at all. Our lightsaber could cut through a few inches   of steel plate it'd just take a 
+really really really long time. If we wanted to be able to 
+slice through things and cut   metal just like the movies 
+I'd guess that our lightsaber would have to be in excess of 
+twenty thousand degrees Celsius   aka four times hotter than the surface of the sun! We could even do some calculations with our 
+handy dandy specific heat transfer equation   but why bother if the blade 
+is 20 000 degrees Celsius. You wouldn't even be able to hold the lightsaber. Okay back to our other lightsaber questions... Lots of you guys asked if it would be 
+possible to put some kind of solid blade   inside of our lightsaber so it could 
+actually deflect another lightsaber. Now that could work but the issue is   most materials that are capable 
+of withstanding this heat are also rather brittle which means it 
+might work but you'd still have to gently hit lightsabers against each 
+other which is also kind of lame. A lot of people also asked what would happen if you shot a bullet 
+through the lightsaber, would the bullet melt? Well no, no it wouldn't. And again we can thank heat 
+transfer for the answer. Since a bullet would be moving super 
+fast through the blade I would guess that it wouldn't even warm up because it spends 
+so little time inside of the heat source. But hey let's prove it. I'm going to 
+use a nerf gun for our demonstration. Though now a nerf dart has a very 
+very very very low melting point   and it travels a lot slower than a bullet. So first off let's see what happens 
+if we put this into the lightsaber. And it's gone. Now that happened pretty quick, but the 
+question is what if I shoot the nerf dart? Not even warm. And that's that's heat transfer for you. Because it moved so quickly it didn't actually 
+take on much heat from the lightsaber. I guess lightsabers aren't actually very good 
+at deflecting things or even melting things. Alright that was kind of 
+disappointing, but was to be expected. So let's get to the real meat and potatoes of 
+this video, the reason you clicked on this video. Would this lightsaber cut off my hand? Should I just try it? Should I 
+just swing my arm right through? So like we learned as long as I can minimize 
+my hands time inside the lightsaber blade hypothetically I won't cut my hand off. My skin and body have their 
+own specific heat capacities. Though the human body's ability to self 
+regulate temperatures kind of changes that it takes a long time obviously. A dead hand might actually be 
+a more scientific test...maybe. Yeah it's a box of hands. In all seriousness though these are actually wax   hands from Ripley's Believe 
+It or Not museum in Orlando. A big thank you to Kurtis to sending 
+these to us for our lightsaber tests which well you get your wish. We're gonna we're gonna see what happens. Alright okay for the first test we're gonna 
+slowly put this hand through and see what happens. Whoo. That still takes a while but 
+that would most certainly be a   third degree burn or a fourth degree burn. Is there such a thing as a fifth degree burn? It definitely burns the hand but what 
+if we swung the hand through quickly? And this one...this one has hair on it 
+so let's see what happens if I swing this   through the lightsaber really quickly? Is it going to heat up is it going to melt at all? And depending on the result is that 
+going to give me the confidence required   to swing my own hand through the lightsaber? Here we go karate chopping a lightsaber. Um not even not even warm. Let's uh let's do it upside down see 
+if we can burn some of these hairs off. Even the hair Alright so this can't be 
+overstated do not try this at home. I am a trained professional idiot and uh yeah   based on my calculations 
+everything should be fine. You guys ready? uh Alright that was awesome! Did you see how the flame wrapped 
+around my hand and through my fingers? And I didn't even get burnt! That's because the time my 
+hand spent in the actual fire   wasn't long enough for the 
+heat to transfer into my skin. Regardless do not try that at home, 
+don't try sticking your hand in fire just to see if you can. If you end up holding it in for just a bit 
+too long you could end up with serious burns. This was a risk, it was a calculated risk 
+on my part and I'm a trained professional. But don't try this at home. I hope you guys enjoyed this video and 
+maybe learned a thing or two about physics. We're going to keep working on our lightsaber 
+technology so make sure you subscribe. Because our next version of this, 
+well maybe not the next version. We're going to try and make it fully 
+cordless which would be really cool. And also make sure you keep your 
+eyes peeled at hacksmith.store   because we're releasing our very own mini saber. Thanks for watching guys! 

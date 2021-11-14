@@ -1,0 +1,49 @@
+Bicycles are one of the most efficient and
+versatile human-powered means of transportation we have yet devised. But perhaps even more incredible than humans
+riding bicycles is the fact that bicycles can ride themselves. Yes, once they’re set in motion at a sufficient
+speed, bicycles can stay upright without any human intervention. A common misconception is that bikes stay
+up because of conservation of angular momentum – that is, since the wheels are spinning,
+if the bike tips to one side there’ll be some sort of countering force from the wheels
+that keeps the bike upright. But there’s an easy way to see this explanation
+is wrong: simply lock the handlebars in place and a moving bike will fall over just as easily
+as a stationary one. Another common misconception is that bikes
+stay upright because of their forward momentum. However, if you knock a ghost-riding bicycle
+sideways, it’ll change directions and then continue merrily on its way – plainly changing
+its momentum, but nevertheless staying upright. What we do know about how conventional bikes
+stay upright on their own is this: when a moving bike starts leaning to one side, it
+also automatically steers towards that side a little bit. The result is that the wheels come back underneath
+the center of mass, keeping the bike balanced. And there are three main mechanisms responsible: First, because of the backwards tilt of a
+bike’s steering axis, its front wheel actually touches the ground slightly behind that axis. This means that when the bike leans to the
+left, the upward force from the ground acts to turn the wheel and handlebars to the left,
+helping the bike steer its wheels back underneath its center of mass. Second, the weight of a bike’s front wheel
+and handlebars is generally distributed slightly in front of the steering axis, so when the
+bike leans to the left, the downward pull of this mass also helps turn the front wheel
+to the left, the same way divining rods will turn towards whatever direction you tilt your
+hands. Third, there is indeed a gyroscopic effect
+from the wheels, but it doesn’t keep the bike upright on its own. Instead, it helps steer: as Destin and Carl
+demonstrate excellently in this video about how helicopters work, trying to tilt a spinning
+object makes the object tilt as if you pushed it at a point 90° away from where you did
+– it seems spooky, but basically the effect of your torque lags behind where you push. Now imagine this happening vertically on a
+bike, and you can see that the gyroscopic precession from the bike’s leftward lean
+makes the front wheel turn to the left, again helping steer its wheels back underneath its
+center of mass. In short, a normal bicycle is stable thanks
+to a combination of the front wheel touching the ground behind a backwards-tilted steering
+axis, the center of mass of the front wheel and handlebars being located in front of the
+steering axis, and the gyroscopic precession of the front wheel, all of which help the
+bike automatically steer its wheels back underneath it when it leans. At least, when it’s moving forwards at the
+correct speed. If the bike’s going too slow, it won’t
+turn quickly enough to keep from crashing into the ground. And if you push the same bike backwards, the
+gyro effect will reverse but the other two effects won’t, with the result that the
+wheels are steered out from under the bike when it leans. What’s more, none of these three mechanisms
+is, on its own, the secret to bike stability: here’s a bicycle that has no gyroscopic
+effect and whose front wheel touches the ground in FRONT of the steering axis yet which is
+stable without a rider. Here’s a stable rear-steering bike, and
+here’s a design for a stable bike where the steering axis tilts forward instead of
+back. On the other hand, I made my own bike totally
+unstable just by adding some extra weight behind the front fork. There are clearly a lot of different variables
+that can be combined in various and surprising ways to make stable and unstable bicycles. Adding a human to help with steering and balance
+can sometimes make unstable bikes stable, and I imagine a rider would also make some
+stable bikes unstable. But amazingly, even for a riderless bike,
+science currently doesn’t know what it IS about the special combinations of variables
+that enables a bike to stay up on its own. We just know that some combinations work,
+and others don’t. 

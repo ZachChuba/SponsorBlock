@@ -1,0 +1,134 @@
+- Altogether, I pay just
+shy of $10000 a year for Adobe's software. A fact of which I am painfully reminded every time my editors complain that Adobe still doesn't have a decent HDR workflow and that they straight up crash
+whenever they feel like it. Now, that wasn't always the case. Once upon a time, when
+you paid for software, you owned a perpetual license to use it, before the dark times. Before software-as-a-service. But there is a light in
+this dark, dark world. Not every company has
+embraced the trend of charging for their software by the month, so I challenged my team to find out, by editing the production
+you're watching right now, if we can make videos without touching a single pay-forever app. So that means no Adobe and
+what that would be like. So have we freed ourselves then
+from the clutches of Adobe? Well, it's complicated. You know what's not complicated though? Whether you should check out our sponsor. Origin PC's new EVO16-S,
+ready-to-ship streamer bundle ships within one to two business days and comes with multiple streaming accessories and a 250 gig Samsung
+960 EVO M.2 boot drive for quick load times. Learn more at the link below. Let's begin with ingesting
+our camera footage. While Adobe does have Prelude for this, I don't think many people actually use it. It's clunky and it doesn't
+offer many advantages over just dragging your
+clips straight into Premiere. Kyno, on the other hand, is lightweight, supports a wide array of
+codecs and file types, and is excellent at
+managing batch processes like transcoding or file renaming. Once you've logged and
+organized your footage, a right click action can
+bring it straight into the NLE of your choice. - AKA your video editing program. Unlike Prelude, Kyno isn't project-based, it's essentially like
+a special file browser, custom-tailored towards editors and the drill-down function is awesome. It lets you see all the
+video, audio or image files in that drive or folder, no matter which sub-folder they're in, which is especially
+useful when you're dealing with memory cards from
+different cameras or recorders which might have different
+folder structures. - And it's way better than using Finder. I get the features of
+both but it's as simple as just opening up file explorer. It's friggin' sweet. - And the difference between
+their billing approach and Adobe's is that if you
+decide you don't need updates, you can keep using that software after the support period ends. - This is looking great so far. Then again, we were already using Kyno so that wasn't much of a stretch. Next up is our nonlinear editor or NLE. We actually had a couple of options here, with the main ones being
+Vegas Pro, Avid Media Composer and Da Vinci Resolve. Let's start with Vegas because
+it has a customizable UI, similar to Premiere Pro, even if it does feel a
+little bit old school. The audio-editing tools
+in Vegas Pro are actually pretty similar to Premiere, but the lack of Audition's
+dynamic linking is a clear downgrade. That means that you have
+to send audio from Vegas over to a dedicated audio editor, then pull it back in. Then there's the limited functionality when it comes to working
+with multiple sequences within a single project because, well, you can't do that. Now Vegas recently added
+the ability to work with nested sequences but
+it's a janky solution, involving having a separate
+project in your timeline. So suffice to say, despite
+my personal liking for it, we're gonna be pulling
+the lever on this one. That's a Vegas joke. As for Avid, well honestly,
+it's kind of part of the same category we're
+trying to get away from. Avid, Adobe, Pro Tools, these are the industry giants
+that have robust feature sets but also have equally robust pricing. Avid is also much better suited to a more traditional, film-style workflow, where you might have multiple editors, editing assistants, colorists
+and VFX artists working on the same project. We, and most other
+YouTube content creators, usually have one or two editors, at most, handling all aspects of a production, which is why the way that
+Adobe's apps all dynamically link to each other, without
+having to export anything is Then, there's Da Vinci Resolve. It's cheap, there's even
+a free version of it, and it's got great performance,
+along with what are arguably the best color grading
+controls in any of the programs we've mentioned, including Premiere. It also has built-in audio
+editing with Fairlight and built-in effects tools with Fusion. You can have multiple
+sequences and nested sequences in one project, making it, well, make a bit more sense
+for people who are used to Premiere. Resolve seems to be our best option, so that's what we're gonna
+be using to edit the video you're currently enjoying. - (murmurs) a few slick
+takes on some standard things like with trimming clips or slip edits. The way it provides visual
+feedback makes it a lot easier to do than with Premiere. Color grading is great
+because you have a ton of control over everything. And because Resolve is so GPU-accelerated, playback performance is fantastic. Even with color grades or some effects, it's all just pretty smooth. It's not perfect though
+since there is this issue where you run out of
+GPU memory and you have to restart Resolve. From what I can tell, the only real solution is
+to throw more GPUs at it. Learning how to use Resolve
+is kind of a steep curve because of it's unusual layout which I honestly find a bit annoying 'cause you can't really customize
+it besides resizing panels of it. You can turn them on or off
+but you can't undock them and move them around, so really, you're stuck
+with the basic layout. You can use more than
+one monitor but, again, you can't choose what goes where and you have to disable full screen mode before you can even minimize
+or resize the main window. - Why? Just why? At least the price is right though. Anyway, as we said, Resolve's audio editing
+module is called Fairlight and it's great for
+cutting and mixing audio. But compared to Adobe Audition, or other digital audio
+workstations like Pro Tools, Logic and Qbase, it's fairly light on the features. Get it? - We don't do that much audio processing besides some level adjustments. And if we do, Fairlight does support many of the same plugins as Audition. Plus, we're used to Audition
+being able to dynamically link with Premiere Pro, so the fact that Fairlight is
+essentially part of Resolve is a huge plus. - And how much does
+this one cost per month? Really? Wow. The situation is similar
+from Ocean Graphics. Vegas Effects would be
+a decent option here, if we had gone with Vegas Pro for our NLE, because they actually do have
+some linking functionality, similar to Adobe's apps. But we didn't because while
+Vegas Effects has some of the same functionality
+as Adobe After Effects, and it is comparatively easy to use, it is just nowhere near as capable. Fusion, on the other hand,
+is an interesting candidate, particularly for compositing. - But while Fusion's
+node-based system makes it an excellent choice for
+compositing and special effects, once you get the hang of
+the interface that is, motion graphics is kind of
+overcomplicated compared to doing it in After Effects. You can use Fusion as a tab within Resolve but if you need some more flexibility, you can also use the
+standalone Fusion Studio App, which can be activated
+with the same license you bought for resolve. - You know, this is going great so far. I am gonna save so much money. Finally, there's image
+editors and, as it turns out, there's a reason that Photoshop
+has become the Kleenex of photoshopping stuff. I mean there's Vegas Image,
+which comes with Vegas Effects in a package but it's... I don't know, it's less
+of a Photoshop alternative and more like a unique and
+confusing blend of After Effects and Lightroom. So we'll be going with a
+program called Affinity Photo. It doesn't have the latest
+Photoshop bells and whistles, and it does do non-destructive
+raw image editing for some reason, but for 95% of the stuff people
+normally do with Photoshop, it's actually pretty dang good. - As long as you don't need to collaborate with Photoshop users. And while you can export to PSD, there are conversion issues. Though they say that the next
+major version will fix these. And the way that layers,
+masks and effects work takes a bit of getting used to, although the intuitiveness
+of the UI certainly helps. For illustrator-type tasks, there's also Affinity Designer and the story here is much the same. It can open illustrator
+files but can't save them, and it's tracing and
+pathfinder features are weaker. But overall, it'll get the job done. - So that's it, we did it! We edited a video, start to finish, without Adobe. But are we gonna keep this
+liberation train going and swear off them for good? No, we're actually going to
+crawl straight back to them and here's why. First up, the size of their
+app library is unparalleled, whether you're creating
+videos with effects, audio, image, documents, webpages, there's an app for that. And in today's age, where
+many creators are one-man, or woman, bands instead of
+having a dit for ingesting, as assistant editor for logging, an editor for cutting, a
+designer, an animator for graphics and so on and so on and so on, a single ecosystem is very attractive, even if its bugs occasionally
+make the biblical plague of locusts look like
+not that big of a deal. Second up is intercompatibility. For better or for worse, pretty
+much every else uses Adobe and nobody likes to be that guy who sends the weird file formats
+that nobody else can open. The thing is you don't get to
+pick who you're doing business with and not everybody out there in the great wider world has the tech savvy or the willingness to deal with
+your snowflake file format. And guys, it's a creative industry, collaboration is a big part of it. Finally, I realize it's been mentioned a couple times already, but the way that Adobe's
+apps dynamically link with each other drastically
+cuts down on the time that you would otherwise
+spend saving, exporting, editing and then importing
+files between your apps. So I asked our team how
+close they think we could get to creative suite levels of efficiency and the highest number
+that I got back was, "As much as 90%." On the face of it, that
+sounds pretty good. That's an A. But let's do some napkin math here. The average video editor
+in the United States makes about $29 an hour. We've got seven of those. So assuming that we
+were paying those rates, our editing staff would cost
+us about $420000 a year. Nice. So then if we were to slash
+their productivity by 10% by taking away their preferred software as a cost-saving measure,
+we would need to either cut our 17 video per week production schedule, costing the company revenue, or we would need to hire
+to cover that difference, costing the company over $40000 a year. Plus, the extra space
+we'd need in the building, extra editing workstation, I think you see where I'm going with this. I mean, we're not saying
+that using Vegas or Resolve or even some of the awesome,
+free editing tools out there, like HitFilm Express,
+aren't gonna work for you. We're just saying that even
+if does feel a little bit like Stockholm Syndrome, Adobe continues to be our best option. For now. Just like our best option for our sponsor for this video is Corsair. The dark core RGB gaming
+mouse has three different ways to connect to your PC. Ultra-fast, one millisecond,
+2.4 GHz wireless. Low latency Bluetooth, which
+is compatible with a wide range of devices. And, of course, wired USB for all-day use. It's got an 18000 DPI optical
+Pixart PAW3392 sensor. It features Qi wireless charging, and it's got interchangeable side grips for a perfect fit. Oh and, of course, it's Corsair. There's RGB dynamic
+backlighting and customization with Corsair IQ. I mean, how could you have a
+Corsair product without RGB? So go check it out at the
+link in the video description. 

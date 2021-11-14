@@ -1,0 +1,100 @@
+Thank you to Skillshare for supporting this
+episode of Journey to the Microcosmos. And if you are one of the first thousand people
+to click the link in the description you can get a two-month free trial of Skillshare’s
+Premium Membership. There are so, so, so many microbes in the
+world. This far into our journey, it’s kind of
+astonishing to think that for all of the exciting and odd creatures we’ve watched, we’ve
+only kinda dipped into the shallows of the microcosmos. And like, have you ever sat back and been
+overwhelmed by the enormity of this minuscule world? Of just how many organisms are out there,
+both known and unknown, whose lives have been sustaining ecosystems and changing climates
+and doing just so much stuff for eons and eons as this diverse, invisible mass? Scientists have been parsing through this
+overwhelming world for a few centuries now, identifying the specifics of how individual
+organisms live and connecting them to the bigger picture of how our world works. But what we especially love to do with the
+natural world is categorize, and perhaps the most familiar image of the categories we’ve
+created is the phylogenetic tree. The goal of phylogenetic trees is to track
+the organisms we know of through their place in evolution. Take, for example, these various corkscrew-shaped
+bacteria, members of the Spirochaetes phylum. This phylogenetic tree is from the 90s and
+has been updated with more data, but we’ll use it just for now because it's relatively
+simple and that’s useful for explaining how the trees themselves work. The ends of these trees are the various spirochetes
+that scientists have been able to study, and if you move to the left, you can see their
+branches coming to an unnamed ancestor shared with other similar spirochetes. These ancestors then branch back and connect
+with each other in various structures, creating that oh-so-familiar tree-like structure. And at the bottom is E. Coli, which functions
+here as an outgroup, a useful reference as something not immediately part of the Spirochete
+phylum. We use these diagrams along with the words
+“kingdom” and “phylum” to categorize everything from the tiniest microbe to the
+largest whale, but it’s important to remember that these trees are our interpretation of
+what we’ve seen. Nature didn’t set out to create kingdoms
+and phylums, those are categories we created to help us make sense of the natural world. It takes a lot of complex work to simplify
+nature in this way, and the process behind creating these evolutionary trees has itself
+been an evolving one. In the days of Darwin, evolution was connected
+to the things we could see, and when it comes to macroscopic animals, the things we see,
+like anatomy and fossils, are very useful. Microbes though, are a bit tougher. When we first began observing them, we tried
+to understand them with words we already knew, which led to confusion over whether they should
+be considered tiny plants or tiny animals. But with time and more observations, scientists
+began to divide these organisms, and really all of life, into two overarching categories:
+bacteria and eukaryotes. This dichotomy would be most obvious in the
+microcosmos, but these divisions were still just a container that hid a confusing array
+of connections. Bacteria, for example, might be grouped together
+according to all sorts of factors, like their ability to form colonies or the danger they
+posed to humans. But it hadn’t always been clear that the
+commonality of these traits necessary links in anyway to how they evolve. We’ve seen this again and again in our journey
+through the microcosmos: in the amoebas and euglenoids and so many other organisms whose
+evolutionary connections seem straightforward based on their morphology. And then, inevitably, we bring out the source
+of so many plot twists. We’re talking about molecular phylogeny
+and the host of techniques it encompasses to reveal genetic connections that our eyes
+cannot see. But molecular phylogeny doesn’t just show
+us a whole bunch of things we got wrong. It’s helped reveal new categories and relationships
+within the microcosmos. The seminal work behind these techniques was
+published by Carl Woese and George Fox in 1977, and it was rooted in a straightforward
+but powerful notion, that the sequences of molecules inside microbes could help us make
+connections that their morphology could not. This wasn’t a new idea: scientists had been
+linking amino acid sequences between animals. But the real challenge lay in figuring out
+what molecular sequence would actually be best to accomplish this goal in microbes. We needed something universal enough to connect
+all organisms, but also simple enough to compare using the sequencing methods available at
+the time. So Woese suggested an organelle that you might
+not think of all that often: the ribosome. Across all living cells, ribosomes are the
+protein factory, taking in RNA and translating it into the molecules that make our bodies
+and all life work. And the ribosome itself has an interesting
+structure, made up of both protein and RNA. Woese and Fox picked out a particular subset
+of that ribosomal RNA, compared the sequence different organisms used to construct that
+segment, and then built a phylogenetic tree out of the similarities and differences in
+that sequence. Their results did more than just create a
+tree though, it revealed a whole new subset of life that lay outside what we had assumed to be the binary divide between bacteria and eukaryotes. They had uncovered the archaea, a type of
+prokaryote that had been assumed, up to that point, to be a strange type of extremophile
+bacteria. But thanks to archea’s ribosomal RNA and
+additional understanding of their morphology, Woese and Fox realized that they were separate
+from bacteria. An entire new domain of life. Molecular phylogenetic techniques have gone
+on to shift our understanding of microbes, raising questions and providing insights into
+how everything from sex to eating have evolved. But there are still many other methods of
+evolution that may not be captured by these techniques, including of course endosymbiogenesis
+and horizontal gene transfer. Everybody’s two favorite non-linear methods
+of evolution. Establishing these phylogenetic trees, for
+all that it has helped us simplify nature, also emphasizes just how many complexities
+we cannot easily illustrate. Connecting organisms through their evolutionary
+relationships helps us establish a history of nature and map out the microbial world
+as it exists today. That map will likely never be complete, but
+the work that goes into it helps us navigate through time and space and through invisible
+lives, long gone, to see how our world today is connected to the microcosmos of the past. Thank you for coming on this journey with
+us as we explore the unseen world that surrounds us. A lot of us are working at home right now,
+and for many people, it’s the first time they’re experiencing the work from home
+lifestyle. One of the biggest struggles with working
+from home is making sure you’re still able to be productive while living, working, and
+spending the majority of your time all in the same place. Thomas Frank is a YouTuber who knows a lot
+about productivity, and over on Skillshare, he teaches the incredibly helpful “Productivity
+Masterclass”. He’ll walk you through the steps to setting
+up your own Productivity System to help you be better at making to-do lists, organizing
+your files both physical and digital, as well as tackling the dreaded world of your email
+inbox. Skillshare is an online learning community
+that offers membership with meaning. With so much to explore, real projects to
+create, and the support of fellow-creatives, Skillshare empowers you to accomplish real
+growth. And it makes it easy with short classes that'll
+fit into your daily routine. A Premium Membership will give you unlimited
+access, so you can join the classes and communities that are right for you. And an annual subscription to Skillshare is
+less than $10 a month, and if you’re one of the first 1,000 people to click the link
+in the description, you can get a 2 month free trial of Skillshare’s Premium Membership. Thank you to all of the people here on the
+screen. They are our Patreon patrons and they are
+the reason why we are able to make this show. So, if you like what we do, we are grateful
+if you are grateful to us, but even more grateful if you’ve grateful to our Patrons. This is the last episode of Season 2 of Journey
+to the Microcosmos. We’re gonna take a couple of weeks off,
+but then we will be back on August 10 with a new episode. If you want to see more from our Master of Microscopes James, check out Jam & Germs on Instagram. And if you want to see more from us, there’s
+always a subscribe button somewhere nearby. 

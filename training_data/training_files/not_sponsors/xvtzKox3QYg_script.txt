@@ -1,0 +1,135 @@
+I would love to put something
+on the surface of the moon. But, it's tremendously expensive
+to put things in space. The whole space launch industry,
+people building rockets and putting things in space
+is going through this massive revolution. Everyone is basically working towards this
+goal of democratizing space. I certainly see
+the new space wave coming and I'm going to try my best
+to just ride it. As a kid, my dad and I
+would go out to a field with a couple of a little model rockets
+and shoot them off but, I didn't get really serious
+about it until three years ago. My name is Joe Barnard,
+I'm an amateur rocketeer. I'm not sure if amateur is the
+right word to use for that because at this point
+they're pretty advanced. I saw this video of SpaceX testing
+one of their rocket landings. These are things that are the size
+of 17-story buildings that are just nimbly going up into the air,
+hovering and coming back down gently. I saw the video of this and realized
+that's what I want to be doing. And I was like, oh, I could probably
+figure out how to code. I had like, just bought a
+3D printer for fun, I could probably design
+some rocket parts. I figured, maybe that would be a
+good way to show up at SpaceX's doorstep and say, hey, look at this thing. Like, I'm willing to teach myself
+these concepts. Can I have a job? The goal has since changed.
+Like, I've had opportunities to do that at this point, I'm just way more excited right now
+about turning this into something bigger than it is. Excellent. All right, welcome to the
+rocket factory. It's more of an apartment than a
+rocket factory, honestly. Most of this apartment where you'd
+usually put like a TV or where you'd put like a couch
+or something, is just rockets. I founded a company
+called BPS.Space. The company develops
+amateur rocketry components that are focused on matching the pace
+of advancement in the real space industry. We're just kind of
+starting out right now. You can learn a tremendous amount
+by just working a lot with software and working at the
+small scale of rockets. One of the things that I can't
+emphasize enough is how little I knew
+about rockets when I got started. I had recently graduated with a
+degree in audio production from the Berklee College of Music. I was working as a wedding
+videographer and I was just willing to fail a whole lot
+and learn from mistakes you know, everyday basically. So this is the graveyard. All of these are flight computers. This is just how like,
+iterative design works. So, all of these computers are
+basically leading up to this, which is the most recent series of
+flight computers and launch computers and things like that. This is what goes inside
+almost all of my rockets. It's got a little orientation sensor,
+it has an altitude sensor, it has a little Bluetooth chip
+so you can talk to it with your phone. So this is the App I built
+and there's the computer that just popped up. It's really like mission control
+for your phone. When you start learning something
+you make these little, tiny improvements that seem like miracles. Obviously there are industries
+that you don't want to have self-taught people in.
+Like, you don't want to have a surgeon who just experiments
+on people until he gets it right. Like, that's not good.
+But for things like software, where you can just reload new code. For things like hardware,
+where you can 3D print something and it doesn't work
+so you just print again. Right now, it's tremendously
+cost-prohibitive to put things into space. But there are so many new space launch
+companies that are just trying to get into this market. Everyone is basically working
+towards this goal of democratizing space. You have larger companies, these guys have really ambitious projects. But, at the smaller scale
+there are lots of companies targeting how low can we get that cost and how quickly can we get
+your thing in space? I haven't been able to land
+a model rocket yet, right. But, I'm getting really close. Just in the last few months
+I've started actually conducting these landing tests. We're going to drop the rocket
+from a drone and we're going to simulate the second-
+half of flight without needing to also launch it. One of the hardest things
+about doing these launches is running like ten different cameras
+and also launching a rocket, and also making sure
+you're on top of safety. This is a totally solo thing. All right, that's rolling. So much of how I learn this stuff
+and how I improve it just through
+having all of these cameras. I could do it without it,
+but it just solves a lot of problems. Cool. What we can see right off the bat
+is that the rocket came down and burned the motor
+a little bit too late. As it comes down it's really at an angle here
+even though it starts to really correct here, it's too late, it's still moving
+pretty fast at that point. And, I'll have to update that
+in the flight software, I'll have to look at the flight data
+and see if something went wrong. But this is a good test overall. A pretty constant theme of this
+whole project has been like, just the willingness
+to continue pushing forward. There are a lot of people
+who want to go really high and fast, they want to build big rockets. The problem with that is
+if you pour so much engineering time and effort into one of these things
+and you make one mistake, like all of that is gone. And, the same thing applies at
+the small scale, except that the small scale, you can test again the next week
+'cause they're cardboard rockets. I'll reset some of these things,
+like this wire was too long so it didn't heat up enough to actually
+cut open the landing legs. I'll reload a motor, with a lot of these things
+you're just looking for like what is the most dead, simple solution I can have. If you were SpaceX
+or a real aerospace company, you'd spend you know, $500,000.00
+fixing this problem with science. I do it with blue tape. If I'm running into some error
+like I can't figure out why, this chip isn't working
+or something is broken on here, or it won't communicate,
+I can just go to the internet and look up anything on these forums
+and someone has had that problem before. Almost certainly. You know like, I did teach myself,
+but it's, a lot of this stuff is just because of everyone else sharing
+what they're learning online. What we want to do is find out
+how sensitive the thrust vector control system should be, so that we can
+effectively keep the rocket upright. Fundamentally, how most of my
+rockets fly is different than most model rockets.
+Traditional model rockets fly like darts. They have little fins on them
+that keep them stable through the air. But, if you watch the launch of
+like a Falcon 9 or an Atlas V, any of these massive rockets
+they don't have fins. And what they use is something called
+thrust vector control. The motors that are at the bottom
+that are pushing out all this fire and this flame,
+they're moving back and forth in just small deviation so that
+they can steer the rocket up into space. That's how my rockets work too.
+The thrust vectoring mount, which holds the motor in
+points it in different directions and that’s right here. Man, okay, don't put this in
+if it doesn't go well but, I have a pretty high confidence that what I've changed for this test
+will really improve the landing results. You know, I still don't think we're
+gonna touch down very softly on this one. Like, standing upright, but I think
+we should have some better results here. When you tell people that you're
+flying with hobby rocket motors, they're kind of like, oh, you know,
+why is this 25-year-old playing with toys? And it's so much different than that. We're not going to space or anything,
+but these are huge advancements. I think in the next five years
+we're going to see a whole lot more excitement about space
+just because of that. I think we're about to go through a
+newer and much bigger revolution in space projects, things like that
+than we did in the 60s when we sent people to the moon. The nerves are going,
+I'm super nervous. It doesn't matter that I've
+rehearsed this stuff a bunch times it doesn't matter that I’ve like,
+brought all these things out to a field 40 plus times at this point, it doesn't matter that it's all
+really rehearsed. I'm just nervous 'cause every time
+there's a chance that something that I've added, or something that I've
+taken away from the rocket is like that one component that like
+is necessary for the whole thing to go well. It landed on the legs! That was cool, man. I feel great. That's going to be
+some really solid data. A couple of other people have done
+thrust vectoring before but, certainly no one has come as far
+as the BPS program has. I intend to take it further. But I think making a lot of these
+advancements at the small scale where I can afford to fail hard
+and fail often, those are just like,
+really important things. When people ask questions,
+like why do we spend so much money on space travel? I just think there's literally unlimited
+potential for the growth of humanity. I would love to send something
+to the moon, but, there are a lot of steps in between where I am now
+and what is required to send something that far, that accurately. 

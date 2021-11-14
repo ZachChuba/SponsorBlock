@@ -1,0 +1,58 @@
+Hello everyone! Today I am going to tell you how I create
+my super quick and basic planner inserts and printables. Before I learned how to use illustrator and
+photoshop I created all of my printables in Microsoft Word, because it was the only program
+I had access to. For this tutorial I will be creating one planner
+page for half a week. You can apply these methods for any kind of
+printables, from yearly calendars to to-do lists, meal planners, fitness trackers, project
+planenrs and so on. Independently of the project, the first thing
+you need to do is setup the page size in Microsoft Word. The size you choose depends on the planner,
+binder or general medium you want to print the inserts for. You can either pick from one of the pre-defined
+sizes or customize your own by going to format document, page setup and then define the paper
+size. Make sure that whatever size you choose is
+compatible with your printer so there will be no hassles during the printing process. For calendars, monthly views and weekly views,
+you can either create an automatic table to quickly sketch the layout but for better precision,
+I advise you to use shapes. Simply click the shape button and select a
+rectangle shape that you can place anywhere you want. Click and drag the corners to resize the box
+and place it on the page. In order to have full freedom and not be bothered
+with margins, make sure to select wrap text and then chose a setting like behind or in
+front of text so you can move the shape around without being blocked by the lines that define
+the header and footer of the page. You can either fill the box with a solid color
+or, like I am doing here, deleting the fill and reduce the line width and selecting a
+different color for the outline instead of black. For precise measures, to duplicate the selected
+box for the other days of the week, simply press ctrl or command C whether you are using
+a windows pc or a mac and then press ctrl or command v and it will copy and paste an
+identical shape. Microsoft Word also helps you snap the shapes
+together for better precision so you don’t have to worry about aligning everything perfectly. To insert the days and month it’s easier
+to create a textbox instead of typing in the regular page layout. You have total freedom with filling the textbox
+with color or deleting the outline so it looks better integrated in your design. Be creative and pick a font, consult your
+calendar and type the day and month according to your layout. For the purpose of this tutorial I am just
+starting October on a Monday but be sure to check your calendar previously to make sure
+you don’t make any mistakes. If you want to create an entire planner from
+scratch you can actually do it in Microsoft Word. I suggest you to create a file for each page
+individually instead of designing your planner in just one document, to avoid any formatting
+mistakes that can ruin your entire planner without you noticing. You can export each individual file in PDF
+format and use a converter online to merge the files together so you can batch print
+your planner in one go. When designing your printables always remember
+to visualize the finalized layout of your project. If you want to create a planner, you need
+to remember to rearrange the layout for odd and even pages so when printed the margins
+match both sides in the area where the coil perforates the paper. If all the pages are the same, then one of
+the sides will be printed wrongly. In that sense, be careful when creating printables
+for binding or filing. Leave a wide enough margin to allow the binder
+rings or coil to go through. The good thing about creating your own printables
+is that you can go all out according to your own planning needs. Meal planning, budgets, fitness trackers,
+weather trackers, checklists and so on – you can create the best spreads according to your
+lifestyle and organization methods and it’s really easy to do so with this drag and drop
+interface. You can also quickly color different sections
+with light hues to differentiate your layout. If you need to change multiple shapes, always
+remember you can press shift and click all the shapes and textboxes you would like to
+move and they will group so you can move them around more easily. As I mentioned earlier, to maintain the overall
+look of your layout before printing, make sure to save as a PDF file to avoid any problems
+or incompatibilities between versions of Microsoft Word. Finally, test your printer and a couple of
+pages before you start batch printing your creations. Sometimes this a process of trial and error
+so make sure all the settings for page size and margin printing are correct in your printer,
+try to see if you can get used to manual printing on both sides and experiment with different
+sizes and layouts before printing the final result. I know this tutorial was pretty basic for
+many of you but there were so many requests that I had to film this video. For those of you who don’t like the hassle
+of designing calendars, I have provided a free printable 12 months calendar that you
+can download right away with the link provided in the downbar. I hope you enjoyed today’s video and I will
+see you next week. Bye! 

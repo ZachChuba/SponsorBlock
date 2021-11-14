@@ -1,0 +1,68 @@
+In 1915, Albert Einstein published a very
+important equation - no, not that one - the one he published didn’t just relate mass
+and energy, but mass, energy and gravity - this equation replaced the older “Newton’s
+law of Gravitation,” which you may be familiar with, and it remains to this day our best
+description of how gravity works. Just like how F=ma is a mathematical description
+of how the acceleration of an object depends on the forces applied to it, the Einstein
+Equation of general relativity relates the motion of mass and energy (the “T” on
+the right) to the curvature of spacetime (the “R’s” on the left). And Einstein didn’t just pull this equation
+out of thin air - it was the natural consequence of a long and careful consideration of key
+principles of physics combined with the advanced mathematics of curved surfaces, and of course,
+agreement with the experimental observations of the day. The equation, however, is deceptively simple. This one single line is in fact an incredibly
+fancy shorthand for what’s actually a system of ten second order partial differential equations
+relating mass and energy to the curvature of spacetime, AND the the curvature R’s
+themselves are a shorthand for more, um, complex, expressions. But the point is this: after figuring out
+that these equations matched up with Newton’s law of gravitation for weak gravitational
+fields and speeds much slower than light speed, AND after showing that the equations correctly
+predicted a previously “unexplained-by-Newton’s-law” anomaly in the orbit of Mercury, Einstein
+tried to figure out what the equations had to say about the universe as a whole. Of course, all the matter and energy in the
+universe is too complicated to put into the equations and have any hope of solving them,
+but if you zoom out enough, you can approximate the universe as having a roughly constant
+density everywhere, and in every direction. And Einstein was able to solve the equations
+for a very simplified universe with constant density everywhere - the ten complicated equations
+reduced to just two simple ones: this one says the curvature of space in the universe
+is proportional to the density, so more stuff in the universe means more curvature of space;
+and this one says that the density has to be zero. Which would mean there can’t be anything
+in the universe… Needless to say, this was a problem. And it turns out that there are two solutions
+to the problem - the one Einstein took, and the one he didn’t. Einstein’s solution was this: he knew (since
+he had dived deep into the math) that it was possible to slightly change his equations;
+you can add a single very simple term without violating any key principles of physics. There wasn’t much other motivation for adding
+this term, but it doesn’t change anything about how well the equations match up with
+Newton’s law when gravity is weak, or how well they predict the orbit of Mercury, or
+whatever , so maybe it was ok? AND, crucially for Einstein, the new term
+changes the equation for the density of the universe: instead of saying “density equals
+zero,” it now says “density is proportional to the new term”. So if the new term was non-zero, that meant
+the universe could have stuff in it! Voila - solution number one - Einstein’s
+solution. The other solution to how the universe can
+have stuff in it was this: don’t assume (as Einstein had) that the universe is static
+and unchanging. The general understanding at the time was
+that the universe didn’t expand or contract, and Einstein had also made a small but unfortunate
+technical error in his calculations which appeared to prohibit the possibility of a
+changing universe, so it’s not surprising that Einstein didn’t see this solution. But it was there: if you don’t make the
+mathematical assumption that the universe is static, and you don't make the technical
+error Einstein did, you can find a different valid solution to Einstein’s equations. Which physicist Alexander Friedmann did. Actually he used the version of the equations
+with the new term, knowing he could always set that term to zero if it wasn’t real. But the key part is he didn’t assume the
+universe was static. Friedmann found that the ten equations again
+reduced to two: the first equation now describes how the change in density of the universe
+relates to its change in size: specifically, it says that if the universe gets bigger,
+then it gets less dense, which makes sense - stuff’s literally spreading out. The second equation says that the deceleration
+of the universe is proportional to its density minus Einstein’s constant; that is, the
+stuff in the universe attracts itself gravitationally so the universe would have a tendency to pull
+inwards on itself, slowing any expansion and possibly even contracting. Unless Einstein’s constant were real and
+had a value big enough to balance or overpower the gravitational attraction . So that's the
+solution Einstein didn't see. Later, once astronomers took sufficiently
+detailed measurements, it turned out that the universe WAS indeed expanding: distant
+galaxies are moving away from us, and from each other - the universe is not static. And the measurements indicated that the universe
+was expanding at a constant rate, at least within experimental error bars. So Einstein’s equations didn’t appear
+to have any need for the extra term he had added. Einstein was reported by physicist George
+Gamow to have called it “his biggest blunder” - and while there’s no known documentation
+that he ever actually said or wrote those words specifically, there’s plenty of record
+of him expressing disdain in other ways: “away with the cosmological term,” “I always
+had a bad conscience,” “I found it very ugly,” “such a constant appears…unjustified.” And, during Einstein’s lifetime, that was
+certainly true - the term did appear unjustified. However, remember how Friedmann’s equations
+predicted that the universe should be attracting itself gravitationally and so the expansion
+should be slowing down, unless Einstein’s constant is real? Well, in 1998 , decades after Einstein’s
+death, astronomers made the surprising discovery that the universe’s rate of expansion isn’t
+constant, and it ISN’T slowing down - it’s getting faster. And so in a great, ironic twist, Einstein’s
+constant does ultimately have a role in describing the universe… though it turns out to be
+a very different universe from what he had imagined. 

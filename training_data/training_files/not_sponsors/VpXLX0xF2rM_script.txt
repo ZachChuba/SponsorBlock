@@ -1,0 +1,139 @@
+(upbeat music) - What? (upbeat music) Woah. (upbeat music) They really did that? It has been a long time
+since Apple has excited me quite this much into the event. Yes, Apple's M1 reveal was groundbreaking and a turning point for the
+whole computer industry. But this chip, this is
+the M1 all growed up. And not only that, it
+comes in this package. Let me tell you why that excites me, almost as much as our sponsor, Jackery. Thanks to Jackery for
+sponsoring this video. Jackery's got a 15% off site-wide sale for all of their solar
+generators on both jackery.com and Jackery's Amazon store
+from October 18th to the 20th. Click the link in
+description to learn more. (upbeat music) Apple didn't lead with
+it, but I'm going to. The M1 Pro and M1 Max processors. These are the first evolution
+of the M1 architecture since Apple silicon first became a thing and they bring a host of
+improvements to the table. For one, they skew towards performance with six or eight high-speed
+cores for heavy lifting and just two efficiency
+cores for lightweight tasks. In the case of the bigger chip, this doubles the performance
+on tap compared to M1, assuming the core clocks
+are the same, of course. The GPU has also grown
+up from the eight cores on M1 with up to 16 or even 32 cores on M1 Pro and Max respectively. And it's got an expanded
+media engine that can encode and decode ProRes so well that it supposedly out
+does a 24 core Mac Pro with an afterburner accelerator card. - That's more streams
+than on a 28 core Mac Pro with afterburner. - What's more impressive than even that is the memory bandwidth, which is up to 200 gigabytes
+per second on the Pro model and 400 for the Max, primarily thanks to the expanded memory
+capacities with these chips. With M1 clocking in at about
+60 gigabytes per second, this implies that not only
+is the additional memory being laid out in more channels, it's also potentially clocked higher. For reference, conventional
+CPUs running DDR4 memory, they get between 18 and
+35 gigabytes per second. And the memory used by
+most current gen GPU's is 448 gigabytes per second. And with Apple silicon, that data doesn't even need
+to be copied from the CPU to the GPU like the Intel
+Maxs and PCs have to. So that's some spicy performance
+potential to say the least. And when we look at performance, hey, Apple finally caved and
+labeled their graphs complete with the competitor
+their comparing against. They're not perfect. Like they don't say what
+benchmarks they were using in every case. Like these ones here just say, select industry standard benchmarks. But hey, it's a start, I guess. For now they claim double
+the CPU and GPU performance over the Quad Core M1 and as
+much as twice the performance of the previous gen 16 inch
+MacBook Pro with a core I9. The GPU options supposedly
+come in between 2.5 times and four times faster
+than any previous MacBook with a dedicated GPU. They didn't specifically mention
+whether the neural engine was improved in any
+meaningful way over M1 though, but they do claim that the
+machine learning performance that they get is five times faster than that core I9 MacBook. So take that how you will. Of course, these performance
+numbers come attached to two completely redesigned MacBooks, in 14 inch and 16 inch sizes. Apple made a big deal about how all that extra unified memory means the GPU has way
+more of it to work with than any other laptop. - Apps have dramatically more memory for the most demanding graphics tasks. No other notebook even comes close. - And for once, outside of external GPUs, this is uncontested truth,
+especially for the 14 inch. The best NVIDIA Quadros are
+equipped with 24 gigs of Ram with most sitting at 16 or under, which makes this a very
+Pro differentiator. Even if it's a little bit niche. Both new MacBooks are a
+little heavier and thicker than previous gen and kind of remind me of how the old polycarbonate
+MacBooks used to look. Unlike those dinosaurs, the new MacBooks featured
+bezels of just 3.5 millimeters, albeit marred by a iPhone style notch. It looks like it's big enough
+to hold face ID sensors in the future, but for
+now it's only being used for the upgraded 10 ADP webcam. The camera itself has
+been updated significantly from previous 1080p models
+with a four element lens and F 2.0 aperture. Although we'll have to see for ourselves if that's really a big
+upgrade considering how well Apple's image signal
+processing already works. It's almost as good as our
+insulated water bottles from lttstore.com. Now with a new LGA design and new colors. Apple was careful not to
+show off the notch too much in marketing materials though. Mostly because they know that
+outlets like Linus Tech Tips will complain about it. Personally, I just wish we
+had a reason to have it. Macs have traditionally
+played with display edges so I don't mind it that much here. I honestly think it'll be
+less annoying for a MacBook seeing is that area is normally reserved for a piece of the top bar, unless you're in full screen
+mode and the slightly taller than 16 by 10 aspect ratio means that standard widescreen
+content is gonna fit without that notch ever interfering. Speaking of the display, the new liquid retina XDR
+is a 10 bit panel capable of the thousand nits sustained brightness and 1600 peak all at a
+resolution just shy of 4k, which I mean, let's be real here, it might as well be 4k
+at these pixel densities. For the backlight, Apple claims to have
+packed 10,000 mini LEDs into the display, which would mean 2,500 local dimming zones if it's using the same quad led layout as the Pro display XDR
+and 12.9 inch iPad Pro. That's not even the best part though. The new display is also capable of 120 Hertz dynamic
+refresh rate like the iPad. So Macs can finally enjoy
+the buttery smoothness and improved battery life
+that iPad users have had for years now. And Windows 11 users recently got albeit with a smaller range. They still offer a fixed refresh rates representing clean multiples
+of common fill and media if you need it. And you might end up
+playing back a lot of media if the upgrades to the
+speakers are any indication. Aside from spatial audio, which it didn't quite live up to Apple's virtual surround
+sound promises on the iMac, but provided exceptional stereo imaging, both new MacBooks feature an
+upgraded six speaker array that Apple says displaces
+twice the amount of air from previous generation MacBooks. Considering how excellent
+Apple speakers have been over the past couple of generations, this could be a new bar for laptops and you can be sure we're
+going to crab rave it. In fact, we kind of
+went on a spending spree and got every permutation
+of the new MacBooks. So we can thoroughly review
+the first major redesign in a long, long time. So get subscribed so you don't miss it. But what if you want headphones? Well, Apple's got you covered. They proudly exclaimed
+that they're adding ports to the new MacBook Pro and not only is there a headphone jack, they say it's capable of driving
+high impedance headphones. - On one side, there's an HDMI port for conveniently connecting
+to displays and TVs. A Thunderbolt four port, which connects to high-speed peripherals and an SD card slot enabling
+fast access to media. On the other side, the headphone jack now
+has advanced support for high impedance headphones. And there are two more
+Thunderbolt four ports for a total of three in the system. - So depending on what they mean by that, audio files and users of studio monitors may no longer need an external amplifier. And do my eyes deceive me? It cannot be. MacSafe is back? MagSafe is back and it's
+capable of fast charging up to 50% capacity in 30 minutes flat which is damn impressive given how high battery life already is. Or you can charge via the
+Thunderbolt ports for docking to say a Pro displaced XDR
+or two Pro display XDR. Or with the 16 inch,
+three Pro display XDRs and a 4k TV, simultaneously. No more dongle book. Not only that, but the
+new blackout key deck and full height function key row finally brings Apple's magic
+keyboard back into the, yeah, I want that territory for me. Some people are going to miss
+the touch bar and I know, and I think it was a good idea in theory that maybe they could throw it
+up above the keyboard someday in the future, or maybe they could give
+us multiple touch bars down next to the track pad. Just don't touch my function keys, okay? My precious, precious function keys. Apple has basically taken
+every major complaint that their users have had
+about the recent MacBook Pros and rectified them with the sole exception of the glowing Apple logo. Seriously, I can't be the only one who desperately wants that back, can I? I mean, they brought back the bong. (bong sound) They also brought back the
+HDMI port and the SD card slot. They even brought back MagSafe. I guess the one thing that I would trade the glowing Apple for would be repairability. But that ship has
+probably sailed for good. At least all the aluminum is recyclable. Pricing is a bit harder to swallow though. Starting at $2,000 for the base model with two missing CPU and GPU cores and a five 12 gig SSD,
+PCI express gen four, yes, but five 12 gigs is a tough sell given how capable M1 already is. It's an extra $300 to get
+the standard M1 Pro SOC and $700 to get the top end M1 Max. What's worse, the 64 gig memory option is only available with an M1 Max, although given that option itself is $800, you probably don't care
+about the cost of the laptop to begin with, I guess. I was talking to our resident Mac guy, Mark, who recently had an
+Intel Extreme tech upgrade. And he mentioned that it's
+basically matched spec for spec with the Dell XPS, which is something that
+I didn't catch at first. And I am grateful that he caught. I guess laptops are just expensive now. And what's even worse than all of that is the base model power
+adapter for the 14 inch. It's just 67 watts. That's incapable of fast charging. So you're not even getting
+one of the advertised features if you don't pay an extra $20. Are your margins that thin Apple? Do you really got a nickel
+and dime people like that? It was bad enough with the 24
+inch iMac's Ethernet adapter. It's starting to feel
+like pay DLC over here, like a 14 inch with full-fat
+M1 Pro, 32 gigs of Ram, a terabyte of storage
+will set you back $2,900, which is, I mean, in my
+opinion, frankly obscene, unless the performance really does beat the best Windows laptops around. Of course, not everything is about Mac. Apple also announced
+third generation AirPods featuring very AirPods pro styling and an extremely similar case design. Now with MagSafe for some reason. In fact, these things
+incorporate most of the features that made the AirPods Pro special with the exception of
+active noise canceling and removable tips. Audio quality should be better
+than previous gen AirPods. Same deal with battery life
+and fast charging is able to provide up to an hour
+of additional listening in just five minutes. They'll still be selling
+last gen air pods for 129, but these will go on sale for 179. One thing apple didn't announce today is the new Pro Mac Mini
+that we were expecting with a new SOC, a slimmer
+design and more ports. Most of the other leaks were
+pretty accurate right down to the notch. So unless they got this one thing wrong, Apple could be trying to manage
+their limited silicon supply by delaying it. Whatever the case, you
+can order all this today with order shipping next week. Although from our
+experience, the up model Macs will take some time. You don't have to take your
+time with our sponsor though. Micro Center. Thanks to Micro Center
+for sponsoring this video. Micro Center is one of
+the best places to shop for all of your technology needs. You can get the best
+prices and best selection on computer hardware and
+everything else technology at any one of Micro Center's
+25 locations across the U.S. Check out Micro Centers new lineup of MAINGEAR Vector Pro laptops. They come in both a 15.6
+and 17.3 inch option, and your choice of Intel or AMD processor, and they can be configured
+with an RTX 3070 or 3080. New customers can check the
+link below in the description for a coupon code for a
+free 240 gigabyte SSD, no purchase necessary, in store only. Thanks for watching guys. If you want more Apple, why not go check out how Apple
+almost ruined my vacation? It's not as bad as it sounds. Just so many bugs and design oversights. 

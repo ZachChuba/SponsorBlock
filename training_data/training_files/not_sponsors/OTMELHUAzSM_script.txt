@@ -1,0 +1,69 @@
+It’s well known that gravity pulls two objects
+together with a force proportional to the mass of one, times the mass of the other,
+divided by the square of the distance between them. . Anyway, this equation is called Newton’s
+law of universal gravitation, it’s taught to school children the world over, and it
+predicts the motions of the planets and moons and asteroids in our solar system with incredible
+precision. However, Newton’s law of universal gravitation
+isn’t actually a universal law: first, we know that when the gravitational force in
+question is really strong, Newton’s law is just wrong . And second, we know that when
+the gravitational force in question is really weak , we don’t know whether it’s right
+or wrong because gravity gets too weak to measure. Only in between (like, on the scale of the
+solar system), do we know that the “law” of gravitation reasonably applies . Ok, but if Newton’s Law of gravitation has
+been confirmed so accurately by the motions of planets and moons, how could it be wrong
+at a different scale? Well, the earth looks flat when you’re relatively
+close to the ground, but zoom out and it looks round, or zoom in and it looks bumpy; the
+“law” describing the shape of the earth is different at different scales. Similarly, when the force of gravity is really
+strong (like near a black hole), gravity is better described by the mathematics of general
+relativity, and only when the forces in question get a bit weaker (for things farther apart
+or with less mass) does gravity start to match up with Newton’s law of gravitation. But when you go even weaker (with objects
+even farther away or even less massive ), we get to a point where we don’t know whether
+Newton’s law of gravitation applies any more. And yet, even many physicists appear to be
+ignorant about our ignorance about how gravity works when it’s weak - or at least, they
+ignore our ignorance. It’s common to blindly apply -G m M/r^2
+to decidedly non-astronomical objects, for which we haven’t tested gravitational attraction
+very well at all: if you have two pieces of tape, you can calculate the gravitational
+force that they in principle exert on each other according to the law of universal gravitation
+- but it’s far too ridiculously ridiculously small for you to ever have the remotest chance
+of noticing any effect whatsoever, let alone actually checking that the attraction between
+them follows the law of universal gravitation as you move the bits of tape farther apart. In contrast, if you stick the two pieces of
+tape together and then pull them apart, they’ll exchange some electric charge and then measurably
+attract each other; an electrical attraction which is a million billion times stronger
+than the predicted gravitational attraction , and whose strength has allowed us to confirm
+Coulomb’s law of electrical attraction to a very very very high degree of accuracy . So it makes sense to apply Coulomb’s law
+of electrical attraction to objects at normal human scales. But testing Newton’s law of gravitation
+at these scales requires very delicate experiments, like very very sensitive oscillating pendulums
+that oscillate slightly differently if there’s a heavy mass nearby (and can thus measure
+the gravitational force with great precision), or incredibly finely-controlled lasers that
+simultaneously levitate and measure the positions and forces on tiny little beads of glass - these
+can measure ridiculously faint forces, like zeptonewtons. And so far, for objects a meter apart, we’ve
+only confirmed that the gravitational attraction between them follows the law of universal
+gravitation to within around one one hundredth of a percent . Which is a trillion times less
+precise than our knowledge of the equivalent law for electricity. And our grasp on gravity gets worse the smaller
+you go - Here’s a plot showing how our uncertainty about Newton’s gravitational law varies
+across a whole range of distances - small distances on the left, big distances on the
+right; and the higher the line the higher the uncertainty. Which, you will notice, is very high on the
+left. Our existing experimental understanding of
+short-distance gravity is so bad that gravity at the scale of the atomic nucleus could actually
+be as much as a quadrillion quadrillion times stronger than Newton’s law of gravitation
+predicts! That’s a HUGE range; it would be like not
+knowing whether the moon pulls on us with the force of a hundred billion billion tons
+of rock , or the force of a fruit fly . Or, put another way, at the scale of an atomic
+nucleus, the law of gravitation could depend instead on the square of one or both masses,
+or the square root, or the inverse cube of the distance, or G could be a million billion
+times bigger, or a bunch of other possibilities, and we wouldn’t even know it. . The fact that there’s so much uncertainty
+about gravity at short distances means that a lot of interesting truths about our universe
+could be hiding under our very noses! One possibility, for example, is that there
+are not just 3 dimensions of space, but an extra one that only the gravitational force
+can travel through, which loops back on itself at the scale of micrometers or smaller . Just
+like how the surface of a hair is technically 2-dimensional but hairs look one dimensional
+from afar, this would mean that at distances much much longer than a micrometer, gravity
+would act as if space had 3 dimensions and follow a roughly inverse square law (which
+is what Newton’s law of gravitation is), while at distances much shorter, it would
+behave as if space had 4 dimensions and follow more of an inverse cube law (which we haven’t
+ruled out at particularly small scales) . However, as we’ve made increasingly precise
+measurements of the gravitational attraction between small things, we haven’t yet discovered
+any gravitational forces inconsistent with Newton’s law of gravitation . so it may
+be that -G m M over r squared does describe the strength of gravity for very very short
+distances; but our uncertainty is still very big, and it remains pretty crazy to blindly
+apply Newton’s law of gravitation to things like an electron and proton in a hydrogen
+atom. 

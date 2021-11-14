@@ -1,0 +1,207 @@
+- If I were not
+interviewing you right now, what would I ask you? I'd probably ask you just if you're okay. - I am okay, but thank you. - I mean, has this been scary? - There are a lot of scary things. Yeah, yeah. I mean, yes. Short answer, yes it's scary. But, there are other really
+scary things other than COVID. The world doesn't revolve around COVID. - Well, right now, it sure does. - Right now, it does, but... Well, yeah, of course, it's scary, but that's our job. - Hey, I'm Dianna. You're watching "Physics Girl" with a pretty different
+type of video this week. I wanted to do some interviews. I had a ton of questions about COVID-19. It's been a bit of a hard
+topic to think about, but asking questions always helps me to make sense of things. So, I reached out to some friends, specifically Valerie Waters, who's an emergency room
+nurse practitioner here in San Diego who has been
+seeing dozens of COVID patients. And Arti Virkud, who's an epidemiologist. She's a doctoral student at the University of North Carolina, and lucky for us, they were willing to
+answer all of my questions. And we had some incredibly
+interesting conversations. Like it directly impacts your work, which is really fascinating, but has it, from a personal level, been unexpected in any way? - I mean, it's definitely been a surprise. Working from home is hard. (both laughs) - Val told me all about everything from what it's like running
+a hospital right now, when there are not enough tests to... If you imagine fake patient
+Dianna who gets the disease and it gets bad enough to
+the point where she has to go to the emergency room. What does that experience look like? I talked with Arti about some
+fascinating stories related to how cultural practices
+like burial practices can lead to the spread of diseases like Ebola? Really interesting
+conversations that I wanted to share with you all. It really gave me insight into the process of science being done
+during this pandemic, and how has impacting the lives of people doing that science? So, I think that's a good place to start. I asked Val, who's been seeing
+dozens of COVID-19 patients, "What it's like at the
+hospital right now?" and "How the pandemic has
+changed their daily lives?" You're gonna work every day, and you are seeing firsthand
+these patients with COVID-19. What has it been like for you? - Things are changing day-to-day. One of the biggest things was
+there were not enough tests. So, initially we were
+following very strict protocols on who to test? Who not to test? You know, so we were
+probably turning people away who had COVID-19 because
+we couldn't test them but- - At that moment, where you had to turn people away, like, was that hard for you guys? Or were people upset? Like, were they- - Yeah, yeah. I mean, people are definitely
+scared across the board. There's still a huge, widespread fear and I think, when this first started, so many people were coming in just to know if they had the virus or not. It wasn't just because they
+were feeling so terribly, it was because they thought, "Oh, I have to know if I have COVID-19." - Things are changing so
+fast that in the two weeks since I interviewed Val, the entire hospital staff
+at the emergency department has been tested for
+COVID-19 and antibodies. Plus, there been a flood
+of patients since then with other conditions, not COVID-19, but like heart conditions
+and cancer who are very sick. But we're staying home
+during the stay-at-home order for fear of the virus. So, the hospital has gotten a lot busier just since that interview, but Val told me they were prepared for that potential wave of patients. Plus, the normal
+emergency room experience, like going and just sitting
+in the waiting room, that has all changed. - I remember a particular moment in which we got our COVID tent. (both laughs) So- - What is the COVID tent? - The COVID tent is actually pretty cool. Basically, what we started doing is we started triaging patients
+outside of the waiting room. - That's so different than normal. - Yeah, it is so different. They triaged every single patient, whether they have
+COVID-19 symptoms or not. You know, that was a big moment, because we can keep the more
+infectious people outside. - Val had so much more to share, especially on "What it's
+like to have the disease?" and we're gonna get to that, but I wanna introduce
+Arti's research first. And what epidemiology is in general? 'Cause it's been in the news a lot lately. Though, I actually didn't fully understand what the field is. - A lot of people think about
+Modern Epi as being founded by John Snow.
+- Oh, Epi, is that what you call it? - Oh, yes, sorry. (laughs) To make life a little easier and not have to say
+epidemiology all the times. An epidemiologist is
+interested in the disease. How many people have it? Where is it? When are people having it? And then what is causing this? How, when, where of the disease, and how can we prevent it? - For example, with COVID-19, epidemiologists might be interested in studying the number of cases, the number of deaths, the demographics, maybe a map of the outbreaks, and then over time looking
+at the effectiveness of treatments and then
+potentially eradicating the disease forever. I was really surprised at how wide ranging and diverse epidemiological work is. For example, imagine there's a mysterious Lyme disease
+outbreak in Vermont. - They might actually go out into forests and actually collect ticks. Some of my colleagues
+actually have done this as part of like, their summer internships- - No kidding. - where they're out in forest, collecting the ticks that like accumulate on their pant legs and
+testing for disease. - So, it's like disease detectives. Another interesting aside
+I really wanted to leave in was actually the origin of epidemiology, which dates back to the 1800's
+with a man named John Snow, not related to "Game of Thrones". - There was a Cholera outbreak in London and he used a combination
+of his medical background and Spatial Epidemiology
+to figure out that all of the cases were not actually
+attributable to just bad air, but rather a contaminated water pump. And it was the water supply
+that was causing disease. - So, Arti's field of
+epidemiology comes in to study the disease, to inform many actions, including public policy. For example, previous studies on social distancing have impacted the current
+stay-at-home order policies. So, while many of us are hearing
+the term social distancing for the first time really recently, Arti pointed me to dozens
+of epidemiological studies that predate even 2019 that looked into how social distancing
+could be applied to prevent the spread of
+Ebola or flu epidemics. So, we're making current
+decisions based off of those past epidemiological studies, which means that one of the benefits of studying COVID-19 now will
+be to inform future pandemics or even a second wave of COVID-19, which we think might be coming because of, again, evidence from
+studying past outbreaks, like the 1918 flu. Meanwhile, Val and her
+healthcare colleagues are taking everything that scientists know and applying it to treatments to give the best care
+possible that we know of at the moment. There's a step in there missing where scientists study the pathogen, like the virus itself to try and create treatments like a vaccine, which brings me to my next question, relating COVID-19 and the flu. So, I talked to Val first about this and asked her about some
+comparisons between the symptoms. - So, you know, we can
+compare different symptoms. Like for example, typically the flu gives
+you much worse body aches than COVID-19 does. You know, studies are showing that typically COVID-19 makes
+you more short of breath than influenza does, etcetera. But, both of them make
+you feel pretty terrible. And oftentimes, we're
+testing people for both. Now, we're in mid-April, so rates of flu are dropping off, but we're still seeing it. - Besides the symptoms, a comparison between COVID-19 and influenza can be really confusing, because they impact the
+population differently. The flu is a seasonal virus
+that keeps coming around and a lot of the population
+has already been affected. Whereas, SARS-CoV-2, which is the virus that causes COVID-19 is an emerging pathogen, which is a term used to describe novel or new viruses we've never
+been exposed to before. Which means that the
+entire population could be and has pretty much been
+shown to be susceptible. With the flu, we already
+have measures in place to protect against it. We've got education, like we know about the flu
+season and washing our hands. There's the flu shot, and even still scientists
+take influenza very seriously. Arti told me about studies
+that use social media to track influenza outbreaks, but all these studies and
+precautions about the flu don't make the news as much. Plus, science doesn't
+know definitively yet, whether COVID-19 antibodies
+actually protect you against future infections. That's kind of crazy that
+we still don't know that. So, Arti actually studies
+this type of epidemiology that has to do with how
+effective treatments are once we've created them. - It might be easy to contextualize it in this current pandemic. Something that is really
+reassuring to a lot of people is this idea of a vaccine. You know, we have some lessons from flu that we can actually take and translate to how we think about what would happen with a coronavirus vaccine. We know that there are
+genetic changes that happen to the influenza virus, and that makes it really difficult to create a vaccine that's a perfect fit. - It's such a complex process. Even when you already have a vaccine, the virus can change and
+then there's human behavior. Arti and I talked about
+that specific question. I'm curious whether this
+whole pandemic experience is going to change how many
+people go get the flu shot every year? - Oh, that's a really
+interesting consequence. I hadn't really thought that- - I went last year and
+this what year to get it. Before that, I wasn't... Even though I had the flu, I think that this maybe
+has made me think twice about the fact that there are really, really tough and awful
+diseases like the flu and you have vaccines for them. Why not go get it? - Trust plays a really interesting role in how effective an intervention is. I, honestly, I would be, as an epidemiologist, a little worried that if
+the coronavirus vaccine that gets made ends up getting distributed and maybe is not as effective
+as people had hoped, that maybe they'll lose a
+little more trust in vaccines, which is unfortunate. I think epidemiologists and all the people who make vaccines and distribute them, they work hard to make them
+as effective as possible and are honest with
+how effective they are. - Right. - And providers are as
+honest as they can be. - The next question and
+topic I was curious about is the accuracy and
+availability of information. I think a lot of us
+wanna know how many of us have actually had the disease, but didn't know, didn't show symptoms. How many cases have there truly been? - We know that this data is not perfect. The quality of the
+tests might be variable, especially as we develop tests and that's information that
+might not be readily available to the average person when they go into the hospital and get tested. They might not know how sensitive
+or specific the test is. So, sensitivity is the probability that if you truly have the disease, are you going to test positive? And specificity is if you
+truly don't have the disease, are you gonna test negative? - Here's why sensitivity is important. Imagine you wanna
+estimate the total number of people who have had the disease, not just the number that have been tested, but maybe people who don't have symptoms, maybe people who are sick, but haven't been tested, the total number. A recent study at Stanford
+created a bit of drama, because it was used to
+estimate that number. What the study actually looked
+at was the number of people in Santa Clara County that had
+antibodies for the disease, which would indicate how
+many people have had it. The problem is the study did not have a very high sensitivity. This means, if you extrapolate the study to a larger population, say hundreds of millions of people, the error could be in the millions. And knowing the accurate total number of people that have been
+infected is important for a lot of conversations, including when we may
+achieve herd immunity. - But, there's also like lab error. It's not to mention the fact
+that we're not testing everyone in the population. So, we can't use the
+denominator of the US population to estimate what's the percent
+of people who are infected in the US. - All this changing information
+and the availability of it is impacting the people who
+are then treating the disease. You just talked about getting briefings. - Yeah, so we get daily
+emails with our statistics from the day before. How many total cases we've had? How many new cases we have? Any deaths that we've had. You know, we practice intubations for a COVID patient, which are really helpful. So that, again, not everyone is scrambling
+around trying to get on your special equipment and get the special gear that you need for these types of innovations, because they're so different. - So... Interesting. So, is it, you don't typically have to
+do intubations that often? Or intubations for COVID
+patients are different? - Intubations for COVID
+patients are different. - Whoa, why is that? - So, the risk of basically
+what's called aerosolization is so much greater in
+intubation of COVID-19 patients. - Is it more about your protection? - Yeah.
+- Got it. - Yeah, it's your protection. So, if a patient comes in that you need to intubate that's COVID-19 positive. The things that we do spread a lot of airborne particles around. That's very dangerous for
+all of the staff members that are right there
+in that patient's face. - You're telling me that
+the hospital's not that busy right now. - So, I wouldn't say that
+the hospital isn't busy, but I would say, yeah. I mean, I can't remember the last time that I saw a sprained ankle, for example, because people aren't
+going out of their homes. So... - I wouldn't have thought of the decline of sprained ankles during a pandemic. - I know. - Silver lining. - There's a lot of this, Netflix. - Again, a lot has changed
+in the last two weeks. The hospital is a lot busier now, and they do have a lot
+of COVID-19 patients, which brings me to my next question. I was curious what my
+experience might be like if I get the disease so I asked about. She described what a fake
+patient might go through and she's in the emergency room. So, she's seen patients that have some of the worst symptoms, but this is a walkthrough
+coming from her experiences, dealing with real life patients. - So, Dianna walks through the door and she's been sick for
+about a week and a half. And she really doesn't feel well. She's had fevers for five days. She's been really fatigued. She's been coughing nonstop, and she feels really short of breath. Dianna has gone to
+urgent care twice so far in the past week and a half, because she feels so miserable. Her last chest x-ray a few days ago showed that she was starting
+to develop pneumonia, but she otherwise is doing okay. So, she has-
+- Hold on. Chest x-rays tell you whether you have pneumonia?
+- Yup! - I didn't know that.
+- Yup! - Just learned another thing.
+- Yes. - Okay. - Dianna has had pneumonia for three days. So, Dianna comes to the
+emergency department today because her antibiotics
+aren't making her feel better and she's feeling so much
+worse and she can't breathe. So, she gets another x-ray and it shows that her
+pneumonia is worsening. And she's been there
+for about 10 hours now. We're watching her oxygen saturation. We're watching her heart rate, and her blood pressure,
+and her temperature. It looks like she's having a
+lot more trouble breathing. So, now, we notice that
+Dianna's oxygen saturation is getting a little bit too low. - What does that feel like for Dianna? - Dianna feels like she's
+breathing really rapidly and she can't take a deep breath and she may have some pain in
+her chest a little bit too. - Well, I just... I don't know that I've ever like, does it just feel like, it's like hard to breathe? Like...
+- Right, or that you just went on a big run and you can't catch your breath. - Okay, gotcha. - So, now, do you see that
+Dianna is doing much worse? So, now, we decided that
+we have to admit her to the hospital. (both laughs) Poor Diana. She's been sick for two weeks
+and she is doing much worse. I think it was about the end of the story. - Why is it specifically, I mean, sounding like you're short... You're having trouble breathing or you're short of
+breath sounds terrifying, but from a medical perspective, why is it that, that would be the symptom
+that indicates you need to go see a doctor or
+a medical professional? - We are seeing a lot of patients with COVID-19 developed pneumonia, which is oftentimes a
+reason why they're feeling so short of breath. Oftentimes, these patients come in and their oxygen saturation is very low. They need to be put on
+supplemental oxygen. And yes, that is absolutely a reason to come to the emergency department because these patients
+can deteriorate very fast. - COVID-19 is leaving its
+lasting mark on society. I talked a little bit to Arti about, what the future may
+look like as we continue to study the disease. And she reflected back on past
+studies of various diseases, and what we've learned from them, which led to a really interesting story about cultural shifts following a study of contact tracing of
+Ebola in West Africa. - We heard stories about the experiences of epidemiologists who are going out there to do contact tracing and
+find out how it was spreading and why it was spreading
+in certain communities. And they were doing the incredible work of identifying certain cultural practices that were contributing to
+people becoming more exposed to disease. You know, just like today, you know, we have policies to protect us from the current pandemic. They were trying to figure
+out how to implement policies, to protect their cultural practices, but also prevent spread of disease. - Great, something like shaking hands is a cultural practice
+we've had for centuries. Were there any examples
+that you can remember of the cultural practices
+that were spreading Ebola? - Yes, so the rituals around burial often involved immersing the deceased into a body of water and family members often enter that body of
+water with the deceased. Ebola is really contagious, particularly through bodily fluids. And so, as someone was immersed in water, it was just a conduit to the transmission from the disease to the
+individuals who were in the water with that individual. There's not been so much as a major field shifting change yet, but a realization that we
+need to think carefully about "Why this happened?" and "What we can do to
+prevent it from happening in the future?" And it's gonna include a lot
+of really complicated spaces, politics, economics, computer science, and cultural practices. Absolutely, I'd be hard
+pressed to think about anything that this disease does not impact. - Arti told me about
+another story from India, where they were distributing posters and educational pamphlets
+that told people not to spit on the street because
+that increases the spread of tuberculosis and that change in human behavior ended
+up changing the spread of tuberculosis for good. So, maybe we'll see more of that. Arti said, she's already
+seeing posters that say, "Wash your hands." in the hallways at her work. And I saw on one of the stop
+signs around where I live, you know, how people put stickers of their favorite brands on stop signs? Well, this was a sticker of
+a guy with a hood that said, "Stay safe, stay home." Responsible vandalism. Is there anything you'd wanna
+say to the general public? - Yeah, I would tell the general public to please take quarantine seriously, if you are not all ready. So, you can wait that extra
+week to see your friend. You can wait for your
+friend's birthday party, but you can't wait if
+you become really sick or if your loved one who maybe a parent or grandparent also becomes
+sick and is at higher risk. I also just wanna thank people who are quarantining themselves and who are not overrunning our hospitals, because things could get really, really bad really, really quickly. - You started saying that you're like, "Take quarantine seriously." I have been, but it's also hard, because this is not an easy thing to do, but as-
+- So hard. - It is hard but as soon as you said that, like my eyes got wide and like, all my attention was on you, because I know that you are the person that's being affected by this. I know that you and all your coworkers- - Yeah, and you know, I just wanna thank everyone
+for their kindness. You know, and we all appreciate
+people checking in on us. And I just feel like we've seen a lot of kindness during quarantine too. And you know, that's something
+really good that came out of this, I think. - Honestly, I got part way
+through making this video and I almost gave up, because I didn't wanna think
+about coronavirus anymore. But, then, I did these interviews and I felt a lot better
+about how social distancing is having a positive
+impact on people responding to the pandemic. It doesn't make it any easier to deal with the hardships that
+come with social distancing, but it helps me understand
+better what the response is to COVID-19. So, I'm gonna be staying home. I hope you're all staying home if you can. Stay safe, stay healthy, continue to learn and happy physics thing. 

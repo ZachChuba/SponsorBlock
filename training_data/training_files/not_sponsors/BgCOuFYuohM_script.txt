@@ -1,0 +1,52 @@
+Hi! Ever since I tested the LaserCube,
+I have been wondering what's inside it? How did they manage to cram
+the lasers, scanners, electronics AND a battery inside a 10 cm cube? In this video, I will open it up and compare the inside to
+a more conventional show laser with the same specs. I will also test their output power
+in a simple and in a more precise way. And just for the fun of it I will compare the performance with a show laser
+twice as strong and with twice as fast scanners... Show lasers are meant to be seen but make sure that noone ever will be able to look
+directly into the beam or specular reflections of it. Use laser safety goggles when burning
+and popping with a steady beam. And don't open devices with a high-voltage power
+supply unless you know what you're doing. For a start, let's test their output
+power in a very simple way. How fast will they burn through a CD-case? I'm using the pop program in LaserOS which allows for a 6 seconds steady beam at full power. The 1 watt LaserCube made it through in 4.8 seconds. The 1 watt LaserDock is basically
+the same show laser as the LaserCube. Just in a much bigger case with a massive
+heat sink and a built in power supply. This does not have a built-in
+battery like the LaserCube. Let's see how it compares. 5.3 seconds - half a second
+slower than the LaserCube. What about the 2 watt LaserDock? Surely, this will be faster than the LaserCube? Bigger, heavier with an enormous heat sink
+and two industrial cooling fans this is not discreet in any way... Let's fire it up! 3.2 seconds and a lot bigger
+hole after a 6 seconds burn. Notice the different hole sizes
+and orientations of the oval beam. One of these lasers will later perform over spec
+when tested on a laser power meter. Can you guess which one? Time to compare the inside of the
+two similar 1 watt show lasers. I'm expecting the LaserCube to be stuffed with stuff while the LaserDock should have some empty space. Otherwise I don't see how the
+LaserCube can be a miniaturized LaserDock. Is the LaserDock mostly empty? Uhhmm, no! There's a lot of stuff in here. How on Earth did they fit all
+of this into the LaserCube only replacing the power supply with a battery? Let's have a closer look at the different parts before I open and compare with the LaserCube. I'm not an expert in electronics so feel free to comment with
+extra details or corrections. All right, finally time to see
+what's inside the LaserCube. Ohhkay, it really is stuffed. Remember, I have already removed
+a battery and four stands from the inside. To my surprise, they found room for two batteries. Though only just - look how tight a fit it is for this wire. The optics in the LaserCube are more
+complex with an extra mirror added since there's no room for a third laser in the front. I guessed wrong in my earlier video where I thought the lower mirror
+was a simple first-surface mirror. It is actually a more expensive, green
+dichroic mirror reflecting the red laser beam. I have to say I'm not less impressed
+by the LaserCube after opening it. Designing this for mass-production
+must have been quite a challenge. With it assembled again, we can test the
+show lasers on a laser power meter that my patrons helped me out with. Thanks! I will test each laser using two tests. A 6 seconds steady beam and
+a 20 seconds moving beam burning a circle. It is not ideal to have a beam moving on the sensor but it's the only way to have a beam at full power
+for more than 6 seconds using the LaserOS. Here are the results: As you can tell, the 1 watt LaserDock
+is the one that performs over spec. Surprisingly, since it appeared to do
+the worst in the CD case burn test. I guess that test isn't very scientific... The other two perform to spec after
+accounting for internal losses in the optics. Here's an example, where you
+can see how much green light is lost inside the LaserDock
+from the dichroic mirrors. The LaserCube has a third mirror
+and therefore more internal loss. After some important messages I will demonstrate some differences between the
+cheapest and most expensive of the show lasers. A big thanks to all my patrons. I am glad to see the support
+from more and more of you. If you want to help me keep
+going with the videos too then check out my Patreon page. Link is under the video. Let me quickly show three differences between
+the 1 watt LaserCube and 2 watt LaserDock. First one is the obvious: The 2 watter is much brighter. It's not that easy to see on a recording though. Both lasers overexpose the camera and
+your screen can't really show the true brightness. But here with the strongest, blue laser
+turned off, you can tell the difference. The scanners in the 2 watter
+are the 40K option. Twice as fast as the 20K
+scanners in the LaserCube. For bendy lines and animations
+the difference is not huge but for squares and straight lines
+the 40K scanners are excellent. It's especially obvious here on the analogue clock. The LaserDocks with the 40K scanners also come with
+the professional ILDA connections, if you need those. The last thing I will point out is the white balance. The LaserCube has a bluish white,
+while the 2 watter is... white white. You can adjust the color balance in
+LaserOS - just with brightness loss. The lasers are better balanced in the 2 watter but I don't mind they put that
+powerful blue laser in the LaserCube... Thanks for watching! Bye for now. 

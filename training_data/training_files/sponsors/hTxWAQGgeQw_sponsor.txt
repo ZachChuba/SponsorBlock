@@ -1,0 +1,13 @@
+If you'd like to play around with some spacetime
+diagrams yourself, I highly recommend checking out the “propagation of light” interactive
+quiz on Brilliant.org, this video's sponsor. This quiz is seriously cool – it uses spacetime
+diagrams to guide you through how astronomer Ole Rømer deduced that the speed of light
+must be finite just by observing the orbit of Jupiter's moon Io. It's a super clever idea, and the quiz does
+a great job of using spacetime diagrams to help visualize the situation and guide you
+through calculating the speed of light yourself. In fact, this quiz is part of a whole course
+on Special Relativity that Brilliant has available at brilliant.org/MinutePhysicsSpecialRelativity,
+and doing problems like theirs after watching videos like mine is a great way to practice
+and really internalize the ideas of special relativity. If you decide to sign up for premium access
+to all of their courses and quizzes, you can get 20% off by going to Brilliant.org/minutephysics,
+or even better, go to brilliant.org/MinutePhysicsSpecialRelativity, which lets Brilliant know you came from here
+and takes you straight to their relativity course. 

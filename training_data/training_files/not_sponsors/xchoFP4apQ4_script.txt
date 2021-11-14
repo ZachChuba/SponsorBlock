@@ -1,0 +1,51 @@
+When I worked at OPPO, I remember very clearly that the most burning question people on the OPPO forums had, which is what I managed, was how quickly Android updates would come to different phones. Like, when is this phone getting KitKat, when is that phone getting Lollipop, this sort of stuff. It would make or break kind of question for most forum users. And I also remember just how baffled OPPO software teams were by this approach. According to them, users should care about features, stability and performance, not Android versions. And while I think back then, 3-4-5 years ago, this might not have been entirely true, Google has certainly started worked towards making this true. So today, Android version, while not entirely
+irrelevant, are just not very important anymore. So in 50th episode of The Story Behind series, let's talk about why. Real quick before we start, if you want to
+see more in-depth analysis of tech companies, especially from a business perspective, consider
+subscribing to TechAltar. At this year's big Google developer conference, the company announced a hugely important change
+to Android, called Project Mainline that you have probably never heard about. The project
+makes Android more modular, so these twelve critical parts of the operating system can
+be updated separately from big Android updates. Unless you are a developer, none of these
+will seem meaningful to you, but they are all lower level features that influence critical
+things like security and app compatibility. With Mainline Google can use the Google Play Infrastructure to now update critically important components of
+Android directly, while the phone is running, without the user having to press a download
+button or reboot a device, and most importantly, without having to convince device makers and
+mobile carriers to do anything. Which never seemed to work well in the past. And Mainline is just the latest of many similar steps Google has taken over the last few years. In
+fact, the Play Store is used to deliver other critical updates too, through Google Play
+Protect since 2017 and Verify Apps before that, which scan apps you install on your phone, even the ones from outside of the Play Store
+to make sure they don't contain any malware. These solutions get updated through the Play
+Store again, in the background without needing an Android version update, and indeed, Google claims that the number
+of potentially harmful apps are at an all time low across its ecosystem, even for phones
+that download apps from outside of the Play Store. Operating system level security patches aren't
+quite as automatic yet, they do still require input from manufacturers, but have been made
+much easier since the Android Security Bulletin was introduced in 2015. This created a system
+where security patches are clearly separated from Android Version updates and can be verified
+individually right from the settings app of any Android phone. So security is nearly completely
+decoupled from Android versions. And for a lot of the stuff developers need
+to make sure their apps run well, like APIs and programming languages, Google has made
+work-arounds, with projects like Jetpack and AndroidX. I
+don't want to get too technical here, in no small part because I am not an Android developer myself, but imagine you write an app that has to talk to the operating system to access the camera, or to get the user's location or name or something. On each Android version, those commands might
+be slightly different, which would be a nightmare. But over time, Google has built tools like Jetpack to avoid this, so developers can write
+an app once, even in Kotlin, the fancy new programming language of choice for Android
+developers, and the Jetpack tools will make sure that the app will work across Android versions. And so if security and developer tools are not directly tied to Android versions, then the only potential upside would be
+features, UI tweaks and performance. You know, the stuff that you as a user should be able to see yourself. And while Google likes to tout new performance
+improvements with each version, real-world tests like this one from Gary Sims that compare
+performance on the same device running 4 different versions of Android, prove that the improvements
+are close to non-existent. My anecdotal evidence from my own updates
+and those around me that I see also seems to imply that battery life, performance and
+stability rarely ever get significantly better with new Android version updates. If anything,
+manufacturers tend to spend less time optimizing updates that come out later than the software
+that ships on their new phones that is used to convince you to make a purchase. And while as a smartphone enthusiast, I obviously love
+getting new features, it has also become pretty clear to me over time that Android is a mature operating system and therefore, all the new features that we are getting, they are just nice little tweaks, not really groundbreaking stuff that we have to have. One could even argue that features and UI
+are more influenced by some heavily customized skins of manufacturers like Samsung, LG and Huawei than they are by the underlying Android versions. And Google themselves are increasingly packing much of their innovation into their apps like
+Google Photos instead of into the system itself. And there is a whole ethical question of whether or not it is good of Google to put their resources and efforts into improving their own walled gardens like Google Photos instead of putting their efforts into improving the open source operating system that is Android itself, but you know, that is a discussion for other video, and
+either way the result is that feature updates on Android just don't feel all that important anymore. So with most of the security and compatibility
+aspects being separated from the underlying Android versions, with tools like Jetpack
+enabling more and more developers to write apps that work across versions, and by putting
+most of their must-have features into apps, not the operating system itself, Google
+has achieved something remarkable. They have kind of put an end to the constant struggle
+that has been Android version upgrades as they have found ways to make them basically
+irrelevant. They are still nice to have, but not crucial. To be clear, I am not saying that you, the smartphone enthusiast should stop caring about Android updates. If there is a new feature or a new tweak that you really want to have from the new Android update, then yeah, wanting that that is perfectly reasonable. And I also think that we should continue to keep phone manufacturers to high standards. After all, we gave them money and we should be allowed to expect good software support in exchange. But I do think we should get a little smarter with our demands. Instead of just yelling "Where is Android
+Q or Android Pie for my device", we should focus first and foremost on security patches
+and Android versions shouldn't be the only metric by which we judge devices. So if someone likes Samsung's new One UI,
+Xiaomi's MIUI or any other custom skin for either the features or the look and feel, or if they are OK with phones like those of LG being slow with Android updates in exchange for a lower price, we should see those as reasonable as long as security patches keep
+coming. And thankfully most manufacturers seem to have improved in that regard over time. 

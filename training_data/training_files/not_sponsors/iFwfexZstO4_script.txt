@@ -1,0 +1,29 @@
+When you turn a car’s steering wheel, the
+car follows a path along the same curve regardless whether you go forwards or backwards. So it seems like it should be just as easy
+to steer going backwards as going forwards. But clearly, it's not. Suprisingly, the difficulty of driving backwards
+has almost nothing to do with the direction you’re facing and everything to do with
+the fact that you steer using the front wheels. When driving forwards, a car goes in the direction
+the front wheels are pointed. And when driving backwards, the car goes where
+the back wheels are pointed. Simple! But the difference is that going forwards,
+the direction of travel is determined by the same wheels you steer with, so you just point
+them where you want to go, and that’s where you go, the back wheels follow automatically. In physics, we call this a “stable” system,
+like dangling a pencil from your fingers – move your hand around and the pencil follows, no
+thought required. However, when driving backwards, the direction
+of travel is determined by the back wheels but you steer with the front wheels. So rather than just pointing the front wheels
+where you want to go, you have to point them in the direction that will get the BACK wheels
+to point in the direction you want to go – it’s an additional level of separation before the
+car does what you want. And in fact, if you don’t make any corrections,
+then over time the back wheels point farther and farther away from the direction you want
+to go: instead of following the front wheels, they want to run away! This is an unstable system, like trying to
+balance a pencil on your fingertip. It’s incredibly finicky and requires a ton
+of coordinated hand-eye feedback to maintain. That’s why you constantly have to readjust
+your steering when driving backwards – mathematically, your car is like an upside-down pencil! Of course, there are some successful rear-steering
+wheeled vehicles – forklifts, for example, drive only slowly and choose rear-steering
+for greater control of their forks. But let’s go in the other direction and
+add a TRAILER to your car – steering backwards has gained ANOTHER level of difficulty: you
+use your front wheels to get the back wheels to point in the direction needed to get the
+TRAILER to point in the direction you want to go. Not complicated enough? It becomes worse the more trailers you add
+– each one adds another level of separation between the direction of your steering and
+the actual direction of travel. Which is why it’s nearly impossible to push
+on one end of a chain or a rope and have the other end go where you want it to, and why
+you will never, ever balance a flexible rope or chain upright on your finger. Makes backwards driving seem downright easy! 

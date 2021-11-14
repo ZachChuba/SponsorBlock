@@ -1,0 +1,165 @@
+We rarely witness evolution on a timeframe
+short enough for a single human life to take notice. These changes usually occur over many
+lifetimes, the gradual drift of a creatures DNA to best survive their environment. But
+in one case in the 1700s humans witnessed evolution with their own eyes, and they caused
+it. This metamorphosis coincided with human’s rapid industrialization. We began burning
+coal on levels never before seen, and it’s bi-products rapidly changed the landscape
+for not just humans, but for the animals that shared the planet with them. The peppered moth was one of those animals,
+getting its name from its speckled white and black colouring, designed to camouflage the
+moth while it lay on lichen covered tree barks. A black variant was first observed in 1811,
+many decades into the industrial revolution. At first the mutation was rare, but human’s
+influence on the environment grew, so did their numbers. By 1895, 98% of the peppered
+moths in Manchester had this black colouring [1] Surely this black colouring would leave
+them exposed, making them easier to spot for hungry birds. In reality, these moths had
+adapted to be harder to spot in this newly industrialised world, one stained by soot. And it may be time for humans to follow their
+lead. To evolve, or die. The rate we have been spewing these pollutants into our atmosphere
+has only risen since this discover. Our carbon dioxide emissions have risen from one thousand
+six hundred million metric tonnes to thirty six thousand million metric tonnes since 1865
+[2] And despite our best efforts, that number is not declining. Human population and development
+are continuing to outpace our efforts to curbed our carbon dioxide emissions. Just as alcohol producing yeast will eventually
+create an environment too toxic for itself to survive, humans are pumping the world’s
+atmosphere with a gas that will eventually render the world unlivable for many, if something
+is not done. So we have to ask ourselves now, are going the way of a mindless single cell
+fungi that continue to poison their habitat until they die, or are we going to recognise
+that the survival of the next generation is more important? Our previous videos have discussed ways to
+mitigate climate change, by planting trees in the Sahara or by using aerosols to block
+out the sun. Both are pretty extreme methods, and come with some big risks that could lead
+to some unforeseen consequences. Instead of some risky engineering tactic, what if we
+could just suck the CO₂ right out of the air, undoing some of the damage that has been
+done? Well, in certain circumstances, this is already
+happening. Carbon capture and storage (CCS) has been around for years. There are a few
+main types of carbon capture, almost all of which happens at power plants, capturing the
+carbon that comes directly from the plant. In post-combustion ­carbon capture, the CO₂
+is captured after the fossil fuel is burned. In this method, CO₂ is separated from the
+flue gas, which includes CO₂, water vapor, sulfur dioxides and nitrogen oxides, by bubbling
+the gas through an absorber column packed with liquid solvents, such as ammonia. In
+the most widely used system, once the chemicals in the absorber column become saturated, a
+stream of superheated steam at around 120C is passed through it. This releases the trapped
+CO₂, which can then be transported for storage elsewhere. [3] In pre-combustion carbon capture,­ CO₂
+is trapped before it's diluted by other flue gases. The fossil fuel is heated in pure oxygen,
+resulting in a mix of carbon monoxide and hydrogen. [4]The carbon monoxide is reacted
+with water to produce carbon dioxide, which is captured, along with hydrogen. The hydrogen
+can be used to produce electricity, and the carbon dioxide is stored. [5] Pre- and post-combustion carbon capture can
+prevent 80 to 90 percent of a power plant's carbon emissions from entering the atmosphere.
+[6] This is a big deal. The IPCC estimates that carbon capture and storage has the potential
+to make up between 10% and 55% of the total carbon mitigation effort until year 2100.
+[7] However, this carbon has to be stored somewhere.
+It is most often stored underground in a process called geological sequestration, which involves
+injecting CO₂ into underground rock formations. It is stored as a supercritical fluid, meaning
+it has properties between those of a gas and a liquid. When carbon dioxide is injected
+at depth, it will remain in the supercritical condition as long as it stays in excess of
+31.1°C and at a pressure in excess of 72.9 atmospheres. Many times, the carbon dioxide
+is injected into a reservoir which previously trapped oil and gas, since those areas have
+natural rock formations that help to contain the carbon dioxide. While this might be an
+okay solution, no one knows for sure what the environmental impact could be if the carbon
+dioxide were to leak out into the environment in large quantities. [8] In some instances,
+leakage of carbon dioxide underground has been shown to increase plant mortality, reduce
+growth and create potentially severe localised damage to ecosystems. For this to be a viable,
+safe option, the carbon dioxide would need to remain stored for 100s of years, or even
+indefinitely, and the feasibility of this is not certain. [9] Other methods of storing carbon include sinking
+it deep below the ocean, at depths under 3500 meters, where it turns into a slushy material
+that will sink to the ocean floor under that amount of pressure. [10]But this method is
+largely untested, and again, there are concerns about what this could mean for marine life,
+and uncertainty on whether or not the CO₂ could eventually make its way back into the
+environment. [11] There have been more promising experiments
+in carbon storage in Iceland, where researchers have shown that pumping carbon dioxide into
+the volcanic rock underground can speed up a natural process where the basalts react
+with the gas to form carbonate minerals, which make up limestone. This is an encouraging
+development, but has its limitations. It requires large amounts of water: 25 tonnes for each
+tonne of carbon dioxide buried, meaning this process would have to be limited to coastal
+sites. Another is that subterranean microbes might break down carbonate to methane, another
+powerful greenhouse gas. [12] And while 80 to 90 percent of a power plant’s
+carbon emissions can, in theory, be captured and stored in one of many ways, what about
+all of the other carbon emitting things in our world? Only 25% of global greenhouse gas
+emissions come from electricity and heat production at power plants. Transportation, general industry,
+and agriculture collectively make up around 60% of greenhouse gas emissions. [13] Is there
+a way to capture CO₂ from these sources? Direct air capture has, up to recently, been
+a largely theoretical technique in which CO₂ is removed directly from the atmosphere. Theoretical,
+because doing this on a scale that would even make a dent has historically been ridiculously
+expensive - some experts say as much as $600 per metric ton of carbon dioxide. For reference,
+a typical passenger vehicle emits about 4.6 metric tons of carbon dioxide per year. [14]
+But recently a team of scientists from Harvard University and the Bill Gates funded company
+Carbon Engineering announced that they have found a method to cheaply pull carbon-dioxide
+pollution out of the atmosphere - they say for as little as $94, and for no more than
+$232 per metric ton of CO₂. This means that it would cost between $1 and $2.50 to remove
+the carbon dioxide released by burning a gallon of gasoline in a modern car. And not only
+do they suck the CO₂ out of the air with the ability to store it - they will also transform
+the carbon back in to gasoline or jet fuel, creating net-neutral carbon based fuels. [15] While this sounds too good to be true, the
+methods they use to pull CO₂ out of the air is not too different from what has already
+been done for decades. This type of direct air capture starts with
+an air contractor, where air is sucked in at high volumes. This structure “wet scrubs”
+the air by using a strong hydroxide solution to capture CO₂ and convert it into carbonate.
+The hydroxide solution reacts with carbon dioxide to form carbonate ions(CO32−.) This
+occurs within a structure which is much the same as an industrial cooling tower. The next step involves a “pellet reactor”
+where the carbonate ion reacts with calcium(Ca2+) to form calcium carbonate, in the form of
+dried pellets. Then, a circulating fluid heats the calcium
+carbonate pellets to decomposition temperature, breaking them apart to release the carbon
+dioxide as a gas and leave behind calcium oxide (CaO) [16] Finally, the carbon dioxide is combined with
+hydrogen and converted into liquid fuels, including gasoline, diesel, and jet fuel,
+using the Fischer-Tropsch process. This is a process where a mixture of carbon monoxide
+and hydrogen are converted into liquid hydrocarbons. These reactions occur in the presence of metal
+catalysts and typically at temperatures of 150–300 °C. [17] This means the company can produce carbon-neutral
+hydrocarbons, meaning if you were to burn this fuel in your car, you would release carbon-dioxide
+pollution out of your exhaust and into the atmosphere. But because this carbon dioxide
+came from the air in the first place, these emissions would not introduce any new carbon
+dioxide to the atmosphere, and no oil would need to be extracted from the earth to power
+your car. And perhaps most importantly for the economic viability of this idea, they
+can sell the product, which helps to offset costs, allowing them to capture even more
+carbon dioxide, to either convert back into hydrocarbons or ultimately store. And backing up their cost estimates of between
+$94 and $232 per metric ton of carbon dioxide is the fact that they’ve actually tested
+the technology in a prototype plant for a few years in Squamish, British Columbia, which
+offers a proof of concept that’s way stronger than simple calculations or computational
+models. It currently captures and processes around 1 ton of carbon dioxide per day. [18] However, for this idea to work on a large
+scale, the process has to be cost-effective to implement cheaply around the world, without
+the massive costs of constructing all-new factory parts. In the pilot plant, they pulled
+all this off by designing a factory based entirely on parts that suppliers could already
+make cheaply and by keeping careful track of their emissions and costs at each stage
+of the design and production process. They are currently seeking funding for an industrial-scale
+version of the plant, that will use low-cost renewable energy, that will produce 200 barrels
+of synthetic fuel a day, which they hope to complete by 2021. [19] But how much carbon can they realistically
+hope to suck out of the air? In 2017, the world emitted about 32.5 gigatons of carbon
+dioxide. If this technology were built at a scale to suck all that back out of the atmosphere
+at $93 to $232 per ton, simple math shows that the total cost would be between about
+$3 trillion and $7.5 trillion. [20] That seems like a lot, but many industries are worth
+more than that, including Apple or the airline industry. Definitely a tall order, but not
+impossible. For this idea to work globally in pulling
+substantial amounts of carbon dioxide from the Earth’s air, there would need to be
+hundreds or thousands of scaled-up plants producing hundreds of thousands of barrels
+of carbon-neutral fuel to drive down costs further, in the same way that solar and wind
+energy costs have plummeted over the past decades with increasing scales However, to keep global warming to less than
+2 degrees C, the international target to avoid the most dangerous impacts, we will need negative
+emissions, not carbon neutral emissions. We need carbon to be taken out of the atmosphere
+and stored permanently, or the problem will only plateau indefinitely. And if Carbon Engineering
+is making fuel from their captured carbon, this is only a carbon-neutral plan. But the reality of the situation is that when
+you are only capturing and storing carbon, there is no market for that. The only way
+to pay for carbon being captured from the air and stored, on a large scale, would be
+government subsidies, and to rely on only our governments to solve this problem is certainly
+a mistake. And at $100 per ton at the moment, there aren’t enough carbon dioxide buyers
+in the market for any other uses to make a dent. Thus, introducing the idea of selling back
+the carbon as fuel is a way to fund such an effort. With market demand and money coming
+in, companies like Carbon Engineering can improve their technology, expand operations,
+store some carbon, and work toward making sure that less oil is extracted from the ground
+over time. Critics say that we should simply just not
+be taking the carbon out of the ground in the first place, focusing on reducing emissions
+rather than capture and storage, or capture and re-use. And some worry that technology
+like this will allow us to think that we have no responsibility to reduce emissions. And
+it is cheaper to not emit a ton of carbon dioxide in the first place than to capture
+it. While these are all definitely valid points, technology like this can and should play a
+role in how we tackle climate change. It’s unrealistic to think that every industry,
+every consumer, and every government in the world will change their behavior in time to
+tackle the rising global temperatures, as much as we wish they would. And technology
+like this will go a long way to help mitigate the negative effects of industries where a
+carbon zero result is next to impossible, like steel or cement manufacturing, or long-distance
+air travel. So this may not be a silver bullet curing
+the world of climate change, but it is definitely a technology to be invested in as a tool in
+the toolbox to help solve the problem. And with direct air capture able to operate anywhere
+where there is air, water, and electricity, every country could in theory, have their
+own supply of carbon neutral fuel. In the end, we are not mindless animals who
+cannot recognise the effect our behaviour is having on the environment. There are thousands
+of people working to solve these problems associated with an ever growing human population,
+with hundreds of start-ups using technology for the betterment of humankind. My audience
+is full of incredibly intelligent people who are more than capable of contributing to fixing
+our problems. So, if you think you have what free. You have nothing to lose and a valuable
+life skill to gain. As usual thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me, the links to my
+instagram, twitter, discord server and subreddit are below. 

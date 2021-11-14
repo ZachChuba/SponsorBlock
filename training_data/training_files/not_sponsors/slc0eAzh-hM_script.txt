@@ -1,0 +1,134 @@
+Vsauce, Kevin here. Imagine the horror of being arrested in connection
+to a crime the entire world is reading about, on the basis of irrefutable fingerprint evidence,
+that you KNOW you didn’t commit. How do you defend yourself against a century
+of science and math that just… aren’t wrong? And how can you possibly win when you’re
+up against the FBI, and your own fingerprint expert says your fingerprints are a match? The first arrest of an American in connection
+with the Madrid train bombings… what led the FBI to Portland, Oregon? Supporters of the man say agents are on the
+wrong track. In Spain, they call it 11M. On March 11, 2004, just 3 days before Spain’s
+general elections, explosions ripped through trains in Madrid. 193 people were killed and about 2,000 were
+injured. Europe hadn’t experienced an attack on that
+scale in decades, and it came in the wake of 9/11 and at the peak of the global war
+on terror. Fingerprints were found on a bag that contained
+detonating devices, and Spanish authorities put them into the Interpol database. The FBI in the United States found a match
+to Latent Fingerprint 17, and in May, Brandon Mayfield, a U.S. Army veteran and family law
+attorney who frequently worked with low-income clients in Portland, Oregon, took the blame. How does a lawyer 5,403 miles away from a
+crime become its prime suspect? To understand what went wrong here, we need
+to go all the way back to Darwin. Throughout the 1800’s, scientists advanced
+the notion that a pattern of epidermal ridges on human fingertips, toes, and palms were
+unique to each human, and they could be used as a proof of one’s identity -- like a built-in
+biological signature. Scottish surgeon Henry Faulds proposed that
+they could be cataloged and recorded with ink, and he asked Charles Darwin for help. Darwin was a bit too old to undertake a real
+analysis, so he passed it onto his cousin Francis Galton -- whose many accomplishments
+included identifying the statistical regression to the mean and inventing a physical board
+to demonstrate it that we now see on game shows. The science around fingerprint identification
+flourished, and by the beginning of the 20th century, it had become one of the best ways
+to pinpoint criminals -- and especially repeat offenders. It replaced systems like branding skin, which
+France outlawed in 1832. It was much more scientific than Alphonse
+Bertillon’s anthropometric forensics, a measurement of physical factors including
+head length, head breadth, length of middle finger, length of the left foot, eye color
+and hair color -- by assigning values for each, Bertillon claimed each person would
+have a unique combination of data. Except… it wasn’t all that unique, since
+so many physical attributes correlate with one another. Like, most tall people also have long arms,
+you don’t find many 5 foot 3 men with 7-foot wingspans. Fingerprints were much more accurate, and
+Bertllon developed a system of 16 identifiable markers that remained standard for over a
+century. Starting in 1924, the US government began
+compiling and cataloging fingerprints, and by 2004, they had about 200 million on file. A wavelet scalar quantization algorithm was
+employed to compress the 500 pixel-per-inch images down to a file size of just 500kb -- which
+meant easier storage, quicker access, and smoother online transfers globally. Like to Spain. And by that time, it had been a century since
+Francis Galton’s forgotten warning that, “A complex pattern [like fingerprints] is
+capable of suggesting various readings, as the figuring on a wallpaper may suggest a
+variety of forms and faces to those who have such fancies.” Even though the prints sent from Spain were
+low quality, an FBI examiner signed an affidavit stating that, “the FBI lab stands by their
+conclusion of a 100 percent positive identification.” In the weeks leading up to his arrest, Brandon
+felt like he was being watched… because he was literally being watched. FBI documents show that as soon as Brandon’s
+fingerprints popped as a potential match, he was immediately under 24-hour FBI surveillance,
+including phone and digital monitoring. He also suspected break-ins at his home and
+his office, because… they were both really broken into. They were convinced Mayfied was involved. Spanish authorities actually knew Mayfield’s
+print wasn’t a match -- before the FBI detained him. They communicated a result of “Negativo”
+after their own fingerprint experts found too few points matching in the prints. So what’d the FBI do? The FBI flew to Madrid and told them they
+were wrong. As they investigated Mayfield, they found
+that he’d converted to Islam. They also noted that a year prior to 11M,
+he’d represented a man accused of involvement in a terror plot in Oregon. The more they looked into his life, the more
+circumstantial evidence they found that suggested Mayfield had the means and motive to play
+a role in the attack -- and that’s actually the punchline to a joke about a lying Texas
+sharpshooter. The joke’s about a man who shoots at the
+side of a barn, and then draws a target around a cluster of bullet holes to suggest that
+he’s actually a great shooter. When that’s done with data, it’s called
+the “multiple comparisons problem.” When we falsely perceive connections in our
+heads, it’s “apophenia.” And when you’re fitting evidence to a predetermined
+conclusion, that has a name too. Psychologist Peter Wason coined the term “confirmation
+bias” to describe one’s tendency to focus on evidence that supports their beliefs and
+to ignore or reject evidence that contradicts it. Basically, it’s cherry-picking the truth,
+and it almost guarantees that you’ll find exactly what you’re looking for -- even
+if that isn’t reality. SO WHAT WAS THE REALITY? An FBI report years after the incident admitted
+that Mayfield was actually one of 20 potential matches to the LF-17 fingerprint. Once they looked into Mayfield’s life and
+found details that supported their suspicions, he became the prime suspect. Because he served in the military, he probably
+had the knowledge to be involved. His tangential past connections to suspected
+terrorists were further proof. And since he’d converted to Islam, he checked
+almost every box on the FBI’s profile list. And remember Mayfield’s house being searched? Evidence was seized from his residence, including
+what the FBI called “Spanish documents.” They turned out to be his son’s Spanish
+homework. Okay, okay, okay. But why did Mayfield’s own defense experts
+agree with the FBI that his prints were a match? They both claimed there was an “unusual
+similarity” between the two prints, with the Office of the Inspector General noting
+that they considered the coincidence to be “extraordinarily rare.” And now we’re back to people being accused
+of crimes based on hypothetical low probability -- just like Sally Clark’s tragic case in
+my last video. The FBI deliberately manipulated their conclusions
+by ignoring that the LF-17 print was only a slight match with Mayfield’s -- and then
+they focused on evidence that supported Mayfield’s guilt and ignored the parts that didn’t. But the FBI’s bad judgment was also a function
+of a weird problem we have when we get better at collecting and using data. Think of crime in Galton’s era -- there
+was essentially no real information to work from. It was very difficult to verify a suspect’s
+identity. It was hard to find a suspect given that there
+was no video evidence, hardly any photography, and primitive forensics at best. It would be generations before we could begin
+to collect and process things like blood types and DNA. The FBI didn’t have too little data. They actually had too much. They knew every little detail about Brandon
+Mayfield’s life, from his browser history to what was in his garbage. The sheer volume of information made it easy
+for them to find exactly what they were looking for and only what they were looking for. Here’s an example of how that data and knowledge
+gap quickly goes wrong. Swedish power lines. In 1992, Swedish researchers concluded a 25-year
+longitudinal study to determine whether living near high-voltage power lines made people
+sick. They studied the rates of over 800 different
+illnesses and found that childhood leukemia was 4 times more common near power lines. Their data wasn’t wrong. The problem was... by measuring so many variables,
+they basically guaranteed that at least ONE of them would be a weird statistical outlier
+-- and then they used it as proof of a cause-and-effect relationship. You can actually visualize what this is like. Look. If I have a bag of dice and dump them all
+on my table, what’s gonna happen? Most of them will form a scattered pile right
+under where I dump them. But you KNOW that 1 or 2 of em are gonna fly
+off my table, bounce on the carpet, and lodge themselves under a filing cabinet 10 feet
+away. Why?!? They’re outliers, it just happens. Alright, back to Mayfield. The FBI had a preconceived notion of who was
+likely to have been involved in 11M. They had seemingly-reliable forensic evidence
+to support a suspect’s identification. They had so much information about that suspect,
+all so easily available digitally, that they could find information that perfectly fit
+their profile. They dismissed the high volume of exculpatory
+data… like whether Brandon Mayfield was even in Europe before M-11. HE WASN’T. His passport had expired years
+ago -- but the FBI claimed that meant Mayfield must’ve traveled under another identity. For them, the absence of proof was proof. Mayfield was detained for 2 weeks as a “material
+witness” -- NOT arrested as an actual suspect, since holding him as a material witness required
+far less evidence. The FBI kept collecting information they thought
+proved Mayfield’s guilt -- but everything came crashing down when Spanish authorities
+announced that they’d found the person who was actually involved in 11M. They matched the LF-17 print to those of an
+Algerian terrorist, and they were right. The FBI’s experts agreed that these prints
+were truly a match. Mayfield was released immediately -- and then
+the questions began. As the American Civil Liberties Union and
+other civil rights advocates excoriated the FBI for having wrongly profiled him, the FBI
+analyzed what went wrong internally. They laid part of the blame on what they saw
+as the poor quality of the original digital image of LF-17, but a panel of international
+fingerprint experts suggested that the FBI had far too much confidence in the Integrated
+Automated Fingerprint Identification System, which is the largest biometric database in
+the world, and let the pressure of a high profile case determine how they viewed the
+evidence -- and what evidence they collected at all. The panel also concluded that, “FBI culture
+discouraged fingerprint examiners from disagreeing with their superiors.” The Department of Justice released a 330-page
+report that admitted to analytical and procedural errors, and academic journals churned out
+articles analyzing the validity of fingerprint analysis, the rate of false positives, and
+fingerprinting’s role in criminal trials. Regarding the validity of fingerprinting,
+a science historian at UC-Irvine said, “How do you explain to the court that what you’ve
+been saying for 100 years was exaggerated, but you still have something meaningful to
+say?” Mayfield’s case led to lawsuits about potential
+misuse and constitutionality of the Patriot Act, a $2 million judgment in his favor, and
+a formal apology from the US Government. Mayfield went back to practicing law. Nearly two decades after Mayfield’s unconscionable
+injustice, we have even more data and information about everything -- and about everyone. It’s amazing how much we can know and how
+quickly we can know it. Everything from medical records to finding
+a gem mint Charizard is way faster than it used to be, and usually more accurate. That’s generally a good thing. But… sometimes all that information is a
+problem. Even when it’s perfectly accurate, the way
+we use it might not be. We can make good data bad, and it’s getting
+even more difficult to get it right. Mayfield’s case highlights the complex relationship
+between the objectivity of science and math and the fallibility of the human mind. As we advance, we find more ways to be right
+-- and that also means more ways to be wrong. The not-quite-100% reliability of fingerprint
+analysis may have initially failed Brandon Mayfield, but the unchecked flaws of the human
+mind are what landed him in a jail cell. Sometimes the math and science are right,
+and the way we use them, the way people use what’s right... is wrong. And as always, thanks for watching. 

@@ -1,0 +1,77 @@
+Maya and the Three premieres, October 22nd, and Netflix has challenged Hacksmith Industries to bring
+Maya's Eagle claw to life. So I think we're going to
+have to experiment with a few new manufacturing techniques. Macuahuitl It's fun to say. Macuahuitl, macuahuitl, macuahuitl. What are you saying? Macuahuitl! Okay. For those of you don't know,
+a macuahuitl is a weapon. Basically it's a wooden club embedded
+with obsidian blades around the perimeter. The name is derived from the Nahautl
+ language and means hand wood. It was actually a common close
+combat weapon in Mesoamerica. And it's also the inspiration
+from Maya's Eagle Claw. Maya and the Three is a Netflix animated event
+premiering on October 22nd. Maya, a warrior princess is celebrating her 15th
+birthday, but when the underworld gods appear and announced, she must pay for
+a family's misdeeds, everything changes. She embarks on a quest to fulfill a prophecy,
+which says that three warriors will appear to help her defeat these gods
+and save humanity itself from this. And that that's a lot to put on a 15
+year old and Netflix as put it on us to build a replica of Maya's Eagle claw,
+but I'm just one person, the Hacksmith to complete this task, just like Maya
+I'll need the help of three warriors. All right team. We've got a really exciting make
+it real project for this week. We actually got hired by Netflix
+to recreate the Maya's Eagle claw from Maya and the Three. Now the neat thing is they
+actually sent us the full 3D model, which means we've got no excuses to make this as accurate as possible
+and functional. You might be noticing it's made of wood and rock and glass. Whereas most of our
+stuff is made of metal. So I think we're going to have to
+experiment with a few new manufacturing techniques with that in mind, Rhiannon. I want you to be our art director. It's your responsibility to
+make sure we get the aesthetics to this club just right. And to start, I think we're going
+to need the vector images of these faceplates so we can really do the design justice. Now there is some metal
+work, so don't worry. I'll handle that part. Chelsea, we need the most
+powerful LEDs you can find. So these things glow like miniature suns. Think you can handle that? Yep. Awesome. Finally, Ben, since you're a
+CNC expert, you're in charge of actually machining the wood and the
+polycarbonate face plates to make them look just like they do in the show. Sound good. Let's make it real! We're here at A&M Wood
+Specialty, and hopefully they have what we're looking for. A&M Wood Specialty is one
+of the broadest inventories of woods in north America. Providing materials for hobbyists
+contractors, wood turners, and even instrument makers. Look! It's a finger. It's like a I think this Che-Chen wood will fit the aesthetic of our
+design perfectly.  To ensure our aesthetic accuracy of the Eagle Claw. I have been tasked with creating
+vector files of our side detailing right here. And to do this, I'm going to
+be using my handy-dandy iPad. And I've got one of these digital
+artists gloves with the two fingers. So you know that I'm a professional. Brought the reference images that Ben
+gave me into my ProCreate app, and I'm just going to lower their opacity to
+about 50% then going in with a new layer. And we're just going to do a quick little
+outline of what we're working with. And then we'll go in with a
+thicker pencil afterwards, The reason I'm using a vector image
+instead of a raster image, which would be like your JPEG, your PNGs, um, is
+because those ones are comprised of pixels. And they lose quality when they're scaled up. This way, I'm able to give Ben something
+that he can reshape in size, however he needs without losing any of the quality. Voilà, sent those vector files off to Ben, which means I'm ready to move on to my
+next task, which is going to be locating a gemstone that'll act as our Eagle's
+eye for our Eagle's Claw Woodworking. Isn't something that
+you see on our channel all to often. And that's too bad. Let's change that. We've picked up this amazing
+piece of touching wood to use for the faceplates of the Eagle Claw. The shape of the panels
+is kind of irregular. I printed out a one-to-one paper
+template that all I need to do is tape it onto the piece. And we're good to cut. We have the pieces cut to size, but
+now we need to cut out the details here and here. Don't get me wrong. Tormach could handle this,
+but it's not quite ideal for wood. I got the perfect tool in mind. Let's go to my house, Welcome to my parents shop. This is our CNC router table. It should be perfect for this application,
+has a nice big bed for all the fixturing and the high-speed spindle. So it will chew to through the wood. Alright. This part is looking great. I'll see you back the shop, now bye get out of my house. The metal framework of the Eagle claw is going to hold the whole thing together. And as you know, I like to really let
+loose in my test videos, which means this thing's going to take a beating. So to make sure it can take
+a beating, we're going to make it out of extra thick steel. We're going to use three quarter
+inch mild steel for the ribs and three 16th solid steel plate for the frame. I think that'll do the trick. Now, before we start welding we're going to need a handle. So I'm going to cut this down to length. Rhiannon did an amazing
+job with these vectors. These faceplates are
+going to look awesome. I've decided to use polycarbonate for
+the glowing parts of the Eagle Claw. Polycarbonate is damn near indestructible. It's clear and it's easy to
+machine, let's get into SolidWorks. So the first thing I
+need to do is import the vectors that Rhiannon
+gave me into Solidworks. I'm just gonna insert a DXF onto a face. And as you can see, it's way too big. Lets fix that. I'm happy with how this
+looks lets extrude it. This looks super fun to
+machine let's get started! We are going to use our Tormach 1100 MX to machine out the details on the polycarbonate. I've got five more of
+these to finish why don't you check on James and see what he is doing. I've come to Stonebridge Imports
+in Kitchener to have a look around, to find the next piece
+of material for our project. the Eagle Claw has spikes
+radiating around the club. Now, traditionally, the Macuahuitl
+uses a material called obsidian. Something that you don't just find laying- It's obsidian Ben did a really good job
+with these faceplates. Now I need to make them glow. I'm gonna use some really bright
+LEDs, some soldering and my brain. step one is a measure of the LEDs. Now I'm going to do some soldering. Alright. Just going to do a little test fit here. It's perfect. These LEDs have an adhesive backing
+so they can stick right onto the. Okay. Now I just need to pop this
+face plate in and turn it on. After two weeks of building all the
+individual components are complete. It was an awesome demonstration
+of the power of teamwork. Now, all that's left
+is to put it together. If it is to be it's up to me, Alrgiht, that was freaking awesome. I haven't had this much fun smashing stuff in a long time. It's really amazing what the
+team has managed to accomplish. This has got to be one of our
+most accurate, make it reals yet. Join Maya and the Three on a quest for the
+Eagle Claw. Maya and the Three October 22nd. Only on Netflix. 

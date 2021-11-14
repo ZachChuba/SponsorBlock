@@ -1,0 +1,61 @@
+E=mc^2, the most famous equation in the world,
+describes the fact that anything with mass possesses a huge amount of energy, in principle
+– like, a 5kg cat has enough energy in its mass to power the entire country of Norway
+for a year – if only the energy could somehow be fully extracted from the cat. But it turns out that efficiently extracting
+energy from mass is a very hard thing to do. Anti-matter is, of course, the most efficient
+way of extracting energy from mass since, if you collide a cat with a cat made of anti-matter,
+100% of the mass of the cat and anti-cat will be converted into energy (powering Norway
+for 2 years). But the universe has almost no naturally-occurring
+anti-matter, so it’s not a practical choice for generating energy, since you’d first
+have to use a lot of energy to make a large mass of antimatter. Since we can't use antimatter, there are basically
+three options left to us: chemical reactions, nuclear reactions, and gravitational reactions
+- aka stuff getting pulled together by gravity, like matter falling into black holes. Chemical reactions, for example, are so bad
+at extracting energy from mass that we don’t even think about what they’re doing as converting
+mass to energy (even though it is). As an illustration, reacting a balloon of
+hydrogen and oxygen gases creates a nice big explosion, but the end-products of the reaction
+only weigh half a nanogram less than the initial reactants , which amounts to a measly 0.00000001%
+efficiency of converting mass into energy. At that rate, you’d need ten billion cats
+to power Norway for a year. Nuclear reactions are a lot more efficient,
+but still pretty bad on an absolute scale: splitting uranium-235 into krypton and barium
+converts only about 0.08% of the uranium’s mass into energy, and fusing hydrogen into
+helium like in the sun converts about 0.7% of the hydrogen’s mass into energy. At that rate you’d need 150 cats to power
+Norway for a year. This where black holes come in – they’re
+about as good as it gets in our universe for extracting energy from mass. Which may sound weird, because, as you’ve
+probably heard, nothing can escape black holes – once inside. But the efficiency of black holes comes from
+what stuff does while falling towards them, before passing the no-turning-back point of
+the event horizon. Anything that falls in a gravitational field
+speeds up, gaining kinetic energy, and if it then crashes into something it can convert
+that kinetic energy into heat. That heat can then radiate away as infrared
+radiation, slightly decreasing the mass of the object. For planets and stars, this conversion of
+mass into energy is pretty pathetic: an object falling to the surface of the earth releases
+only about one billionth of its mass as energy. That’s basically as bad as a chemical reaction! But black holes have something special going
+for them: they are stupendouslysmall. A black hole with the mass of the earth would
+be about 2 cm across, providing way farther for an object to fall – and since gravity
+gets stronger and stronger the closer you are to an object, objects falling into black
+holes get accelerated to ridiculous speeds. Specifically, an object falling all the way
+to the event horizon of a black hole will have kinetic energy equivalent to converting
+roughly half of its half of its E=mc2 mass energy mass. However, if the object continues to fall into
+the black hole, all of that energy will be stuck inside the black hole. The way to actually convert mass into energy
+that goes out into the universe is to have the object slowly spiral into the black hole,
+crashing into other stuff, heating up, radiating that energy away thereby losing mass and speed,
+slowing down more, spiraling to a yet lower orbit, and so on, all the way down to the
+innermost possible orbit. And this is exactly what accretion disks around
+black holes do! So how good are they at converting mass to
+energy? Well, for a non-rotating black hole, the innermost
+possible circular orbit is actually 3 times farther out than the event horizon, and in
+order to spiral in to that point an object has to convert around 6% of its mass into
+energy radiated away to the outside universe. After that point if it loses any more energy
+it’ll plunge down into the black hole, after which no more energy can be extracted. But at this 6% rate, you’d only need to
+throw 17 cats into a black hole to power Norway for a year. Compared to the 0.00000001% efficiency of
+chemical reactions and the 0.7% efficiency of nuclear reactions, 6% for a non-rotating
+black hole may seem pretty good. But rotating black holes are even better,
+because of how they bend spacetime. They literally “drag” things orbiting
+them in the direction of their rotation, which means the innermost possible orbit can be
+much closer to the black hole (as long as you’re rotating along with the black hole). The details depend on how fast the black hole
+is rotating, but for a very quickly rotating black hole the innermost possible orbit coincides
+with the event horizon! And the event horizon itself is half as big
+as for a non-rotating black hole. Combined together, this means that matter
+falling into rotating black holes can convert as much as 42% of its mass into energy. Or equivalently, you’d only need 2 and a
+half inspiralling cats to power Norway for a year. So, if you really want to convert the mass
+of an object into energy, don’t bother with chemical reactions, or nuclear fission, or
+nuclear fusion: throw it into a rapidly rotating black hole. 

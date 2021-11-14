@@ -1,0 +1,21 @@
+If all this talk of breaking encryption makes
+you a bit nervous and worried about your online safety, well, there’s something you can
+do to improve your internet security right now - I’ve been a long time user of the
+password manager Dashlane who are sponsoring this video, and if you’ve never used a password
+manager before, Dashlane is amazing. It generates and remembers a long, unique
+password for each site or service that I use so that I don’t have to worry about remembering
+passwords; and of course all of my data and passwords are stored encrypted with very very
+large numbers. And Dashlane is more than just a password
+manager - it lets you know when your passwords are old or weak or when a site or app you
+use has been hacked so you can change your passwords, it encrypts and lets you securely
+share passwords with family and coworkers, it can be used to securely store or share
+your address, credit card info, and banking info, with just the people and sites you want
+to, it can be used as a VPN, and more. Oh, and Dashlane uses 2048 bit numbers for
+its encryption - numbers that big are estimated to take a trillion times more effort to factor
+than any that have so far been factored by brute force. And of course Dashlane is free for up to 50
+passwords for as long as you like, so you have nothing to lose checking it out. But, if you want the very useful features
+of unlimited passwords, encrypted syncing of passwords, VPN, remote account access,
+and more, the first 200 people get 10% off Dashlane premium by going to dashlane.com/minutephysics
+and using promo code minutephysics. Again, that’s dashlane.com/minutephysics
+with promo code minutephysics to simplify and encrypt your online life. Dashlane has legitimately improved my online
+security and changed my password habits for the better. What could it do for you? 

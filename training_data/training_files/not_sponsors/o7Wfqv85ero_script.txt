@@ -1,0 +1,164 @@
+- I've kind of been
+dreading making this video. We all know that Nintendo
+Switch Online is trash. You can't have a match of
+Smash Bros. or Mario Maker without at least a
+little bit of choppiness. But, how come this doesn't seem to happen with other multiplayer
+games on other platforms? Is it just because Nintendo is bad at developing online multiplayer? Yes, but there's more to
+it than that, a lot more. It's gonna be hard to try
+to distill it into a video, which is what I've been dreading. We're gonna do down a loud ride with a lot of technical nonsense. I'll try not to ramble like Doc Brown, but I'm probably not
+gonna be able to help it. Nintendo Switch's Online is trash, but the solutions I've been seeing online and that I've even proposed
+myself in the past, aren't gonna be much better. (drumming) (electronic gunfire) but we'll hear more about them later. I just wanna know why the
+lag in Nintendo Switch Online is so bad. Honestly, it hasn't been
+that bad in Smash Bros. for me recently, but Mario Maker, my favorite game on the Switch, has lots of problems in
+my favorite game mode. Even if it's not playing
+like a slide show, it can stutter out of nowhere
+in the middle of a jump, just enough to completely ruin your time. It's horrible and borderline unacceptable. You bitch. I have a thing in here about how I don't like the term Netcode, and how it was created by gamers
+and not actual developers, but now developers kind
+of adopted the term, so it's irrelevant. I still don't like the term, because it's just a blanket
+term for anything relating to video games and the internet
+and that's not helpful, but I've seen developers use
+the term more and more now, so I guess that's just the thing now. It's like gif and jif,
+except jif was never right. I've talked about Nintendo
+Switch Online before the service and all of the problems
+that I've had with it, and honestly, not a lot has
+changed since that video. Watching that back, all of the hopes that I had for the
+service didn't come true, so that sucks. But, I used to say how I thought that certain Nintendo
+Switch games would benefit from dedicated servers. At the very least, it
+would make it so that if you had a good connection
+and your opponent didn't, that they would be penalized
+with lag and not you. People would argue that a
+server would increase latency, because it's essentially
+adding a third computer and that's not ideal for fighting games. The real reason fighting games
+don't use dedicated servers is because it would be
+unrealistically expensive. Super Smash Bros. Ultimate is
+the best-selling fighting game of all time. So, it's kind of an exception, but there's also some
+protocol restrictions that might be a problem
+for dedicated servers, and they wouldn't exactly
+be ideal for fighting games or even stupid little Mario Maker. Everybody seems to have
+an opinion on this topic, including myself, but
+I get a lot of comments that just seem to parrot
+other people on the internet who, guess what, don't know
+what they're talking about. But, it wasn't until I got this comment the last time I talked
+about Nintendo Switch Online being trash, where it all
+started to make sense to me. "I am a network engineer. "It's because the blokes
+use TCP instead of UDP "in their games. "Look those both up if you're curious." When I read that, I started
+to have 'Nam flashbacks to my networking days. It makes perfect sense, and
+this is where my descent into madness begins where I'm
+gonna get really technical and where I might lose some of you. Maybe I should back all the way out for the people who are already
+drooling on themselves. You see, the way the internet works, is there's these little,
+tiny packets of information, and they get sent out really fast. When you have lag, that's one or a couple of these packets just getting
+lost or taking too long. Are we all on the same page now? Okay, so most games use UDP,
+or User Datagram Protocol. It's unreliable and
+unordered, meaning that if a packet gets lost, nobody cares. It's gone, onto the next
+one, we gotta keep movin', there's a game to be played here! This is great for a game, because the game has to
+be played in real time. If a game had to wait
+for a packet to come in, that would introduce slow down. Instead of slow down, what you might see is a character just blip into existence, or teleport across the map. The thing is that these packets get sent and received so fast that packets get lost all of the time. Most games that use this
+protocol make up for it with in-game error correction. A game like Call of Duty will try to guess what you're trying to do if a packet isn't received fast enough to smooth out the gameplay. If you're walking in a straight line and a packet doesn't get received, chances are, you didn't
+wanna just stop dead in your tracks, right? This is also why sometimes
+you'll be 100% sure that you shot that guy before he shot you, but then you watch the
+KillCam and it turns out that you never even fired off a shot. That's the game taking
+everything into consideration on both sides, and
+determining that you deserve to be smited. Maybe you shouldn't be using
+racial slurs on Xbox Live. So, that's UDP. It's not ideal for a lot
+of internet applications, but it's very good for video games that have the ability
+for error correction. But, not Nintendo for some stupid reason. It's believed they use TCP. TCP, or Transmission Control Protocol, is reliable, ordered, and error
+checked on the network side, which sounds great, but that also means that it favors accuracy over speed. In TCP, if a packet gets lost or it takes too long, everything stops. The host will then reach
+back out to the client and be like, "Hey, where
+the hell's the packet?" And the game will not resume until the host gets that packet. It's also unordered, so
+if a packet gets lost but the next few packets get received, everything still needs to stop until it gets that first packet, and that's why things might
+rapidly speed up out of nowhere during a lag spike. This is a great system for
+webpages and messaging apps. Imagine if sometimes only part of a text message went through, that would be terrible. This is also why text
+messages always make it to their recipient if
+they were marked as read. If she told you she didn't get it, it's time to move on dude,
+it wasn't meant to be. So, the theory is, that this
+is why a Mario Maker game will just stop dead in its tracks. This is why a Smash Bros.
+game will chug to a halt in the middle of a fight. And, it makes perfect sense,
+because I've never once seen a character just blip into existence, which is something that happens in a game with built-in error correction. Despite the lag in Nintendo Switch Online, the connection is reliable. Your information is gonna get there, it just might take what
+feels like an eternity. This should just be case closed because it makes perfect sense, but there is a little bit of
+a problem with this theory. First, Nintendo themselves recommend that you use Port
+Forwarding on your router to open up all of the UDP
+ports for your Nintendo Switch. This suggests that they use UDP. Also, don't do this, this is absurd if you have any other
+devices on your network. Reddit users determined that if you wanna use Port Forwarding, you should open up just these ports. Honestly, you don't need to do this. If you have internet problems
+opening up these ports, probably isn't gonna help that much. I also found somewhere else that Smash Bros. uses some TCP ports, but in order to test our theory, I decided to turn off TCP
+completely on the port that my Nintendo Switch was plugged into, and I was still able to play Smash Bros. and Mario Maker just fine. Disabling UDP dropped
+my connection entirely. This suggests that the theory is wrong, that the games actually do use UDP, which doesn't make much sense. Now, it's possible that there
+is something else going on. Maybe Nintendo servers actually use TCP, but we connect to the servers using UDP, which is dumb and doesn't make any sense. Maybe this is all for every other game that actually uses UDP. If Nintendo Switch Online only used TCP, then games like Overwatch and Fortnite would have really big problems. So, maybe it's TCP wrapped
+up in a UDP package, or TCP hidden behind a layer of UDP. I don't know, this is why
+I'm going (bleep) crazy. Regardless, it's clear that
+Smash Bros. and Mario Maker use a reliable error
+checked network model, and I'm not sure that an
+unreliable unchecked network model would be any better. In a fighting game like Smash Bros., accuracy is really important. I get mad when a grab doesn't land. Imagine how you would feel
+if a character just blipped on top of you with a forward smash. I honestly think I'd rather
+just have the slow down. Now, the input lag that you feel when you're playing Smash Bros. Online, I can't explain. It's different in every match, and it's completely unacceptable. This could be an effect
+of TCP needing to fill up an entire packet before it
+can send that packet out, so the packet theater
+reach a certain size, but who knows at this point. I really, really wish that
+there was a better solution for Mario Maker. Unfortunately, there really isn't. Accuracy is pretty important here, too. I'm happy that it's at least accurate. I just wish that the lag
+was at least consistent. It throws me off when it
+speeds up and slows down at random intervals. Unfortunately, we do have an
+example of what Mario Maker would look like with the connection using fast in-game error correction. And, yeah, I don't think it's better. Soviet Jump Game is a great game published by the GameGrumps. It's a unique take on
+the Mario Royale formula. Instead of racing the
+opponent to the finish, like in Mario or DMCA Royale, in Soviet Jump Game, you have
+to directly fight against the other opponents before
+the walls close in on you. It's a lot of fun and it's free on Steam, and it says it works on Mac too, but I've only tried the Windows version. It recognizes the 8BitDo
+controller right away on Windows, so it's very easy to set up. It's definitely worth
+checking out, it's free. The problem with how
+Soviet Jump Game handles its online connectivity, is, well, this. (digital grunting) Oh, sweatin'. No, I glitched under him! (hissing) That's the teleporting I was talkin' about that happens with UDP. So, I'm not sure if I really
+prefer one over the other. On the one hand, a choppy
+but reliable connection means that your inputs matter more. The game isn't gonna try
+to guess or place you where it thinks you want to
+be, you have complete control. It just means that sometimes
+it'll be hard to control, because of those lag spikes. On the other hand, you have a stable, but inaccurate, connection. It's not always gonna
+get your inputs right. It might miss some things,
+but at least the game will keep moving. Of course, this stable,
+but inaccurate, connection could be made more accurate based on the game's own error correction. A game like Call of Duty probably has great error correction, because they have a huge budget and some of the best online
+multiplayer developers in the world. A game like Soviet Jump
+Game is an Indie game, and that's probably gonna have
+some error correction issues. So, I'm sorry that there's
+no happy ending to all this. There's no simple solution that could make Nintendo
+Switch Online better, other than just generally be better. It's okay to use a reliable
+error checked protocol, but maybe have some fail-safes in place to keep the connection stable. It's good that random matchmaking
+is based on geography. That's a good start. I don't know if you've ever
+tried to play Mario Maker with someone from Australia, but I have, and it's completely unplayable. For some reason, I've
+played Japanese players in Smash Bros. with no problem. Maybe give us a way to rate
+people who have bad connections. Maybe automatically match
+them against other people with bad connections, so
+that they get punished. Other games do this. If you're worried about your own internet, the best thing that you could do is get a network adapter, which
+I've previously talked trash about in the past. Video games don't require
+a lot of bandwidth, but they do require a stable connection. If a wired connection is
+completely out of the question for you, which is understandable
+in certain households, then upgrade your WiFi. The router that your ISP
+provided you is probably trash. The Google WiFi router is awesome, and I'd recommend that
+for almost everybody. The Netgear Nighthawk
+is a little bit overkill for most people, but it is also awesome. Netgear sent one to me years ago, and I never touched it until just now. The way they display information
+in their admin portal really helped me out with this video. It clearly shows what
+devices are doing what. This isn't a Netgear ad or
+anything, they didn't pay me. They just sent me a
+router like two years ago, and I didn't touch it,
+'cause I had no use for it, but now I do. But you know what is an ad? Dollar Shave Club, that's right, I gotcha. Gotcha, you idiot. Thank you Dollar Shave Club
+for sponsoring this video. If you're not a morning person, (breaths in) well, Dollar
+Shave Club can't help you, but they can make your
+mornings a little bit easier. (suspenseful music) From shower, oral care, deodorant, and most importantly shaving, Dollar Shave Club has you covered. All right, now I gotta shave my balls, and you can't be here. This time, they sent me their
+Ultimate Shave Starter Set, which includes their Executive
+handle and six blades. A one ounce tube of Dr.
+Carver's Prep Scrub, Shave Butter, and Post Shave Dew, which is my favorite,
+and more importantly, my dad's favorite. He keeps asking me to get some for him, or he just straight-up steals it from me. Listen, if you can get
+an almost 70 year old man to change his shaving routine, then, it must be good. Anyway, head on over to
+dollarshaveclub.com/wulff to get the Shave Starter
+Set for just five bucks. After that, the restock box
+ships regular-sized products at regular price. And, hey, thanks Dollar Shave Club for helping support the channel, and for reminding me to keep my face clean so my mom doesn't yell at me anymore. Can you guys do haircuts too? So, anyway, what do you guys think about Nintendo Switch Online, specifically how it works with
+Smash Bros. and Mario Maker? Do you have any solutions
+for how they can fix the connection issues? Do you think that it's fine how it is? You're crazy if you do. Does this make a lot
+more sense to you now, or is this just more food
+for your Reddit arguments? Or, do you wanna tell me
+I'm wrong about something? Maybe you have something to add, which would be very helpful, because some of this
+I'm just at a loss with. Leave it in the comments below, add me on Twitter, and any and all of this other social media garbage. And of course, we got new
+videos and live streams all the time here at this channel. Our schedule is usually in a pinned tweet over on Twitter. We got Wulff Den Live
+every single Wednesday at 8:00 p.m. Eastern time here on YouTube, and we got streams over
+on twitch.tv/wulffden. It's usually Mario Maker. I think today I'm doing
+Smash, the pilot's out. We also don't have much
+Wulff Den apparel left. We still got these shirts. Check out if you want a
+nice flannel for the cold, check it out, it's very nice. But of course, the most
+important thing that you can do, and the easiest thing that'll
+help support the channel is just subscribe. That's easy. And share this video with a friend. A friend that, maybe, you're arguing with about Nintendo Switch Online. Maybe you just wanna show
+them what the problems are. Thank you guys very much, you have yourself a very good week. 

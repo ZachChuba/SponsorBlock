@@ -1,0 +1,32 @@
+Airplanes stay in the air because of one simple
+fact: there is no net force on them. And with no net force, an object at rest stays
+at rest, and an object in motion stays that way – even if it’s in midair 10 km above
+the earth’s surface. Now of course it’s not like there aren’t
+forces acting on the airplane; gravity pulls down on the plane itself plus all of the people
+and baggage inside, and every single air molecule that is shot through the engine or collides
+with the fuselage or wings pushes on the plane as well. But if all of these forces are balanced – in
+particular, if the air molecules push the plane UP enough to counteract gravity – then
+the plane stays up. Getting air molecules to push the plane up
+is the crucial part of flying, and planes do this by making sure the undersides of the
+wings crash into more air molecules more violently than the upper sides of the wings. When a plane is parked on the ground, air
+molecules bounce off of the top and bottom of the wings in roughly equal amounts, or
+with “equal pressure.” No lift. But in motion, the curved shape of the wings
+and their slightly inclined angle means that the bottoms smash into more air molecules
+than before (and smash harder into those molecules), so the pressure on the bottom of the wing
+goes up. In addition, fewer air molecules now strike
+the top of the wing and those that do strike it less forcefully, partly because it’s
+being “shielded” by its own forward motion (the way running into the rain keeps your
+back drier) and partly because a curving stream of air has lower pressure on the inside of
+the curve since the molecules get thrown centripetally to the outside. But whatever the reasons, the pressure on
+the top of the wing goes down. So, low pressure on the top plus high pressure
+on the bottom, and the plane has lift. And if the pressure/force imbalance is big
+enough, it can lift the plane up into the air against gravity! Now, all this crashing into air molecules
+to lift the plane also pushes to slow the plane down – which it would, if not for
+engines. Engines also push air (in this case, backwards),
+either via a propellor, or a jet, or a jet driving a propellor. For various reasons, it turns out that you
+want to have a really big propellor driven by a really small jet for the most efficient
+engine. But even in inefficient engines, the spinning
+fan blades get their horizontal lift, which we call “thrust,” by moving quickly through
+air with a curved shape and a slightly inclined angle – they’re essentially mini-wings. And so an airplane is essentially a meta-wing:
+it flies by moving mini-wings fast enough to push air molecules backwards, which moves
+the plane forward fast enough that its big wings push air molecules down. 

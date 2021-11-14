@@ -1,0 +1,225 @@
+Earth has its share
+of monster storms, but even the most
+powerful hurricanes are a breeze compared to the
+great planet-sized tempests of the gas giants. The great vortices
+of the Jovian planets are true storms,
+analogous in many ways to Earth's hurricanes. But there are, of
+course, some differences. For example, these storms
+are as big as entire planets. The largest and oldest
+storm in the solar system is Jupiter's Great
+Red Spot, stretching an incredible two to three
+times the diameter of the planet Earth. Meanwhile, the
+fastest winds ever measured, clocking 1,500
+miles per hour, once raged in Neptune's Great Dark Spot. Saturn's polar vortex is a
+20,000-mile-wide monster shaped like a hexagon. Even plain-looking Uranus
+hides USA-sized hurricanes below its methane haze. There are many unsolved mystery
+surrounding these epic storms. We may be close to finding
+some answers following the Juno spacecraft's recent
+flyby of Jupiter's Great Red Spot. Before we get to the unknown,
+let's talk about what we do know about these storms. In fact, let's start with
+those found on Earth. Hurricanes, cyclones,
+and typhoons are all the same
+weather pattern. Their name just depends
+on where they form. As with the gas giant
+storms, these monsters are powered by convection. Warm water-laden air
+rises from below, while cool air and precipitation
+sink from above, creating a vertical convection cell. In the case of earth storms, the
+energy powering that convection comes from the sun-warmed ocean. This convection sustains a
+central low-pressure region, which sucks in the
+surrounding moist ocean air. These incoming winds
+travel such large distances across the Earth's
+surface that they are subject to the Coriolis force. Earth is, of course,
+rotating on its axis. Any object moving over
+a spinning surface will appear to follow a curved
+path relative to an observer moving with that surface. On a clockwise-spinning
+surface, there's a pull, a Coriolis
+force, to the left, while on a
+counter-clockwise surface the Coriolis force
+is to the right. So as air rushes
+in all directions into a low-pressure storm
+cell, the Coriolis effect causes it to curl
+around in a circle. The result is a raging
+vortex in the same direction as the Earth's
+rotation, clockwise in the southern hemisphere and
+counterclockwise in the north. These storms can persist as
+long as the warm ocean provides energy to drive the
+convection cycle. Over cold water or land,
+this power source is cut off and the storm dies. Another key to hurricane's
+longevity is moisture supply. Wet ocean air is pulled in
+by the low-pressure core, and it rises in the
+convection cell. As it cools, it
+condenses into clouds, which are driven outwards. Eventually, the moisture rains
+down, completing the cycle and maintaining
+the storm's core. This is another reason why
+storms weaken near or on land. Too little water, and
+convection ceases. It's also why the
+most powerful storms are driven by
+low-pressure rather than high-pressure cores. See, a low pressure
+core draws inwards, replenishing the water supply. A high-pressure core
+pushes air outwards, depleting the supply of
+moisture and shortening the storm's life. The outgoing winds of
+a high-pressure cell still do respond to the Coriolis
+force, so they form a vortex. However, that vortex rotates
+in the opposite direction, clockwise in the north and
+counterclockwise in the south. Whereas low-pressure
+vortices are called cyclonic, high-pressure vortices
+are called anti-cyclonic. So there we have it. The most powerful
+storms tend to be low-pressure cyclonic systems
+powered by sun-warmed water. Gas giant storms are
+a little different. They are most often
+anti-cyclonic, high-pressure systems and are
+powered not by the sun, but by the collapse
+of the planet itself. See, the planet's never
+quite finished forming. They originally collapsed from
+the vast gas disk left over after the sun's birth. But five billion years
+later, that collapse continues, albeit very slowly. Jupiter, for example, shrinks
+by about two centimeters every year. As they contract,
+gas giants convert gravitational potential
+energy into heat, which in turn powers the largest
+storms in the solar system. As contraction-heated
+gas rises, it cools. On Earth, the only source
+of condensation is water, but the gas giants' atmospheres
+span such a wide range of temperature and pressure that
+all sorts of molecular species condense. Most of Jupiter's visible
+clouds are ammonia ice, tainted with colorful impurities,
+but there also clouds of hydrogen
+sulfide and regular H2O. The phase changes from gas to
+liquid to solid release latent heat that lifts the
+storm still higher. All of this happens
+in the troposphere, the densest and innermost
+layer of the atmosphere. On Earth, the troposphere
+is about 10 miles thick. But on the gas giants,
+it can extend 100 miles into the planet's murky depths,
+where pressure forces the gas into a metallic liquid state. A powerful storm can
+breach the tropopause into the stratosphere. For example, the Great Red
+Spot towers eight kilometers above Jupiter's iconic
+bright and dark belts. Now, the spot itself is quite
+cold, in fact below freezing, but all of its activity
+warms the upper atmosphere to 1,600 Kelvin. With such a wide range
+of molecular species driving an incredibly
+deep convection cycle, there's no danger of a Jovian
+storm system running out of molecules to condense. Even high-pressure,
+outward-blowing storms don't dry up like
+they do on Earth. In fact, all of the famous
+storms like the Great Red Spot, Neptune's Great Dark
+Spot, and Saturn's polar vortex are or were anti-cyclonic. Gas giant storms can
+last for many years. Neptune's Dark Spot
+lasted several years before dissipating in 1994. However, Jupiter's
+Great Red Spot has raged for at
+least 350 years. We're still trying to unlock
+the secrets of these storms' longevity. A combination of a near
+inexhaustible supply of heat and an abundant supply of
+condensable molecules helps. In the case of the
+Great Red Spot, it also helps that the beast
+frequently cannibalizes small storms, absorbing their energy,
+and that it is sandwiched between a pair of 300 to
+400-mile-an-hour jet streams that are moving in opposite
+directions to each other. These help keep
+the spot spun up. But even with all of
+this, the Great Red Spot's centuries-long life
+span is mysterious. And in fact, it may finally
+be coming to an end. The spot is showing
+signs of shrinking. In the 1800s, it spanned
+37,000 kilometers, or about three Earths in width. However, as of April
+this year, the spot spans just 16,350
+kilometers, or 1.3 Earths. The storm is also circularizing. And although its smaller, its
+wind speeds haven't diminished. Is the great red
+spot fading away? What's causing this shrinking? The answers to the
+storm's longevity and fate may be found in the
+details of its structure. And for that, we
+need to get close. For that, we need Juno. NASA launched the $1.1
+billion Juno mission in 2011. The probe will swing
+within 3,400 kilometers of the Jovian cloud tops and
+ultimately crash into them to avoid contaminating
+potentially life-bearing moons like Europa and to peek under
+the gas giant's cloud cover. Juno carries eight instruments,
+including a radiometer for probing the atmospherics
+high-pressure depths, an imaging spectrograph for
+studying cloud chemistry, a magnetometer for
+measuring Jupiter's intense magnetic field, and a
+four-color wide-field JunoCam. Juno spends most of
+its orbit millions of miles away from
+Jupiter's harsh radiation, but every 53 days it ducks
+under the radiation belt and turns on its instruments
+for a two-hour transit from pole to pole. During that time, Juno snaps
+a picture every 60 seconds, fast enough to catch at least
+six angles of a given feature. This is perfect for
+measuring cloud heights and also to record
+horizontal cloud drift, which gives us wind speeds. Juno's flyby images of the Great
+Red Spot are really amazing. These are taken by
+JunoCam and incredibly processed by volunteer
+citizen scientists Look at the difference
+between these images from Hubble, Galileo,
+Cassini, and Juno. The level of detail
+is incredible. All of these images
+were taken on July 10 during Juno's seventh flyby
+from just 5,600 kilometers above the clouds. With all the little
+plumes and eddies, it is the first time
+we've seen so many storms within storms, especially
+in the Great Red Spot. They weave around the
+edges at top speed. But in the center, everything
+is perfectly calm like the eye of a mega-hurricane. Even accounting for
+the resolution limits of older photos, Juno is
+revealing real changes. For example,
+there's a transition from long streaks
+to smaller eddies. This represents a shift from
+streamline to turbulent flow. Turbulent flow acts like
+friction, sapping energy away from the bulk rotation. And this may be connected to
+the spot's shrinking size. As well as getting
+smaller, the Great Red Spot is becoming more circular. In fact, it may be
+completely circular in the next couple of decades. But that doesn't necessarily
+mean it's going to vanish. Besides size, velocity is a
+good measure of storm strength. Over the last few decades,
+the storm has gone smaller, but it now appears that its
+winds are not any slower. The pictures from JunoCam
+are just the beginning. Juno's other science
+instruments have provided an enormous
+amount of data, and more will come in
+the upcoming 30 flybys. Scientists are poring
+over this data right now. And with the help from
+citizen scientists, perhaps like you,
+we're sure to unravel some of the secrets of the solar
+system's most powerful storms. You could stay updated
+on Juno's discoveries on its interactive website
+and by staying tuned to "Space Time." I want to send out a
+storm of thank you's to our Patreon supporters. You make our job so much easier. And a very special thanks to
+quasar supporter Mars Yentur. Mars, you're hoping
+us keep the lights on and the convection
+cells powered. Last week, we talked about
+John Archibald Wheeler's one electron universe
+idea as well as gave the solution to the
+Feynman diagram challenge. You guys had a lot to say. Andreas64 asks why we don't
+also talk about the one proton or one neutron universe. Well, Wheeler was
+really just using the electron as an example. The natural extension would be
+that every elementary particle along with its
+anti-particle counterpart is the same particle bouncing
+forwards and backwards in time. Not too much protons
+and neutrons, but the different quarks as well
+as muons, neutrinos, et cetera. Keith Gaughan wonders if
+the imbalance between matter and anti-matter
+is due to the time in the history of the
+universe that we're observing. Well, actually, the fun
+thing about the one electron proposition is that it doesn't
+matter when in time you are. You should always see the
+same proportion of matter to anti-matter. To prove this to
+yourself, try drawing a space-time diagram, time
+on the y-axis and space on the x-axis. Now, draw the zigzag of an
+electron bouncing up and down. Start moving upwards and
+end moving downwards. Make each turning point
+at a different time so the zigzags are uneven. Now, draw some horizontal lines. Count each upward-moving
+line as an electron and the downs as positrons. It doesn't matter
+what times you choose. You'll always get
+the same number of electrons versus positrons. Vacuum Diagrams points out
+that two diagrams are missing from the challenge answer. There should be diagrams
+with photons connecting across the vertices of the
+two-vertex photon deflection diagram, like this. My bad. I incorrectly considered these
+to be self-energy diagrams. Fortunately, no one was
+penalized for my error. YouTube Account points out that
+the perfect name for dark flow isn't WTF flow, but
+rather what the flow. Yeah, I realized I'd
+missed that puntunity right after leaving the studio. I was even tempted to
+reshoot, but thank you for giving me the
+chance at redemption. Don Solaris asks
+how I manage to make my beard super-symmetrical. Well, my barber just shaves
+half-integer spin off the sides. It really takes my facial hair
+beyond the standard model. 

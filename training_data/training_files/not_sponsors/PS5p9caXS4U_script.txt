@@ -1,0 +1,30 @@
+Suppose you want to know how long it was between
+the Norman invasion of England and Columbus's arrival in the Caribbean; that is, what’s
+1492 minus 1066 – but you hate long subtraction with its borrowing and such. Well, we can subtract by adding: first we
+just need to replace each digit of the smaller number with 9 minus that digit, except the
+final digit gets replaced with 10 minus that digit, so 1066 becomes nine minus 1, nine
+minus 0, nine minus six, ten minus 6. Adding that to 1492 gives 10426, and if we
+ignore the first digit, we get the answer: 1492 minus 1066 is 426. You can check just to be sure. Coincidentally, it’s roughly 426 times farther
+from Portugal to the West Indies and back than from France to England. But anyway, the subtraction-by-adding trick
+works for any positive numbers! 8 minus 6, or 2, is the same as 8 plus 4,
+ignoring the first digit. 100 minus 1? is 100 plus 999, which is 99,
+ignoring the first digit. And 424,242 minus 333,333 is 424,242 plus
+666,667, or, 90,909 ignoring the first digit. I’ll let you check that one. This trick might seem useless, but suppose
+you built a machine that can add numbers together, and you wanted to make it subtract? Well, in that case it might be easier to make
+it subtract by adding: and matter of fact, my friend Hank Green took apart an adding
+machine and that’s exactly how it subtracts - by adding! Basically, the machine adds numbers by rotating
+numbered wheels, but there aren’t infinitely many wheels so if you add up past the maximum
+possible number, you get back to zero – this is called “overflow” in computing and
+“modular arithmetic” in mathematics. But most importantly, getting back to zero
+by adding means it’s possible to have positive negative numbers, since, for example, negative
+three is just what you add to three to get zero, and on Hank’s adding machine if you
+add 3 plus 9,997.00, you get zero, so 9,997 is literally negative three! Unfortunately, there are an infinite number
+of numbers when you’re doing regular arithmetic, so you might think that negative three is
+just negative three. But if you’re willing to fudge a little,
+you can just take the adding machine’s version of negative three, add a bunch of 9s out in
+front, and when you add that to stuff it’s BASICALLY the same as subtracting three, as
+long as you don’t look too far. Because, you know, nine gadgillion nine hundred
+and ninety bajillion nine hundred and ninety seven plus three, is zero. Almost. By the way, this method of subtracting by
+adding is how computers subtract as well, they just do it in binary which makes it a
+lot easier. It's called "subtracting using the two's complement,"
+if  

@@ -1,0 +1,32 @@
+Nuclear waste. We’ve got a lot of it, it'll
+stay dangerous for tens of thousands of years, and we don't really know what to do with it.
+So why don't we just send it into space and crash it into the sun? Well, first, it's really dangerous to put
+nuclear waste on a rocket, since rockets have a tendency to occasionally explode while launching,
+making any nuclear-waste-filled exploding rocket into a really big dirty bomb. But the bigger reason is that it's actually
+really really hard to *get* to the sun. It might seem like it should be easy, since the
+sun's gravity is always pulling us towards it. But we're also orbiting really fast sideways
+around the sun, so that as we fall towards it, we miss it. In order to crash _into_ the sun, you have
+to slow down so that you're _not_ going sideways really fast. The earth - and everything on
+it - is moving around the sun at around 30 kilometers per second, so you'd have to accelerate
+to a speed of 30kilometers per second backwards away from the earth in order to stop moving
+around the sun and do a sun dive. And you have to slow down all the way – with even
+a little bit of sideways speed, you'll miss the sun and whip around, not crashing. Ok, so a speed of 30 kilometers per second
+is really fast, but just how fast? Well, from earths’s orbit, you only need to be going
+_11_ kilometers per second faster than the earth in order to escape from the entire solar
+system. Which means that it's much, much harder to crash into the sun than to escape it altogether.
+Let me say that again: it takes less acceleration to get to _other_ stars than it does to get
+to our own sun. Crazy. But it gets weirder: because the gravity from
+an object is stronger the closer you are to it, the smaller your orbit is, the faster
+your orbital speed. For example, Mercury goes around the sun at a speed one and a half times
+faster than earth, while Pluto goes only a sixth as fast. And that means it's actually
+way harder to crash into the sun from Mercury than from the earth, even though you're closer,
+because you'd have to accelerate to a speed of 48 kilometers per second backwards instead
+of 30. And it's way _easier_ to crash into the sun from Pluto, since you only have to
+accelerate to a speed of five kilometers per second backwards. In fact, if you're trying to crash into the
+sun just using rockets, it's far more efficient to first go to the outer solar system where
+your speed is much lower, then do a second burn to counteract that slow orbital speed
+and allow you to fall directly into the sun. And that's precisely why early mission trajectories
+for NASA's spacecraft to study the sun proposed going out to Jupiter first – to make it
+easier to slow down and get to the sun. Ultimately they decided instead to use repeated flyby's
+of Venus to slow down the probe and save on rocket fuel getting to the sun. But how gravity assists work is a topic for
+another day. Speaking of which – how long would a day be on the sun? 

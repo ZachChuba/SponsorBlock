@@ -1,0 +1,39 @@
+When you ask someone to draw a star, they'll
+probably draw something like this - or this or this. Even ignoring the rainbows, this
+doesn't seem very scientific, since we know stars are actually big hot ROUND balls of
+plasma and far enough away that they're basically just dots. So why do we draw stars that have
+points? The answer is surprisingly simple: we see
+stars as pointy. Look carefully next time you're outside on a dark night - or just look
+at this dot (it works best if you make the video fullscreen, close one eye, and relax
+the other as if you're looking at something far away). You should see a pointy, star-like
+shape! In fact, it's not just humans that see pointy stars - some telescopes see them
+that way, too! This is all because light is a wave. When
+light from a distant source passes through an opening or around an object, its waves
+are bounced or bent slightly and interfere with each other, so the passing light picks
+up an imprint of that opening or object. A straight line (whether it's a slit letting
+light through or a rod blocking the light) leaves its imprint by spreading the light
+out into a perpendicular series of dashes (- like what you see when you squint!) A cross
+creates two, perpendicular, sets of dashes, circles cause concentric rings, squares spawn
+a kind of dashed four-pointed star, hexagons dashed six-pointed stars; and the famous double
+slit experiment gives a series of dashed dashes. My favorite diffraction pattern, though, is
+probably that of the Penrose tiling - it's simply gorgeous… not that you see Penrose-tiling-shaped
+openings very often. But… the point of all of these imprints is that they're the result
+of a point of light being spread out when viewed through a particular opening or past
+a particular object. For example, the Hubble space telescope has
+four struts that support its small secondary mirror, and their imprint causes the 4-pointed
+stars in hubble photos. And I bet you can guess the shape of the aperture on the lens
+that took this picture. Similarly, the lenses of our eyes have subtle structural imperfections
+called suture lines where the fibers that make up the lens meet. These imperfections
+leave a very particular imprint on light as it passes by, as researchers have confirmed
+by shining lasers in people’s eyes. So, even though stars themselves are just
+tiny round dots, by the time the light reaches our retina, it's been smeared out into a starlike
+shape. Every single eye on earth will see a slightly different starlike smear depending
+on the exact nature of its suture lines - even your left and right eyes will differ! What's
+weird, though, is that any particular eye sees the same shape for every star - so while
+it is scientifically acceptable to draw stars like this, if you draw more than one in a
+single picture, you better make sure they're all the exact same shape! On top of that, since diffraction spreads
+longer wavelength red light out more than bluer light, the arms of these star-shapes
+are actually mini-rainbows with red on the outside and blue in the middle! Which, again,
+you can see in hubble photographs or if you look even more carefully at a single point
+of light. So as crazy as it sounds, coloring in stars with rainbows is super scientifically
+accurate - as long as the colors go the right 

@@ -1,0 +1,88 @@
+- The AMD Ryzen 9 3950x blew us away with its 16 CPU cores
+and 4.7 GHz boost Clock, humiliating Intel's fastest offerings. So what would happen if
+someone put it in a laptop? ("Justice") We get the apex 15, the newly crowned fastest laptop ever. At this point, it's not a question of
+whether it will wreck the competition, but rather by how much it'll wreck the competition. Let's get into it. Today's video is brought
+to you by GlassWire. Keep track of the weird stuff
+that's connecting to your PC even when you aren't using it. You can see if strange
+devices join your Wi-Fi and block them instantly. Get 25% off at the link below. The original plan was
+to compare the Apex 15 to other laptops from the blue team, but given that Intel's
+best was just eviscerated by the thin and light Zephyrus G14 here. We figured we needed to up the ante, so on every single one
+of our performance charts you're going to find the
+desktop core i9-9900K to show you just how
+overpowered this thing is. At the time of writing, the core i9-9900K is Intel's fastest consumer desktop CPU. And unsurprisingly, it's 8 cores were no match for
+the 16 cores in the Apex 15. If you were looking for
+pure CPU power on the go, there is absolutely nothing like this. You're not reading that wrong, unless you think the
+blender classroom render didn't finish five minutes
+earlier than the 9900K. Maybe the biggest surprise
+though is not only that the Apex 15 beat the core i9-9900K, but that in some tests
+even the Zephyrus G14 beat big blue, reinforcing how much of a beast it is. As for single threaded performance, well, the 9900K is still
+the king of the hill, but not by the margin that I
+was expecting in Cinebench, just 5%. Moving on to gaming test though, Intel does manage to hold
+on to the top two positions on our chart, although, I would most certainly hope so given that one of those
+chips is a desktop one and that the other one is equipped with the new super variant of the mobile RTX 2070. The 3950x then is without a doubt, the fastest mobile gaming
+CPU that we've ever tested and the Apex 15's cooling system, which you probably just
+heard spin up right there, performed admirably, keeping our GPU at around 1700 MHz and our CPU above 4 GHz. That's dang impressive, so surely there must be
+some compromise then, right? How does the Apex 15 fair
+against a desktop R9 3950x? Well, unsurprisingly there's
+just not enough power or cooling for the Apex 15 to
+keep up with a true desktop So the R9 3950x is running in Eco Mode knocking the TDP down from
+105 watts to just 65 watts. Now originally there was actually a suite of overclocking tools
+in this laptop's bios until der8auer took things
+a little bit too far and Clevo locked the BIOS down to prevent, overzealous tuning. Anywho, hopefully soon there will be an expert
+BIOS mode down the road that puts the options
+back in with some warnings that it could void your
+warranty, ET cetera, ET cetera. The Apex 15 is also
+slowed down by the 16 gigs of 2666 memory that we
+unfortunately had to use. The original plan was to
+use 32 gigs at 3200 MHz. But Ryzen 3rd Gen desktop
+chips and sodimm memory, sort of uncharted territory. So over the next few months we're hoping, a bios update should add
+support for loads more ram with an accompanying performance boost. Back to the thermals though, the CPU does get up to
+about 90 degrees Celsius, when it's under heavy load, at which point the clock
+speed does drop to 3 GHz and that might sound kind of slow. But guys remember, there are 16 cores and 32
+threads in this laptop. I mean, we will regularly
+see 6 or 8 core laptops that have to drop to the mid 2 GHz range when they're under heavy loads, So this is still very impressive. Sort of. 'Cause something's gotta give, right? So what has XMG? I mean really Clevo, the original designer,
+done to keep the thermals of this beast in check? In short, the Apex 15 moves
+a shocking amount of air for a laptop and it creates quite a bit
+of noise while doing it. Surprisingly, I didn't find
+the noise too annoying. There's no high pitched whine and glass half full since the fans are going full
+tilt pretty much all the time, the laptop is kind of easy to tune out. To really figure out how they
+kept the Apex 15 cool though, we'll need to take a little trip inside. First, you're going to want
+to take out the battery by removing these two
+screws and pulling up. We were only be able to get
+about an hour of time away from the wall by the way, with this 62 watt hour battery, but putting a larger one in
+would have been more expensive, made the laptop bigger and heavier, and let's face it guys, it's not like 1.5 hours of battery life is suddenly going to make the Apex 15 viable for use anywhere that you don't have easy
+access to an outlet. Five more screws which are
+different lengths by the way, so be careful when you're reassembling and we can slide the bottom cover off, revealing. Look at that copper and the heat pipes. Those are some of the largest heat pipes that I have ever seen at 11 mm wide, which I guess means it
+makes a bit more sense how the processor didn't
+have a complete meltdown. Underneath the heat pipes and a generous dollop of
+Thermal Grizzly Kryonaut is the motherboard. And this is cool. Almost everything in here can be upgraded. There are two M.2 slots, a 2.5 inch hard drive bay and easily accessed ram. Even the CPU uses a
+standard desktop AM4 socket, so, adding another
+level of craziness here, it could actually be possible to upgrade to future processors, assuming that a bios update were provided. That means the graphics card, that's an RTX 2070, is pretty much the only bit that can't be swapped out in the future. It's kind of like the anti Mac book. Back to the exterior though, the Apex 15 is built like a brick, a 5.69 pound brick to be exact, and although looks chassis
+construction is plastic, there's enough copper on the inside that it gives it a pretty solid feel with my only complaint being that the keyboard, the like wrist rest itself
+and the keys themselves, are a little bit squishy. Now, it didn't stop me from liking the keyboard reasonably well. It's not top tier, but the key switches
+never actively annoyed me, so I'll give it a solid B. The bad news is that the track
+pad did actively annoying me. Overall, the tracking and
+click feel is mediocre, but it's the poor palm rejection that really made me want
+to outright disable it and just use a mouse. With that said, on a different laptop, that would be a straight up deal breaker, do not buy, but with this, I suspect that most of the time where you can plunk down this
+thing and your power brick, you can also plunk down a mouse, I mean the thing is less of a laptop and more of a desktop that
+can be moved around easily. I mean even the IO is desktop like, you have 3 display outputs on the back, I mean you don't do that if
+you intend for this thing to be used on the go. But, all of that positive stuff aside, assuming you're after something like this, should you spend your money on it? Does come with some compromises. Remember that you're only
+getting 65 watts of CPU power. You're getting a lot more
+noise than a desktop, and if you're willing to
+give up some CPU performance, basically any other laptop out
+there is going to beat this. For portability and battery life, however, if you're after
+a high performance rig, the value of this machine is something that I don't
+know if I've ever seen before. Our config right here, will run you about $2500, which is a lot of money, but consider this, an equivalent desktop is going
+to run you close to 2 grand. And unlike the Apex 15, that desktop doesn't come with
+a 144HZ IPS gaming display, or with the keyboard. Also, the performance per
+dollar of this machine can be improved by settling
+for 12 cores instead of 16. The R9 3900x variant drops
+the price to around 2 grand, which is only about $200 more, than an equivalent desktop. That is pretty compelling. I'm used to seeing big price premiums on these weird low volume
+high performance skews, but it's not really here this time. So if PCI express expansion cards, aren't really your thing, this is a heck of a lot
+of performance in a, well, relatively portable
+container, isn't it? So if got to crush big calculations or renders on the go, this is it guys. Nothing is going to get it done faster. Just like nothing can
+get a Segway out there faster than this guy, anytime we buy anything online, we give access to our personal information to merchants and their data partners, and this happens without
+our clear consent. So it's important that
+your online presence is kept safe and secure, and with privacy.com you can do that. It's a free tool that makes it easy to manage your financial life online by keeping your most important information out of the hands of people who might have it stolen from them. By generating virtual numbers, Privacy masks your real bank information so you never have to
+worry about giving it out to people you don't know online, you can create up to 12 cards a month on their free personal plan and pro is $10 a month, which gives you access to
+everything in the free plan plus 1% cashback on all purchases, up to 36 cards a month and more security and privacy features. Privacy.com is PCI-DSS compliant and since they make merely for merchants, there's no cost to you, so sign up today and you'll get 5 bucks. It's privacy.com/linus, that's privacy.com/linus. I have that link below. 

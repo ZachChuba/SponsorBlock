@@ -1,0 +1,52 @@
+Today’s OBS Studio course episode, we’re
+doing another discussion style video. Let’s talk about some of the ways you can
+set up a more dynamic live stream that engages the audience a bit more than the typical gameplay
+and webcam setup. This is going to be pretty hypothetical and
+require some creative thinking on your part in order for you to get the most out of it. I’m EposVox, here to make tech easier and
+more fun, and welcome back to my OBS Studio tutorial course. I have many, many more videos on the software
+in the playlist linked in the description. Check that before asking questions, and check
+the introduction video to learn how this course works, if you get confused. Setting up a facecam overtop your gameplay
+footage is a great start to connecting with your audience and making a great-looking live
+stream. But it doesn’t have to stop there; a basic
+facecam cam is just the beginning of what you can do. We’re mainly going to talk about some realistic
+ideas, and I will show you some of what I have implemented. Those who are super MLG pro at a specific
+game - first person shooters, RTS games, and so on - implementing a keyboard cam, mousecam,
+or controller cam might be a great idea. This is super easy to set up - just an extra
+camera mounted and pointed at your controlling device. This can be a webcam via USB or a camcorder
+or DSLR with an HDMI feed running to a capture card. And yes, you can use multiple capture cards
+in one system with OBS Studio. You can use a LOT. This is how professional broadcasts work. Not only that, but you can get some capture
+cards with multiple inputs. Let that sink in if you’ve seen that as
+a roadblock previously. If you have multiple computer monitors and
+use them for a specific workflow, you can add them all to OBS and use a keypad with
+macros or an automatic scene switcher to switch between them. Or you can go a step further and add webcams
+on top of each so that you always have a facecam ready. Side-cams are pretty obnoxious, IMO. My live streaming setup has 3 different cameras:
+My main webcam mounted on my primary monitor (which is the Logitech BRIO 4K running at
+1080p60), the Logitech C922 mounted on my side monitor where I keep my Premiere Pro
+panels for editing live streams, and then I have a camera on a tripod behind my third
+screen over on the left. I usually use this for my console gaming live
+streams and the camcorder feeds it video via HDMI to another capture card. Easy to set up and makes the live streaming
+experience a lot more dynamic and interesting to the viewer. If you’re not super picky about privacy
+and have an interesting setup, you can mount another camera - such as a wireless security
+camera streaming over the network, or just a webcam with a really long USB cable ran
+- on a wide angle further back from your setup to show off during your “be right back”
+scenes. Add a little blur and text overtop and you
+have a much more interesting scene than just a “BRB” slide. And viewers get to see behind the scenes,
+which helps make them feel more involved. You can utilize complex layout graphics or
+websites like TippeeeStream to make a more visually-appealing stream with extra layouts,
+graphics, Twitch Chat overlaid, views side-by-side, and so on. You can have multiple people streaming in
+one location, too! Run both game systems or PCs into capture
+cards to the streaming machine, set up facecams for both people, and switch between the scenes. Think about how major eSports events are set
+up and scale that down to your needs. You can set up an audio mixer to feed in audio
+from multiple sources - such as multiple mics, your game system, a secondary computer for
+music playback, and so on. See my audio setup if you want an example. Some people even have separate game feeds
+for when they’re in-between matches of their main game. For example, switching to a view of a mobile
+phone game they’re playing while waiting for lobbies to load and switch in a multiplayer
+competitive game or something. These are just a few ideas towards the unlimited
+possibilities you can achieve with scenes and interactivity in OBS Studio. You just have to be creative and have patience,
+and whatever ideas you have can be achievable. I hope this episode of my OBS Studio tutorial
+course has been helpful for you. If it was, drop-kick that like button and
+subscribe for awesome tech videos. If you like game streaming, come follow me
+on Twitch and drop a message in chat. Until next time, I’m EposVox, Happy Streaming! Thanks for watching this episode of my OBS
+Studio tutorial course. More videos like this and a full master class
+are linked in the playlist in the video description. Click to learn more. Also consider joining us on Patreon to help
+keep tech education free. Go to Patreon.com/eposvox to sign up. 

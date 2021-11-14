@@ -1,0 +1,113 @@
+This video is sponsored by
+CuriosityStream and my own Nebula original series. More on that later. In 2019, a load of music videos
+that had been uploaded to YouTube in the early days of the platform
+were remastered. YouTube let the music labels keep
+the same video IDs, along with all the views and comments, so suddenly,
+all those old videos were in HD! And they look... well, it depends on the video. Smash Mouth's All Star looks awful. Now, there are some brilliant
+remasters out there. Wham!'s Last Christmas is now in 4K,
+and it looks spectacular. And that's because it was shot on film,
+full cinema quality, the sort of thing you can literally project
+on the side of a building and it will look great. Same with Freddie Mercury's Living On My Own,
+the remaster looks stunning. In fact, I think that looks better, because they haven't converted it
+to widescreen: they've kept it at the "aspect ratio"
+of old '80s television. Because music videos
+weren't meant for the cinema. They were meant for television.
+It's in the name: music video. So one of the first steps in editing will have been putting the film
+through a telecine, which is a very fancy way of
+pointing a TV camera at a film projector and saving the results to videotape. It is way more precise than your average
+movie-theatre pirate with a camcorder, but the result is that all that film quality
+gets crushed down onto a standard definition TV picture
+stored on magnetic tape. 480 horizontal lines in the US,
+576 in Europe. That's it. Any more quality than that is gone. Editing on videotape is
+much cheaper and easier, though, and if you're putting the final version
+out on television, well... why would you bother with
+editing actual physical film, which is what you had to do
+back then? A few videos might have gone to that expense,
+if it was part of a big concert film, say. So the Rolling Stones Rock and Roll Circus 
+was played at the New York Film Festival, and you can see the cinema camera
+with its big, bulky rolls of film in the background of
+some of the shots. But the final version of
+most music videos were, well, videos. So for the remaster of Last Christmas, a team of engineers had to track down
+the original reels of film, and rescan them using
+modern technology at 4K, and then, they painstakingly took
+those 4K files and recreated every edit
+in the original video, frame for frame,
+cut for cut. Actually, they were only able to find
+seven out of the eight original reels of film, so there are a few shots in there where the only source material was
+the TV-quality music video. And you can tell, 'cause this is what an old-school, standard-definition,
+analogue signal looks like when you use world-class technicians
+to upscale it to 4K. It's not too bad? I guess? Living On My Own
+also has a couple of shots where the old '80s digital effects
+have to be recreated with modern tech, and... they're not a perfect match. And there are also a couple of shots
+that have been replaced, or the timing slightly changed,
+no idea why. But again, it's not a bad job. Now, there is a cheaper
+remastering option that doesn't involve recreating
+the whole edit from scratch: you can take the final TV edit from the best, cleanest, professional-grade
+videotape you can find, and upscale that to HD. A lot of remastered videos
+have done this. It won't be as sharp as
+the original film, but it will look better than
+people are used to. Which is what they've done with
+the remastered version of Bohemian Rhapsody. And look, I can see why record companies would want
+an HD version of Bohemian Rhapsody. It's iconic.
+It has over a billion views on YouTube. But this was not shot on film. It was recorded on TV cameras,
+edited on videotape— you can tell by
+the look of the lighting— and by the fact that these effects required
+live feedback to the camera. you could only get this by pointing
+a television camera directly at a monitor, which means there was never
+any high-quality film version, this was only ever in standard definition. And remember, old-school analogue television
+in Europe runs at 50 frames a second. 60 in the US,
+but 50 in Europe. Half of the horizontal lines get skipped
+each time, which is called interlacing. And it means you get less flickering
+on old equipment. So if you want the authentic, original experience,
+as seen back in the '70s, then Bohemian Rhapsody should be played
+at standard definition, at 50 interlaced frames a second. That's what was recorded. Instead, what you see on YouTube is
+a computer's best effort to make a high-definition, 25 frame a second,
+film-like picture from that limited data, filling in the gaps,
+turning jagged edges into smooth lines. That's called 'deinterlacing'
+and it's not done badly here. 'Remastering' doesn't mean 'restoration'.
+It means 'recreation'. You'll see marketing blurbs saying
+remasters are "the way it was meant to be seen". Which is a great tagline, but... no, it wasn't. Remastering is, to an extent,
+changing the historical record. There are fan remasters of
+Bohemian Rhapsody out there, upscaled from VHS, 50 frames a second,
+that are much more true to the original. But at least Bohemian Rhapsody got
+a decent HD remaster. It's not like what they've done
+to Smash Mouth. Look at his face in this scene. That's not a clear high-definition picture,
+that's some kind of demon child! It's scaled up wrongly,
+it's over-sharpened. Look at the diagonal lines here,
+they're jagged and stepped. I tracked down a standard-definition version
+from years ago that someone had reuploaded, and... yeah, I can see
+why a computer would do that. And, oh yeah, it's badly deinterlaced
+in some parts too, because here, you can see the cheerleader is
+in two places at once in the same frame. It's not bleed-over
+from the next frame either. She's in two different places there as well. Same for this scene with the dancer. Why is there a dancer in just one scene
+in this music video? But those deinterlacing artifacts,
+I don't understand how they're even possible. Did they shoot some of this
+on a TV camera at 60 frames a second and then grade it to look like film? That doesn't make any sense, but that's the only way
+that those artifacts could happen. But other parts look fine, and look like
+they're on film at 30 frames a second! And the parts that they pulled from
+the movie that it was a tie-in to — Mystery Men — those run at 24 frames a second, and you can see in this transition, the right side
+is badly deinterlaced with a ghost image and the left side has every fifth frame doubled
+so the frame rates match. I— I— I genuinely cannot understand
+what has happened here. It is a complete and utter mess. Presumably some underpaid and overworked
+VFX tech was given a low-quality, already-broken
+copy of it and told: "It's just Smash Mouth, we don't care.
+Just make it work." So they threw the video into a
+basic resizer to make it HD, massively dialed up the sharpness, and tried to squeeze the aspect ratio
+into... whatever this is. The HD remaster looks worse
+than the one it replaced. It's sharper, sure,
+but it's not better. And if you are going to change
+the historical record, it does seem a terrible option
+to make it worse. I've got an original series over on Nebula.
+Here's the trailer. I invited five people to play some games. I trust no one.
+None of us are trustworthy. ...in an environment designed to
+slowly break their team apart. This is real money! But all they knew is
+they'd be sat around a table trying to win real cash: $10,000. The vibe's changed after that theft. This is a show about trust,
+about loyalty, and about Money. Tom wants the chaos.
+(all laugh) Nebula is a home for new,
+in-depth and experimental content and collaborations from
+education video creators that you may well have heard of. and it's bundled for free
+at this link with CuriosityStream, a subscription streaming service
+with thousands of big-budget, professional documentaries
+and nonfiction titles. CuriosityStream is $2.99/month
+or only $19.99/year. You can get a 30-day free trial,
+including access to Nebula and my series, by going to curiositystream.com/tomscott. 

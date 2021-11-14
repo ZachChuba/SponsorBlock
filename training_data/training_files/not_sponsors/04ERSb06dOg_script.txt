@@ -1,0 +1,233 @@
+[MUSIC PLAYING] PBS Digital Studios. Conservation laws are among
+the most important tools in physics. They feel as fundamental
+as you can get. And yet, they're
+wrong, or at least, they're only right sometimes. These laws are consequences of
+a much deeper, more fundamental principle. Noether's theorem. [MUSIC PLAYING] Conservation laws are the
+cheat codes of physics. They make it possible to
+solve physics problems that would otherwise be painfully
+difficult or even impossible. More than cheat codes,
+conservation laws are clues to the source code. They emerge from profound
+and simple truths about the basis of reality. They emerge from the fundamental
+symmetries of nature. The connection between
+conservation laws and symmetry is encapsulated in
+Noether's theorem. But before we dive into this
+extremely elegant idea, let's talk about the seeming
+paradox that inspired it and the genius
+who discovered it. When it was published in 1915,
+Einstein's general theory of relativity opened as many
+questions as it answered. Among them is the
+fact that energy is not always conserved
+in general relativity. The simplest example
+of this is the case of cosmological redshift. As the universe
+expands, light traveling through that expanding
+space is stretched out. Its wavelength increases. And so the energy of
+each photon drops. Where does the energy from
+red-shifted photons go? In 1915, the expansion
+of the universe hadn't yet been discovered. But the failure of
+energy conservation was still clear from the
+math of general relativity. Two of the greats of the era,
+David Hilbert and Felix Klein, sought the help of a young
+mathematician Emmy Noether to understand this
+seeming paradox. She discovered why the law
+of conservation of energy broke down in
+general relativity. The law was not
+fundamental after all. She realized that
+all conservation laws arise from a more fundamental
+relationship, which we call Noether's theorem. A simple expression of
+Noether's theorem is this. For every continuous
+symmetry of the universe, there exists a
+conserved quantity. Let's unpack this. First, what do we
+mean by symmetry? Actually, first,
+what don't we mean? We say a face is symmetric if
+it looks the same under a mirror reflection. Snowflakes are symmetric
+under 60-degree rotation-- playing cards under a
+180-degree rotation. But these are what we call
+discrete symmetries-- single flips around one axis or
+rotation by specific amounts. Noether's theorem applies
+to continuous symmetries. Something is
+continuously symmetric if it stays the same for
+any size shift in a given coordinate. For example, a long road
+in the middle of nowhere is continuously symmetric
+under spatial translations in the direction of the road. A perfect sphere is
+continuously symmetric under rotational translations. In both cases, the
+environment stays the same for shifts along the
+symmetric coordinate. In the case of
+Noether's theorem, when we say the
+environment stays the same, we mean the equations that
+give the laws of motion for the system. For example, moving along
+a perfectly flat road, the downward force of
+gravity stays constant. We have symmetry to
+spatial translation. And Noether's theorem
+tells us there's a corresponding
+conserved quantity. That quantity is momentum. If two cars collide
+on that road, the sum of their combined
+momentum stays the same. But what if the road is hilly? Momentum doesn't
+appear to be conserved. It can be lost or gained
+to the gravitational field. This is because the direction
+of the gravitational field changes with
+respect to the road. It's not symmetric to
+translations along the road. On the other hand, the
+gravitational field across the whole
+stretch of road doesn't change from one point
+in time to the next. The system is symmetric
+to time translations. It doesn't matter when
+the collision happens, the results are the same. Noether's theorem reveals that
+this time translation symmetry gives us energy conservation. And the last classic
+example, if the factors driving the laws of motion
+are symmetric under rotation-- for example, the
+spherically-symmetric gravitational field experienced
+by a satellite orbiting the earth-- then, Noether's theorem predicts
+another conserved quantity, angular momentum. By revealing the underlying
+source of conservation laws, Noether's theorem
+handily explains when and why they are broken. That includes the
+apparent breaking of conservation of energy
+in general relativity. See, Einstein's
+description of gravity reveals the dimensions
+of space and time to be dynamic and changeable. If the very nature of
+space can change over time, then continuous time
+symmetry is broken. That's the case with
+the expanding universe. Energy can be lost in the
+case of cosmological redshift, and it can be
+created from nowhere in the case of dark energy. The law of
+conservation of energy is fundamental in
+Newtonian mechanics, in which space and time
+are unvarying and eternal. But in Einstein's universe,
+energy conservation is only valid as a special case. It only applies for
+parts of the universe where we can approximate
+space as unchanging over time. However, it is possible
+to use Noether's theorem to come up with an analogous
+quantity that is conserved. That quantity is the rather
+esoteric Landau-Lifshitz pseudotensor. It saves energy conservation
+by incorporating the entire universe's
+gravitational potential energy to offset the seeming
+gains or losses to redshift in dark energy. This quantity is,
+however, controversial in its application and
+in its interpretation. It's also worth
+an entire episode. So I'll leave it alone for now. Despite its profound
+implications, the math behind
+Noether's theorem is surprisingly straightforward. It falls like magic out
+of another deep lore of the universe-- the principle of
+least action, which states that the
+universe will always choose the path between
+two states that minimizes the change in the action. This is a rather
+abstract quantity that measures the
+effort involved in moving between two states
+over some time interval. It's a generalization of
+Fermat's principle, which states that light
+will always take the path between two points
+that minimizes the travel time. The principle of least action
+extends Fermat's principal to any object moving on any
+path or indeed any system quantum-mechanical
+to cosmological evolving between two states. The principle of
+least action can be used to derive
+the laws of motion from the equations of
+classical mechanics to Feynman's path integral
+formulation of quantum mechanics. In a sense, the
+principle is axiomatic. It's a founding assumption
+behind these derivations, and it's also the
+founding assumption behind Noether's theorem. However, as a
+founding assumption, that is as close to as
+fundamental as we can get. Noether's allows
+us to figure out the true conserved quantities
+for any system that's evolving according to the
+principle of least action. As long as we can identify
+that system's symmetries, this is useful in
+cosmology, but it's also useful in quantum physics. The general nature
+of the theorem means we can apply it to
+not just the symmetries in the dimensions of space and
+time, but also to more abstract coordinates. For example, another
+conserved quantity in physics is electric charge. Noether's theorem
+tells us that there should be a corresponding
+symmetry of nature, and there is. That symmetry is the phase
+of the quantum field. You can rotate the complex phase
+of an oscillation in a quantum field by any amount, and
+the observable properties of that field, like its
+particles, don't change. This symmetry leads to the
+conservation of electric charge and electric current. This quantum symmetry
+is just the simplest of a large number of symmetries
+exhibited by quantum fields, the so-called gauge symmetries. They predict a rich family
+of conserved charges that govern the interactions
+of the particles of the standard model. For example, the color charge
+of quantum chromodynamics describes the strong interaction
+between quarks and gluons. The entire standard
+model of particle physics is what we call a gauge theory. It's founded on the fundamental
+symmetries of quantum fields. It's going to take a
+few episodes to explain exactly what these
+symmetries really are and how they lead to the family
+of particles and interactions that make up our universe. And we'll jump into
+that before too long. Emmy Noether was one of
+the greatest mathematicians of the golden age
+of modern physics. Yet, she gained little public
+recognition in her time and is still only known
+to the more eager students of math and physics. During her life,
+she was repeatedly refused any paid academic
+position due to her gender, until late in her career. Hermann Weyl, also a giant in
+the mathematical foundation of quantum mechanics, said
+in her memorial address, I was ashamed to occupy such a
+preferred position beside her whom I knew to be my
+superior as a mathematician in many respects. Einstein also
+called her a genius. Her contributions
+to mathematics, particularly abstract algebra,
+redefined entire fields. Let's be thankful
+that she took a moment to offer a little of
+her genius to physics, taking us a big step
+closer to understanding the fundamental
+workings of the universe through the continuous
+symmetries of "Space Time." As always, thanks to all of our
+Patreon supporters that helped keep us explaining the universe. And this week, an extra
+huge shout out to "Big Bang" supporter Fabrice Eap. Fabrice, your continuously
+time-symmetric contributions are fundamental to the
+conservation of "Space Time." So thank you. Last week, we talked about
+the incredible wealth of data dropped by
+the Gaia and mission. You guys had a ton to say. Superuser asks how Gaia
+compares to the upcoming LSST. So the large synoptic
+survey telescope will indeed be revolutionary. It does have some
+overlap with Gaia in that it will
+measure light curves, so it changes in
+brightness over time for billions of objects
+across the entire sky. But Gaia is really optimized
+for extreme astrometry-- phenomenally accurate
+position data that actually allows
+measurements of velocities. LSST won't do as well
+in that regard, in part because it's on the ground, in
+the Atacaman Andes, in Chile, rather than in space. But LSST will see much
+further and fainter than Gaia. It has a 35-square
+meter collecting area, compared to Gaia's
+0.7 square meters. It will find more small
+solar system objects, detect the effects of
+weak gravitational lensing in distant galaxies, and
+see more distant supernovae, monitoring more distant
+quasars for their flickering. In general, it'll do better
+in what we call the time domain by scanning the
+entire sky every few nights, and it'll keep coming back,
+and back, and back to measure changing brightnesses at
+high-time resolution over 10 years. Simon Clarkston
+asks how Gaia can take such precise measurements. Surely, it's camera doesn't
+have pixels this small. It's good insight, Simon. Gaia's precision is plus or
+minus 0.3 milliarcseconds-- as we mentioned, the width of
+a hair at 1,000 kilometers. Yet, it pixels are
+only 60 milliarcseconds on their shortest dimension. It can do better than that
+off the bat by analyzing the way the light
+from each star spreads into neighboring
+pixels by fitting the so-called point
+spread function. But its extreme
+precision is possible because it comes back to
+every field many times over the five years
+of its operation. Each time, stars will
+have moved slightly, but they'll have moved in
+extremely predictable ways. By fitting laws of motion to
+the stars' five-year trajectory, there's only a very narrow
+trajectory of extremely precise locations that ends up working. Nebularium asks whether what
+dwarf's is the correct plural, rather than what
+dwarves with a v. Well, to quote Tolkien's 1937 "Forward
+to the Hobbit," in English, the only correct plural
+of dwarf is dwarfs, and the adjective is dwarfish. In this story,
+dwarves and dwarvish are used but only when
+speaking of the ancient people to whom Thorin Oakenshield
+and his companions belonged. You could also check Appendix
+F in Lord of the Rings. Seriously people,
+on "Space Time," we only ask that you start
+with a passing familiarity with quantum physics and
+the etymological foundations of the languages
+of Middle-earth. Please do your
+assigned readings. 

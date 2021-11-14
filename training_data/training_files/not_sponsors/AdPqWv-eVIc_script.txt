@@ -1,0 +1,50 @@
+Over the last twenty years, a slew of ever-lighter,
+ever-more-powerful rechargeable batteries has enabled the rise of smartphones, miniature
+high definition cameras, drones, commercially competitive electric cars, wireless headphones,
+and so on. It seems like we’re moving towards a future
+where the entire planet is battery-powered, but there are two big factors that will come
+into play: 1) how light and energy dense we can make batteries, and 2) whether we’ll
+even be able to physically manufacture enough batteries. This video covers part 1 of this question,
+and Brian of Real Engineering is covering part 2 – we’ll link to his video at the
+end. Ok, so batteries have been getting better
+and better, and nowadays, they can store over twice as much energy per kilogram as in the
+1990s , which means they’re half the weight for the same energy stored. Hence all the drones and smart phones. So what’s the limit to this trend? Batteries are, in principle, fairly simple:
+take two partially dissolved metals, one whose atoms want to dissolve more and give up electrons,
+and one whose atoms want to deposit back on the solid bit but need spare electrons to
+do so. When you put these two together connected
+with a wire or some other conductor , they’ll satisfy each others’ wants, either dissolving
+more or depositing more, and sending the electrons to each other along the wire. Voilá: electricity! And if you force electricity backwards through
+the wire they’ll reverse their dissolving and depositing, otherwise known as “re-charging”. The intrinsic limits to how lightweight batteries
+can be are imposed by two factors: the weight of the two materials you use, and how much
+energy they give off per electron traded. So you want the lightest materials that produce
+the most energy per electron. Metals from the left side of the periodic
+table, like lithium, sodium and beryllium, really want to lose electrons, while atoms
+from the right side like fluorine, oxygen, and sulfur really want electrons. And atoms close to the top are lighter weight,
+so we can just slap together lithium and fluorine and make a perfect battery, right? Unfortunately, no – lithium and fluorine
+are way too reactive – one of the only well-documented practical uses of a lithium fluorine reaction
+I could find was incredibly powerful and dangerous rocket fuel. In practice, the electrochemistry of batteries
+is incredibly complicated, and requires combining metals that work well together chemically,
+electrically, and controllably at normal temperatures and pressures . For example, oxygen is a gas,
+sulfur is a horrible conductor, and sodium needs to be molten – challenges to using
+any of them to make batteries. The current standard for lightweight, rechargeable
+and commercially safe batteries uses lithium and graphite on one side, with a variety of
+options for the other side, often cobalt oxide . Lithium atoms are what either dissolve or
+deposit in order to transfer electrons, hence the name “lithium ion”, while the other
+materials are dead weight along for the ride – I mean, they play important chemical
+roles, but they greatly increase the weight-per-electron transferred. So how much lighter will batteries get? Theoretical calculations put the minimum possible
+weight for lithium ion batteries at around half what they currently are .
+A lighter candidate currently being developed is the lithium-sulfur battery , which has
+a similar amount energy-per-electron as lithium-ion batteries, but lithium and sulfur are lighter
+than lithium and cobalt, oxygen and carbon , so a battery with equivalent capacity can
+in principle weigh around a third as much .
+Even better, lithium-oxygen batteries , while still an incredibly far-off technology, are
+theoretically four times lighter than lithium sulfur batteries. But that’s pretty close to the limit for
+chemical-reaction-based batteries – there aren’t really any materials that give off
+more energy per electron for a given weight than lithium on the dissolving side and fluorine
+on the depositing side , and a lithium-fluorine battery – as dangerous and impossible as
+it is – is limited to only be about 10% lighter than a lithium-oxygen battery .
+So the theoretical lower limit for batteries, period, is about 5% of current weights. But that’s an incredible long-shot, everything-works-out,
+perfect world scenario. More likely is that we end up combining pretty-good
+batteries with supercapacitors, fuel cells, hydropower and other mechanical energy storage
+types, and airplanes will probably always have to use some sort of hydrocarbon fuel. Or maybe we’ll finally figure out fusion. Ok, so here’s an example of the amazing
+battery technology we have available today 

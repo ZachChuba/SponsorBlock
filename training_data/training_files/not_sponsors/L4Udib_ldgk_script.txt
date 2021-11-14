@@ -1,0 +1,67 @@
+What's in the box? Why do you hate humanity? He made me do it Hey guys on last episode Make it Real we
+made the world's most powerful leaf blower and on this episode we're tackling the
+myth of Pandora's box basically if you open this the universe ends now you may
+be asking yourself those are two completely different far-out there ideas,
+why do we even do what we do and how do we even come up with these ideas? Well to
+be honest ideas are the easiest part of our job, in fact we have a huge list of
+both ongoing projects and ideas for upcoming projects. The issue is paying
+for the project, planning the project, filming the project, editing the video,
+reviewing the video, and getting a sponsor to pay for the project play today with my link below Typically the video is actually the hardest part sometimes I just want to work on a
+project and not worry about setting up cameras and thinking about how is it
+gonna look on video as you know we've been expanding the team here and now we have more engineers working on cool stuff every day The hope is maybe we'll
+actually be able to have more than one video per week Anyway back to this
+project in this video, Pandora's box This is an idea Ian and I had years ago. What
+if we made a box that scares the ever-loving **** out of you if you open it?
+Well this term we actually hired a University of Waterloo engineering co-op
+student and her name is Elena and this was her first project she worked on with
+us. We gave her the idea and she took it from there. Took about a month to make
+and well you'll see How do you ask for money for products
+supplies? Is it accidentally turning on? What'd you think when you were asked to make Pandora's box? I thought it was stupid I understand you plan on mass-producing
+these and installing them at bus stops, libraries, airports. and retirement homes.
+How do you plan on turning a profit from this venture I don't Okay so Elena got it working and now this is actually my first time testing it
+I know what's gonna happen but there's a time delay so I don't know when it's
+actually gonna fire the LEDs Going to commercials we'll be back after the
+intermission Speaking of paying for this project a huge thank you goes out the
+World Warships for making this project possible World of Warships is a
+free-to-play online game that takes wit and expert strategy to dominate the
+seven seas. It's the perfect balance between both action and strategy which
+gives it so much more depth than your standard mindless shoot-'em-up games.
+You get to command a massive naval fleet complete with some of history's most
+iconic war vessels. With changing weather and over 30 million players worldwide no
+two missions will ever be alike What I like most about the game is their
+attention to detail, the vessels are super accurate because they actually
+base the game models off real-life 3D scans of the ships and with over 200
+ships available from 11 different nations there's so many different ways
+to play. Updates are constant which ensures new experiences new missions
+game updates and special events Play today using my link below using my code
+action stations 2019 and you'll receive 250 Doubloons, 1 million credits
+the HMS Cambeltown, one port slot and three days premium time. Plus by downloading it
+you help ensure our channel can keep making awesome way out there ideas just
+like Pandora's box This thing's ***** awesome Ian! Just open the box No! Open the box yeah we should put like money here or
+something yeah we're gonna take it out Put a sign, do not open Pandora's box why did you make Pandora's box and why do you hate humanity? I was told to do it,
+They pay me for this! They pay me for this! This box showed up in the workshop,
+you should probably open it Ok I'll try So I understand your co-op term is almost
+over, what do you plan on stealing from the Hacksmith? One thing at a time they will never know I'll steal it! No one will ever know! I already attached the side button here
+it sort of controls how much time it takes to react when you open the box, I also added some instructions here You know, people have to follow the instructions right? When we got this big really big big dangerous battery It's not a big boy battery So we're going to be installing this battery management system in, it's gonna plug in
+directly to the battery and then it's gonna flip a relay depending on if the
+voltage gets too low or if the cells become imbalanced it'll turn it off,
+to prevent it from blowing up Here's the switch, as soon as it gets released then everything can turn on Here's the master control board, it has an arduino
+nano and then a mosfet and that will control the horn, so the arduino also has
+some outputs to control the relays for the lighter rays so this board is the
+master board and it controls when everything turns on. Here we have the big
+DC voltage converter, it goes from 36 volts DC to 12 volts DC and that to a
+maximum of 30 amps we need this to power the horn and this relay board, cause now
+that we've switched to 1 big 36 volt battery, or technically a 42 volt
+battery, we need that to provide the correct power for the
+master control board and then the horn we actually have a more detailed
+electronics diagram which you can check out using the link in the description
+below to visit our project on maker.io follow us on social media Wait that's not us! this is the horn, want to hear it? So now this one goes right here You look lovely in pink That sounds so right No you're done! What? You're done! Zip it! Alright zip it Zip When a problem comes along you must zip it Zip it or I'll zip it for you Zip it good! What? Is the Hacksmith truly insane? Uh can I tell this I sort of signed an NDA What do we have here? I have something to show you.
+it's the passing of the torch The giant do not open box You've got to open it all the way Nick put on the glasses Is it going to shock me? I think the worst part is that You know it's coming and it's dark here so your pupils are dilated You gotta open it and see what's inside
+you know I don't think it's the sound it's the brightness How many lumens? Hypothetically it's half a million but I know it's not Is each one like 7 9000 9000! Stop! Stop it! Do it! Do it! That is loud Just take a look inside the box I knew it! so we're here at James Hobson's the Hacksmith's party and he's got a special surprise for us Pandora's box, it says do
+not open I'm gonna open it Oh my god! That is a lot of light You just looked into the sun My eyes really hurt You're responsible for this box Pandora's Box Yes Why do you hate humanity? He made me do it! What's in the box? Alright we're here at Ctrl V and we've brought Pandora's box Let's see if we can get some cool reactions That's so bright Oh my god I'm not supposed to open it What are you doing There was $5 in there Do not open, what do we do? Did you see the $5 in there There's $5 The great part was the kids started
+lying to the other kids and be like there's free candy in that box you
+should go open it alright that's got to be one of our most
+fun projects yet for audience interaction, huge thank you goes out to
+Elena for making it happen who unfortunately is back at school now but
+we've got one more project she worked on coming up very soon and don't forget to try
+World of Warships today using my link below awesome projects. Thanks for watching What's in the box? It melted! So we put $5 in to entice people to open the box and because Canada money is made of plastic 

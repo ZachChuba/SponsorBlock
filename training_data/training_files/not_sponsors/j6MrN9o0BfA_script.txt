@@ -1,0 +1,163 @@
+[ ♪INTRO ] Ah, summer. Time to head outside for a hike, or a trip
+to the lake, or maybe host a barbecue. But, no matter where you go, you’ll probably
+get some unwanted attention from a certain flying blood-sucker. That’s right. It’s summer. It’s mosquito season, in the northern hemisphere
+anyways . And every year it seems like there’s that
+one person who gets the lion’s share of the bites. And that person is always me. And always on my right leg for some reason. We’re not going to get into the leg specificity
+today, but there are some theories about why some people are mosquito magnets, a few of
+them actually have some scientific backing. And, spoiler alert, it isn’t one single
+trait, because mosquitoes don’t use one single cue to find their meals. So, here are five things that might be making
+you a mosquito magnet — and what, if anything, you can do to lessen your appeal. Now, you’ve probably heard that mosquitoes
+find their human targets by our exhaled breaths — and that’s true, but there’s even
+more to it than that. What they’re attracted to isn’t that lingering
+tuna sandwich you ate earlier but rather the carbon dioxide you breathe out, that’s part
+of your normal metabolism. Scientists think that there are two ways CO2
+increases your odds of getting bit. One, it ‘activates’ the mosquito — meaning
+it triggers them to fly, and to fly more quickly. And two, it’s an attractant. Scientists think they use it to it orient
+themselves to the source of the gas with the help of air currents — though they only
+seem to do this when it’s released in bursts. Carbon dioxide is such a big part of how mosquitoes
+find their targets that they have three types of smell-sensing cells in their mouth parts
+that can detect it. They’re called Gr1, Gr2 and Gr3. In a 2014 study published in the journal Cell,
+scientists showed just how important these cells are by creating genetically modified
+Aedes aegypti mosquitoes whose Gr3 sensory cells didn’t work. Those modified mosquitoes no longer got all
+excited when CO2 was puffed into the air. And, they were about 15% worse than their
+unmodified relatives at hunting out a person in a large, enclosed area. But what’s even more interesting was that
+the mosquitoes lacking their Gr3 cells were also no longer attracted to other cues that
+help them find hosts. That suggested that carbon dioxide might actually
+have a third role as a gatekeeper of sorts for other attractants. And that makes sense, because it’s a pretty
+good indicator of animal life. So, if you don’t want to get bit, you could
+just stop breathing all the time. Easy peasy. Except...the mosquitoes lacking the Gr3 sensor
+could still find a target at close range. And that suggests CO2 draws the insects in
+from a distance — while something else helps them zero in when they get close to their
+target. And obviously, I was joking about the whole
+not breathing, but while you can never emit zero carbon dioxide, things that make you
+breathe more or more deeply could increase your attractiveness to mosquitoes, things
+like, for example pregnancy. Because of course you need to attract more
+mosquitoes on top of everything else you’re dealing with when there’s a fetus growing
+inside you. And this also applies to exercise, which causes
+you to breathe out more CO2. So you might come home with a few more bites
+after a run than if you just went for a walk. Speaking of running, that nice glistening
+sweat you produce when exercising can also draw mosquitoes in. Although moisture is an attractant for them,
+what they’re mostly sensing is how you smell. Many of the chemicals in your sweat are considered
+volatile compounds, meaning they can easily turn into a vapor. This includes things like lactic acid, amines,
+sulfides, and carboxylic acids. And most of these are formed by the communities
+of bacteria that live on your skin. So part of the mosquito magnet equation has
+to do with these bacterial communities. People who have more skin-dwelling bacteria
+have been shown to be more attractive to African malaria mosquitoes, for example. And one of those sweat compounds in particular
+— lactic acid — might play a bigger role in mosquito attraction than the others. In a 2001 study in the journal Chemical Senses,
+researchers took sweat samples from 4 volunteers and ranked them from most loved by mosquitoes
+to least loved. The popular people were always popular: mosquitoes
+consistently buzzed to their samples, even though they were collected on 28 different
+days over the course of a year. And that seemed to be because of lactic acid
+— the most attractive sweat had between three and five times more of it than the least
+attractive. To test this idea, the researchers added lactic
+acid to samples that weren’t that attractive, and low and behold, the mosquitoes suddenly
+thought those sweats are great. More than 3 times as many mosquitoes chose
+an altered sweat sample over their previous favorite. And that might have something to do with a
+special lactic acid sensor in a mosquito’s antenna called Ionotropic Receptor 8a, or
+just Ir8a for short. When scientists genetically engineered mosquitoes
+to have a messed up Ir8a receptor, most didn’t fly towards samples of sweat containing lactic
+acid in a wind tunnel or towards sweaty  human subjects. And while there’s some evidence that exercise
+raises lactic acid levels in a person’s sweat, in the end, it really comes down to
+how smelly you are — and that comes down to a complex mix of your genetics, microbiome,
+and hygiene behaviors. Mosquito bites aren’t just annoying. Every bite has the potential to pass along
+mosquito-carried infections too — nasty stuff like encephalitis, West Nile virus,
+yellow fever, and, of course, malaria. But what’s even more disturbing is that
+these pathogens seem to change something about people to make them more attractive to the
+mosquitoes that spread them around. For example, a 2005 study in PloS ONE found
+that more mosquitoes were attracted to kids carrying the transmittable stage of malaria
+than to kids who had been naturally infected with a non-infective stage or those who weren’t
+infected at all. These differences disappeared when they treated
+all the kids with an antimalarial, so the children’s individual mosquito attractiveness
+wasn’t at play. Although pretty scary, this finding isn’t
+that surprising. There are lots of examples in the animal world
+of parasites manipulating their host to help them spread. The big question is what the pathogen is changing
+to make the person it’s infecting more attractive. Scientists think it ultimately comes down
+to odor, and a 2014 study using mice backed up that hypothesis. Researchers collected odor samples from both
+infected and non-infected mice over the course of a malaria infection. During the later stages of infection, when
+the parasite is transmittable, the mice produced more smelly chemicals than in the early, non-transmittable
+stages — and were more attractive to the mosquitoes. And when researchers created different mixes
+of those chemicals and applied them to healthy mice, those mice also became mosquito magnets. The scientists were eventually able to figure
+out which chemicals were drawing the mosquitoes in — 3-methyl butanoic acid, 2-methyl butanoic
+acid, hexanoic acid, and tridecane, in case you were wondering. But, of course, this was in mice. So all the usual caveats about animal research
+apply. Still, it shows there are infection-related
+changes that lure mosquitoes in. And that means studies involving humans might
+be able to figure out exactly how these infections make us more prone to bites. Most of the things that make you a mosquito
+magnet aren’t all that easy to change. But one thing is: your clothes. A bunch of studies dating all the way back
+to the 1900s have shown that mosquitoes love to land on dark colored surfaces — everything
+from painted barn roofs to boxes and, of course, clothing. One of the earliest studies from 1947 had
+a guy stand in a mosquito infested room wearing either a black, white, green, red, yellow,
+blue or tan shirt, while the researcher counted how many mosquitoes landed on him. Black, blue and red were the most attractive
+to mosquitoes — they didn’t care as much for yellow or white. A later study from the early 1980s using differently-colored
+funnel traps found the same thing. It also found that how much light reflected
+off the cloth determined how attractive the traps were — basically, mosquitoes like
+things that aren’t super reflective. Also, the mosquitoes seemed to like shorter
+wavelengths of light, in the 400 to 600 nanometer range — basically, violet to orange colors
+— while anything with a wavelength over 600 nanometers was pretty much a no go. So, you could opt for a light colored outfit
+or anything reflective — maybe it’s time to just bust out that sequined dress that
+turns you into a living disco ball. For clarity, scientists haven’t explicitly
+tested whether sequins or shimmery fabrics keep them at bay, but there’s every reason
+to think they should. And it’s thought that visual cues like color
+help mosquitoes spot a target from a greater distance, particularly during the day. One of the myths going around is that dark
+fabrics absorb more heat and so it’s the temperature, not the color itself, that they
+love. But a 2019 study found mosquitoes go for dark
+objects regardless of how warm they were. That study needs to still be vetted by the
+scientific community but if it holds up, it might help scientists figure out how much
+of a role these different cues play. Another reason black is so popular is probably
+fairly simple: dark-colored objects generally stand out more against their background — to
+a mosquito, anyway. So, if shimmer isn’t your thing, you could
+go the other way and wear something that will help you blend in with your surroundings — maybe
+go cammo! I’ve got some bad news for those summer barbecues: turns out that if you’re drinking
+booze, you’re probably making yourself more of a mosquito target. This idea has been around for a long time,
+but it wasn’t really tested in a controlled manner until the early 2000’s. A 2002 study, published by the American Mosquito
+Control Association, found that more mosquitoes landed on subjects after drinking a glass
+of beer than before. The people were drinking beers, not the mosquitos But, the researchers couldn’t pinpoint why. Their first thought was changes to skin temperature,
+since mosquitoes sense and are attracted to heat. Or, that the animals literally like the smell
+of alcohol. The trouble is, they didn’t find any links
+between how many mosquitoes landed on the people and how warm they were or how much
+ethanol they had in their sweat. A study in 2010 backed up the beer-increases-attractiveness
+finding. And again temperature didn’t seem to be
+a mediating factor — in fact, on average, people were colder after drinking. That led the researchers back to this idea
+of smell. But it wasn’t the smell of ethanol itself,
+they argued. Rather, they suggested that as alcohol metabolizes,
+it increases other chemicals in a person’s breath or sweat that make them a tastier-smelling
+target. Though it’s not clear what these other chemicals
+are. They also hypothesized that mosquitoes could
+have evolved to seek out these particular aromas because they indicate lower physical
+defenses — basically, booze makes you less coordinated, so you are bad at slapping the
+mosquito. That sounds pretty logical, but a different
+study found no link between how defensive a person is — that is, how much they tried
+to swat away a mosquito — and how many times it tried to land on them. Which isn’t conclusive evidence against
+the idea, but it certainly doesn’t support it. Another potential explanation is that a boozed-up
+bloodstream makes for a more nutritious meal somehow, so mosquitoes have evolved a way
+to detect that — though, no study to date has tested this directly. Whatever the reason, it might be wise to skip
+the brewskis if you’re hanging around outdoors. Or, at least, cover up if you insist on a
+beer while barbecuing. Just head to toe, wear one of those beekeeper
+outfits. In the end, you cannot completely take yourself
+off a mosquito’s radar — without bug repellent, anyway. But you can make yourself a little less tempting
+— like, by wearing the right clothes, or being the Designated Driver. And there’s something else you might be
+able to do to lessen your chance of getting bit: offer the mosquitoes around you a different
+snack. Research published in 2019 in PLoS Biology
+found that feeding tiger mosquitoes sugar lessened their attraction to people. See, the whole reason female mosquitoes bite
+is that a blood meal gives them the extra protein and nutrients they need to develop
+their eggs. And in this case the sugar seemed to be meeting
+that nutritional need, though it’s not a 100% clear whether the sugar helped the female’s
+eggs develop or not. Most intriguingly: sugar triggered a response
+in the mosquitoes’ genes that’s similar to what happens after they feast on blood. So maybe putting out some hummingbird feeders
+or dishes of cotton balls soaked with sugar-water will make the mosquitoes near you less interested
+in your blood. Though, yes, it might be attracting mosquitos
+around you and also you’d be fueling those mosquito baby-mommys. So I guess it’s not a perfect solution. Still, scientists are excited by this research
+because it means they might be able to identify new genes involved in the mosquitoes’ human-seeking
+behavior, which could reveal new ways to control their biting. Because, in the end, while no one likes being
+bitten by mosquitoes, some itchy bumps are the least of our worries. Those mosquito-carried diseases kill around
+a million people every year. So finding new and better ways to prevent
+mosquito bites — especially for those who are magnets — could save millions of people. Making those summer outdoor activities all
+that more enjoyable is just a bonus. Speaking of fun summer activities, if you
+need something to do on your next road trip, you could try and stump your car with one
+of Brilliant’s Daily Challenges. It will probably kill way more time than a
+game of I Spy, and you’ll get to learn something about science, engineering, or math. One of the latest challenges, for example,
+was about what kind of tire tracks different unicycles leave. It was a tough one! Brilliant puts out new Challenges every day,
+and you can get the latest ones for free. If you sign up for a Premium membership, you’ll
+also get access to the entire archive — which should be more than enough to get you to your
+destination. If you’re one of the first 200 people to
+sign up at Brilliant.org/SciShow, you’ll get 20% off that annual Premium subscription,
+and you’ll be supporting SciShow along the way. So, thank you! [ ♪OUTRO ] 

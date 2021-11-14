@@ -1,0 +1,64 @@
+Hi, did you know that we live very inefficient lives? For example only around 50% or less
+of the available hydro, wind, solar, gas and coal energy gets
+into our home as electricity. Only 5% of which... F***! Only around 5% turns into light
+and the rest of 95% turns into heat by these stupid
+incandescent lights. Now you might say you need a heater
+at home in winter anyways *impulsed raging to self* At least the LED lights waste only
+around *SIXTY PERCENT*. That's still pretty awful but much better. I was originally going to show you how to design
+one of these wireless mobile phone chargers. But, then I thought to myself; This is a piece of garbage
+device to start with. I bought one of these pads to try, and you
+leave your wireless charging-enabled phone on it, and it starts charging. What's the point of this?
+The wire is right there, I can just plug it in and it makes
+the phone cost more too. At least with the wire, I can also talk
+on the phone if the battery is dead. What are you going to do with the pad? Pick it up like an idiot while it's charging?! *Gentleman alike voice* James do you even lift? I guess you can put it on speaker *more impulsed rage at self* I guess the one benefit it has is that it reduces
+the wear and tear on the charger connector. But I always plugged in my old phone
+and never had a problem for the life of it! And the wireless pad is also massively inefficient. Wireless power transmission is quite inefficient! Nikola Tesla's plan to radiate wireless
+power all around the world was supremely inefficient and
+would never work commercially! Change my mind *sips a cup of tea* He was thinking to transmit power
+to earth and atmosphere, Both of which are pretty bad conductors. We are of course already transmitting power
+through air, which is our radio waves we use for communication all
+thanks to Tesla's discoveries. But we are sending megawatts of electromagnetic power out of our radio transmitters, most of which is absorbed or
+lost in the environment, and only a little bit of it reaches our receivers This pad tries to have higher efficiency by being right beside the phone and using magnetic fields only We should measure its efficiency. So this pad transmits magnetic
+energy like a transformer. The primary coil is inside the pad and a secondary,
+like this coil I made is inside the phone. I connected an LED to the output of this coil
+and if I place it on the pad, it starts blinking. I think what's happening is that, the
+pad is sending short pulses to see if there is a phone out there drawing large
+enough energy to charge, and my circuit is not drawing large enough energy, but if I add a phone, then the pad detects it and it goes continuous. Now let's measure the efficiency of
+this pad compared to direct wire. And for that, I put my current meter series
+with the AC line to measure the gar- F***! S***! *unplugs the plug* it shorted okay, try again Okay, so it's stable around 50 milliamps Although it's not quite accurate
+because the current draw by these switching power
+supplies is not a sine wave. But it's good enough for comparison.
+Now the current with direct wire. It seems it's settled around 76 milliamps. Now. I will charge the phone by
+these two methods from 20% to 80%. And see how much energy
+each method draws. Okay, I'm done testing It took 53 minutes on wire and 109 minutes
+on pad to charge from 20% to 80%. But the important factor is the energy I put in which is the voltage x current x time in second. So after doing the calculations, You see that the charging pad is
+wasting an additional 38% compared to a direct wire charging
+the phone by the same amount. Sorry, but there is no real
+benefit to a charging pad. Do you enjoy charging your battery like this? Just plug it in! And this is not even the least efficient. For example, the internal
+combustion engines are only 20% efficient converting the
+energy of the fuel into motion. The electric cars are around 50-60% efficient. But where do you think electricity comes from? Over 60% of it comes
+from burning coal and gas that could be as bad as 20%
+efficient in power generation. Solar panels are 30-40% efficient
+only, which is not too bad because if we don't use what we can,
+100% of the solar energy just pours on dirt. We can't say the same thing about
+the fossil fuels because the lack of efficiency there ends up hurting
+the planet and uses up resources. I personally, don't accept any efficiency
+below 80% and like to see above 90% in all the power supplies and drivers I design.
+But when I talk about low efficiency, I don't mean that there are a bunch of evil people that are trying to deliberately waste power. Unfortunately, those low numbers are the best we can do with the technology we currently have, which is awful! We should never get used to those
+numbers and live with them and we are not! Researchers constantly work on this
+problem while at the same time, they designed this low efficiency piece of junk because people want it. Stop wanting junk! I estimate we are throwing at
+least 60% of the available energy into garbage because we can't convert energy well. It's in no one's benefit to waste energy. Do you know how much money is to be made if
+we could save this 60% energy worldwide? What we need more of is Elon Musk's
+brain, who is driven and cares for this. Unfortunately, despite my mom's
+beliefs. I didn't end up like him. YET. Yeah, he works too much and I'm too lazy.
+But I don't think his brain is unique at all I'm pretty sure a bunch of you
+out there are smart or smarter. You just need a bit more direction and
+encouragement to tackle these issues because all we need are more clever solutions and you are the person for the job. Believe me, power generation conversion
+and transmission of any kind is one of the most important things and I want
+you to think and dream about efficiency and please don't think
+about free energy devices because... THERE IS NO FREE ENERGY DEVICE! Yeah going to Mars is cool and all
+and there's a a lot to learn from it, But it's the brilliant idea to
+make the Rockets reusable and make space travel much more
+efficient that makes it special. And I want you the girl or boy with the brilliant
+mind to come out of your shell and enlighten the world with your
+new ideas, the more the merrier. 

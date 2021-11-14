@@ -1,0 +1,16 @@
+We're actually beginning
+to se the first application of swarm intelligence in
+autonomous car racing. At the beginning of May, Roborace, the world's first AI driverless electric racing series competition, saw two of its autonomous cars complete the world's first
+self-driving car race in Monte Blanco. Their self-driving cars,
+which they call Robocars, are able to communicate with each other through the use of
+various sensors installed to maintain awareness
+of their surroundings. Car-to-car communication could be used to find the most efficient
+route for all cars on a road, making Braess' Paradox in traffic networks a problem of the past. Racing has a history of using competition to encourage technological development before rolling these developments
+out for mass production. Roborace aims to
+accelerate the development of autonomous vehicle technology through the use of
+competitions and challenges, which are part of the Roborace
+entertainment platform. The game is simple, the
+team with the best AI wins. If you'd like to learn more
+about what Roborace is doing, you can see the videos in their show me how it works playlist, join their mailing list for
+updates on upcoming races, or follow them on Instagram to check out their latest models. Links to all of these
+are in the description. 

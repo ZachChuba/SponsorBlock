@@ -1,0 +1,59 @@
+It was pi day last month, and call me an idiot
+for not releasing this video then, but I’m just not a math nerd. I’m an engineer and all this hype for a
+mathematical constant goes a little over my head. Internet drama has been born out of people
+for and against pi. A quick search of YouTube will yield 10s,
+literally 10s of videos, teaching you how to memorize the digits of pi. The Guinness World Record for reciting pi
+with the most digits has changed hands multiple times with the current champion, Rajveer Meena
+of India, managing 70,000 digits in 10 hours. Fair play Rajveer, fair play. You have finally made it. Now go use that brain for something actually
+useful. Jokes aside, this is a genuinely impressive
+act of memory. Pi is a fascinating mathematical constant,
+that defies any tricks for memorisation. It just keeps going and going and going. It’s infinite and it doesn’t repeat itself. You just have to brute force memorise it. And while these lads are spending days learning
+as many digits off as possible, mathematicians are working away at calculating the new longest
+string of digits. Pi is found fairly simply by dividing a circle’s
+circumference by its diameter. So the diameter of a circle can fit into its
+circumference 3.14159 26535 89793 23846 26433 83279 50288 4197….. Okay, so you get the point, that is simple
+on paper, but in practice it is far more difficult. Measuring a circle's circumference accurately
+is practically impossible. Even your best attempts with a measuring tape
+will be off by the thickness of the measuring tape. Archimedes was the first to calculate pi with
+any level of accuracy with an ingenious method called the “method of exhaustion”, and
+yes it was nearly as exhausting as this video’s attempts at snarky humour. He started estimating pi with squares, which
+sounds unconventional, but it makes a lot of sense. In the mind of archimedes a circle was simply
+a polygon with an infinite number of sides, so by starting with a polygon with fewer sides
+we can get a very rough estimate of pi by calculating it’s ratio of circumference
+to diameter. Let’s start by placing a square inside of
+a circle with its corners touching the circles sides. We can then find the ratio of this low estimate
+of pi by dividing the sum of the squares sides by its diagonal diameter, which in this case
+is (4/root 2): 2.828 This is our lowest estimate of pi. Now let’s place a square with it’s side
+touching the circles side, and this time we will divide the sum of the squares sides by
+the length of one of the squares sides, which gives us 4, the number of sides a square has. In boths of these cases we are dividing by
+the circles diameter, that figure is accurate. What we are lacking in accuracy is the measurement
+of the circumference. The inside squares perimeter is too small,
+and the outside squares perimeter is too big, but now we know pi lies between these two
+numbers. Now we just need to narrow it down, and we
+can do that by increasing the number of sides of the polygon. Each time we add a side those two figures
+will get more accurate, and eventually the two numbers will start overlapping in their
+digits. This is how we got our first known digits
+of pi. This continued on for a couple of centuries,
+with mathematicians out exhausting each other until eventually someone started using computers
+and now we are just exhausting them. We now have 2.7 trillion digits of pi calculated[2],
+and for some reason through these millenia, an engineer never stood up and yelled: “shtop. For the love of all that is holy stop. We have enough digits. We don’t need any more. We don’t have any circles big enough to
+justify this level of accuracy, go to bed ye lunatics. ~deep breath~" Because in the end of the day, that’s what
+pi is used for. It’s for calculating the circumference and
+area of circles. It’s for converting degrees to radians,
+and this is where the arts of mathematics and engineering differ. While mathematicians obsess over accuracy
+to the trillionth digit, engineers aim for “good enough”, and good enough turns out
+to be 3.141592653589793 for the people that work with the biggest circles. NASA. Let’s take the distance to Voyager 1, which
+is currently about 21.7 billion (21690753480.975746) kilometres away in interstellar space, as
+our radius. Say we want to calculate the circumference
+of a circle with a radius this large. What difference would adding one extra digit
+of pi provide? That’s the difference between 15 decimal
+places and 16 decimal places. This is actually tough enough to calculate
+with a calculator or excel as both are limited in the number of decimal places they can calculate. So using this online high precision calculator
+we can find that the circumference of this circle will be about 136 billion kilometres,
+and if we use on extra digit it will be 8.67 millimeters closer to the actual value. That’s tiny and we just travelled out of
+the solar system. That’s why JPL and NASA don’t need any
+more figures and the chances are you don’t need anymore that 3.1416. So I’m gonna be the engineer that yells
+shtap. Please stop. We have better things to be worrying about,
+pi is literally infinite and we are never going to reach the end. What is the point. As always thanks for watching and thank you
+to all my Patreon supporters. If you would like to see more from me the
+links to my instagram, twitter, subreddit and discord server are below. 

@@ -1,0 +1,47 @@
+Every second, thousands of cosmic rays - mostly
+hydrogen and helium nuclei - strike every square meter of the earth’s upper atmosphere
+. We don’t really know where they come from, but we do know that when cosmic rays crash
+into air molecules in the atmosphere, they create a shower of other fundamental particles:
+pions, kaons, positrons, electrons, neutrons, neutrinos, gamma and X rays, and muons. We know this because we have particle detectors
+in labs down on the surface that detect the directions and energies of the particles in
+these showers, and use them to study the original cosmic rays. But there’s something fascinating about
+the fact that we detect a lot of the muons from cosmic rays down on the surface of the
+earth. Because muons, if you make them in a laboratory,
+only have a 1.5 microsecond half life before they spontaneously decay into an electron
+or positron and some neutrinos. Oh yeah, the greek symbol, mu is both used
+for “muon” AND for “microsecond”, which can certainly be a little confusing;
+but the lifetime of muons is really close to a microsecond, so it’s also kind of beautifully
+appropriate/fitting. Anyway, the point is that if you have a bunch
+of muons, More specifically, if you have a bunch of muons, you’ll only be left with
+about 50% after 1.5 microseconds, and 25% after 3 microseconds, and after 10 microseconds
+there will only be 0.1% of the muons left. Muons don’t live very long -2.2 microseconds
+on average! To put that into perspective, light, which
+travels fast enough that it could go around the earth 7 times in a second, only travels
+660 meters, or less than half a mile, in 2.2 microseconds. So even muons traveling at essentially the
+speed of lighta , wouldn’t make it more than a kilometer or two before the vast majority
+of them decayed . Which is far less than the 10 or 20 or 30 kilometers that muons DO regularly
+travel from the upper atmosphere to the ground. So how do muons travel dozens of kilometers
+through the atmosphere without spontaneously decaying, when in fact they should only be
+able to travel less than one kilometer? Time dilation. Yes - because the muons are traveling close
+to the speed of light, their time literally passes more slowly - at a speed of 99.5% the
+speed of light, 2.2 microseconds for them would be ~22 microseconds for us , enough
+time for the average muon to travel at least 6km (instead of half of a kilometer) before
+decaying. And even higher-energy muons going even faster
+would even more easily reach our detectors on the earth’s surface before they decayed
+- at 99.995% the speed of light, the average muon would live for 220 microseconds and travel
+at least 66 kilometers before decaying. So from our perspective, the fact that so
+many cosmic ray muons reach our detectors on the earth’s surface is direct evidence
+for special relativity and time dilation! But what about from the muons’ perspectives,
+where they DO only live on average 2.2 microseconds? Well, for them the answer to the apparent
+paradox is also relativistic - relativistic length contraction. From the muon’s perspective, it’s the
+earth and the atmosphere which are moving - at 99.995% the speed of light - towards
+the muon. And the lengths of moving objects are literally
+contracted by a factor dependent on their speed - in this case, 50km of our atmosphere
+is, to the muon, literally only half a kilometer - aka 500 meters - thick. Which is thin enough for even a muon with
+a lifetime of 2.2 microseconds to traverse - well, actually from this perspective the
+atmosphere moves past the muon - but at a speed of 300 meters per microsecond and at
+a distance of only 500 meters, the ground has no problem reaching the muon before the
+muon decays. This, in my mind, is one of the most awesome
+experimental verifications of special relativity: the unequivocal time dilation (or length contraction,
+depending on your perspective) for objects moving close to the speed of light. The 
+specific time dilation and length contraction 

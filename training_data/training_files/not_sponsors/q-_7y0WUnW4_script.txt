@@ -1,0 +1,125 @@
+In 2014, the qualifying
+exam for the US Physics Team had this as question 19: A helicopter is flying
+horizontally at constant speed. A perfectly flexible
+uniform cable is suspended beneath the helicopter. Air friction on the
+cable is not negligible. So, which of the following diagrams best shows the shape of the cable as the helicopter flies
+through the air to the right? Is it A. hanging straight down. B, hanging diagonally to the left? C, this hook shape. D, the inverted hook shape, or E, a kind of S bend. Now, apparently there's been a
+certain amount of controversy about the correct answer to this question. So, today we're gonna go
+up in this helicopter, and put this question to
+rest once and for all. Let's go. (intense music)
+(helicopter blades whirring) A portion of this video was
+sponsored by SimpliSafe, which allowed us to rent this helicopter. More about them at the end of the show. I've got several thousand
+hours of carrying sling loads, fire buckets, concrete buckets, doing power line construction,
+actual power poles. You name it, anything
+that needs to be moved around the mountains, I've done. Biggest concern that I have is that the rope's gonna
+interact with the rotor wash as its interaction with the
+ambient air around the aircraft. And we'll get a whipping
+action that falls down the rope and flips around on the end. To a point that we worry
+if it will have a tendency to work its way back up
+towards the aircraft. Obviously, we don't want
+it getting in the rotors or the tail rotor. (helicopter blades whirring) - [Derek] Alright, we're all set. Movin' up. (helicopter blades whirring) (intense music) Here I'm deploying a battle rope, like you'd see at the gym. This one is about 15 meters
+long and it weighs 20 kilograms. - [Craig] See, the
+whipping action's begun. - [Derek] I see it. So, if we go really
+slow, will we avoid that? - We'll see. We'll see where the rotor wash stops interacting with the rope and the ambient wind. Now the setup looks pretty simple, but few people agree on what
+the right answer should be. (peaceful music) When I polled YouTube, the
+most common answer was C. Well done on making that
+beautiful bell curve by the way. We got in touch with
+the question's author, professor Paul Stanley. There was some creative students
+who actually constructed their own homemade scenarios. One had a fan to the side and
+another fan blowing downward so that they could mimic
+the motion of the helicopter and suspended a string and
+said, "Oh, it's this design." And the faculty members
+looked at it and said, "Oh, obviously I can prove that
+the answer is this answer." They just didn't agree with each other. - If we approximated as
+a chain of rigid links - I don't think you can just do that. - What do you think? - I think you're more likely to be C. - I think it is D. - D. - My guess is B. - What do you think?
+- B. - B? - Imma go with A. - Interestingly, no one chose E. Have you locked in your prediction? (helicopter blades whirring) To make sure the rope doesn't come up into the rotors of the helicopter, pilot Craig wanted to keep
+the rope on our right side so he could keep an eye on it. Looks pretty good. - I'm trying to make it look good. I mean I'm really working on it. - You're working hard. So, we're not going straight forward. We're actually going diagonally
+forward and to the left. (upbeat music)
+(helicopter blades whirring) But you can clearly see the
+rope is hanging straight, diagonally to the left. That's a pretty good diagonal, man. So, the correct answer
+to the question is B. You wanna pull it in? - Up it comes. - [Derek] We're going to
+try a few more experiments, adding a weight to the end of
+the rope and then a parachute. But first I want to discuss
+why the answer is B. There are two external
+forces acting on the rope, gravity pulling it down and
+air resistance to the left. When flying along at constant speed, these forces must be perfectly balanced by the tension in the rope. Now, when I set out to do this experiment, I wondered if the rope would be affected by the air pushed down
+by the helicopters rotor, but judging by our results. This was not the case. - The rotor wash doesn't extend
+down below the helicopter, all that far. It
+dissipates pretty quickly. - So, you can consider the
+air resistance on the rope as entirely due to its
+motion through still air. Imagine dividing the rope
+up into many short sections. Each section has the same weight and experiences the same
+amount of air resistance because it has the same
+cross-sectional area. And it's moving at the same speed. Now, the tension in
+any section of the rope must balance the sum of the air resistance and weight of all the sections beneath it. So, the tension is zero
+at the bottom of the rope, and it increases linearly
+up to a maximum at the top. You can see the tension is
+small at the bottom of the rope, and that's why it wiggles around while the top is much steadier. Now, although the magnitude
+of tension changes throughout the rope,
+it's direction doesn't. And that's because the
+ratio of air resistance to weight is the same at
+every point along the rope. That is why a uniform flexible cable hangs in a straight diagonal line
+when pulled at constant speed by a helicopter. If the helicopter flies faster, the angle of the rope changes, but it still makes a
+diagonal straight line because the ratio of
+air resistance to weight is still constant along the
+entire length of the rope. But this got me wondering, "What would happen if we added a weight to the end of the rope?" Here, I have a 20 pound, that's an eight or nine kilos kettlebell. And I want to ask you
+to make a prediction. What shape do you think
+the rope will make now? Will it still be that diagonal, or will it be one of
+the other five options? One more question for you. If we chucked a weight at the bottom, which shape would it be? - Oh.
+- Probably D. - B, or possibly C. - [Derek] Does that change it? - Then I think it would be B. (whimsical music) - Easy to do on the ground. (helicopter blades whirring) Alright, we're dropping
+the rope over the side. This one has 20 pound
+kettlebell off the end of it. How's that feel when it's dangling? - No lateral displacement at all. - Alright. - How's your forearms doing? - I'm feeling good, you know. I feel like this is the
+easy way, obviously. Gonna feel different
+when I gotta pull it up. - Okay, is it down?
+- Yup. Okay, let's give it a shot. (whimsical music)
+(helicopter blades whirring) Here the helicopter is flying at nearly a hundred kilometers per hour, and the rope makes a different shape. You can clearly see, it looks like an inverted J. This is option D. In fact, this is how the question on the qualifying exam originated. - So, I taught for a
+semester in Hong Kong, and we'd go hiking in the new territories. One of the times I was hiking, I saw a helicopter fly
+with a cable beneath it. It was carrying something
+to one of the remote parts of the Hong Kong new territories. And I saw the shape of the
+cable and thought to myself, "That looks a little counter
+intuitive and very neat. This might make a good
+multiple choice question for the selection exam for the students." The cable that I saw had a
+weight hanging on the end, which gave it a certain curved shape. When I shared this with the
+other coaches, another coach, Andrew Linn, looked at it and said, "I think the question
+might even be more fun if there is no weight on the cable because that is even harder to imagine." - [Derek] To understand why
+the rope makes this shape, we can use the same analysis as before. But now we need to add a large weight to the end of the rope. And this means at the bottom, the tension needs to be almost vertical to support the weight of the kettlebell, which has a lot of weight
+but not much air resistance. As you go up the rope, the
+ratio of total air resistance to weight for everything
+beneath increases. So, the rope turns more horizontal
+in order for the tension to balance out that
+increasing air resistance. - You're more than halfway. You got it. (woman laughing) - [Derek] For the final test, I wanted to add something
+to the bottom of the rope that added almost no weight,
+but significant air resistance. So, what do you think about hanging this at the end of the rope? - Well, it's all science experiment for me 'cause these are all the
+things you'd never do with a helicopter in a row. - What would it be the real risks, like tail rotor or this rotor, or both? - Either. Any kind of this getting
+into the inner tail rotor would be destruction to the aircraft. (helicopter blades whirring)
+(intense music) And we'll start, here we go. - [Derek] Now the rope still
+seems to be pretty straight. I think it's because the flag isn't actually adding much drag. Still looks pretty crazy, interestingly. So, we decided to add a small parachute to the end of the rope. All right, let's try it. The concern here was that the parachute could get flipped up into
+the rotors during deployment. So, we bundled the shoot
+up into a backpack. - [Craig] Very nicely done. - [Derek] Does it deploy more than that? - [Craig] No, but once we start moving, its gonna grab a lot of air. - [Derek] Now, with the
+parachute at the end of the rope, it makes a J shape, which is answer C. With extra air resistance
+at the end of the rope, but not much weight, the tension has to be
+virtually horizontal. And then as you go up the rope, the ratio of total air
+resistance to weight for everything beneath decreases. So, the rope becomes more vertical to balance out the increasing weight. So, depending on what's
+on the end of the rope, you could get answers B, C or D. Now, if you enjoyed this video, I bet you would also like my
+bullet block experiment series. So, check it out. (retro beeping sound effect) Now, hanging out the side of a helicopter was not my safest moment, but I do always feel safe here at home. Thanks to SimpliSafe, the
+sponsor of this portion of the video. SimpliSafe is an easy to use, totally customizable home security system. They allow you to design a
+set up to fit your space, and they ship it directly
+to your doorstep. Then their interactive
+monitoring service ensures that your home is
+professionally monitored 24/7. You know, I started thinking
+seriously about home security when there was a police
+helicopter circling overhead one day, and it was
+not dangling any ropes. It turned out the house across the street had been broken into. Luckily, SimpliSafe makes it
+easy to protect your home. They sent me a kit that took
+only about an hour to set up. I currently use the
+simply safe base station, the cameras and sensors to keep tabs on what's going on around my house. I also installed their new
+wireless outdoor security camera, which doesn't require an outlet. So, you can set it up literally anywhere. This camera has eight times
+zoom, color night vision, and two-way audio. So, you can speak to
+someone on your property. SimpliSafe's interactive
+monitoring service will call the police if
+it's alerted to anything. Their team of always on
+professionals are easily reachable and always keep lines
+of communication open for the most protective service. Visit simplisafe.com/veritasium
+to learn more and get at least 30% off your
+SimpliSafe security system. I want to thank SimpliSafe
+for sponsoring this portion of the video. And I want to thank you for watching. 

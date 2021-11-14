@@ -1,0 +1,39 @@
+Suppose we’re working with aliens who live
+near Alpha Centauri to build a wormhole teleporter so we can go visit them - for dinner, or interstellar
+diplomacy, or whatever. Of course we’ll need to be able to talk with them about what
+to make each side of the portal out of, how big to make the various pieces, and so on.
+But since we’ve never been to Alpha Centauri, and they’ve never been here, this is tricky
+– I mean, if you tell me to make you an arc that’s 300 cubits long, and I don’t
+know what a cubit is, you’ll probably get an arc that’s not exactly what you were
+hoping for . So we’ll have to build, from the ground
+up, an easily sharable way of communicating about the universe, where distances and such
+are based on ideas, rather than specific artifacts . We’d probably start with basic materials,
+you know, like how instead of sending a vial with a chunk of lithium in it across interstellar
+space, we can just say “use the atom that has 3 protons, 3 neutrons, and 3 electrons.”
+Water would be “the molecule that’s a combination of one atom with 8 protons and
+two atoms with 1 proton.” And so on. Once we have materials down, we can do clocks
+– we just tell the aliens that if they take the atom with 55 protons and 78 neutrons , make
+it emit a photon of light in a certain way , and wait for that photon to oscillate 9,192,631,770
+times: that’s what we call one second. Once we have clocks, we can do distances:
+just tell the aliens to see how far light goes in one 299,792,458th of a second – that’s
+what we call a meter. But this is when we would run into a massive
+roadblock – literally. Pretty much the rest of our communication about the universe
+requires knowing what mass is, and what we currently call a kilogram isn’t an idea
+we can just tell distant aliens, the way we can say “the atom with 3 protons”. A kilogram
+is just a particular lump of metal sitting in a particular room in a particular place
+on our planet , and if you want to know how many kilograms of say, antimatter, you have,
+you have to take it there and weigh them against each other .
+In the very near future, we’re going to settle on a more sensible way of talking about
+mass, so instead of saying “in order to build this teleporter you have to come to
+the part of earth with good cheese so we can show you our shiny lump of metal,” , we’ll
+either be telling the aliens to just get a pile of something like 21.5253873 septillion
+of the atom that has 14 protons and 14 neutrons, or we’ll tell them to weigh how much mass
+an atom or molecule loses after emitting a photon of light that oscillates roughly 135.6392534
+septillion septillion times each second. One of these two concepts will be our new kilogram,
+and even though the pile of atoms option sounds simpler in principle, it’s actually kind
+of harder and more expensive to do in practice. Whichever way it is, once we have our new
+way of communicating about mass as an idea instead of an object, we’ll be able to build
+our wormhole teleporter with the alpha centaurians . And then we can bring them here to earth,
+have dinner, and afterwards, show them the chunk of metal that used to be THE THING that
+we used to talk about the mass of all other things.
+Before I tell you about this video’s sponsor, 

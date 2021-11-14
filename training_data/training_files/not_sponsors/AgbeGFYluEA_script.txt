@@ -1,0 +1,406 @@
+Mind reading? Of course not. I love reading. Look, mind reading might sound
+like pseudoscientific-- pardon my language-- bullshoot. But its scientific counterpart,
+thought identification, is very much a real thing. It's based in neuroimaging
+and machine learning, and what's really cool is
+that experiments in mind reading aren't just about spying
+on what someone is thinking. They're about figuring out
+what thoughts are even made of. I mean, when I think
+of something, what does that mental picture
+actually look like? What resolution is it in? How high fidelity
+is a memory, and how do they change
+over time? Well, in this episode, I'm going to look at how
+reading people's minds can help us answer
+these questions. My journey begins right here
+at the University of Oregon. I'm meeting with Dr. Brice Kuhl
+from the Kuhl lab. He's a neuroscientist
+who uses neuroimaging and machine learning to figure
+out what people are thinking without them telling him. So tell me what
+you're doing here. Well, I'm in the cognitive
+neuroscience program here, and I study human memory. My lab primarily uses
+neuroimaging methods, so we do a lot of work using functional magnetic
+resonance imaging, or fMRI. And how do you use
+fMRI to investigate memories? We're looking at the pattern
+of neural activity. When you form a memory,
+there's a certain pattern. And we can record
+that pattern and then test whether
+that pattern is reinstated or reactivated at a later point,
+like when you're remembering it. Does that mean we can look at
+the patterns of brain activity and deduce what it is that is
+being remembered, or recalled, or even just thought? Yes, and so we call that
+decoding. So it basically takes
+your input pattern as some pattern of activity
+that we record while you're remembering
+something. And we make a prediction
+about what you're remembering. You can see how this sounds
+like mind reading. [laughs]
+Yes. It sounds like that. So, Brice, what are you going
+to do to me today? So, what we're going
+to be doing today is uncharted territory
+for us. So we're going to be trying out
+a kind of new variant of the experiment on you. So I can't guarantee
+any particular results. But it represents
+where the field is and where
+we're trying to go. Today, you're going to
+participate in an experiment where you'll be studying faces. So we're going
+to have you study 12 pictures of celebrities. People I already am
+familiar with. -People that you know, yeah.
+-Okay. And you're going to try
+to remember those pictures. Then we're going to have you go
+into the MRI scanner. Try to bring that picture
+to mind as vividly as possible. And we're going to be recording
+your brain activity as you try to imagine
+these pictures. We're going to try
+to build the face. Essentially draw a picture of
+what you're remembering. -A picture?
+-A picture. An actual picture
+that we can print out and I could, like,
+hang on my wall. [laughs]
+If you wanted. [Michael] The first step
+ is for me to memorize  the 12 specific
+ celebrity photographs  Brice will later try
+ to detect me thinking about.  I sat down to do this
+ graduate student, Max.  The success of his predictions
+ depend, in part,  on my ability
+ to recall these faces  as vividly as possible
+ while inside the fMRI. All right, so... [sighs] I think I have a pretty good
+memory of all of those. -Great.
+-I feel the stakes are high.  With the celebrity faces
+ hopefully memorized,  it's time for the next step:  going through
+ the metal detector  and into the fMRI,  where Brice will record
+ and monitor my brain activity, and then later feed it into his
+algorithm to rebuild the faces.  This will be the first time
+ he's attempted  to reconstruct faces
+ from long-term memory,  which is very difficult,
+ because we're relying  on how clearly I can remember
+ the celebrity photos  I saw an hour ago. I love its eyes.
+Look at that. [woman] Wouldn't the kid be like,
+"It's going to eat me"?  An fMRI monitors the activity
+ within the brain  by dividing it up
+ into thousands of small cubes  called voxels,
+ or volumetric pixels.  Each of these voxels contains  hundreds of thousands
+ of neurons.  Using fMRI,
+ we are able to detect  blood flow
+ within these voxels,  which means that that part
+ of the brain is active.  If I'm shown several pictures
+ of people with mustaches,  my brain will react
+ to the features for each face.  But there will be
+ a common area of my brain  that is engaged
+ throughout.  That may be the area of my
+brain that reacts to mustaches.  So later,
+ when I imagine a face,  if Brice notices
+ that area is engaged,  he can predict
+ that I am thinking  about a mustache. So right now Michael's
+in the scanner, and he's seeing words appear
+on the screen one at a time, and he's trying
+to visualize the face, remember the face in as much
+detail as possible. What you can see here are
+the images that we're acquiring. We get one of these
+brain volumes every two seconds. So these are refreshing in real
+time as we collect the images. [Michael] With part one
+ of the fMRI session over,  it's time for part two,
+ where Brice and his team  will learn the language
+ of my brain activity,  so they can later
+ decode by brain scans. Hi, Michael.
+You doing okay still? [Michael]
+Yup.  They'll show me hundreds
+ of unique faces,  and record how my brain reacts  to certain facial
+ characteristics.  They will then use
+ this information  to reconstruct
+ the celebrity faces  I thought about during
+ the first phase of the scan. Really, the more faces that
+we can show Michael, the better. So we're going to basically keep
+him in there as long as he's comfortable. [Michael]
+ Two hours was the maximum time  we could get in the fMRI.  But I was able to look
+ at over 400 faces,  which should be enough to get  some pretty interesting
+ results. Hey, Michael, you did it.
+That was great. We're going to come
+get you out. [Michael]
+All right. Yeah, so these just show
+some of the pictures that we were taking
+while you were in there. Some images of your brain. Now we are going
+to crunch some numbers. Max is going to analyze
+your data. We'll meet up
+again tomorrow, where we'll look
+at the results, where we try to actually
+reconstruct the face images from the brain data
+that we just collected. All right.
+Well, see you tomorrow. All right.
+Thanks a lot. Max, thank you as well.
+I can't wait. You better pull
+an all-nighter. I want this data
+to be perfect. All right, so I am back
+at Dr. Kuhl's lab. Overnight, his team
+crunched the data, and I can't wait to see what
+they think they saw me thinking. How are my results? I think they look good. We're going to take a look
+in just a moment here. All right,
+I can't wait. -So can I just take a seat?
+-Yeah, have a seat. All right, so... first of all... what am I seeing?
+Oh, okay, well, these are the pictures
+I actually memorized. -That's right.
+-And this is what you've reconstructed
+from my imagination. -That's right.
+-Oh, wow. Okay. [Brice]
+Okay, so this is one
+of the reconstructions that was generated. [Michael]
+Interesting. [Max]
+So that's John Cho. [Michael]
+Not bad. Not bad. -Can we see the side by side?
+-Yeah. [Michael]
+I see, you know, similarities in the kind of facial
+expressions in general. You know, you could almost
+see the hairline matching here. The shape of the face
+I also thought was-- It kind of had
+a square shape to it. -Yes. Yes.
+-So those are the things that came out to me. And so when I was
+visualizing this image of John Cho, the squareness of the face was
+the first, most salient thing. I just kept thinking,
+he was the square guy. Excellent, all right. [Brice]
+So that's Megan Fox. [Michael]
+Mm-hmm. You're going to show us the--
+side by side. [Michael]
+The side by side. Right. [Brice]
+You can see the picture
+you actually saw, and that's the reconstruction
+we generated. I'll you this.
+Megan Fox, I was not able to have a really clear picture
+in my mind. For some reason, this image
+of her was really hard for me to bring back into my mind. The sternness in the face was
+something that I did pick up on. So I did sense that there was--
+It looked feminine. And you picked up
+on the sternness. And so together,
+that produces a match. [Michael] Keep in mind
+ that Brice and his team  have read these
+ from my memory.  But when I remember a face,  do I picture every detail
+ simultaneously  with photographic accuracy?  Or do I just attend to a few
+ at a time?  By reading my mind,
+ they may be seeing  how bad my memory is,
+ and how it works. -Me! Me!
+-[Brice laughs] Okay, so that is your
+reconstruction of me thinking about
+this image of myself. [Brice]
+That's right. Where'd the beard go? [Brice] I don't know.
+I was hoping you could tell me. [Michael]
+For instance, this is a picture
+ of me remembering my own face. It really doesn't look like me,
+ but the question is:  how good am I
+ at picturing myself?  I don't think of my own face
+ that often,  so the strangeness
+ in the result  may be as much about flaws
+ in my own memory  and mental picture of myself
+ as flaws in the technology. So that's Jennifer Lawrence,
+I believe. [Michael]
+That's Jennifer Lawrence? It looks like it's Jennifer
+Lawrence's much older uncle. [all chuckle] Nothing here was too
+mind-blowingly close. But this is something that
+you're just starting out trying these sort of long-term
+memories.  What Brice and his team
+ read in my mind  might have been more accurate
+ if they'd shown me thousands  rather than hundreds of images
+ in the fMRI,  because then the algorithm
+ would have learned  the language of my brain
+ more thoroughly.  But regardless,
+ the quality of my memories  would have still
+ been an issue.  I mean, look what happens
+ when memory  is cut out of the equation
+ entirely.  Brice also read
+ my brain activity  when I was looking
+ at faces in the fMRI.  not just imagining them.  And those results
+ were much closer  than those reconstructed
+ from my memory. Okay, so, what am I looking at
+right here? [Brice]
+Okay, so what you're seeing here in the top row,
+these are images that you saw while you were in the scanner. Below that, in this bottom row,
+these are the reconstructions that we draw from the patterns
+of brain activity we collected. -This is from the source image.
+-Right. [Michael]
+These are from my brain. -[Brice] Right.
+-[Michael] They're pretty close. Yeah, overall they were
+pretty close. So not perfect. These are-- you can see there's
+some variability in these. But this is consistent
+with what we've found before, that the reconstructions
+that we generated, when you're viewing
+the faces, there is some correspondence
+between the actual face. So this is kind of
+a sanity check, that we can actually
+reconstruct the images -when you're viewing them.
+-Right, right. They're pretty good. Well, Brice, Max,
+thank you so much for letting me
+be a part of this. I hope my data's useful. Thank you.
+It's been a lot of fun. It's always useful for us
+to think about these things. Dr. Brice Kuhl's memory research
+is showing that it's possible for a computer
+to read someone's mind. To figure out
+what they're thinking. But a lot of progress
+still needs to be made. I mean, if you want to know what I'm thinking right now,
+for example, it's still easier to just ask me
+to tell you. But what if I can't
+tell you? Dr. Yukiyasu Kamitani
+is a researcher, professor and pioneer
+exploring the frontier behind the wall of sleep. I've come here
+to Kyoto University to meet with him and to see
+what it's like to read not what someone
+is thinking, but what someone
+is dreaming. Kamitani sensei,
+I'm Michael. -Hi, I'm Yuki.
+-Yuki, nice to meet you. [Michael]
+ For the last ten years,  Dr. Kamitani has been
+ at the forefront  of machine mind reading. The subject is, you know,
+ready to go in.  Similar to Brice Kuhl,  his early experiments explored
+ reconstructing images  shown to subjects in an fMRI
+ based on their brain activity.  In Kamitani's case,  the images were
+ black-and-white shapes,  and the reconstructions
+ were strikingly accurate.  Recently, Kamitani has focused
+ on using deep neural networks  and machine learning  to decipher subjects'
+ brain activity  while they view
+ much more complex photographs.  What you're seeing is the
+result of a deep neural network  processing the brain activity
+ of a subject  looking at the photograph.  This could have myriad
+ applications in the future,  for example,
+ in criminal investigations  and interpersonal
+ communication. [Kamitani]
+This is far from perfect. But I think you still see some,
+you know, eyes and, you know... [Michael]
+Well, yeah. And colors too. [Kamitani]
+Yeah, to some extent, yeah. His most current work, however,
+ is about the subconscious.  He's attempting something
+ extremely ambitious:  recording our dreams. Would you call yourself
+a sleep researcher, or a vision researcher? Maybe a brain decoder. A brain decoder. That's a pretty cool
+job description. Can you show me anything from
+what you're doing with dreams? [Kamitani]
+Mm-hmm, yeah.  Dr. Kamitani's work
+ on dream decoding  begins with a similar process
+ to Dr. Kuhl's:  showing the test subject
+ thousands of images  while they are in an fMRI  in order to learn
+ what the brain looks like  when it is thinking
+ of certain things.  Once the machine-learning
+ algorithm is pretty good  at identifying what images
+ the subject is thinking about,  the subject is placed
+ in an fMRI  with an EEG cap
+ on their head,  and invited to fall asleep.  When the EEG waves indicate
+ that the person is dreaming,  the algorithm predicts
+ which kinds of things  the subject is most likely
+ dreaming about.  Right now, the algorithm
+ looks for 20 categories.  Things like buildings,
+ transportation,  and characters
+ in a language.  Researchers then awaken
+ the subject,  ask them what they were
+ dreaming about,  and see if the algorithm's
+ prediction  and the person's
+ recollection match.  Here is actual data from
+ one of Kamitani's experiments.  Below is a word cloud
+ of categories.  The name of each category
+ get bigger or smaller  in real time
+ based on the probability  that they are present
+in the subject's current dream.  Now, as you can see,
+activity is currently strongest  for the category "character,"
+ meaning written language.  At this point
+ the subject was awoken,  and this is what
+ they reported. That's pretty spooky. -[laughs]
+-Right? I mean, you-- you spied on their dream. Yeah, in a way.
+But... the accuracy's
+not that great, so... Well, the accuracy's
+not that great but, you know, my normal accuracy for guessing
+people's dreams is zero. Right.  While continuing
+ his research  into predicting
+ the content of dreams,  Dr. Kamitani is embarking
+ on his newest project:  actually reconstructing images
+ from our dreams. So you've brought
+some of the reconstructions that your lab has created... Mm-hmm. ...of dreams. Right, they all look like dreams
+about blobs. [Kamitani]
+Yeah. I mean, I want to just
+take a step back and... appreciate that what we're
+looking at on this screen are, in a way, some of the first
+photographs of a dream. Mm-hmm.  We are looking
+ at the earliest phase  of revolutionary research.  One day, we may able
+ to have images,  or even record movies,
+ of our own dreams.  And Dr. Kamitani is the only
+ person in the world  doing this so far. He's a lone explorer journeying
+ into our subconscious. So this work hasn't even
+been published yet. No. -Thank you for showing it to me.
+-[laughs] The insights that researchers
+like Dr. Kuhl and Dr. Kamitani might be capable of achieving
+in the future because of mind reading are difficult
+to fully fathom. But let's slow down
+for a second, because we're talking
+about a technology that can know us
+better than we know ourselves. Should we really
+be doing this? Well, to address
+that question, I'm going to meet
+with an expert in ethics, neuroscience
+and artificial intelligence: Julia Bossmann. She's the director of strategy
+at Fathom Computing, a council member
+of the World Economic Forum, an alum of Ray Kurzweil's
+Singularity University, and a former president
+of the Foresight Institute, a think tank specializing
+in future technologies and their impacts. Julia, thanks for taking some
+time to chat. -Yeah, of course.
+-You are the perfect person for me to bring
+these questions to. -Mm-hmm.
+-And they're deep questions. But I think they're
+extremely important, and they're becoming
+more and more pressing. I think we're living in such
+an interesting time right now, because we're in this time
+where brains and machines are actually moving
+closer together. So when it comes
+to being able to look at brain activity, where are
+the ethical lines here? How private should
+my internal thoughts be? Like with any powerful
+technology, it depends on the hands
+that wield it. All these new technologies are things that can make whoever
+uses them more powerful. So we want to not blame
+the technology, but we want to-- how is it being used, and who is using it? So how do we make sure
+that this technology is in the right hands? So I think it's very important
+to involve people who act on policy and law to understand what is coming
+in the future. I am hopeful about
+the collaborative aspect of it. Let's talk about
+the good things now. I mean, what are
+the applications here? Yeah, so if we think about the late Stephen Hawking,
+for example, if he had a way of richer
+interfacing with the world or with computers,
+we can only imagine what he could have
+shared with us. Those with locked-in syndrome,
+right? They are there.
+They know that they are there. But we just need something
+to look into their brain to see what it is
+that they are trying to say, -or what they're feeling.
+-Right, exactly. So, what do you say
+to people that have that kind of fear
+of technology, of us surrendering our true
+natural selves to technology? There is something enticing
+about getting to the next level of what some people might call
+a human evolution or civilization development,
+and so on. In a way, we are already not
+living natural lives, right? Because then most of us would
+die before the age of, I don't know, 30 or 40. We would have all kinds
+of diseases. We would not wear
+this clothing. We wouldn't have eyeglasses
+or contact lenses. We wouldn't have antibiotics. [Julia]
+We are already kind of very futuristic cyborgs
+if we compare ourselves to the human that was living
+10,000 years ago and was genetically
+almost identical with who we are now. [Michael]
+Yeah, we really are. In order to understand
+cognition, right now we basically have
+to either just ask people to talk about
+what they're thinking, or observe their behavior. But reading thoughts directly
+would be a lot better. That is how Dr. Kuhl
+is studying memory, and it's how Dr. Kamitani
+is studying sleep and dreams. But even though the technology
+has a long way to go, it's easy to see
+how ethical questions could become an issue. Well, here's the thing: there is no such thing
+as a totally wild human. We are co-evolving
+with technology. Humans and technology today
+are inseparable. Now, it's true that we need
+to be careful about every new thing we do, but we cannot change the fact
+that they will happen. It's a story we've lived through
+again and again. You know, we could have
+sat around forever debating whether or not
+a speed limit should exist and who should have
+the authority to enforce it. But we didn't. Instead, we went ahead
+and invented cars, and responsibly figured out
+the details as we went along. Ethical questions
+about new technologies do the most good when
+they facilitate the technology, not when they needlessly
+hinder progress. So follow your dreams. And, as soon as you can,
+show them to me. And, as always,
+thanks for watching. 

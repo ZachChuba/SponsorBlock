@@ -1,0 +1,103 @@
+Hi. I have a great and unique idea, which is turning your wooden
+or plastic seat into a heated seat so your fragile buttocks can rest in peace. All we need is a heating
+element which I'll extract from this broken hairdryer as these wires. [scrape, scrape, scrape] So here we are. I hot glued
+these wires to my seat with their end connected to a cable where
+I can just plug in to the wall. Okay there we are. (Plugs in) *seems fine so far* AUUAGH, OW S***! OW, F***! [spark] WHERE THE F*** IS IT?! [AAA!] S**T! * [SCREAMS] [cries like a b***h] [more screams] S***! (Unplugs) *Heavy breathing* F***! The whole seat is melte- O-OH S***! (more screams) In hindsight, mounting a heating
+element with hot glue is a pretty dumb idea because the glue can
+melt and stick somewhere else. And also, evidently, sitting on
+super hot live wires is a terrible... ...TERRIBLE idea! As my butt can confirm. Where are you? But we shall not be discouraged! There are other heating elements we could use. Like
+the electric oven heating element that we can.. ...unplug easily. The good thing about these is that
+the live wires are hidden inside the element, so you won't get
+shocked if you touch them. Also, in North America, they
+run on over 200 volt AC so if I run it on 120 volt,
+I should avoid super heating it. So... connecting it to Power... You won't get a shock although
+it's drawing around 6 amps. Now I don't know what metal it's made of. I'm guessing iron, but it's hardly conductive. So it's safe to touch. [Sizzle] A-AH OWW! F***! Of course getting shocked is not the only concern. Obviously, this thing is a heating
+element and can get very hot, even if I run it on 120 volt AC. And it's
+pretty uncomfortable to sit on anyways, so I went and bought... some other heating elements. This one is pretty small. Maybe you can use it to heat a baby, or as intended, electric charcoal starter. DON'T USE IT ON BABIES, YOU IDIOTS! But this one is pretty nice, and fits my seat
+well and is made for 240 volt, 3000 watts, which is very similar to my oven element. I will be running it on 120 volt AC, which
+means four times less power or 750 watts. It can still burn, so I'm planning to reduce the power to it using a light dimmer. It says this dimmer is compatible
+with incandescent lights as well as new dimmable lights, which makes me wonder, what is the difference between this new dimmer and old ones? We have one of these old dimmers- [POP] TWGH, S***! We have this old dimmer, which I'll try to probe using my *4 channel awesome new KEYSIGHT scope!* And so, if I short these two contacts, the light turns on. Now if I try to probe this... Connecting the probe ground without shocking myse- Oh, actually, they share the same ground.
+I don't need to connect the ground. Okay. Now, the yellow line is the input voltage
+and the red is the output. And, if I turn it on, [Click] you see that when I slide the dimmer,
+a portion of the output is cut off. It's here at minimum and here at maximum. And so, this reduces the effective AC
+voltage output over a resistive load. But, things like LED lights are not
+necessarily like a resistive load... ...although my LED light seems dimmable
+and is working fine with this dimmer. ...flickers a little bit at low voltage. The old dimmer I tested is made of a Solid-State
+or Silicon switch like a transistor that is a type of SCR or thyristor. And in this case,
+it's a triac which is a bi-directional switch. Eh, too many words? Basically, it's an open circuit between
+the two main terminals *until* you send a current into the Gate terminal. And then, it switches closed and stays
+on as long as you run current through it, *even* after you remove the Gate signal,
+and then it only turns off when you stop running current through it. It is bi-directional, meaning that the current can run through it
+both ways and has to be triggered accordingly. So, this is the AC input and we have a
+resistive load like an incandescent light and let's say, these are the trigger
+pulses to the input of the triac. The output voltage is zero until the
+edge of the trigger and then the switch closes and the output follows the input... ...until the voltage reaches zero, which means that the current through the resistor is zero. And it turns off and again turns on by the next edge of the trigger and follows the input again and... ...cycle continues like we saw in the scope. Now by moving the dimmer knob we are simply
+moving the location of these trigger pulses that changes the on time of the triac
+and controls the output power. So for example, if this pulse happens earlier, more of the voltage cycle goes out. Driving the inductive and capacitive loads is a whole other mess because their
+current is 90 degrees phase shifted and turns zero when the voltage is at peak. Okay. Let's see what the new dimmer does differently. Does the exact same s***! So what?! It's compatible with the LED lights because the new LED lights are designed to be dimmable?! And this takes the credit?! What the he- [BANG]  F***!! Don't kick live circuits because
+they can kick back. Anyway, let's see what's the difference between dimmable and not dimmable LED lights. I'm gonna film different lights using my camera
+at slow motion to see what difference we see. Here's the incandescent. As expected,
+the brightness changes by the AC cycle. Here's the dimmable LED. It behaves
+like the incandescent. And here's the undimmable light...and its
+output light is constant. So the dimmable LED light is designed to
+be dependent on the AC voltage amplitude. That's why we can dim it
+with the change of AC voltage. But the undimmable LED
+behaves badly on a dimmer because it's designed to have mostly
+a constant brightness output independent to the AC voltage. So... ...for the most part, you see it
+has a constant brightness, but at very low AC voltages, it craps out. Both have their own Benefits. One
+provides dimmability, while the other one provides a fixed output brightness
+independent to the input fluctuations. We are getting distracted. Let me hook up
+the dimmer to my heater and I'll measure the voltage and temperature of the heater. Here we have voltage and temperature
+and if we turn it on at minimal, it's only around 4 volts
+and it heats up very slowly. But, we can ramp it up so it heats faster... ...and then... ramp it back down again. There you go. Very nice. Now we have an industrial
+seat warmer for your thick buns! Ooh.. The dimmer box says it
+can't handle more than 600 watts, but we might be running 750 watts
+max. Oh well, I have a solution for that. There. I hot glued two pieces of stick
+to limit how far you can turn the knob. We don't need more than half anyway. There. Now all you need is to shove this
+thing in a cushion for comfort and sit on it. [Hehe] On the other hand, if somebody accidentally
+breaks these sticks and set it to maximum, it could overheat the heater or the
+dimmer and set the house on fire. We could design a very good system where a microcontroller monitors the heating element temperature and PWMs
+the output power to control the temperature to exactly what you adjust using a
+sophisticated and failsafe control algorithm. Who do you think I am?
+Destin at SmarterEveryDay? All I need is one of these food temperature
+sensors and tie it to my heating element. See, what I've done is that I cut the housing
+and removed the glass and I also glued the piece of wire here to the
+housing that can move now. And normally, this needle could move
+freely when the temperature rises. But now, as the temperature rises, the
+needle gets stuck to this piece of wire. So the temperature can't rise any
+more because the needle is stuck. Is that-  is that how it works? Because, I mean the needle is stuck
+but the temperature could be rising. It's just not showing it. I think we need to do better. Here, I did one more thing. I added
+a piece of wire here connected to the shaft of this thing, that's
+also shorted to the housing. So now when the temperature rises,
+the gauge shorts the housing to this piece of wire here and
+acts like a thermal switch. Here's the plan: I have a normally closed relay that
+drives the heater element and its coil is driven by my thermal switch and is
+supplied through a diode, resistor and capacitor. I also keep the dimmer so I can adjust the rate of temperature rise. Now what happens is that when I
+plug in the AC, the heater element is on and heats up, as well as my
+thermal switch that's connected to it. When the temperature reaches the threshold that I set with my thermal switch, the switch closes and energizes the coil of the relay and the relay switches over and turns off the heater element. Now the heater cools down, and when it cools down below the threshold, this switch opens and de-energizes the coil and the relay switches back over and the heater turns on, heating back up again. So the temperature is controlled
+around my set temperature. Change of plan. I'm gonna use a 12-volt wall
+adapter to drive my coil because with the relay I have, that resistor
+would turn into a light bulb. ...and we plug it in. (Plugs in) There we go. Now the heater is on and you
+will see that the gauge will start rising. [Piano music] There we go. The switch is closed
+and the heater is off. Of course there is a delay for the temperature
+to get through to the thermometer. And so the temperature overshoots
+a bit and drops down afterwards, at which point the thermometer
+switch should open again. [More Piano Music] There, the heater is back on and
+the needle moves back up again. Great! Now I can shove
+all these into a cushion. There. Now we just plug it in. [groan...-] (explosion) Oh..! They sell seat warmers for cheap. Pff! Was this a good video? Did you learn something? THEN SUBSCRIBE for God's sake! I'm trying to beat this guy "Bobby
+Duke" in subscriber count, but he keeps making this... awesome looking...
+quality art...one better than the other. He's just a great artist!... and a friend. He's just... He beat me in less than two years! And for
+what?! JUST SOME AMAZING CONTENT? I say it's time we respect our
+elders, and subscribe to meeee- ♪ Giveaway Tiiiiiiiime! ♪ -eeee! And thanks to Keysight, I'll give
+away one scope to a school in Croatia and a 3D printer; I buy them with
+patron support, and 2 scopes to patrons at Patreon.com
+and another 2 to the viewers. If you haven't signed up from my
+previous Keysight Wave 2019 link, do it from the link in the description. And you may get a
+top-quality scope like MIIINE!! In addition to my giveaways, the link
+puts you in the earlybird Keysight Wave 2019 Giveaway Draw, where
+they give away over $350,000 worth of test equipment to more than 100 winners,
+from March 1st to 15th. Check it out! Just don't forget that in the
+March period, you can also have one entry per day in the Keysight
+Giveaway through wavekeysight.com. miiiiiine...! (beatbox outro) {Captions by Burgercat, Skylett
+Official, AMO and TopDogAsh.} {Caption creator's message:
+Subscribe to ElectroBoom and Pewdiepie! {Thank you for watching and have a nice day!} 

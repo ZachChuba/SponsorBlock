@@ -1,0 +1,41 @@
+One of the fundamental principles in modern
+physics is that there’s no absolute time. And I’m not even talking about relativity
+making time go at different rates if you’re going near light speed – I just mean that
+any time is as good as any other to set your clock to zero. The predictions of physics work all the same,
+and it’s not like there’s some “absolute starting time” – I mean, if there were,
+time zones wouldn’t work! In addition to allowing time zones, the fact
+that there’s no absolute time also implies the law of conservation of energy. Here’s a simple proof to show that if a
+force doesn’t depend explicitly on time, then that force conserves energy! First, conserving energy just means that there’s
+a certain number, called the energy, which doesn’t change as time passes – if you
+compare the energy at two different times you’ll see no difference. And the total energy of a system is the sum
+of its energy of motion, or kinetic energy, and its energy due to position – the potential
+energy. So all we need is to find the change in kinetic
+and potential energies over time, and add them up! Ok, we know the kinetic energy of an object
+is half of its mass times its velocity squared. So the change in kinetic energy over time
+is just one half m times the difference of the squares of the velocities. Some clever algebra can rearrange this expression
+to become the average velocity times m times the CHANGE in velocity. But a change of velocity over time is just
+an acceleration, and mass times acceleration is equal to the force on the object. So the change in kinetic energy of an object
+over time is just velocity times force. On the other hand, the change in the potential
+energy of an object is negative the amount of work it takes to get the object to its
+current position from its previous position independent of the path taken – that is,
+potential energy is the negative of the force applied times the change in position. This is where the “there’s no absolute
+time” part comes into play – you can’t have potential energy for a force that changes
+over time. And just to be clear, “no changing over
+time” doesn’t mean that an object can’t experience a changing force along the course
+of its journey: the force might be different at different places, but at any particular
+place, the force must remain the same. Anyway, this is all just to say that the change
+in potential energy is negative F times the change in position. The negative comes from the fact that if you
+let the force push you along your potential energy decreases, while if you fight in opposition
+to the force your potential energy increases. So the change in potential energy over time
+is the negative of the force times the change in position over time, but change in position
+over time is velocity! Which means change in potential energy of
+an object over time is negative velocity times force. And thus the change in the total energy over
+time, which is the sum of the changes in the kinetic and potential energies over time,
+is v*F plus negative v*F, which equals zero! And zero change in energy over time is precisely
+conservation of energy! All for the same reason that time zones work. As a followup, I’ll admit that I skimmed
+over some details in this derivation and it’s much easier to do with calculus. You just have to know that the time derivative
+of kinetic energy is m times v times a which is F*v, and the time derivative of potential
+energy is -F times dx/dt, or -F*v, and so the time derivative of the total energy, dE/dt,
+is F*v-F*v = 0, which means energy doesn’t change over time. And as a final followup, the most legit and
+robust version of this proof as it applies to ALL OF PHYSICS is called Noether’s theorem,
+discovered by Emmy Noether in 1915. It’s beautiful physics. 

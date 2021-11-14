@@ -1,0 +1,86 @@
+This episode is made in partnership with Cisco
+Global Problem Solvers: The Series. This animated series features a team of teenagers
+tackling some of the world’s toughest problems — like how to handle the aftermath of hurricanes. It aims to encourage 4th through 8th-grade
+students to think of themselves as global citizens and to develop their problem-solving
+skills, and use technology for social good. Click the link in the description to learn
+more. In August 1992, Hurricane Andrew flattened
+the Bahamas and smashed into the coast of Florida and Louisiana. Some 70,000 acres of trees were destroyed
+and more than a quarter-million people were left homeless. Hurricanes like Andrew are outliers, of course,
+but every year, similar powerful storms — from Katrina to Sandy — threaten communities
+around the world. And they’re especially damaging to people
+living in poverty, as they often don’t have the means to abandon everything when a storm’s
+brewing, or rebuild in the aftermath. Unfortunately, evidence is mounting that climate
+change could be making these storms even more violent. But, what if there was a way to just make
+hurricanes... go away? Or, at least make them weaker. It sounds like science fiction, but hurricane
+prevention might be more possible than you think. First, though, let’s get our terminology
+straight. The scientific term for these powerful storms
+is tropical cyclones. Hurricanes are tropical cyclones that happen
+in the Atlantic or the East Pacific Oceans. Typhoons are ones that happen in the northern
+West Pacific Ocean. Same physics, just different names depending
+on what continent they’re hitting. How they form is not something that scientists
+totally understand and what we do know isn’t super straightforward. But they’re sure that, by far, the most
+important factor is the temperature of the water at the ocean’s surface. Cyclones can only form if that water is above
+26.5 degrees Celsius or about 80 degrees Fahrenheit. Since water holds a lot of heat energy, that
+warm surface can heat up the air above it. And the simplified version of what happens
+from there is this hot air rises. As it rises, it cools and condenses into powerful
+thunderclouds. Cooler air from elsewhere in the atmosphere
+then rushes in to fill the void left behind. It, too, heats up and the cycle starts once
+again—eventually producing a mega-sized storm. In fact, hurricanes and typhoons are sometimes
+described as heat engines, since the process can be self-sustaining once it gets going. So, how do we prevent them? Well, to stop an engine, you remove its fuel. So, to stop a cyclone, you take away its warm
+water. One way we might do that is marine cloud brightening. Essentially, you fly airplanes above the tropical
+areas where hurricanes and typhoons form. Each plane sprays out a mist of seawater behind
+it. And those droplets—filled with little bits
+of salt—form nuclei for the condensation of new cloud particles that can bulk up lighter,
+fluffier clouds. These denser, whiter clouds reflect more sunlight
+back towards space. And with less light hitting the ocean’s
+surface, there’d be a smaller chance that the water reaches that critical 26.5-degree
+temperature needed for cyclone formation. A similar idea, called stratospheric aerosol
+injection, takes this principle and expands it to the whole planet. Instead of bulking up clouds one by one, special
+high-altitude planes could pump gasses like sulphur dioxide into the upper atmosphere. That’s a gas often released during volcanic
+eruptions, and it can be extremely effective at reflecting sunlight. We know this because major eruptions in the
+past have had measurable effects on global temperature—and led to temporary reductions
+in tropical cyclones. After a 1912 eruption in Alaska, for instance,
+the world experienced the fewest hurricanes and typhoons ever recorded. Both of these ideas rely on nature doing our
+work for us, though. What if we acted more directly? That’s where bubble curtains could come
+into play. A bubble curtain is made by injecting air
+bubbles deep underwater. As the bubbles rise to the surface, they form
+moving “curtains” which carry with them some of the deeper water. If this was done in the areas where tropical
+cyclones often form, they could drag up cooler water to help lower the temperature at the
+surface. And again: no warm water, no cyclone. The neat thing is that, unlike marine cloud
+brightening or stratospheric aerosol injection, this is already an established technology. In Norway, it’s used in reverse, to bubble
+up warm water in the winter to clear ice from fjords. But, even so, it isn’t likely to be put
+into practice for hurricane prevention right away. You can lump the obstacles to all three of
+these measures into two main categories. The first is cost. Tropical cyclones form over huge regions of
+ocean, so we would have to deploy countermeasures in vast quantities. The US National Oceanic and Atmospheric Administration
+estimates that to make a bubble curtain that effectively protects the US Gulf Coast, it
+would need to extend over something like 850,000 square kilometers. And one study investigating global aerosol
+injection assumed we would need to disperse five million metric tons of sulphur dioxide...
+per year. That could require tens of thousands of flights
+every year for decades just to slow the rate of increase in global temperature, let alone
+actually cool things down enough to prevent tropical cyclones. What’s more, even a successful program would
+be wasteful because strong cyclones are the exception rather than the norm. I mean, of the around 80 tropical disturbances
+that form over the Atlantic Ocean in an average year, only five or so develop into storms
+that threaten the US. Maybe the bigger obstacle, though, is the
+collateral effects of large-scale action. Like, if we do manage to successfully change
+the water temperature across a huge swath of ocean, what does that mean for the ecosystems
+there? Given that the people most hard-hit by tropical
+cyclones worldwide are also more likely to rely on marine protein sources, we’d want
+to be careful about doing anything that could negatively impact aquatic habitats. Similarly, while whitening clouds could meaningfully
+reduce the number of hurricanes and typhoons, there’s also a significant chance it would
+dramatically affect other ecosystems. For instance, one study noted it’d likely
+reduce the amount of rainfall in the Amazon rainforest. And given what climate change is teaching
+us about our interconnected world, that kind of trade-off may not be worth making. So, yeah, it might be possible to dissipate
+hurricanes. But we’ve got other, safer ways to deal
+with the threats they pose which are already at work. Like, we’ve gotten really good at predicting
+where these storms will go and bracing for their impacts. That’s already saving lives at a fraction
+of the cost. And if we can do an even better job of implementing
+forecasting technologies and helping those who are most affected by big storms, then
+completely preventing tropical cyclones won’t be necessary. Thanks for watching this episode of SciShow! If you — or any kids in your life — like
+thinking about how to solve problems like this, you might be interested in today’s
+sponsor. Cisco Global Problem Solvers: The Series aims
+to inspire 4th through 8th-grade students to become… well, global problem solvers. It encourages them to think of themselves
+as global citizens, developing skills like critical thinking and teamwork. In Season 2, learn how the team uses business
+skills and tech to get students back to learning after a hurricane hits the U.S. Gulf Coast. If you want to check it out, we’ve linked
+to the series here. And if you’re interested, you can also access
+Teacher’s Guides with discussion topics and worksheets by clicking the link in the
+description. {♫Outro♫} 

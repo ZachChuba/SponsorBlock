@@ -1,0 +1,105 @@
+If I asked you to think
+of a really tough problem what is the first thing
+that comes to mind? Well, if you're anything like me you probably thought of some big complex math equation, right? For most people, math
+seems like one of the most difficult subjects out there. It's abstract, it's
+complex, and unfortunately for those reasons a lot of people adopt the belief that
+they're just not math people. Which is patently untrue because math is a skill that can be learned just like any other. But since you clicked on this video hopefully you are not one of those people. Hopefully you have at least some degree of belief that you can
+become better at math and you have the motivation to do so. And if you do, the obvious question is how do you get better at math? Well, fortunately, this is one of those questions that has a pretty simple answer. If you want to get better at math you have to do lots and lots of math. And the tougher the
+problems are, the better. Because tough problems will
+stretch your understanding and lead you to new breakthroughs. But, in the course of studying math and working through these tough problems you are eventually going
+to come to problems that just stump you, that
+you get completely stuck on. And when you get to these points it's important to know how to eventually solve these problems, because these are the ones that are
+really going to stretch and build your skill set. So that is what I want to
+focus on in this video. I want to give you practical techniques for working through,
+and eventually solving those problems that seem
+insurmountable at first. To start, I want to focus on a piece of advice the Hungarian mathematician George Polya shared in his
+1945 book "How to Solve It." It goes: This is, in my opinion, the most important technique to understand
+and put into practice when you're trying to
+solve tough math problems. Because math builds upon itself. More complex concepts are
+built upon simpler concepts. And if you don't have a strong grasp on the fundamental principles, then a more complex problem is going
+to likely stump you. So, if you come across a problem that you can't solve, first,
+identify the components or the operations that it
+wants you to carry out. A lot of times, complex
+problems will have multiple. Now, what you can do in this case is split the problem
+into multiple problems that isolate just one of those components or operations. I want to show you this concept in action so let's work through a quick example. Now, I did have one example picked out that would be pretty easy but it ended up being a little bit too easy, so let's do something a little
+bit more complicated. So, this is a summation problem which uses the Greek symbol, sigma. And it essentially says that we're going to add up a series of expressions that use a variable starting
+at one and ending at four. But, if you notice, this summation problem also has a fractional exponent in it. Now, maybe some of you
+math wizards out there could do this kind of
+a problem in your sleep but it's also possibly the case that you don't have a really firm grasp on either summation or
+fractional exponents. So, when you're working a problem that combines the two of
+them, you might get stuck. So, assuming that's the case, let's break this problem into two simpler problems that each focus on just one
+of the underlying concepts. First, let's create a
+simpler summation problem that just gets rid of that
+fractional exponent altogether. Now, all we have to do is
+evaluate that expression four times and then add up the answers which gets us to a final answer of 66. And now let's move on to
+the fractional exponent. Now, I'm going to go pretty quick here because this is not a lesson
+on fractional exponents but essentially you can rewrite this as four to the power of three times the power of one half. And then you can rewrite that again to the square root of four
+to the power of three. And once you evaluate that,
+you get an answer of eight. Now, the whole point of
+working these simpler single concept problems is to master the underlying concept or operation that you're working on here. So, if you solve a few
+and you still don't feel really confident on that concept keep working it until you do. Remember, mastery means not
+being able to get it wrong. Not just getting it right once. Anyway, once you've
+mastered those underlying components in an isolated setting now you can come back
+to the more complicated problem that combines them. At this point, you should be able to work those isolated concepts in your sleep which means that all of
+your mental processing power can go towards the new and novel problem of how they work in tandem. Now, there is one additional
+way of simplifying tough problems that I want to talk about and you might have already guessed it if you paid really close
+attention to the examples. I didn't use really complex numbers. I didn't use long numbers. I didn't use decimal points. I didn't use big fractions. And I stuck to a low limit
+on my summation problem. Really complex, big numbers
+with lots of decimal points can distract your attention
+away from the concepts and the operations that you're
+supposed to be practicing. So, if you're stuck on a tough problem that has these kinds of numbers go work a similar
+problem with really small whole numbers that are easy to add or operate in your head, that way you can really zero in
+on the actual concepts. Of course, sometimes you have too shaky of an understanding of the concepts and operations themselves
+for you to actually work with them and solve that problem. And in that case, it's time
+to go do some learning. Go dig into your book,
+look through your notes, or find example problems online that you can follow
+along with step-by-step so you can see how people are getting to the solutions, using these concepts. And, if you need to, you can actually get a step-by-step solution
+to the exact problem you're working on as well. There are several tools out there that you can use to do this. The two that I want to
+focus on in this video which are the best ones
+I've been able to find are WolframAlpha and Symbolab. Both of these websites will allow you to type in an equation and get an answer and also gypha and Symbolabs that you can follow along with. The difference between the two is that WolframAlpha,
+while being much more power and capable, does require you to be part of their paid plan if you want to get those step-by-step solutions. By contrast, while I found that typing in equations into Symbolab
+was a little bit slower and less intuitive than
+it is with WolframAlpha their step-by-step solutions are free. Regardless of the tool
+that you choose to use here the underlying point is that sometimes it can be useful to see
+a step-by-step solution for a problem you're stuck on. But, there are two very
+important caveats here. First and foremost,
+before you go running off to find a solution, ask yourself "Honestly, have I pushed my brain to the limit trying to
+solve this problem first?" Expending the mental effort required to solve the problem yourself is going to stretch your capabilities. It's going to make you
+a better mathematician in a way that just looking
+through solutions won't. Now, if you do need to look
+up a solution, that's fine. Look it up, follow the steps and make sure that you understand how the answer was arrived at. But, once you've done
+that, challenge yourself to go back and rework the problem without looking at that reference. It is really important to
+stay vigilant about this. Because if you want to get better at math the whole point is to master the concepts that you're working with. The danger that comes
+with looking up solutions is that with math it's really easy to follow along with a
+step-by-step solution and comprehend what's going on. But that is very different than being able to do it on your own. And that brings me to
+my final tip for you. And this is especially
+important for anybody in a math class working
+through assigned homework. Don't rush when you work
+through math problems. I know it's really tempting to try to work through homework as fast as you can and heck, I even made a video
+about it pretty recently. But, with math and science and any sort of really
+complex subject especially rushing is only going to
+hurt you down the road. Because when you rush, you
+don't master the concepts. You just brute force your way to answers or you look things up, or you otherwise kind of cheaty-face your way to a completed homework assignment. And later on, when you're sitting in a testing room, or you have to apply what you've learned in the real world you are going to get a harsh lesson about exactly what it is you don't know. So let's recap here. If you want to get better at math and you want to improve your ability to solve those really tough problems first, identify the
+combination of concepts or operations being used in a problem and then isolate them. Work simpler problems that use just one and then master each concept. You can also simplify the problem by leaving the combination
+of concepts intact but swapping in smaller,
+easier to handle numbers. If you need help with
+the concepts themselves go to your book or an
+explainer article online look up sample problems, or use a tool like WolframAlpha or Symbolab
+to get step-by-step solutions to the problem you're working on. And finally, don't rush through
+your homework assignments. Make sure that you're focusing intently on mastering the concepts,
+not just finishing. Hopefully these tips will
+give you the confidence to tackle some really tough math problems and to expand your math skill set. And on that note, I want
+to leave you with a quote from the great physicist,
+Richard Feynman, who said, The bottom line is this: Ultimately, your ability
+to get good at math and anything else for that matter starts with having the
+confidence to approach it. And as you solve problems
+and make mental breakthroughs your confidence is going
+to naturally increase. It becomes a self-sustaining cycle. If you're interested in starting the cycle And, as always guys, thank
+you so much for watching. If you found this video helpful you can give it a like
+to support this channel and maybe you can consider sharing it with a friend who could
+benefit from it as well. Otherwise, you can subscribe right there and maybe hit that bell icon if you want to be the first to
+know when new videos drop or click right there to get a free copy of my book on how
+to earn better grades. Alternatively, you can click right there to listen to our latest podcast episode on how to crush job interviews or if nothing else, you
+can click right there to get one more video on
+this channel right now. Thanks for watching and I will
+see you in the next video. 

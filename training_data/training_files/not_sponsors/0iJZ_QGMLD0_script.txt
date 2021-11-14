@@ -1,0 +1,41 @@
+The setup for the twins paradox is as follows
+– suppose I sit on earth while you head off on a rocketship at a constant speed for
+a while, then turn around and come back. We know that moving things experience time
+more slowly, so I'll think that when you get back, you should be younger than me. But from your perspective, the earth (with
+me on it) is doing the moving, receding and then returning, so you think that I should
+be younger than you. Who's right? We'll use the fact that time rotates to sort
+this all out. Ok, so from my perspective, every second that
+passes I stay in the same place, while every second that passes, you get farther away,
+and then closer. Simple enough. From my perspective, you'll take ten seconds
+to get back. And since you're moving, I'll think that time
+is passing more slowly for you, so I'll calculate that your journey, for you, takes eight seconds. Now – and this is the important bit – since
+you're moving, what you think of as the forward direction of time will be rotated relative
+to _my_ perception of time. So on your outward journey, the seconds will
+tick away like this. And on your return journey, the seconds will
+look like this. From your perspective, your journey does indeed
+take eight seconds! But almost immediately, we also see the solution
+to the twins paradox: right here. This bit of my time is unaccounted for by
+you. During your entire journey, you'll think that
+time is passing more slowly for me than for you (and indeed it is – here, and here,
+add up to only 6.4 seconds), but because of your change in velocity when you turn around
+to come home, your notion of time rotates and skips right over a large swath of my time. Which amounts to precisely – you guessed
+it – the missing 3.6 seconds. And this is the resolution to the twins paradox:
+because you changed velocity, your notion of simultaneous times rotates, so your accounting
+of how time passes in parts of the universe far away from you will have gaps in it. Well, in reality it wouldn't have gaps, because
+you couldn't instantaneously change direction – you'd have to fire your rockets to start
+heading home, and during that acceleration your notion of time would have very very quickly
+rotated through the missing gap in my journey, allowing you to properly account for the missing
+time. In summary: during your outward and return
+journeys, ten seconds would pass for me, and I'd calculate eight seconds as passing for
+you. Eight seconds _would_ pass for you, and you'd
+calculate 6.4 seconds as passing for me during your outward and return journeys, and 3.6
+seconds as passing for me during your acceleration (even if it was basically instantaneous). So we both agree that when you come home,
+you'll be younger! And indeed, this is what happens when you
+send an atomic clock flying around in in an airplane: it records less time as having passed
+than a twin atomic clock that stays on the ground. PS the time rotations I've been talking about
+are actually called "Lorentz Transformations", and they're the way that most working physicists
+think about special relativity and things like time dilation, relativistic doppler shifts,
+and so on. Trying to understand relativity just by using
+basic equations for time dilation and length contraction (like is often done in beginning
+physics classes) will often lead to confusing apparent contradictions, because they don't
+take into account the full changing of simultaneity 

@@ -1,0 +1,106 @@
+- Back in 2017, I built what, at the time, seemed to be essentially
+the fastest possible server for transcoding our massive
+cineform raw export files. We're talking fifty to seventy gigabytes into H.264 MP4s that we
+could upload to YouTube. At the time, while it was a little janky, the performance was basically
+as good as I could get. Then I went to upgrade
+it about a year ago, testing both a 5.1ghz
+binned, overclocked 9900k, as well as the limited
+run, auction only 9990 xe, a 14 core chip capable
+of 5ghz on all cores, and honestly, the results were appalling. Neither of the two flagship CPUs were able to offer much more
+than a ten percent improvement to our transcoding times, making it seem like we
+had sorta hit a wall. But in that video, I did
+promise you guys a followup, building up that serve in a sick custom water cooled chassis. And we're going to do
+that but with a twist. Now that Ryzen 3000
+series processors are out and matures a little bit, we're going to take another
+crack at upgrading this machine. We're going to test top of the line Ryzen against the top of the line Intel to see who wins in a heavy
+weight encoding showdown. And what better way to
+do it then to retrofit our old Minecraft server chassis into a balling render server. Speaking of balling,
+you too could be balling with AFK Arena. It's the mobile RPG game with
+the unique fresco art style. It's build for hardcore and casual gamers, so it's fun for everyone, and you can stick around
+till the end of the video to learn about their special one year anniversary collaboration. (Upbeat music) As many of you know, the
+ultimate Minecraft server chassis was designed and fabbed
+with the help of Protocase, and was pretty purpose built around holding two ITX motherboards. And I can assure you guys that, um, this Threadripper sized
+socket is never coming to an ITX motherboard. Jake realized that by removing just one of our three sandwiched radiators in the front though, along
+with some minor modifications to the motherboard whole layout, we could actually easily fit
+both a full sized motherboard and a compact GPU. Woo! And that is something we are going to need to be able to run our CPU of choice, the Ryzen Threadripper 3970X. This is AMD's second from
+the top Ryzen 3rd gen CPU with an astonishing 32 cores that, at least according to Puget Systems, trades blows with even
+their top dog 65 core 3990X, At least for Adobe Premier exports. And given the price difference,
+we're going to stick with the 32 core variant, even if it means taking a few seconds
+longer on our renders. So I've got the chassis here. I've got all the bits to put together here and off camera over there, so let's build a water
+cooled server, shall we? Let's start by taking a
+look at the care package Jake sent over to me. We've got three 80 mm Noctua cooling fans in the front of our chassis here, along with this really
+sweet AlphaCool reservoir that's easy to fill. So you just fill it up
+through the top here. And easy to check your coolant levels with the handy dandy
+little window in the front. And we've got a D5 pump
+wired into the back of it. We've got a Corsair fan and
+RGB lighting controller here. And then we've got
+another eight 80 mm fans between these two 80 mm
+AlphaCool sandwiched radiators. So between these three banks of fans we're trying to draw air in
+from the front of the chassis and then send it over the
+motherboard and out the back. And then most of the cooling is going to be handled right here because both our CPU and graphics card are going to be water cooled. With that sorted out, it's time
+to throw in our motherboard. Now, you might have noticed that, um, we actually didn't bother to
+change up the back panel here to make room for our full size ATX IO. And the reason for that
+is that honestly speaking it just doesn't matter. The only card we're
+going to install on this is a graphics card. And we're going to be using
+a PCI Express extension cable in order to do that. So we'll deal with that later. First, let's go ahead and get
+the motherboard screwed in. Our reasons for choosing
+the ROG Strix TRX40-E Gaming are pretty straightforward. We wanted something
+that wasn't pseudo EATX, so wider, cause that would have interfered with our ability to
+mount our graphics card and our power supply. And we wanted something with
+2.5 gig ethernet built in, so that we wouldn't need
+to modify the chassis to put in a faster network card. Not that it really matters. I mean nothing we're doing
+requires greater than gigabit transfer speeds anyway, but it's just kind of a nice to have. Well, I'm not sure if this is the way I would have preferred to have it done, but it seems like Jake intends for me to mount the graphics
+card with some VHB tape on these 3D printed spacers. Um, there are screw holes
+here which is curious. But we apparently will not
+be (laughs) using them. Our intention had been to go
+with a RTX 2060 for this build, but it did not arrive in time. Thanks COVID-19! So we've got this Zotac
+Geforce GTX 1080 Ti. Now you might think, "Oh,
+well not having RTX means "that you also don't have
+the new NVENC encoder." But that's okay. We're just using the cudacores on the GPU as opposed to the fixed
+function hardware encoder. So it really shouldn't matter as long as we have enough GPU performance, at least according to our
+findings, um, on this topic. (inhales loudly) I guess that
+was two or three years ago. For our power supply,
+we actually downgraded in a certain sense compared to the Minecraft server that we built. This is Corsairs SF750, and it's a 750 rather
+than an 800 watt unit, but unlike those Silverstone
+units we used before this has duel eight pin EPS connectors, which both our AMD and
+Intel HD platforms require. Just gonna mount it fan side up so that it gets to suck in some of the air that's being blown over the system by these 80 mm cooling fans. And we're gonna go ahead and use the same mounting
+screws once again. To actually plug the
+power supply in though, we've gotta go ahead and run this right angle power connector through the hole in the
+back of the chassis. Then we get our plug correctly
+installed on the outside. We just pull up the power supply, plug the right angle connector in. Make sure the power supply is powered on, cause we're not really going to be able to get at that switch later Oh actually it's not that
+hard to get it, nevermind. So we're going to leave it off cause that's a little bit
+safer when you're still building the computer. And then we can go ahead
+and screw this down. To be very clear guys, we know that this isn't
+server spec hardware, and I keep calling it a server. A server is more of a function. And it will be serving a server role, even if it is desktop or
+workstation class hardware. Need to plug in USB
+for our fan controller. Then we're going to run our SATA connector around the power supply here, which is sort of a weird
+cable management choice on the surface, but it allows us to plug just a basic SSD. There we go. In response to the onslaught of comments that I'm sure are coming over my double sided tape drive mounting, there's nothing wrong with it. With a harddrive, yes. Bad idea. With an SSD, they're lightweight,
+there's no moving parts, it's fine. That leaves fixing up
+the water cooling tubes as my last task here. The outlet from our reservoir
+is this one over here. So we're going to run that
+over to our graphics card which is a non direction sensitive block. So we're gonna go ahead
+and cut this off to size. We're going to be off to
+the races pretty quick here. (static noise) Things, stop it. That's what we're looking for, move them bubbles through. Thank you, thank you kindly. Wow, you actually, you set this up all like real
+nice for me and everything. It's got the, the file all sitting there ready to just press encode. The only thing you didn't
+include was a SATA cable. - I didn't include a SATA cable, what? - It's okay, don't worry, don't worry, I found a super stylish
+one, check this out. - [Jake] Oh no! This is like, I did that to myself. That's so bad, oh man. - [Jake] I think we should
+just leave it in there. - Oh yeah. Heck yeah. - On my side we've got
+Intel's flagship 10980XE; that's an 18 core processor. Along with a matching
+1080 Ti, the same OS. And media encoder ready
+to start this test, so uh, you ready to lose. I mean, probably, win. - You're going down,
+you're going down bruh! You're going down! - You're definitely probably going to win. - Alright, ready? 3, 2, 1 go! - [Linus] So what is this? This is a CineForm H.264 transcode? - [Jake] Yeah, so it's
+taking the raw output from one of our editor stations, so it's going to be like a 50, 60GB file, and trascoding it to H.264 so we can actually upload it to YouTube. Our previous rendering server probably would have done this video in about 20 minutes, so- - I think I'm going to
+be beating that time. Um, my estimated time remaining
+is 10:26, how about you? - Uh, I'm one minute into it; Estimated remaining time is 14. Oh, it's going down to 13, but I mean it's Adobe, so
+it's all over the place. - Yeah, fair enough. - What's your RAM usage like? - Uh, I'm at 16 gigs. = Yeah, basically 16 gigs as well. CPU usage somewhere
+between 60 to 70 percent. - Wow, um, mine is at
+like 45, 50 (laughs). - Um, what about GPU? = Um, my GPU's kinda chilin'. Bounces between 10 and 20 percent. - Oh, I'm like pretty
+much always below 10. - [Linus] Interesting. - [Jake] 6 to 9 percent, huh. - Kay, everyone quiet, quiet. (phone ringing) Pick up Jake. Mine was too fast; it was too fast. - [Linus] I finished 15 seconds ago. - What? - Yeah, you heard me. - I still have four minutes remaining. - Yeah, you got rekt then, didn't you? - (laughs) - 12 minutes 42 seconds. - Ooh! For comparison, I'm at 14 minutes, and there's still three minutes remaining. - That's crazy. And the funny thing is, like yeah, it's got, you know, whatever
+80 percent more cores, but it's usage was so low. Like, it must just also be
+more efficient at encoding on a per core basis. - Well here, let me
+connect, let me connect to our existing one and
+see if it's even done yet because I bet you it's not. Yeah, okay, so our existing server which is running it right now, elapsed, so far it's been 18 and a half minutes, and there's 30 seconds left. So it looks like about a 19 minute encode. And then this one should
+be about 17 minutes. So there was a little improvement going from 7980XE to the 10980XE. But the 3970X just wipes
+the floor with them. - That's really impressive. So thanks for watching guys. If you enjoy these kinds of server videos, maybe check out our recent
+storage server upgrade, uh, deploying nuwonic. It was sort of a nightmare,
+but it was also a lot of fun. 

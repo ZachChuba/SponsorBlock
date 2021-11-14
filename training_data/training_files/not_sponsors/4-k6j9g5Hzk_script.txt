@@ -1,0 +1,231 @@
+Most games are made by development studios
+that have multiple people working on the same game and triple-A titles can even go into
+hundreds of developers, while small indie teams consist of at least two developers more
+often than not. However, it’s very rare to encounter a bigger
+sized game where every single part is made by only one person. This is exactly the case with Stardew Valley
+though since all the art, music, sound effects, dialogue and programming were done by Eric
+Barone, also known as ConcernedApe. In 2011 Eric graduated from the University
+of Washington Tacoma with a computer-science degree so afterwards he applied at a few places,
+did some interviews, but they never offered him the job. At that point he didn’t really know what
+to do next. Eric has always been into video games, drawing
+doodles, making music, and writing, but he hadn’t really considered combining all his
+hobbies to become an actual game developer. Now that he was looking for a job he decided
+to give it a shot and develop his first game. Eric figured he could get better at programming
+this way and improve his chances at scoring a job. Growing up he was encouraged by his father
+to play around with computers since his father was a technical, logical person himself. His mom on the other hand was more artistic
+and this gave Eric an insight into both worlds from an early age. In high school Eric kept himself busy playing
+guitar and even joined a couple of bands, while also making music on the computer. After school, he would work at a pretzel place
+where he would stand at a kiosk and draw little sketches. “I guess it's all just a lifetime of creating
+stuff. I've always just enjoyed making things, and
+in the process of doing that I learned a lot of skills.” He’s a huge fan of the farm simulation RPG
+series Harvest Moon so when Eric wanted to make a quick little game to get familiar with
+game development, he decided to create a Harvest Moon clone. “I liked that you could have relationships
+with the townsfolk and even get married and start a family. That was something you couldn't do in most
+games I played as a kid and it made the experience much more personal. That you were living in a world that felt
+alive, time moved forward with or without your input.” According to Eric however, the series became
+progressively worse after Back To Nature so he frequently searched for a fan-made or indie
+Harvest Moon clone, but he never found anything that satisfied him, which compelled Eric to
+try making one himself. Initially he was planning on releasing his
+fan-made project, back when it was still called Sprout Valley, on Xbox Live Indie Games since
+anyone was able to publish a game on that platform. Eric figured he would work on the project
+for a few months, release it and move on. Perhaps a few Harvest Moon fans would enjoy
+it and the game would look nice on his resume for future job prospects. However, once he started working on the game
+and his development skills improved, Eric started seeing more possibilities. He believed it could become a legitimate game
+and start his career as a real indie developer. Eric didn’t have a deliberate plan when
+working on Stardew Valley and would just follow his intuition when it came to expanding the
+game. He started with creating the player avatar
+and next he added a simple area that would later become the player’s farm. After that, Eric added the basic farming mechanics. Before he would add things like crops and
+minerals, he would do proper research on them to accurately match their behaviors and scarcities
+in the game. He applied this technique to the rest of the
+game: work on one part until it was about 80% done before he would add depth to it and
+move on to the next part. In September 2012 Eric, now 24 of age, publicly
+announced the game on Steam Greenlight to see if people would be interested in the concept
+behind Stardew Valley. The announcement was accompanied with the
+first official trailer. Eric had also set up a website to keep people
+updated on Stardew Valley’s progression. As mentioned before, he wanted to develop
+a Harvest Moon homage at first, but since he decided to expand the scope of the project,
+Eric saw an opportunity to improve on one of his favorite video game series. "The gameplay in Harvest Moon was usually
+fun, but I felt like no title in the series ever brought it all together in a perfect
+way. My idea with Stardew Valley was to address
+the problems I had with Harvest Moon, as well as create more 'purpose' with tried-and-true
+gameplay elements such as crafting and quests." In February 2013, a couple of months after
+the Steam Greenlight announcement, it was revealed that Stardew Valley would be published
+by Chucklefish, a development studio and publisher that specializes in retro-style games. Eric said that the offer came at just the
+right time, since he didn’t want to put the game on Steam Early Access. “It seemed like nearly every indie game
+was doing Early Access at the time. I wanted my game to stand out from the crowd,
+and I knew that many people were growing tired of paying for unfinished products. Furthermore, I felt that Early Access was
+better suited to very open-ended sandbox games, but was not ideal for a game like Stardew
+Valley.” The team at Chucklefish helped Eric with creating
+a brand new website, including a new, better forum system. In May 2013 Eric announced that Stardew Valley
+had been greenlit so now with the help from a publisher and Steam’s approval, nothing
+was holding Eric back from releasing his passion project once it was ready. Yet, it would take an additional three years
+before Stardew Valley would be released on Steam. Eric initially estimated that the game would
+be done somewhere before 2014, but in November 2013 he created a blogpost to let people know
+that he probably wasn’t going to hit that target. He explained that although the game was “mostly
+done”, there was still a lot that had to be finished before he was comfortable releasing
+Stardew Valley. He would rather focus on developing a polished
+feature rich game than a rushed quick release. The following years Eric would frequently
+blog about Stardew Valley’s progression, which kept people’s interest in the game
+and also allowed fans to provide feedback. While developing Stardew Valley was definitely
+Eric’s main focus, he still needed a way to earn some money to pay the bills. Therefore, he worked part-time as an usher
+at Seattle’s Paramount Theatre. Fortunately, he was able to live together
+with his girlfriend Amber, who was a plant biology graduate student. A perfect situation for someone who’s developing
+a farming simulator. During its entire development, the game went
+through quite a lot of changes. Eric’s game development skills would greatly
+improve over time, which is why he decided to redo some parts of the game several times
+over. The character art especially took some time
+before he was happy with it. “I put in thousands of hours on pixel art
+just to get better at it and better at it. I just persevered and forced myself to learn. You realize the thing that you thought was
+good actually isn’t. You realize why and you improve on it. And that’s just an endless cycle.” All the artwork was done in Paint.NET, a free
+raster graphics editor program for Microsoft Windows and all the programming was done in
+C# using the Microsoft XNA framework. Eric used the audio software called Reason
+by Reason Studios, formerly known as Propellerhead Software, to produce all the games’ music
+and sound effects. Eric was very excited that he was able to
+work on Stardew Valley as a solo developer. He enjoyed the total freedom to implement
+whatever idea came to his mind and enabled him to bring a cohesive vision to life. He also didn’t mind that he had to cover
+all the development aspects himself. “I also enjoy all the aspects of making
+a game: coding, drawing, making music, and writing…I would get bored doing just one
+thing all the time.” It was very important to Eric that Stardew
+Valley was as open and accessible as possible to a variety of players. “If you want to raise 300 rabbits, you can. If you want to invest in a huge field of crops
+with automated sprinkler systems, you can do that too. The gameplay is flexible and open.” Another improvement over the Harvest Moon
+series that Eric wanted to include was an endless stream of endgame content. He said that most Harvest Moon games end after
+two in-game years of farming, so he designed Stardew Valley in a way so that people can
+enjoy the game for as long as they want, even after many in-game years. Besides making the game as open as possible,
+Eric also aimed for a certain feel that he wanted the game to represent. A feel that was intrinsically tied to his
+own values in real life and those were sometimes more important to him than expanding gameplay
+mechanics. For instance, at one point during development,
+butchering animals was part of the gameplay. Stardew Valley allows you to raise farm animals
+that produce useful products for the player like eggs, milk and so on, but some beta testers
+requested the option to butcher the animals and collect their meat. Eric initially added the feature, but he eventually
+removed it again since it didn’t feel right to him. “I didn’t want to have that sort of violence. You give the animals names, pet them, and
+a little heart goes above their head and stuff, and then you butcher them? It just felt wrong. It didn’t jibe with the feeling I was going
+for with the game, so I cut that, and I don’t regret it.” While creating the world for Stardew Valley,
+Eric, an Auburn native, took some inspiration from the area he grew up in. Therefore, many items in the game are local
+to the Pacific Northwest, like salmonberries, ferns and chanterelles. “I’ve lived in the Pacific Northwest my
+whole life, so the feeling of this nature is deeply ingrained in me.” Eric has said that he wants the game to be
+fun, but to also have real-world messages. The story for example clearly illustrates
+the fight against capitalism and the importance of local communities. This is further emphasized by Stardew Valley’s
+many villagers that all have their unique identity and throughout the course of the
+game they all go about their daily schedules. Furthermore, the player is encouraged to interact
+with them by giving the villagers gifts so they can unlock more of their storylines. While for the most part the game has a general
+fun, uplifting theme, the villager’s individual storylines can get dark sometimes. “People struggle with personal issues and
+I wanted to portray that. I think it makes the characters a lot more
+relatable...not just these ideal abstractions of people that are sometimes found in games.” Eric wrote and rewrote hundreds of lines of
+dialogue for all the villagers which would take him several months of work. The villagers also have their own individual
+cutscenes which required extensive work and testing as well. Eric also considered what type of game he
+wanted Stardew Valley to be. He wanted to go in a more zen, slower-paced
+direction, since he’s not a fan of games that encourage more clicking than anything
+else. That’s the reason why the cooking mechanic
+for example is meant to heal more of your energy than regular uncooked products, as
+opposed to selling the cooked food for more gold. Eric wanted to avoid players feeling like
+they had to turn every ingredient into cooking to maximize their profits, which would just
+end up in the player clicking more buttons. According to Eric, a game like Stardew Valley
+is a lot more personal than a game made by a hundred people that’s some kind of focus-tested
+experience where they just want to make as much profit as possible. However, Eric kept his real life identity
+a secret for years and instead used his nickname ConcernedApe whenever he communicated about
+Stardew Valley’s progress on his blog. He later said in an interview that he’s
+an introvert and likes to keep to himself. “I think for me I've always been kind of
+a lonely guy, kind of a hermit. I keep to myself. I don't really have that many friends, I don't
+go out much. I'm an introvert. Art is a way to connect with other people. It's a way to communicate and for other people
+to see who I really am. I think everyone wants to feel like they belong
+or that they can connect with society in some way. This is just my way of doing that.” His hermit lifestyle and his immense dedication
+to Stardew Valley would eventually put strain on his relationship with Amber, who would
+often remind Eric to eat and relax by watching Star Trek together. His busy schedule allowed little room for
+anything else in his life. “When I’m deep into a project that’s
+consuming my entire life, that’s what makes me feel the best.” Not once during development did Eric ask anyone
+for help, not even on online forums. He taught everything he needed to know himself,
+since he hates asking people for help. He’s proud of that achievement and didn’t
+want to have a subconscious feeling of owing someone else credit for a specific part of
+the game. The huge responsibility of making a game all
+by yourself would take its toll sometimes, Eric admitted. “There were times during development that
+I didn't feel like working, that I even wanted to quit entirely." However, he never gave up and kept pushing
+to make his dream a reality. It was both passion and discipline that kept
+Eric going and he said it’s a lot easier to stay driven when you're doing your own
+project, knowing that there are no limits to how far you can go. When Eric didn’t feel like working he would
+just browse Reddit and procrastinate, but once he had an idea that he was really passionate
+about, Eric would work like crazy. He explained that during those moments he
+wanted to see that idea come to life as quickly as possible when it was still fresh in his
+mind. In April 2015 Eric addressed the game’s
+release date, since people were very eager to get their hands on it. "I've been working on Stardew Valley for years
+and I want it to be released as much as anyone. However, I'm not willing to do that until
+the game is not only complete, but also in a state I'm happy with. It simply could not be released in its current
+form... It's not a finished game yet. It's tantalizingly close to being a finished
+game, but it's also a huge project and I'm just one guy." In november 2015 he addressed the release
+date once again, saying he had spent the month of October trying to finish the singleplayer
+part. However, he also spoke about the multiplayer
+portion of the game and how there’s still work to be done on that front. People had suggested to release the single
+player version first and patch in the multiplayer later, but Eric mentioned that other developers
+had advised him to wait with the release until the game was completely finished. A month later however, Eric had changed his
+mind and addressed this in a new blogpost, saying it felt wrong to him to postpone the
+release when the single player portion was already fully completed. It’s always been important to him to get
+the game in the hands of the community as soon as possible. The months leading up to the game’s release
+would prove to be Eric’s biggest challenge yet and he almost gave up on the game entirely. “Imagine playing the same game, every day,
+for four and a half years. All day. I was just absolutely sick of it, I was bored. I didn’t even have an objective sense of
+if the game was good or not. In fact, I thought it was bad.” No one else was playing and testing Stardew
+Valley besides Eric and although his girlfriend would try out new builds of the game from
+time to time, she couldn’t give detailed feedback due to her lack of video game knowledge. Therefore, Eric was never really sure if the
+game was actually any fun to play or not and this pressure would build up more and more
+in the final weeks of development. “I had to prove that I wasn’t just crazy,
+that this wasn’t just a pipe dream, and that I was actually gonna follow through on
+it. That was really getting to me, psychologically,
+thinking about whether I was wasting my life, wasting my time.” Luckily, his confidence in the game came back
+when he decided to let other people playtest his game. A mutual contact at Chucklefish had introduced
+Eric to three Twitch streamers and he contacted them to play Stardew Valley. They helped Eric look for bugs and gave detailed
+feedback to further improve the game. Unfortunately, the day before release, disaster
+struck. Eric found a game-breaking bug and with only
+a few hours until the game’s release, he needed to fix it fast. “I stayed up very late in a panic to fix
+it. I was in a sort of daze the whole time. It was very stressful but also exhilarating.” The singleplayer version of the game was finally
+ready for release on February 26th, 2016. It first launched on Steam and was later ported
+to macOS, Linux, PS4, Xbox One, Nintendo Switch, PlayStation Vita, iOS and Android. In 2019, the game was even added to Tesla
+Arcade, a video game service that’s implemented in every Tesla car. Stardew Valley was very well received by both
+critics and gamers and scored an 89 on Metacritic, with many reviewers saying that the farming
+RPG provides a rich and seemingly endless gaming experience. As of January 2020, Stardew Valley has sold
+over 10 million copies across all available platforms, another testament to its overwhelming
+success. Eric was also named one of the top ten developers
+of 2016 by Gamasutra. “He ended up single-handedly developing
+something that breathed new life into a genre that had mostly been dominated by Harvest
+Moon since the '90s.” Furthermore, Forbes also named Eric one of
+their 30 under 30 in the games industry. Development didn’t slow down after its release
+and if anything it made Eric work even harder. He said that during the four years leading
+up to Stardew Valley’s release, he would work ten hours a day, seven days a week on
+average. After the release his average work day would
+increase to 15 hours a day. The first few weeks were especially busy for
+Eric since he was fixing bugs and releasing patches as fast as he possibly could, since
+it would affect Eric greatly when someone online was having problems with the game. After the first major update for Stardew Valley,
+Eric finally felt the need for some time off so in August of 2017 he went on a vacation
+with his girlfriend and some friends. They all went on a road trip where they visited
+many national parks and even the Grand Canyon. Over the years, Stardew Valley generated a
+very welcoming and friendly community and despite Eric being an introvert, he would
+respond as much as possible to fans to either troubleshoot problems with the game or just
+to answer questions. "My strategy with the community is simple:
+no strategy at all! I think that, as an indie developer, you should
+just be yourself and be a real human. I try to act online like I do in real life:
+treat everyone with respect and be as honest and straightforward as possible." When asked why Stardew Valley became such
+a huge success, Eric said that it maybe had something to do with indie games in general. He further explained that the special thing
+about indie is that it’s kind of a personal connection between the creator and the audience. Eric noted that it’s kind of rare that a
+game with the scope of Stardew Valley is made entirely by one person, which makes it even
+more personal and he thinks that’s what people are looking for in an indie game. “It's not some faceless corporation that
+is giving you a focus tested message or focus tested experience. It’s this raw connection between the creator
+and the audience. I think maybe people are ready for that sort
+of thing.” After releasing Stardew Valley, Eric got the
+opportunity to meet the father of the Harvest Moon series Yasuhiro Wada during an interview,
+which was a huge honor for Eric and a dream come true. He even left the interview with a signed copy
+of his old Harvest Moon SNES copy. Wada spoke very highly of Stardew Valley saying
+it carries on the legacy of the original Harvest Moon, because of the freedom you’re given. Looking back, Eric isn’t exactly sure how
+he pulled it off to make a huge game like Stardew Valley all on his own. "I'm not sure if there was any technique to
+it or if it was just a quirk of my brain chemistry. I did always have a ridiculous amount of faith
+in myself and in the game, and yet I knew that I was still a nobody and the only way
+I could change that was to work super hard. It does help if you can absolutely convince
+yourself that you're destined for greatness. It's not even an ego thing--it's just a way
+to prevent doubt and insecurity from hindering you." The 4 player co-op multiplayer portion was
+released on August 1st, 2018 for all PC platforms, thanks to the help of Chucklefish, who took
+care of the technical aspects relating to the online multiplayer. This way Eric was free to focus on creating
+more content for Stardew Valley which was added to the game as free updates and included
+things like new farm types, new house upgrades, new crops, new buildings, new relationship
+options, new quests and so on. With a new update on the horizon, it seems
+like Eric is still far from done with Stardew Valley. However, he said he’s already got ideas
+for future games that he’d like to explore after he’s done with Stardew Valley. Luckily for fans, Eric is open to the idea
+of letting those future games take place in the same universe as his farming simulator. Whatever the case may be, Eric Barone has
+a bright future ahead of him as an indie developer. “I want to create a collection of games
+during my career, so that when I’m on my deathbed I can look back and see that I created
+all these wonderful things that brought people joy.” 

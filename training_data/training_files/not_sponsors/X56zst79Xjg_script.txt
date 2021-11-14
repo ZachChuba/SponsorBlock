@@ -1,0 +1,165 @@
+Hello there! Lovely to meet you. I've been
+reading a lot about infinity lately and guys it is so cool. We all kind of have a
+concept of infinity, like something that goes on forever and ever and ever. If you
+try to count to the biggest number you can think of you can always add one more.
+The idea itself isn't that hard to grasp, but when you try to make it rigorous
+like mathematics likes to do that's where things get tricky. It turns out
+infinity comes in different sizes. This german guy named Georg Cantor found that
+there are different kinds of infinity and some are bigger than others. To
+understand this we actually need a lot of background information but the
+background information is really cool too. We'll start with Set Theory. A set is
+basically a group of things. This is a set of four dogs. This is a set of four
+forks. The number of things or elements in a set is called its cardinality, so
+these sets both have a cardinality of four. Now when two sets have the same
+cardinality they're said to be the same size. The size is defined in a bit of a
+strange way. The normal intuitive way to think about it would be to say that both
+of these sets have four elements, therefore they're the same size. This
+definition works well for finite sets but when we start dealing with infinite
+sets it isn't good enough. So same size is defined as the ability
+for the elements of both sets to be paired up with each other. You'll see why
+this is important... right now! Let's look at a set with infinite cardinality: the
+set of natural numbers. It starts at one or sometimes zero depending on what text
+book you're reading, and increases by one forever and ever and ever.
+This is totally allowed in set theory by the way, we're not breaking any rules. Now
+let's look at another infinite set: the set of squares of the natural numbers.
+Every element in the second set, the set of squares, can be paired to a number in
+the first set, the set of natural numbers. So then according to our definition
+they're the same size. But intuitively this feels wrong. There are so many more
+numbers in the set of natural numbers than the set of squares. Is one set
+bigger than the other? But they're both infinite... infinity is infinity, right?
+It was at this point that Georg Cantor came along to save the day. He thought a
+lot about infinities and actually legend has it that he thought about them so
+much that he drove himself insane, spending his last 20 years in and out of
+mental institutes. But here, we'll remember him for his amazing work on numbers. He
+introduced the idea of an infinitely enumerable set. This just means a set
+whose elements can be paired off with the natural numbers. The word typically
+used is "counted" because effectively that's what pairing things off with the
+natural numbers is, but that's kind of confusing because you can't really count
+all the natural numbers. You'd die around three billion. So some prefer to call it
+"listing" and I rather like this. Cantor declared that infinitely enumerable
+sets are all the same size. The set of natural numbers is obviously enumerable,
+as it can be paired off with the set of natural numbers. The set of squares is
+enumerable, as we showed before. So then it's the same size as the set of natural
+numbers. But are there some infinite sets that can't be listed? Are there different
+sizes of infinity? Cantor suspected there were. In particular he wondered
+about the relationship between the set of natural numbers and the set of real
+numbers. Okay we need to take a break from set theory to talk about number
+theory, but don't worry, it's just as fascinating. To understand Cantor's work
+we first need to understand the different types of numbers and their
+relationship to each other. We've already talked about the natural numbers, whole
+numbers from 1 or 0 to infinity. Then there are the integers. These are the
+natural numbers with the addition of the negatives. They increase all the way to
+infinity and decrease all the way to negative infinity. Then there are the rational
+numbers. These are just numbers that can be represented by a ratio of two
+integers. You might know them as fractions. All rational numbers can also
+be expressed as a decimal with their either being a finite number of decimal
+places or a repeating pattern. Then there are the irrational numbers, which can't
+be expressed as a ratio of two numbers. Root two is a common example and here's
+the proof of its irrationality if you're interested. I think it's pretty clever.
+If you express an irrational number as a decimal the digits keep going on forever
+and ever with no apparent pattern. They're also sometimes called surds
+which is actually from the word absurd because the ancient Greeks really didn't
+like them. According to legend Pythagoras'
+disciple Hippasus was the one who figured out that root 2 is irrational
+and to celebrate his finding the ancient Greeks threw him into the Mediterranean
+Sea, like, to drown. Yeah they didn't like irrationals. Then there are the
+algebraic numbers. These are just the numbers which are solutions to algebraic
+equations, you know, these things. They have one variable, usually x, and a series
+of terms that sum to 0, in this case, three. Negative 3 is a solution to this
+equation so it's an algebraic number. All integers
+and rational numbers are algebraic numbers, a lot of irrationals are too. So are
+there numbers that aren't solutions to any equation like this? Well yes there
+are. In fact two of the most famous numbers, pi and Euler's number e can't be
+calculated by any equation. These types of numbers have the coolest name of all:
+transcendental numbers, called so because they transcend the algebraic. All of the
+numbers I've talked about make up the real numbers. Here's a diagram to clarify
+things. There are also the imaginary numbers but they're not important here.
+Okay then now that we know about the reals and all of the numbers they're
+made of we can get back to infinity. Now Cantor wanted to know whether the set
+of real numbers was enumerable. That was, could every real number be paired off
+with a natural number just like the set of squares. Well let's take small steps
+shall, we but like not in a patronizing way... Can the set of integers be paired off
+with the natural numbers? This isn't the usual way one would write out the
+integers but if we keep going with this pattern we'll eventually write them all
+out, so yes the set of integers is infinitely enumerable. How about the set
+of rational numbers? Surprisingly they too are enumerable. If we write them out
+in this rather unconventional way we can see that with the first element, the
+numerator and denominator add up to 2. The next two elements have
+numerators and denominators that add up to 3.  The next three elements
+numerators and denominators add up to 4. A list that continues like this
+contains all the positive rational numbers. We can just include the negative
+rational numbers too if we alternate like we did with the integers. So then the set
+of rational numbers are enumerable. Cantor even proved that all the
+algebraic numbers are enumerable. So then what about the Reals, which
+encapsulate both the algebraic and the transcendental? In the same paper he
+proved that the real numbers are not enumerable, they are in fact a different
+kind of infinity, imaginatively called non-enumerable. Cantor was a huge fan of
+proof by contradiction and he had an inkling that the Reals were non-
+enumerable, so of course, he started the proof with the assumption that they are.
+Imagine that each of the real numbers is represented by an omega term, this
+funny looking w. So if we assume that they're enumerable we can pair them off
+with each of the natural numbers. Cantor showed that this list will always be
+incomplete. Pick any number, alpha and any larger number, beta, and mark them out on
+the real number line. This is just a list of real numbers marked out on a line. Now
+find the first real number on your list that is bigger than alpha and the first
+real number that's smaller than beta, we'll call them alpha prime and beta
+prime. Do this a couple more times. Now the thing is you'll always be able to
+find two more numbers between the last two numbers. Suppose you get stuck, where
+v indicates around a trillion prime marks, but a finite number. Now no matter
+how hard you search through the list of enumerated real numbers you can't find
+another one larger than alpha v and smaller than beta v, so then are there no
+more reals between them? Well what about alpha v + beta V on 2, the average? Your
+list is missing that number. And then what about all the numbers between alpha
+v and the average and beta v and the average? This could go on forever,
+it doesn't ever stop. There are an infinity of numbers between alpha and
+beta and between alpha v and beta v. This is called the infinity of the continuum
+and we can't pair it off with the natural numbers the way we could with
+the integers and the rationals. There are two types of infinities, the enumerable
+infinity of the natural numbers and the non enumerable infinity of the continuum.
+I really like this proof because I think it conveys the intuition really well but
+it is also pretty abstract, so there's another proof I want to show you too, you
+know, just for fun. It's called proof by diagonalization, or the diagonalization
+proof, or diagonalizing, it involves diagonals. Cantor again begins by
+assuming that you can number all the real numbers on a list. In fact he restricts it to just real numbers between 0 and 1. We can't really do this in
+order because the first number would be a point followed by an infinite amount
+of 0s with a 1 at the end, which would take an infinite amount of paper
+and ink to write, so let's just choose randomly. These numbers are pretty good.
+It's got a quarter, a third,  pi on 10, e on 10. It's infinite but is it complete? Nope,
+and this is how Cantor proved it. He went down the list in a diagonal fashion
+selecting the appropriate digit, for example the first digit of the first
+number, the second digit of the second number, the third digit of the third
+number and so on, and then he used them to create a new number. Then he added 1
+to every digit. Now is this new number on the original list? Well let's do a
+rigorous check. Is it the first number? No because the first digit of the first
+number is 1 and the first digit of the second number is 2. All right then is it
+the second number? Well no because the second digit of the second number is 5
+and the second digit of the new number is 6. It's not any of the numbers. We've
+found a number that isn't on the original list, so let's add it on. Now is
+the list complete? Well you can just repeat the process and find another
+number that wasn't on the list. By coming up with new digits in this
+diagonal fashion we can always find another number that isn't on the
+original list, therefore our list can never be complete. There are always
+numbers that aren't on it. It's impossible to list all the real numbers
+between 0 & 1, let alone 0 and infinity. Cantor also showed that not only are
+infinities different, some are infinitely bigger than others.
+The cardinality of an infinitely enumerable set is smaller than the
+cardinality of the continuum, but like, a lot smaller. But the only difference
+between the algebraic numbers which are enumerable and the Reals which aren't
+are the transcendental numbers. So what does that mean? It means that
+transcendental numbers make up pretty much all possible numbers! Now I want to
+wrap up with a quote from the book I got most of my information from. "As humans we
+value neatness order and patterns. We're interested only in numbers that have
+meaning to us. From counting farm animals we have invented the natural numbers,
+from measurement we have invented the rational numbers, and from higher
+mathematics we have invented the algebraic numbers. We have plucked all
+these numbers from the continuum while ignoring the vast depth in which they
+swim like microscopic bacteria in the ocean. Virtually every number is
+transcendental". I don't know I think that's pretty cool. I must say this was
+probably my favorite video to make because I found the topic so fascinating, but it
+was also rather difficult. There were a lot of subtleties which took a while to
+sink in. Reading through theory is one on screen and in the description. Thanks
+so much for watching guys! I know this video was pretty long but I physically
+could not not include stuff it was all so fascinating. It was actually a requested
+topic by one of my patrons Robert, hi Robert! I hope you enjoyed watching the
+video as much as I enjoyed creating it. A big thank you to all my patrons for your
+ongoing support and until next time, bye! 

@@ -1,0 +1,216 @@
+Hi. Yeah, I know what you're thinking, and   yeah, that is a human-pig
+hybrid in there, and yes,   I am trying to return it to a top-secret
+military experimental laboratory from   where it escaped. But the
+question that you should be   asking is, how could this freak of nature
+even exist? How do you make a human-pig?   This is Delta Bravo
+requesting an immediate evac, over.   Mixing cells from different
+species is nothing new. We've been   experimenting with making chimera
+since the 60s. Why you ask? Well,   not so much for stuff like that. The
+reasons are far less sinister.   Organs. In the US alone, one person is
+  added to the organ transplant list 
+every nine minutes with over a
+  hundred thousand people already on 
+that list, and sadly around 8,000
+  people die because they didn't make 
+it to the top of that list in time
+  or the right organ just never became 
+available. After all, you can't
+  just use any old organ, they need 
+to be disease-free and blood types
+  of donor and transplantee need to 
+be compatible, and donor organ
+  recipients have to take immunosuppressant 
+drugs to stop their immune
+  systems from rejecting any new 
+organ. Finding a way to mass-produce
+  healthy patient-specific organs 
+would be pretty good. Ethically
+  speaking, lab-grown organs are 
+probably the safest option, but cells
+  have to survive in Petri dishes 
+and be grown onto 3D printed
+  biodegradable polymer scaffolds, 
+which believe it or not, isn't as
+  easy as it sounds, and fully fledged 
+working organs are still a way
+  off. The good news is though, that 
+there might be a way to get around
+  all this faff and let stupid helpless 
+animals do all the work for us.
+  Thank God for them. In 1981, a 
+scientist at Cardiff University
+  discovered the first stem cells in 
+embryonic mice. These special cells
+  have the ability to develop into 
+any other cell in an animal, from
+  muscle cells to brain cells and 
+everything in between. Human cells
+  possess the same ability and can 
+develop into every single one of the
+  220 odd cell types in our bodies, 
+and it's for this reason that
+  they're used to repair various damaged 
+cells during cancer treatments.
+  But the potential for these cells 
+goes much further. In 2017,
+  scientists at the Salk Institute in 
+California made breakthroughs that
+  gives us a hint at the weird 
+and creepy future of organ
+  transplantation. In one 
+experiment, the team use CRISPR, a
+  gene-editing tool to hack into 
+mouse blastocysts, a structure
+  containing cells that later form an 
+embryo. There they deleted certain
+  genes that the mice need to grow 
+pancreases, the organ responsible for
+  producing insulin, the hormone that 
+controls blood sugar levels in all
+  mammals. The scientists took those 
+mice embryos and inserted rat stem
+  cells which contained an intact 
+pancreas gene. The modified embryos
+  were then implanted into surrogate 
+mouse mothers where they developed
+  normally, except for the fact that 
+each mouse was now growing a fully
+  working rat pancreas. The success 
+led the team to try and grow other
+  rat organs inside of mice, including 
+eyes and hearts. Incredibly, the
+  rat stem cells even made a 
+gallbladder, something that rats don't
+  normally have. It showed that the 
+developing mouse was able to unlock
+  a gallbladder developmental program 
+inside of the rat's cells that
+  would normally be suppressed in rat's 
+development. It highlighted the
+  importance of the host environment, 
+in this case, the mouse in
+  controlling organ development and 
+the evolutionary borders between
+  species. Armed with the knowledge 
+and insights that the team had
+  gained from their experiments,   they decided to take the next leap;
+growing human organs inside of an animal.   To make human-animal
+xenotransplantation possible,   we can't just rely on rats and mice.
+Growing organs that are the right size   for humans will obviously
+require something bigger   and something with a more comparable
+gestation period, and so, the team turned to pigs.   The plan in
+  principle was simple. Take a bunch 
+of human stem cells, stick them in
+  some pig embryos, and hope to hell 
+that things don't get too weird.
+  However, it was anything but simple. 
+Firstly, the team had to create a
+  number of human-induced pluripotent 
+stem cells or IPSCs. Unlike stem
+  cells harvested from embryos or 
+bone marrow, IPSCs originate from
+  somatic cells. Somatic cells are the 
+roughly 220 different cells that
+  make up each of the different 
+tissues in the human body. But using
+  IPSC technology, they can be 
+genetically reprogrammed to revert back
+  to their stem cell state. Once they 
+had these cells, they inserted
+  them into pig embryos and implanted 
+sows with those pig embryos,
+  experimenting along the way with stem 
+cells at different developmental
+  stages to see what worked best, and 
+after many, many tries, it worked.
+  Some embryos showed that the human 
+cells within were starting to
+  specialize and turn into tissue 
+precursors. Basically, these cells
+  were doing things that shouldn't 
+really happen outside of the human
+  body. Trial and error and 1,500 pig 
+embryos later, the team found that
+  the most successful stem cells were 
+those that were at the latter end
+  of the cells' developmental process. 
+In all, the team created 186
+  later stage chimeric embryos that 
+survived with an estimated 100,000
+  cells in each one. Whether those 
+embryos would have developed into
+  healthy animals with working human 
+organs is unknown as the team had
+  to terminate each embryo four weeks 
+due to ethical concerns. I mean,
+  you wouldn't want those cells 
+making their way into the brain and
+  creating a pig with human-like 
+consciousness, trapping the mind of a
+  human inside the body of a pig. Like 
+Donald Trump. Oh, no, wait. He's
+  a pig's mind trapped in the body 
+of a pig. Yeah. But science has a
+  history of breaking through barriers 
+and what at present might seem
+  ethically sacred, may well one day 
+feel like old school mentality.   It
+seems that this shift in   ethics may already be happening. In 2019,
+scientists in China inserted human   copies of the MCPH1 gene into
+rhesus monkeys. MCPH1 is thought   to be an important gene expressed
+during fetal brain development in   humans. By adding these genes to the
+monkeys, the scientists hope to increase   the monkeys' cognitive
+abilities in an effort to   study the evolutionary roots of
+intelligence. The study indicated   that some neuron activity had been
+altered and that the monkeys exhibited   better short-term memory.
+However, the results are   unclear. But what is clear is that this will
+unlikely be the last of these kind of experiments.   For example, human
+monkey hybrid brains are   potentially extremely valuable for modeling
+difficult brain diseases like alzheimer's.   But this is where we get
+into uncharted and truly unethical   territory. Animal experimentation
+is bad enough. But imagine the   horror of being an animal with even a
+small amount of human self-awareness,   kept prisoner in a tiny cage,
+being prodded and poked with needles   without the ability to vocalize
+your suffering but with an   understanding of the torture that
+approaches our own. But humanizing   animal brains aside, I do think
+that it's likely that we'll see human   organs being grown in animals in
+the not so distant future.   That has its own host of ethical and
+logistical dilemmas.   The ethical issues are pretty obvious, but maybe
+what's not so obvious are the logistical ones.   Such a massive medical
+advancement like this that   increases the average natural human
+lifetime is surely, only going to   increase the already widening
+divides in our own society. With   so many people living longer, the
+threat of overpopulation becomes   more real, putting even more strain
+on our already strained planet's resources.   I'm basically starting to
+think, this is a terrible idea.   This is Delta Bravo, do you read me?
+Over. Delta Bravo, we read you. Do   you have the asset contained? Over.
+I do, yes. The piggy is in the house   ready for evac. That's a negative
+Delta Bravo, we will shoot on sight. Over. What?   No. No, by the hair
+of my chiney chin, chin.   Come on piggy, it's time to go. The wolf's
+coming, he's going to blow your house down,   and your brains out. Come
+on piggy.   Come on. [Oink oink]   Surprise. David? Happy 50,000
+subscribers. Thanks, but a card would   have been fine. Well, yes, I did
+have one, but long story.   The chaps at the secret experimental
+laboratory thought that this would be   much more fun. Yeah. You do know
+they've been ordered to shoot you though?   Yes. It has got a little bit
+out of hand rather but I think I know   how to clear this whole silly
+mess up.   It's okay chaps, it's just me, 
+it's been a whole mix up. He's
+  got 50,000 subscribers.   Lost a good man. A good man.   How did it look?
+Yeah. Yeah? Yeah. Nice one man. Action.   Too much? Just enough? It's
+okay chaps, it's all been a big mix up,   it's just me. David, I
+wouldn't mate.   Which would normally be 
+suppressed. Is surely only
+  going to increase the already 
+widening society divide. Basically,
+  these cells were doing some. The 
+developing mouse was able to unlock a
+  gallbladder developmental 
+program inside of the rat stells.   Armed with
+the insight.   Armed with the knowledge. You 
+wouldn't want those cells
+  making their way to the brain and risk   creating some kind of pig with
+human-like consciousness.   Imagine that a pig trapped with a brain of a
+cow with a horse poof on their face.   Really? Yes. Great to know
+thanks, bye. We don't need that. Yeah,   that felt goo I should do one
+more, it's only fair. 

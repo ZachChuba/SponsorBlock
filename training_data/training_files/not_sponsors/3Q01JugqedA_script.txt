@@ -1,0 +1,107 @@
+Chances are you might have heard the news. Raspberry is releasing a new device, finally,
+we leave the 3 behind and play around with the Raspberry Pi 4. While I am sure many will be rushing to get
+their hands on the new device there is a bit of secret I have been keeping for the last
+few weeks. I have an early unit and that means that we
+get to explore it a bit early on this preview. Let's begin by what has changed, and who better
+to deliver the first explanation that Eben Upton, co-founder of the Raspberry Pi foundation,
+one of the original creators of Raspberry Pi and current CEO of Raspberry Pi trading. I interviewed Mr Upton when I visited Cambridge
+for checking out the Official Raspberry Pi Store and we ended up talking about a variety of
+topics that you might have caught if you have seen some of the previous Raspberry Pi centred
+videos. And at the end of that very interview he had
+an unexpected surprise for me: Oh, what's this? This is a Raspberry Pi 4! It's our next Raspberry Pi, do you want me
+to take you on a tour around the board? Ok, here we go. So, we got a new processor. This is a PCM2711. It's a successor of the 2837 that we used
+on our Raspberry pi 3, it's got a quad cortex A72 with 1 and a half gigahertz. It's, let's say, depending on your workload,
+I think three times the kind of- we've settled on- three times as powerful as the Raspberry
+Pi 3. We changed Memory Channel technology so now we
+can small up to 4 gigabytes of LPDDR4 memory. So we have, 1, 2 and 4 gigabyte skews of the
+product. We've retained the A2211AC Wi -fi from Raspberry
+Pi 3 Plus, so it's exactly the same chips that were there, I think we've picked up an
+upgrade to bluetooth 5 along the way, a software upgrade to bluetooth 5. Over this side of the board you'll notice
+the ethernet connector. It has moved up to the top of this edge, usually
+it's- on previous pi's the ethernet connector is down here, but this is a Gigabite ethernet
+connector that for the first time it has a full gigabite connector, so you can get your
+full- whatever 900 and some megabites a second of IP traffic for that. That's a dedicated link for the SSC so a bandwith
+isn't shared with anything else. On the end here, still 4 USB's, but you'll
+see two of them are now blue so two of these are USB-3's, two of these are USB 2's and
+these all come by this chip here which is a PCI-Express to USB chip that's all you'd
+typically find in a PC. Other changes on the bottom edge, I guess,
+we have a pair of HDMI, a pair of micro HDMI connectors so for the first time, this can
+drive like two displays simultaneously, we can drive 4K p60, we can decode 4K p60 if
+you see video, if you wanna drive two I think we can limit to 4K p30, just cause the memory
+bandwith is going to get horrific if you try to do dual 4K p60. And then on the side you'll see this has turned
+from a USB Micro B into a SPC connector so we can get a bit of more power in through-
+more power into the board, the main reason to get more power into the board is to get
+more power out of the board, so this improves the amount of power so they'll be able to
+deliver downstream to USB devices. The overall thermal budget for the platform
+is roughly the same from the Raspberry Pi 3 B Plus. So that's Raspberry Pi 4 and we hope you like
+it. Let's walk through some of those changes and
+what that could means. First is the expected improvement on CPU. While the improvement in performance that
+you are going to see jumping to the next generation will depend a lot on the workload and in the
+most extreme cases can appear several times more powerful. I decided to run a quick test with the Raspberry
+Pis I could find using sysbench both running on all 4 cores and then just in a single core. In both cases, you can see a very strong reduction
+in test times. Especially in the multicore test where times
+are cut on a third. Not bad for starters. On the connectivity front, the ethernet makes
+an interesting change. Previous versions of the Raspberry Pi had
+the ethernet speed limited by the slower USB 2.0 bus. Both the limit on USB speed and ethernet were
+probably a constant annoyance to the number of local network media centres
+powered by Pis out there. Since now the Pi 4 finally jumps to USB 3.0
+it is also able to do full Gigabit internet, which is likely to make a lot of those people
+really happy. Especially those trying to boot from USB or
+the network directly to a Pi. I do wonder why they shifted the position
+of USB ports and Ethernet, as it might break some of the older cases and accessories but
+on previous conversations with Mr. Upton he has mentioned how a lot of the detailed design
+of the Raspberry has to do with keeping within the budget, so I would not be surprised if
+this is a change in order to reduce cost. The power connector has changed from micro
+USB to USB type C. From what I understand the reason Raspberry Pi has used micro USB
+port for power until know for power is their easy availability. Thanks to widespread smartphone use these
+chargers and cables are everywhere. USB type C is a bit newer and a bit less omnipresent,
+but since it is starting to show on more and more mainstream devices
+they are likely cheap enough as connectors to work under the Pis tight cost budget. I do wonder if they will prove to be resistant
+enough for some of the messier projects out there, but the change seems for good reason,
+as it can allow it to use up to 3 Amps versus the 2.5 of micro USB. Getting more power in to output to more powers
+to accessories and this is likely a direct reaction to the way the community is using
+Pi. Even some of the most standard projects out
+there are getting ambitious with what they power using direct Pins or USB, the mini arcade
+that I put together powers the screen directly from a USB and now people are likely going
+to get more ambitious because of the next point. Dual screen capabilities! The Raspberry Pi 4 changes one full HDMI for
+versus two micro HDMIs. The male micro HDMI connectors can be... fragile
+at times and harder to find than regular HDMIs so once again a little convenience seems to
+have been sacrificed for a new feature which is... dual screen support! The Raspberry Pi can now do two screens! At once! Now the change to type C seemed like an obvious
+reaction to the needs of the community and a net positive. For the dual screen feature I am initially not super
+excited about, but will probably be useful for how often Pis are used to power kiosks
+of different kinds and I already could think of a couple of interesting
+games uses. I expect this change to generate some interesting
+discussion. If this is a net positive will depend on the
+things people come up with. We will see about that soon enough! An interesting point that I did not go into
+is the change in RAM. Changes in generations usually come with a
+gradual increase in memory but this generation does something a bit interesting. The folks from Raspberry Pi have been experimenting
+with the format and pricing on their microcomputers to adjust to the unexpected uses people have
+found to their devices, which has to lead to stuff like the crazy good and cheap Zero to the industry focused compute module. This time things take a turn with different
+models of the same device with more or less ram which I imagine is a response to the growing
+number of users doing much bigger and more complex projects. No longer is the main model only $35 The 1 GB version is still $35 but with extra
+RAM comes an increase in price, with 4 GB being the most expensive Raspberry Pi in a
+while. Although being realistic it is still like,
+less than a big game at release so I might be being overly dramatic. Still, at the end of the day, the option is
+there and this is going to depend very much on what people are going to do with these. Are we going to see some interesting projects
+that make use of all the extra memory to enable amazing stuff? Are there projects out there that were being
+limited specifically by the lack of memory of the Pi 3 B+? If that is the case, this might have been
+the correct decision. Now, since I have been fiddling around with
+what is basically the pre-release software I have been unable to compile most of the
+games and emulators I wanted to fully test this with due to some bugs. And that is why this is a preview. Now that the final version is out I will be
+working on that so keep an eye out. One of the reasons why I love Raspberry Pis
+is that they represent a fantastic snapshot of the technological capabilities of the industry
+at a specific place in time. Let me explain what I mean, old Nintendo designer
+Gunpei Yokoi, the father of the Gameboy had this fascination with ignoring bleeding edge technology for
+finding better uses of existing, cheap, well-understood technology. This is why the Gameboy seemed outdated compared
+to other handhelds but was much cheaper, had better battery life and was much more practical. And you can see the influence his philosophy
+had all the way up to modern Nintendo, and you can easily see how I find this interesting
+with my personal way of thinking about technology. In the same vein, the main Raspberry Pi computers
+are a fascinating representation of the cheapening cost of technology. No Raspberry Pi is really made from the latest
+tech available, but rather the things the industry understand and produces well
+enough that it can be made at very low costs. This combines with the effort of a team of
+people who are constantly looking for creative ways to pack more on this device while keeping
+the tight budget and while maintaining and providing an optimized open source operating system for it. Either way, the best part of the Raspberry
+Pi experience is the community effort and now that this device is out there in the world
+I am excited to see what it will be used for. I am personally very curious to see when RetroPie
+is going to be fully supported since I expect its extra power to allow for some rather ambitious emulation. This is likely going to be a future video
+topic so… you know what to do if you want to find out. And as always, thanks for watching. 

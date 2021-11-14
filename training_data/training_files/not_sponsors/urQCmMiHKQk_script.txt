@@ -1,0 +1,63 @@
+I recently received this question via email: Hey Henry, A while ago you did a video... called "What
+if the Earth were Hollow?" where you showed how long it would take to fall through the
+earth. I was simply wondering how that was even calculated since the force of gravity
+would constantly be changing due to the growing amount of mass above you. Peter Ok, so we've got a hole through the earth,
+and it goes from the north pole to the south pole – that way we don't have to worry about
+the Coriolis effect from the earth's spinning. There's also no air in the hole, otherwise
+you'd reach terminal velocity pretty quickly and your trip would be slow and boring. There
+are a few different ways to figure out how long it'll take for you to reach the other
+side. One is to jump in, but it'll be faster – and
+probably a greater chance of survival – if we calculate using math & physics. First, more simplifications: assume the earth
+is perfectly spherical and has the same density everywhere. It turns out that the gravitational
+attraction from any spherically symmetric object is the same as if all its mass were
+concentrated at the center of that object – the closer parts attract more than average,
+the far away parts attract less, but over the whole sphere it averages out. In a similar
+vein, if you're _inside_ a spherical shell, then the gravitational pulls from all the
+different parts cancel out and you experience zero effect from the shell. This means that, inside the earth, any parts
+that are farther away from the center than you are cancel out and have no effect – almost
+like they've been trimmed off and you're temporarily on the surface of a smaller, shaved earth.
+Since we assumed the same density everywhere, the shaved-earth's mass is simply proportional
+to its volume, which is proportional to its radius cubed. And because it's a sphere we
+get to pretend all that mass is actually concentrated at a single point in the middle. So how much does the shaved-earth-point pull
+on you? Well, the gravitational attraction between two objects is proportional to their
+masses but inversely proportional to the distance between them, squared, so we have to divide
+the mass of the shaved-earth by the square of the distance you are from the center – which
+is just the radius of the shaved earth. R cubed divided by r squared is r, so the force
+on you is simply F equals some constant stuff times r, your distance from the center. Essentially, as you fall the mass beneath
+you decreases, while the **average gravitational pull on you** from any bit of that mass increases,
+but the mass decreases **more than the average pull** of gravity increases. So as you approach the earth's center, you
+go faster and faster but the force pulling you towards the middle gets smaller and smaller.
+Exactly in the middle you experience zero net force because the earth is pulling you
+equally in all directions, though since you're going so fast you'll continue to speed towards
+the other side, gradually slowed by the now increasing force pulling you back towards
+the middle. F equals some constant stuff times distance. The exact same equation – some constant
+stuff times a distance – also describes a mass on a spring, or simple pendulum, or
+a cat in a parabola. And from studying _those_ equations we know that **the time taken by
+the moving object – whatever it is – to go from** one side to the other has a simple
+formula: pi times the square root of the mass divided by the "constant stuff". In the case
+of falling through the earth, your mass cancels out of the equation so we just need to put
+in numbers for the density of the earth and the gravitational constant to get the answer
+- 42 minutes to fall through the earth. This turns out to be exactly the same as the
+time it takes to fall _around_ the earth to the other side, and it's the number you'll
+find commonly mentioned on the internet. Even more surprising, the radius of the earth didn't
+factor into the time calculation – it predicts you'll take 42 minutes to fall through or
+orbit around to the other side of ANY sphere with the same density as the earth. But the earth isn't exactly the same density
+throughout – we know from seismology that the earth's core is much denser than its mantle
+and crust. So as you begin to fall, most of the mass is still below you, pulling, so the
+pull of gravity doesn't decrease as much as our simple model predicted. In fact, the force
+is actually pretty constant until about halfway to the center, at which point it starts quickly
+decreasing as more and more of the earth is "above" you. The calculations here are a bit more annoying
+because we have to piece together two different parts – the falling with constant acceleration
+part, which is easy, and the falling with decreasing gravity proportional to your radius
+part, which is the same thing we did before, except now you're starting out halfway to
+the middle of the earth with a speed of 17 thousand miles per hour, instead of on the
+surface with no speed. Once our mathemagical dust settles, we combine the two parts and
+multiply by two to get the total time back to the surface on the other side: 37 minutes. Of course, this is still just an approximation
+– slightly more realistic than before, but far from perfect. If you carefully piece together
+the time for a falling-through-the-earth trip based on a more detailed density profile of
+the earth, like maybe the Preliminary Reference Earth Model, you can can be even more precise
+– 38 minutes and 6 seconds from pole to pole. But either way, if instead of calculating
+you jumped into the hole at the start of this video, you still have a long ways to go before
+reaching the other side 
+of 
+the earth. Safe travels! 

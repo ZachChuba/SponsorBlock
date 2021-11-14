@@ -1,0 +1,74 @@
+This video is about bricks. Bricks come in all shapes and sizes and each
+of these has its own name. In the field of commercial architecture, a
+common choice is the Norman. The long, slender shape of this incorporates
+elegantly into modern architecture, while still maintaining its cost-effectiveness for
+large-scale projects. The brick with the best name of all, though,
+is a variant of the Norman—it’s called the Slim Jumbo Norman. With its unique long yet shallow sha… ok,
+that should be enough brick talk to get the feds of of my trail. There’s no way they’d sit through all
+of that. You see, the topic of this video, the real
+reason this skyscraper in Manhattan doesn’t have any windows, is a highly classified government
+secret—a secret we only know because of leaked NSA documents and investigative reporting. The skyscraper in question is known by two
+names: some call it The Long Lines Building, which is also what I call Newark airport,
+while others call it simply 33 Thomas Street. Now, I’m not going to reveal its exact address
+so no, “Florida Man Raids NSA Building After Watching Confusing, Unfunny YouTube Video,”
+headline ends up in the paper soon, but the building is in the Tribeca area of New York. It stands 550 feet or 170 meters tall, has
+29 stories and, just like Apple’s headquarters or a coffee shop in Brooklyn, has no windows
+at all. Until recently, not much was known about the
+building. The only real publicly available information
+was that it was built between 1969 and 1974 by AT&T, designed by an architect named John
+Carl Warnecke, and that it served as a telephone switchboard hub, mainly routing AT&T’s long-distance
+phone calls. It’s easy to forget now that everyone has
+a cell phone that they protect as if it’s their own child, but phones used to all be
+connected by physical cables—and landlines still are. For the whole system to work, the cables all
+have to connect to each other, and 33 Thomas Street is one of the places where that connection
+happens. 33 Thomas Street’s job is to change which
+cable is connected to which based on who is trying to call who. There used to be actual people who did this
+called telephone operators who would actually answer your call, ask who you wanted to talk
+to, and then switch the cable by hand, but after a while, we figured out that not only
+did everybody hate talking to strangers on the phone, but also that that system was incredibly
+inefficient, and so the telephone operators were replaced with machines, just like we
+all will be in 50 years. I mean, once bots learn to read Wikipedia
+pages quickly, use outdated memes, and write bad puns, it’s over for me. These phone switching machines require intense
+security and they have to run no matter what—after all, if the machines stop working, the phones
+stop working. Even in a disaster scenario, the machines
+need to stay operational—the only thing worse than an hurricane is a sharkicane, but
+the only other thing worse than a hurricane is an hurricane that knocks out the phone
+lines, so people can’t communicate and get help. That everything-proofness was the public justification
+for the lack of windows at 33 Thomas Street—the architect claimed he was told that he needed
+to design a building that could survive a nuclear blast and still keep the phones working. The only way to do that was to build it without
+windows, so that’s what they did. But recent reporting suggests that’s convenient
+for another reason. According to reporting from The Intercept,
+33 Thomas Street is much more than just an AT&T phone switching hub. With more efficient modern equipment, AT&T
+had some empty floors so they were kind enough to lease these out… to the NSA. It’s here where there’s an NSA surveillance
+site, used to tap into and monitor phone calls, faxes, satellite transmissions, and internet
+data. In 2013, an NSA subcontractor named Edward
+Snowden released a massive trove of classified documents revealing that the US had secretly
+been running several global surveillance programs. Believe it or not, back in 2013, the fact
+that the government was doing a bunch of sketchy, illegal surveillance was considered surprising
+news. Among the leaked documents there was frequent
+mention of a mysterious surveillance site called TITANPOINTE, but its location was so
+classified that even Snowden didn’t have access to it. In 2016, though, journalists were able to
+piece together a series of different clues in Snowden’s documents, combine it with
+their own reporting, and prove that 33 Thomas Street is, in fact, the mysterious TITANPOINTE. Here’s how: One document disclosed that
+TITANPOINTE was in New York City. Another said that the site was supervised
+by LITHIUM—which we know is the NSA’s codename for AT&T. Yet another said part of TITANPOINTE’s surveillance
+work was intercepting satellite communications and there’s only one place in New York City,
+run by AT&T, that has satellite ground stations—33 Thomas Street. You can even see its satellite dishes in the
+satellite imagery of its roof. There was other evidence too—for example,
+one document said that to get to TITANPOINTE, you should first head to the FBI’s New York
+office, which is only a block away from 33 Thomas Street. Plus, another document said that TITANPOINTE
+had several pieces of equipment that AT&T employees have confirmed are used at 33 Thomas
+Street, and of course, the final piece of evidence was that 33 Thomas Street is a freaking
+skyscraper that doesn’t have any windows, which is about as suspicious as a sign that
+says, “NORMAL BUILDING, NOT A SPY CENTER AT ALL JUST A TOTALLY NORMAL BUILDING, NOTHING
+TO SEE HERE.” Of course, if you want to build a massive,
+global surveillance network, you’re going to need a solid understand of computer science
+and there’s no better place to start learning exactly that than Brilliant. Computer Science is, of course, a daunting
+field and a lot of places will teach you individual coding languages without teaching you the
+principles linking them all together. Brilliant, however, focuses on those fundamentals
+teaching them in an approachable, intuitive way that really helps you understand how to
+use what you end up learning later on in advanced courses. Brilliant’s interactive computers science
+courses are just some of their many fantastic courses, so if you want to learn complex topics
+easily, it’s worth checking them out. To learn more about Brilliant, go to brilliant.org/hai
+and sign up for free, but then, the first 200 people that go to that link will also
+get 20% off the annual Premium subscription. 

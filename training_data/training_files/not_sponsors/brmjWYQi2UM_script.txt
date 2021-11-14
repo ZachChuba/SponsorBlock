@@ -1,0 +1,54 @@
+Black holes are very heavy astronomical objects
+(which gives them all sorts of cool behaviors and properties), but to make a black hole
+it takes more than just a lot of mass. It takes a lot of density, that is, a lot
+of mass crammed into a sufficiently small space. Precisely how much mass, or how small it needs
+to be crammed, will vary. Black hole formation is complicated, but there
+are essentially two possible paths: start with a fixed amount of matter and compress
+it smaller and smaller until it reaches the tipping point where it’s dense enough to
+become a black hole (this is how supernovas turn the core of supergiant stars into black
+holes), or keep adding matter to an existing object until it reaches the tipping point
+where it’s so big it becomes a black hole (for example, if two neutron stars merge they
+can form a black hole). You can do a very rough calculation of these
+tipping points yourself knowing just two things: the equation for what’s called the Schwarzschild
+radius of a black hole, and the equation for the mass of a spherical object. The Schwarzschild radius is the distance from
+the center of a black hole below which nothing, not even light, can escape ; you may have
+heard it called the “event horizon” and how big it is depends only on the black hole’s
+mass; The G and c squared here are constants that help convert from kilograms to meters,
+so the equation can also be written in SI units as 1.49*10^-27 times mass, but the important
+thing is that the heavier the black hole, the bigger the Schwarzschild radius. Schwarzschild, by the way, means “black
+shield” in German, which is bizarrely appropriate for the physicist after whom black hole event
+horizons are named! Now let’s blindly use this equation to start
+calculating Schwarzschild radii for other objects: the Schwarzschild radius of the sun
+is about , the Schwarzschild radius of the Earth is about 1 cm , and the Schwarzschild
+radius of a cat is about 0.01 yoctometers. What do these mean? Well, nothing, since the sun, the earth, and
+the cat aren’t black holes. Yet. In principle, any object that gets squeezed
+down to around the size of its Schwarzschild radius will become a black hole. It’s hard to imagine squeezing the whole
+earth until it literally becomes this big; but when supergiant stars die, their supernovae
+explosions are so powerful they can compress the star’s already-dense cores past their
+Schwarzschild tipping points to become black holes. But suppose you don’t have access to supernova-strength
+compression; you can instead make a black hole by adding more mass to your object. The equation you want is here: it describes
+how the mass of a spherical object is equal to the density of the material in question
+times the volume it takes up. Or, rearranged a little bit, it says that
+the radius of that sphere is proportional to the cube root of its mass. Now, the Schwarzschild radius of an object
+is proportional to its mass directly, no cube roots involved, so as an object’s mass increases,
+its Schwarzschild radius will increase much faster than its actual radius. Double the mass, double the Schwarzschild
+radius, but only 1.26 times the actual radius. Now, remember, the Schwarzschild radius starts
+off really really small and doesn’t really mean anything until the entire object can
+fit inside the Schwarzschild radius; but it’s mathematically guaranteed that straight lines
+eventually catch up to cube roots, so we just need to keep adding matter to the earth – eventually
+it will fit inside its own Schwarzschild radius and collapse into a black hole! For the Earth, which has the density of rock
+, this tipping point occurs at a size of around 140 million kilometers – basically the distance
+to the sun. Though to be honest rock definitely isn’t
+strong enough to sustain the pressure necessary and we’d probably collapse into a neutron
+star long before getting that big. As for neutron stars themselves, the tipping
+point numbers tell us that they will become black holes if they get bigger than about
+6 times the mass of the sun, and about 20km in size ! This is a simplified result from
+a simplified equation –I mean, neutron stars aren't constant density, for one–, but it's
+pretty darn close to both astronomical observations, and much more sophisticated theoretical predictions
+for the maximum possible mass (and size) of neutron stars. Only off by a factor of two or three. So to recap: if you want to turn your cat
+into a black hole, you have two options: either compress it down to a trillionth the size
+of an atomic nucleus, or cover it in a pile of other cats that reaches beyond the sun. You may have noticed I just said “beyond
+the sun”, not “almost to the sun” as was the case with the earth. That’s because cats aren’t as dense as
+rock, so they’ll have a different black hole tipping point – I challenge you to
+figure it out using the Schwarzschild radius and mass of a sphere equations and leave the
+answer in the comments. 

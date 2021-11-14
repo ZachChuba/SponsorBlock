@@ -1,0 +1,86 @@
+In 1974, a French train smashes through a
+speed record, exceeding 250 miles per hour. But this train is unlike any other before
+it. It doesn't have wheels. It hovers on a cushion of air, and because
+of that, it can travel efficiently at very high speeds. Maybe, you’ve never heard of hovertains,
+but by the 1970’s, they were seriously being considered as the solution to slow, antiquated
+railways which, in many countries were in decline. In the 1960’s, railways were in trouble. In developed countries, ridership was plummeting
+and railways were in decline. In Britain, some routes were still served
+by steam locomotives. And the public was beginning to view rail
+as slow and outdated. Trains now had to compete with newly built
+superhighways and intercity air travel. And even Japan’s newly introduced Bullet
+Train, a technical marvel for 1964, was initially only running at speeds of up to 130 miles
+an hour. Part of the problem was most rail lines in
+the developed world, were built a half century earlier, with their sharp twists and curves,
+they just weren't built for speed. But the trains also had a problem. And it had to do with the shape of their wheels. Train wheels are not perfectly cylindrical,
+they’re cone-like in shape. And this is what keeps them on their track,
+especially around curves. While the wheels also have flanges, these
+are really just a backup in case limits of that conical shape are exceed. The conical shape of train wheels is a brilliant
+innovation. But there’s a problem, and it's called Hunting
+Oscillation. At higher speeds, the cone-like shape causes
+a train to increasingly rock from side to side. The flanges start hitting the track, which
+increases resistance, making higher speeds inefficient and causing wear and damage. Given enough speed, Hunting Oscillation can
+even cause a train to derail itself, on a perfectly straight track. This meant that trains essentially had a speed
+limit built right into their basic design. So in the 1960’s, the thinking was that
+maybe it was time to get rid of wheels all together. The French have already built the Aerotrain. Designed to reduce the running friction problems of wheeled trains by doing away with the wheels. It’s called a hovertrain. By feeding high pressure air through lifting
+pads, the train would float on a cushion of air much like a hovercraft. The track would act merely as a guideway. Without the rolling resistance of wheels,
+a hovertrain promised efficiency and much higher speeds. And leading the way for this promising technology
+was a French engineer named Jean Bertin. By 1973, Bertin and his team had built a hovertrain
+that could carry 80 passengers. French officials and the media marveled at
+its combination of speed and smooth ride. Bertin called his designs Aerotrains. Over the years, he had worked tirelessly to
+develop several prototypes, proving the viability of the concept. With each success, he secured a healthy dose
+of government funding. The most advanced Aerotrain was powered by
+a turbofan. pretty much straight off an airliner. It produced over twelve thousand pounds of
+thrust. At the front, a 400 horse power gas-turbine
+supplied high-pressure air to hover this twenty tonne loaded train a quarter of an inch off
+its guideway. And the guideway, was essentially poured concrete. An Aerotrain could easily hover over imperfections. That meant that hovertrain lines were potentially
+easier to build than conventional rail and cheaper to maintain. On March 5, 1974, an Aerotrain proved it could
+travel at nearly two hundred and sixty miles per hour. And it might have gone even faster, had its
+test track had been longer. The success of Bertin’s prototypes led to
+plans for Aerotrain links throughout France. And just a couple months after the record
+breaking speed-run, a contract was signed to begin construction of the very first line. Outside of France, the world was also taking
+note. The British, who had invented the hovercraft,
+could see the enormous potential of hovertrain technology. They constructed their own hovertrain test
+track in 1970. And in some ways, Britain’s research into
+hovertrains was even more advanced. Their prototype, the RTV-31 Tracked Hovercraft
+was designed around another important innovation. The Linear Induction Motor. Although Bertin also experimented with Linear
+Induction Motors, most of his Aerotrains were fan or jet propelled. But a Linear Induction Motor is more efficient. Instead of the rotary movement of a conventional
+motor, it provides a linear force for forward movement. Without any of the noise or pollution of a
+turbofan running at ground level. The British were aiming to build a transportation
+system that could travel at two hundred and fifty miles per hour. The Americans, not ones to be outdone were
+also researching hovertrain technologies. In 1965, the High Speed Ground Transportation
+Act was passed. It was an effort to introduce faster rail
+to America. Funding was put towards developing new technologies
+and even licensing Bertin’s Aerotrain designs. Various hovertrain prototypes were developed,
+some powered by Linear Induction Motors, others by Jets. But the most developed prototype was the Urban
+Tracked Air Cushion Vehicle. With its sleek windowless cockpit and Blade
+Runner styling, it certainly looks fast. It was designed to operate in heavily travelled
+urban areas and had a top speed of about 150 miles per hour. The Tracked Air Cushion Vehicle was a fully
+developed prototype that underwent regular testing on its track in Pueblo, Colorado. At the start of the 1970’s, hovertrains
+looked poised to revolutionize rail. But just a few years later, not a single country
+was pursuing the technology. Ambitious plans for Aerotrain links throughout
+France never materialized. All that’s left today are the abandoned
+test tracks. A global recession in the 1970’s pressured
+governments to cut funding for ambitious transportation projects. And some critical technical challenges were
+never really worked out. At high speeds, hovertrains could travel more
+efficiently than conventional trains but at low speeds, they wouldn't stand a chance. But that’s not really why they failed. In the 1970’s, the first maglev train were
+already in development. They would use electromagnets to levitate
+over a guideway instead hovering using high pressure air. And so Maglevs promised even greater efficiency
+and speed over hovertrains. But Maglev’s also failed to revolutionize
+rail. After nearly four decades, there’s only
+a handful of them operating in the world. High speed rail today is still based largely
+on conventional wheeled trains. It turns out that the problems of railways
+were overcome not by one revolutionary leap forward, but by incremental improvements. Existing rail networks were modernized with
+sections of track that could handle higher speeds. New signaling technologies were developed
+along with more advanced suspensions. Precision machined wheels and yaw dampers
+allowed for train wheels with less cone angle. And that reduced the hunting oscillation problem. Instead of Aerotrains, the French invested
+in their high speed TGV rail service, which today routinely travels at 200 miles per hour. The British came up with unique solutions
+like a train that could tilt into corners and take sharp curves more quickly. The Americans, at least for the time being,
+mostly stuck with cars. Hovertrains or Maglevs or any other radical
+alternative to rail has to compete with nearly a million miles of rail line already in existence. With stations and infrastructure built-out
+in nearly every city in the world. Turns out, it's easier to adapt new ideas
+to the existing world than to have the world adapt to radical new ideas. Which is why incremental improvements often
+win out in the end. Although, there’s a new solution in the
+works. A train runs in a new kind of track. It’s actually a reduced pressure-tube, so
+there’s less friction and air resistance. Driven by linear induction motors and air
+compressors. It promises to travel at over 700 miles per
+hour. It's tube-like tracks could suspended or underground [voice fades out]. engaging experience. 

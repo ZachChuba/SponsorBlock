@@ -1,0 +1,186 @@
+So today in front of me I have a fully functional,
+clear, Nintendo Switch. All of the housing on the back and the front
+have been changed into clear plastic. Looks pretty sweet. There are a couple videos on YouTube showing
+kind of the same thing, but none of them are super detailed on how to accomplish this process. I'll be selling these kits down in the video
+description, right below this video. There are a couple different colors, not only
+clear, there's atomic purple, there's green, there's red...all of them transparent, which
+is exactly what we're trying to accomplish. Remember though, as with all of these projects,
+you attempt this at your own risk. I would say if you're serious about this,
+make sure you watch the video all the way through from start to finish to make sure
+it's something that you can actually accomplish. If you know what you're doing with a screw
+driver though, and you're good at organizing your screws, everything should come out fine. Let's get started. I'm going to start with the left joy-con since
+both joy-cons are slightly different. Then I'll show the right joy-con and end up
+with the console itself. At the end I'll have a successful, fully functioning,
+clear Nintendo Switch to play after I'm all done. This whole process took me about an hour to
+accomplish, so go slow and keep your screws organized. There are 4 tri-point screws along the back
+of the left joy-con. I'll have all the tools and stuff linked with
+the clear shells in the video description. Then the whole plastic back unsnaps from the
+front and folds open. Be careful not to stress those ribbon cables
+along the sides, if you rip those, your controllers will not doc or charge anymore. The 525 milliamp hour battery comes out next;
+no adhesive or anything holding it down. It just has it's own little plastic holder. There are two thin wires going down to the
+plug on the motherboard. I pulled mine out pretty gently because once
+again, this is a fragile process and I don't want to break anything. There are 3 more screws holding down the plastic
+battery holder, I'll unscrew those and unlatch the ribbon for the trigger button. Then I'll also disconnect the joy-con rail
+ribbons. Each of these have their own locking flap
+as well, but the latches are different for each ribbon, so watch out for that. Luckily there's only one screw holding the
+rail in place. So I'll remove that and set it off to the
+side, and pull out the little black latching button that allows the rails to disconnect
+from the switch body. While I have the button here, I'll toss it
+into the clear counterpart. It has a little notch on one side so it will
+only fit in the correct way. I'll set the joy-con rail into place along
+that same clear plastic piece, with it's one little screw. And we're done – with the first part anyway. Now the left trigger is a little bit of a
+pain to disconnect and even more so to reconnect, but I'll walk you through it. There's a little plastic pin that needs to
+be decompressed underneath the trigger so that it will let go of the black plastic. I'll press that in and then grab the trigger. There are 2 squirrelly little springs that
+are here that you're going to hate in a few seconds. So keep track of them for now. The electronic trigger switch is held down
+by one screw. I'll remove that and very gently transfer
+it over onto the clear counterpart. Remember, never bend, kink, or tear these
+ribbon cables; they are very fragile. There is one Phillips screw holding that button
+in place, and then I'll put the two little springs over the circular guiding pegs on
+either side of that tiny board, before trying to get the trigger button and top over them. The trigger has it's own pegs for the springs. It's tough to keep the spring straight and
+get the trigger clipped in at the same time. But, it's a good idea to make sure it's done
+correctly the first time so you won't have to come back and fix it later. It can be done. The rest of this joy-con body is pretty straightforward. The joystick is going to come out next. Pretty simple construction with two screws
+on either corner of the square body and then one little ribbon connector attached to the
+motherboard. This also has a black locking latch that needs
+to be lifted up before the joystick can come out. Up at the top of the board we have 3 more
+screws. These screws hold the boards tight for the
+top buttons. They'll come out as one piece after the ribbon
+cables detach from the larger motherboard below it. The top L button can come off at this point
+too. Notice that it also has a spring attached
+to it. This is easier to work with, but still, don't
+lose it. Grab the little minus button from the controller,
+along with it's inner rubber cushion and set those off to the side in an organized fashion. There are only two screws left holding this
+motherboard in place. Remove those and the motherboard comes loose. Now you can disconnect the rumble pack from
+the motherboard, but I found it easier to just leave it intact since it has a pretty
+fragile connector. I don't want to mess with it if I don't have
+to. The rumble pack has it's own adhesive and
+a pretty tight slot holding it in place, but my tweezers provide enough leverage to get
+it out. Now that the motherboard and vibrator are
+out, all the buttons can come loose. These little units are designed to only go
+in one hole, so don't worry too much about losing track of their orientation. As I set the arrow buttons into the clear
+housing, you can see that the little notches are in different shapes for each button. Clever construction on Nintendo's part. I could be using the colored buttons that
+come with the clear kit, but I prefer the gray ones personally. After the buttons are set in place, the button
+padding goes back on top. Same with the square button below it. And finally we get to start putting the beautiful
+looking electronics back into the clear plastic. The rumble pack tag goes in first since I
+left it attached to the motherboard. And the motherboard has those two screws holding
+it to the plastic. Remember, if you kept your screws organized,
+the assembly is super easy. Now I'm not really sure what this little black
+spacer is around the joy-con joystick, but I'm going to transfer it over anyway just
+in case it's important. The joystick itself can poke it's head through
+the clear plastic hole and then get the two screws holding it down on either corner before
+trying to get the ribbon cable plugged in. I'll make sure the latch is up so it can receive
+the ribbon and then tuck it in place, locking it back down again. There is an unfortunate lack of Lego connectors
+inside these things, but the ribbons work just fine. I just, you know, miss saying “Lego” sometimes. The top buttons get set into place along with
+the minus button. It's shaped in a way that will only let you
+set it in one direction, and then the smaller circuit boards get folded into their slots. I'll zoom in a bit here so you can see exactly
+how they're situated with those 3 screws. And finally, remember that spring you weren't
+supposed to lose? Get that situated on top with that L button,
+then we can attached the trigger and battery housing back over the motherboard, first getting
+the trigger ribbon clipped in. Just like with the rest of the ribbons, each
+of them will have their own little latch, including these side joy-con rails that we
+were working on earlier. It's really starting to come together now
+and looking pretty fantastic. The battery bracket has 3 of it's own screws. As long as you get the motherboard screws
+in the right spot previously, this won't be too big of a hassle. I'll use my plastic pry tool to clip in the
+battery. Metal is a bad idea when working with anything
+connected to power. Setting the battery in place allows me to
+close up the whole contraption, positioning the rails and trigger in a way that the whole
+thing can fold completely shut all the way around the outside. Get the 4 Y shaped screws back into the rear
+housing and it is one fantastic looking piece of hardware; it even works. At this time it would be a good idea to make
+sure all your buttons work before getting everything officially screwed in. Also keep that in mind as we start working
+with the right joy-con. This one has some special requirements to
+stay functional, but I'll walk you through those. The right joy-con has the same 4 Y screws
+on the back. I'll set those off to the side in an organized
+fashion, and then open it up like a little book making sure there is zero stress on those
+rail ribbons. After it's open I'll gently lift out the battery
+and then give a gentle pull on the connector so it will come away from the motherboard. The little antenna's the next thing to get
+out of the way. It's got one little circular connection like
+we've seen inside of a lot of cell phones. The battery bracket and right trigger is held
+in place by 3 Phillips head screws. Once those are out, the bracket can lift up
+and out of the way. It is kind of at a weird angle. This joy-con is built a little bit different
+than the other one, but I'm still able to lift the ribbon latch and free it from the
+controller. And since I have it out right now, I might
+as well make this section clear to stay organized. It's got the same little plastic niblets holding
+the trigger in place as the other joy-con. Once that trigger button has popped off, we
+see the same little electronic switch with it's one little Phillips head screw holding
+it in place. I'll pop that off and immediately transfer
+it over to the clear counterpart so that one little screw doesn't get lost. The two springs for the triggers are still
+here. I'll plop those in the little slots and gently
+line the trigger over the top of the springs. This is probably one of the trickiest parts
+of this project. Making sure the springs stay in their grooves
+while clipping in the trigger is like defeating the final boss in a video game. It is possible though. Back inside the right joy-con again, the rail
+does need to come off. I'll unlatch each of the two ribbon cables
+and then immediately transfer the rail onto the clear section. This part is the same as the other rail with
+the one little screw up top lifting off the rail and then transferring over the black
+latch button and reassembling the whole thing with the one little screw. Pretty simple process once it's lined up right. It should fit naturally without any force
+needed. The joystick is next on our list of things
+to remove. It's got one ribbon cable and then 2 Phillips
+head screws on either side of the joystick. I'll wiggle that out of the hole and then
+remove the two screws that are still in the motherboard. Now this motherboard is a bit more complex. It has two more ribbons at the bottom that
+we need to worry about, but once those are disconnected, I can lift the motherboard out
+along with the rumble motor. The infrared sensor at the bottom of the joy-con
+was one of those ribbons, along with whatever this square thing is; if you know, let me
+know in the comments. It's probably some kind of antenna. This joy-con also has a black buffer between
+the joystick and the front plastic. I'll move that over to the clear piece. It's got little tabs to help it line up in
+the correct spot. Then I'll start moving over some of the buttons. These are just like the other joy-con where
+they can only go in one particular location. And each button has a little rubber cushion
+over the top that allows it to decompress every time it's pressed. It's nice that they use rubber instead of
+something mechanical that might break – rubber lasts a lot longer. The last button to move over is a little plus
+sign up at the top of the controller, and it's little rubber shield. I'm going to continue using the original buttons
+from my switch, but there are always the colored options that you see at the top of the screen. To make things easier for myself, I'm going
+to connect the square looking ribbon cable and infrared sensors before tucking the motherboard
+back into the clear frame. Since these cables are a little short, it's
+easier to attach them first. The rumble motor is still attached as well,
+so I'll plop the whole dangle contraption into the clear plastic at the same time. At this point in the game I'm going to make
+sure all the buttons can be pressed and that none of them are obstructed. From this point on, if you screw anything
+in too tight, it might make the buttons unpushable, so we'll be checking that a few more times
+throughout the assembly. The joystick is in place with it's two screws. The ribbon cable is tucked in and latched
+down. The motherboard itself has two screws holding
+it in place. Once again, after those are tight I'll check
+the buttons to make sure they can still be pressed. If the buttons are stuck, I'll just loosen
+up the screws a bit. It's pretty easy. The joy-con rail is next with it's two ribbon
+cables latching onto the motherboard. And then the battery bracket and trigger button
+get plugged in. Flipping it around to sit on top of the motherboard. Before the screws can go in though, the right
+corner button needs to be slipped into place and then those three screws go into the plastic
+frame to hold it tight. Remember, too tight, and the exterior buttons
+stop working. So find that balance. I'll use my plastic pry tool to get the battery
+plugged in, and then set the battery back onto the holder, along with the little antenna
+gizmo. It has the little circular plug at the bottom. After it's plugged in, the antenna part just
+rests in a little slot next to the battery. Then the whole joy-con can be folded shut
+like a book, lined up and closed, and then the 4 Y screws go into the back panel. I think this controller looks pretty awesome. That black and copper colored antenna thing
+on the front is perfect for clear plastic. Both joy-cons are now clear and appear to
+be functioning perfectly. This thing is looking better and better by
+the minute. The last thing to clear-ify is the console
+itself. For this, I'll be turning the thing off and
+grabbing a Phillips screw driver to remove the bottom two screws next to the USB-C charger. Each of the side rails also need to be unscrewed. Now you might be able to get away with removing
+one center screw since that's all that's holding on the back plate. But I just removed all of them for kicks and
+giggles. Make sure you use the right sized head so
+the screws don't strip. There is one Phillips head screw at the top
+of the console as well that I'll remove, and then all the screws along the other side rail,
+keeping everything organized of course. It's good to put all the screws back in the
+same hole they came from, even if they look like they're the same size. There are 4 more screws going directly into
+the back panel. These are the same Nintendo Y shaped screws
+that we saw in the joy-cons. There's one tiny screw left under the kickstand,
+and then the whole back can lift off exposing the SD card slot, large silver metal plate,
+and processor fan that you'll be able to see through the new clear plastic. Luckily we don't need to go any deeper inside
+of the joy-con in this video. There are two things that need to be transferred
+over from the back. The game card slot protector and the kickstand
+hardware. The game card slot protector has just one
+screw, then lift the protector off and place it over on the clear back and then tighten
+the same screw down again. The kickstand has 3 screws of it's own and
+they'll attach directly to the new clear kickstand on the replacement housing. I'll make sure the kickstand works a few times
+before plopping the whole contraption back onto this switch again, getting it secured. We'll have two screws at the bottom of the
+switch, four screws at the back of the switch including the one little screws up at the
+top, and the little tiny guy under the kickstand. And the final step in this whole project are
+the screw into both side rails and you're done. Now I might be a bit biased, but I think this
+clear electronic thing is phenomenal. You get to see the technology at work inside
+the device we use every day. It's pretty incredible. I will have all of these kits linked down
+in the video description, so if you want to try this on your own switch, you can. There's clear, there are a couple different
+colors as well. I'll let you look and see what's in stock. Remember, this took me about an hour, so I
+would set about that much time or more so you can get it all done in one go. It's important to keep all of your screws
+organized. That's probably the biggest tip that I can
+give you. You might have noticed that I have a new shirt
+on. This is my buddy Moh from back in 1812. You could say that Moh is my bro. I'll have these shirts linked down in the
+video description as well, if you're interested in getting a couple of those. And I'll be down in the comments for a while
+answering questions about this project. Whether you're watching this video today or
+a year from now, go ahead and ask your question. Either I, or someone else who has done this
+project will answer it for you. Thanks a ton for watching, and I'll see you
+around. 

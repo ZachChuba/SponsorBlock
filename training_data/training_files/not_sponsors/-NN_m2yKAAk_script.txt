@@ -1,0 +1,83 @@
+In our universe, when you change from a non-moving
+perspective to a moving one, or vice versa, that change of perspective is represented
+by a what's called Lorentz transformation, which is a kind of squeeze-stretch rotation
+of spacetime that I've mechanically implemented with this spacetime globe. Two of the most famous implications of Lorentz
+transformations are phenomena called “length contraction” and “time dilation” – and
+while their names make them sound like they're two sides of the same coin, they're definitely
+not. We'll start with time dilation, which is easier
+to see – suppose I have a clock with me that ticks every two seconds. But if you're moving at a third the speed
+of light to my left, then from your perspective, the time coordinates at which my clock now
+ticks are slightly farther apart – according to you it takes about 2.12 seconds between
+each tick, instead of 2 seconds. Time literally is running slower for me relative
+to you, because Lorentz transformations, which represent how relative motion works in our
+universe, kind of stretch things out a bit. Likewise, if you have a clock with you that
+ticks every... 2.83 seconds, then from my perspective it
+will tick every 3 seconds. So both of us perceive each other's perception
+of time as running slow by the same factor – that is, relative motion causes our perception
+of the duration of time between events to become longer, or dilated - “time dilation”. If you're wondering how it can make sense
+that we both perceive each other's time as running slow, well, I have another whole video
+on that, but in short, it's because our respective worldlines (which correspond to our own time
+axes) are rotated relative to each other, and so we each only attribute a projection
+of the other person's worldlines' length as representing movement through time, and the
+rest as movement through space. The factor by which intervals are dilated
+depends on how fast we're moving relative to each other, v, and the expression looks
+like this – but it's really just saying “how much higher up in time is this point
+after a Lorentz transformation?” And if you plot the expression, you'll see
+that for slow speeds, relative time intervals are roughly equivalent, but the closer you
+are to light speed, the more relative perception of times becomes distorted. Length contraction, on the other hand, is
+a tad more complicated. First, we need something with length. Let's suppose we have a cat whose tail is
+at position 0 for all time, and whose head is 600 million meters to the right for all
+time (remember, each horizontal tick mark here represents 299,792,458m). So from my perspective, the cat is 600 million
+meters long. However, from your perspective moving at a
+third the speed of light to the left, the ends of the cat get stretched out from each
+other by the Lorentz transformation – which at first might seem like dilation of distance,
+not contraction. And this is indeed true – from your perspective,
+the distance between the cat's tail at my time t=6 and the cat's head at my time t=6
+is indeed longer: it's now 636 million meters (dilated by exact same factor as in time dilation). However, this dilated distance doesn't represent
+the length of the cat from your blue perspective, because these measurements of the positions
+of its head and tail no longer happen at the same time, and the cat moves in between when
+the measurements are taken - that's what having a slanted world line means - changing position
+as time passes, aka movement. And if something moves while you're measuring
+it, that measurement doesn't represent its length. So to correctly measure the length of the
+cat from your perspective, we need to measure the positions of its front and back at the
+same time according to your perspective. Which is this distance here, which is clearly
+shorter - 566 million meters. In fact, it turns out it's exactly the inverse
+factor from the other distance - instead of multiplying 600 million by 1.06, it's divided
+by 1.06. The same thing happens the other way, too:
+if you have a cat that's stationary in your perspective, then when I view it from my perspective,
+I'll measure its length (by measuring the head and tail at the same time, according
+to me), as being shorter. This is the phenomenon we call “length contraction”
+– the measured lengths of moving things are shorter than when those things are viewed
+as not moving. The precise factor by which lengths are contracted
+again depends on how fast we're moving relative to each other, v, and looks like this. And similar to the case of time dilation,
+the closer you are to light speed, the more relative perception of lengths becomes distorted. So let's recap: time dilation of moving objects
+is simply the direct effect of Lorentz transformations stretching consecutive time coordinates apart
+in time, while length contraction of moving objects is a combination of the stretching
+effect of lorentz transformations on spatial distances (which is kind of like a “distance
+dilation”) PLUS then changing the times at which we're comparing things because they
+were no longer simultaneous. This is what I meant when I said earlier that
+time dilation and length contraction aren't two sides of the same coin: time dilation
+compares the times of the same events in the new perspective, and it pairs with distance
+dilation, which compares the positions of the same events in the new perspective. Length contraction, in contrast, compares
+positions at the same time according to the new perspective. So you might be wondering, is there a time
+version of length contraction, then? Is “Time contraction” a thing? Yes, yes it is (though people almost never
+talk about it and it doesn't have an official name, but I think it's nice to complete the
+full picture. the one missing piece is to compare times
+at the same position): Let's imagine I've put a lightbulb at every point in space (even
+in between where I can attach them to the time globe) and I turn them all on simultaneously
+at one time, and then turn them off simultaneously a little bit later. From your moving perspective, any particular
+one of my lights will have its on-off time interval dilated, of course, but at any particular
+location in space (like, where you are), the duration of time between when the lights go
+on and when the lights go off will actually be shorter. Maybe it should be called “duration contraction”! So, to summarize, when changing to a moving
+perspective in our universe, there's both time dilation and length contraction, but
+there's also distance dilation and duraction contraction. These four ideas said aloud as words certainly
+sound super contradictory and impossible (I mean, how can the time be both shorter and
+longer?!), but if you have a spacetime globe it's easy to understand there are no paradoxes
+or contradictions – we simply need to be more careful with our ideas of distance and
+time intervals when applied to extended objects in spacetime: do we mean the time between
+two exact events (time dilation), or the time between the versions of those events that
+happen at the same place (duration contraction)? Do we mean the distance between two events
+regardless of when they happen (distance dilation), or the distance between the versions of those
+events that happen at the same time (length contraction)? This is subtle stuff, and words and equations
+by themselves make these concepts really really hard to keep straight; but a spacetime diagram
+doesn't lie. 

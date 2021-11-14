@@ -1,0 +1,75 @@
+Every modern computer, when you get
+right down to the bare metal, is doing basically the same sort of thing. I’ve said before that computers are just
+overgrown calculators, but how do you go from a simple calculator
+to playing video games, sending stuff over the internet, or even decompressing and displaying
+the millions of pixels in this video? In short, what’s your computer
+actually doing? Behind me is a scaled-up version of a computer, but we’re going to go much, much simpler. If you take apart your phone or PC, somewhere in the heart of it will a
+Central Processing Unit, or CPU, connected to all the other devices
+that make it work. Now, to show a really basic example,
+we’re not going to use all those devices. The first one we are going to use
+is the clock. With every tick of the clock, our CPU goes through a step in what’s called
+the “Fetch-Execute” cycle, or “Fetch-Decode-Execute”. This clock is slightly magic, in that it ticks (click) every time (click)
+I click my fingers. (click) (click) In the CPU I’m going to have three registers. These are bits of fast storage where the CPU
+holds values that it’s working on right now. These are: a register that keeps track of
+our instruction cycle, another that loads our instructions from memory, and an Accumulator. The final thing we need in our simplified
+computer is somewhere to keep the instructions and any values that we end up calculating. That is RAM, Random Access Memory. We call it Random Access because it
+doesn't matter when or in what order the information is read or written. So: that is our computer. Let’s run a simple program. All it’s going to do is count up. The processor has three steps:
+Fetch, Decode, Execute. It will just repeat those on a loop, that’s the one thing that’s
+actually built into it. So we need some instructions,
+actually in memory, so let’s load our program into RAM. The RAM is also used to store our answers, 
+our outputs. In the real world,
+these would all be stored in binary, but let’s not overcomplicate things right now,
+let's keep them human-readable. An instruction has two parts. The first part is the instruction itself. And the second part is usually
+a memory address. On each clock tick, the CPU will do
+one of three things: It will fetch an instruction from
+a memory address. It will decode that instruction. And it will execute the instruction. Round and round in a loop.
+So it’s going to count up. We're going to begin with a number, and add one to it, over and over again. (click) Fetch. One clock tick.
+The Program Counter is set to 0, so the CPU fetches the instruction at address
+0 in the memory and puts it into the instruction register. (click) Decode. The CPU decodes the instruction. The first part is the instruction, and the second part is a location. In our case, the instruction is LOAD
+and the address is 6. So we will be loading the value in
+address 6 into the accumulator. (click) Execute. The CPU executes this instruction. It takes the value at address 6, and loads it into the accumulator. In this case the value is 1. (click) Fetch. The program counter is incremented, and the CPU fetches the next instruction
+in the next bit of the memory. (click) Decode. The CPU decodes the instruction. This time, it’s ADD,
+and the address is 7. So we’ll be adding what’s at address 7
+into what is already in the accumulator. (click) Execute. The CPU executes the instruction.
+We add the value at address 7. In this case,
+it's the value 1. 1 + 1 is 2. (click) Fetch. From the next memory location, number 2. (click) Decode. An instruction to STORE the value in the accumulator
+into RAM, at address 6. (click) Execute. Now, notice that we are overwriting what’s
+already there, so address 6 now has 2 in it,
+instead of 1. (click) Fetch. A new instruction: JUMP. With a jump, the next address we fetch from is the one
+in this instruction. (click) Decode. So we’re going to jump to
+address number 1. (click) Execute. The Program Counter is now back at 1. The ability to jump, to loop, and to build
+instructions recursively is one of the foundations of computer science.
+So: we're back up there. (click) Fetch from location 1. (click) Decode. It's the ADD instruction again. (click) Execute. Our accumulator still contains the values
+from before, so: 2 + 1 = 3. (click) Fetch. (click) Decode. STORE again. (click) Execute. Storing it into location number 6. (click) Fetch. (click) Decode. (click) Execute. And we jump again. (click) Fetch. (click) Decode. (click) Execute.
+(click) Fetch. (click) Decode. (click) Execute. (continues clicking) We're in a loop,
+and we’re counting upwards by one on every sixth clock cycle.
+(stops clicking) Our program, with these simple instructions,
+doesn’t have a halt command, or any way to interrupt it, so it will just keep incrementing
+that value by one (many fast clicks) until the number becomes so large it can
+no longer be held by the memory address. How it breaks then… well, that’s a whole
+other video. (stops clicking) And my fingers are tired. This is a very fiddly way to program a computer. In theory, it can be 
+but at this level, these instructions are just encoded
+in raw binary data, which is basically unreadable for humans. So we can convert that base 2 binary
+to base 16, hexadecimal, at that level we call it machine code. The next step up from that is a symbolic language
+called Assembly, which is a bit more readable, but it’s still close to working at that
+bare metal. The original "Prince of Persia" game was completely
+programmed in assembly. That is almost unbelievable to me: painstakingly figuring out each pixel of animation
+and encoding it into something that the computer almost understands directly. Programming like that is complex, and hard, and prone to the sort of human error that
+introduces massive security problems. It is difficult to code and difficult to debug. So rather than dealing with the messiness, or, well, the pristine logic of machine code, higher-level languages were developed as an
+intermediary step. Those languages handle all of that memory
+reading and writing for us, so all we need to focus on is
+what we want the computer to do. So, here’s my code: just the same instructions,
+phrased a little bit differently, phrased for humans to be able
+to read. I specify a variable, X. I then write a function
+that loops forever, and each passing through that loop
+I increment X by 1. Once I've written that code, I then pass it
+to a compiler, which turns it into that
+original machine code for me. So when I run the program, it’s loaded into the computer's memory,
+and executed. If I want to run it on a completely different
+type of computer, a Mac instead of a PC, I can compile it for that CPU instead. But this still doesn’t answer the question
+of how the computer is doing something as complex as
+decompressing and displaying this video. The answer to that is: speed. At the speed I was clicking,
+at the end there, we were executing one instruction every couple
+of seconds on one thread, one bit of the system. A modern CPU executes billions of instructions
+per second – gigahertz – on multiple threads. But at the heart of your PC, or your phone, there is still just a ticking clock and 
+a fetch-execute cycle. 

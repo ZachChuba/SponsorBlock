@@ -1,0 +1,14 @@
+This episode has been supported by Weights
+& Biases. Weights & Biases provides tools to track your
+experiments in your deep learning projects. It is like a shared logbook for your team,
+and with this, you can compare your own experiment results, put them next to what your colleagues
+did and you can discuss your successes and failures much easier. It takes less than 5 minutes to set up and
+is being used by OpenAI, Toyota Research, Stanford and Berkeley. It was also used in this OpenAI project that
+you see here, which we covered earlier in the series. They reported that experiment tracking was
+crucial in this project and that this tool saved them quite a bit of time and money. If only I had access to such a tool during
+our last research project where I had to compare the performance of neural networks for months
+and months. Well, it turns out, I will be able to get
+access to these tools, because, get this, it’s free and will always be free for academics
+and open source projects. Make sure to visit them through wandb.com
+or just click the link in the video description and sign up for a free demo today. Our thanks to Weights & Biases for helping
+us make better videos for you. 
