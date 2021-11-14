@@ -52,6 +52,10 @@ for id in ids:
             #write sponsor to file
             with open("training_files/sponsors/"+id+'_sponsor.txt', 'w') as outfile:
                 outfile.write(sponsorship)
+            #write to file
+            with open("training_files/not_sponsors/"+id+'_script.txt', 'w') as writefile:
+                writefile.write(new_script)
+        break
     #catch exception as e
     except Exception as e:
         print(e)
