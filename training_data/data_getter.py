@@ -38,8 +38,6 @@ for id in ids:
             #write to file
             with open("training_files/not_sponsors/"+id+'_script.txt', 'w') as writefile:
                 writefile.write(new_script)
-            #remove sponsor from entire script
-            new_script = script.replace(sponsorship, "")
             #write sponsor to file
             with open("training_files/sponsors/"+id+'2_sponsor.txt', 'w') as outfile:
                 outfile.write(sponsorship)
