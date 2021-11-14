@@ -23,8 +23,8 @@ for id in ids:
         sponsorship = ""
         for line in jso_list:
             #if line["start"] is in range of starttime and endtime
-            if math.trunc(line["start"]) >= math.trunc(float(starttime)):
-                if math.trunc(line["start"]+line["duration"]) <= math.trunc(float(endtime)):
+            if int(math.trunc(line["start"])) >= int(math.trunc(float(starttime))):
+                if int(math.trunc(line["start"]+line["duration"])) <= int(math.trunc(float(endtime))):
                     sponsorship += line["text"]
                     continue
         
