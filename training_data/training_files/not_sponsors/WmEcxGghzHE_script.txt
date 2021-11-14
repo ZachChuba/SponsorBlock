@@ -1,0 +1,129 @@
+- What's up everybody? Peter McKinnon here and
+today we're talking about how you can take photos
+that you've already taken and animate them within Photoshop, bringing them to life,
+making them almost 3D-like. It's super awesome, it's
+a little bit trippy, and it's actually really easy to do. So, pwah, let's go! (rock music) Welcome back, everybody, Monday morning, to another tutorial. I'm excited about this one,
+this one is super cool. Now, I'll be the first to say this isn't something I invented, I didn't create this method,
+this has been done before, it's been done by so many people, it's been taught by so many people. It's a very popular effect
+to apply to your photographs. It's called the 2.5D Parallex effect. Now, before you think,
+"ah, this sounds confusing, "I don't know if I'm gonna like it," or if you think, "ah, I
+already know how to do that", here's the thing: there's so many ways to do the same thing within this industry. There's hard ways to do it,
+there's fast ways to do it, there's easy ways to do it,
+but there's so many roads to the same finish line,
+and that's what's amazing. So today we're gonna focus
+on the easier method. Now, the convoluted method was, would be using After Effects, and it gets a little complicated, but I think easing you guys into this and starting you off a little bit smaller, more of like an understanding
+of what it is that we're doing and how the animation works,
+and how key frames work, and stuff like that, is gonna help you when we get to the more
+complicated version, which is using After
+Effects, in my opinion. Okay, so, what is this, how,
+what are we doing right here? So check out this image: here's a picture of me standing
+in front of Lake Louise, just checking it out. Now, when you're including images in video people really only do a few things: they either zoom that image out slowly, maybe zoom it in slowly,
+maybe pan left to right, that Ken Burns jazz effect,
+you know, you've seen it. But you don't really see anything else. So, how do we edit
+videos and include photos in those videos but make it more exciting? So you can do something like this. Here's that same photo
+but now the foreground is moving at a different pace and transforming at a different size than the background,
+which is also transforming and moving at its own pace and size. So you see that weird,
+trippy, it's not 3D, but it's like almost 3D, that 2.5D. Here's another example. This was a couple hours
+later, a storm broke out. You got those mountains moving, you got the water expanding
+at a different rate, which almost makes it
+look like it's moving. It's just a really
+cool, clever, unique way to display your
+photographs within a video. Now you can post this on Facebook too, you can post these on Instagram. They don't have to be included within another video like this. But this is a great way to display and showcase your images within a video that's not just that classic
+pan, zoom, nah, whatever. Super easy to do, not
+as hard as you think, and the best part is it uses images that you've already taken. All right, now bef ... why did I, why am I always doing this? It's like I'm (whimpers). Before we jump into Photoshop, it's important that you pick the right image to do this with. An image with a very clear
+foreground and background is going to be easiest. I used this Lake Louise picture because my body's the focal
+point and the background is all bokeh, or "bo-kay", I guess, I don't even know, how do you
+guys say that, by the way? I've always said "boca",
+then I hear "bo-kay" and I'm like, hmmm? But the background is
+that nice blurred effect, it's all blown out, the
+foreground's very very clear, so it's gonna make it easy to cut out. If you've got a photo like this where it's a little more busy and there's different things to cut out, and focus is kind of all over the place, it's gonna be a little
+more of a challenge. There's not a very distinctive
+background to foreground. So it's important that you get an image that's gonna make it a
+little easier on you. So grab that image, open up Photoshop, and let's animate some photos. Alright, once you have selected a photo that you are happy with to animate, bring that into Photoshop
+and then head over here to the left side, select the pen tool, and then just choose an
+area on the photo to start, zoom in, you can hit command
+plus on your keyboard to zoom in there, and I am gonna start right over here on top
+of my head with my hat. And literally at this point
+you're just making your way around the whole shape, whatever it is that you're cutting out in the foreground, just take your time, be slow with it, don't worry, it takes a little while. But the neater that you do this the better the outcome's gonna be. You don't wanna go into
+the background at all, you wanna try and stay
+as close and perfect, true to that edge as you can. If you need to move down the screen while you're making these anchor points you can hold the space bar
+and that opens a little hand, and you can just drag
+anywhere you want on the image to get some more room, and then
+continue making your points. If you wanna curve one of those points just select a bigger distance in between. Click once, the second
+one you drag like this, and then you finish off that tail end by holding option and
+adjust it back to its track, so you're back on track
+essentially making those points. Again, space bar to move this down, bigger points here because
+the arm is a little larger, there's not as many curves. Slowly making our way down here. And let's go ahead and speed this up so you guys don't have to watch for the next 10 minutes
+me making anchor points. (mellow music) Okay, when you get close
+to that first point you started with, click on it, and then what you're
+gonna do is right click after you've joined that. You're gonna chose make selection. Change the feather
+radius to like one pixel is what I like to have, I
+think it's a good safe spot is around one, and then hit okay. Now what you wanna do is
+you want to copy this, so command C on your keyboard, then come down here to
+the new layers panel and you're gonna select a new layer, and you're just gonna paste
+that on with command V. Alright, so, make sure you're
+on the background layer, command click on the top layer you made to load the selection, still
+on the background layer, then hit shift delete, that
+opens up the content-aware fill. Select content-aware, hit
+okay, and what that's gonna do is it's gonna fill in the
+background on that bottom layer so if you hide the top, here you go, look, we're gone, boop! Now, you could pretty much, you
+could be done at this point. It's a little bit sloppy,
+you don't have to go in, but what I like to do is
+actually his S on the keyboard, which gives you your clone stamp, and then I just like to go through, you use alt as the target
+and you pick a spot like right there, alt, click, and then it's gonna clone stamp the area. Now I do this pretty fast,
+just a quick and dirty job. You don't have to do this but I feel like it just tightens it up a little bit, it makes it a little bit
+better for that final edit. It's one less thing to maybe show up as an imperfection when I'm
+putting these in my videos or uploading them to social
+media, anything like that. So I just clone stamp around, try to get rid of that hard
+edge outline like right here. Again, you hold down alt, it
+brings up a little target, you click the area you want to clone and then you click normally
+and it stamps that area in. There's the target, click,
+target, click, target, click. So on and so forth. Alright, once you are finished and happy head over to new, select new document and we're gonna make that the same size as our files in premiers,
+we're gonna go ahead and make that width 1920 by 1080. And then change the resolution to 72 because we're not printing
+this, so there you go, boom. Now, grab that other document you opened, pull it into the window so that
+you can see the two layers, select them both and drag
+them into the new document you just made, the 1920x1080. So if we hit command T on our keyboard we can see the full size of that. You can hold shift and
+drag that down so it fits, scale to size, I just like to make it right about there, perfect. Hit enter once you're happy,
+a little bit more, enter. So go ahead and right
+click on these layers, layer three, create,
+convert to smart object, and you're gonna do that
+for the background as well, convert to smart object. Lets you scale the image
+without losing any quality. You're gonna go up to
+window and choose timeline and, wait for it, boom. Create video timeline and (gasps) we now have a video
+editor within Photoshop. So to speak (chuckles). Go ahead and drop down layer three, make sure that play
+head's at the beginning, and then what you wanna do is
+click the transform stopwatch which makes a key frame, all right? Grub that to the very end, command T, and then just change
+the foreground subject to whatever size you want. So let's scale it down to here,
+let's move back to center. Now that makes a key frame,
+so when we drag this back and hit play, you can see it animating from the size it was to
+the size we just made it. Now we do the same thing
+with the background. We drop down that layer,
+hit transform stopwatch which gives us a key frame,
+and then what we're gonna do is we're gonna make that
+command T one more time, so we're gonna drag this to the end, hit command T to bring up that size. We're gonna scale up the background. So the background's moving up and the foreground's moving down, so it's gonna give us this trippy weird Parallax kind of dolly zoom effect. Now if we scroll all the way back to the beginning and
+hit play, that looks crazy. Might be going a little bit too fast. No worries, you can easily
+make that adjustment by keeping that play head at the end. Command T again, and what we'll do is we'll just scale that up so that the zoom isn't happening as fast. So it's just less zoom over
+the same amount of time, so then, now when we play that you can see it looks a lot slower, looks a lot better. Now we could probably do the same thing with the top layer, just
+make it a little more subtle. So like I said, you
+click on that key frame. You can delete it if you want, command T, and we'll just start over
+by just scaling that down. That's enough, that's
+probably good right there, which makes your key frame. Now when we hit play, very very subtle but looks a lot better, it
+looks a little more trippy, a little less amateur when it's subtle, slight, intentional movements. Alright, so when you're happy with that hit file, go down to export
+and choose render video. You can go over here,
+there's a YouTube preset, but it has it at 29.97. My timelines are usually 23.97, so I'm gonna change that
+right here, the frame rate. I'm gonna name this too: LakeLouise1. Save to the desktop, hit render, and you just wait it out, good to go. (mellow music) So that's it for me, guys,
+I hope you liked this video. The best part about it for me is that now you can go back through
+your entire catalogue or your library, and you're gonna start looking at your photos in a new
+way that you haven't before. 'Cause now you're gonna look at them trying to find those things
+that are gonna stand out as animations for this 2.5D effect, which is super cool 'cause
+you get to go through your stuff again and be like,
+(gasps) "that would be great!" Try it out, post it on
+Facebook, Instagram, throw it in your videos, whatever. I hope you guys get some use out of it. So hit that like button
+if you liked this video, smash it if you so desire, 'cause I don't even really know what that means but they really do need a smash button. Subscribe if you aren't already, and, and, see you guys tomorrow. You guys know I have a little
+monitor right here, right? Like I watch, I watch to
+make sure I'm in focus and stuff like that,
+but in the background, where is it, this side, this side? Right there, that's my Chemex
+that I make my coffee in, and it's empty, and
+throughout this tutorial I just kept looking back
+and forth at the Chemex, thinking, that needs to be full. And to think I've only
+had one cup today, woo! What's it gonna be like when I have two? I almost feel bad for everybody I know. Almost is the key word there (chuckles). 

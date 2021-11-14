@@ -1,0 +1,89 @@
+The modern world works in video: from news
+reports to education, reaction gifs and just laughing at people injuring themselves. And all of that is really thanks to just one
+company. That’s why today we’ll be going a little
+meta by looking at our mysterious overlord: YouTube. Build beautiful websites easily and affordably
+by signing up with the link below. Like the founders of several other big tech
+companies, the creators of YouTube met while working at Paypal, back when Elon Musk was
+still calling the shots. In October 2002, when eBay acquired PayPal
+for $1.5 billion, Chad Hurley, Steve Chen, and Jawed Karim became instant millionaires. This was especially important for the latter
+two, because they had both dropped out of college just before graduating. Chad Hurley was a designer, so he quit PayPal
+to work on a few projects like designing bags and working on a feature film. Jawed Karim actually finished his degree online,
+while Steve Chen stuck around at PayPal for a few more years. The three remained friends, however, and met
+up frequently to discuss ideas for their own company. The actual spark that inspired YouTube is
+a different story, depending on which founder you talk too. It was either because they couldn’t send
+large videos, or because they couldn’t find footage of Janet Jackson’s famous wardrobe
+malfunction. Their first ideas for the platform though,
+were actually a bit different. Like Mark Zuckerberg, they were big fans of
+a website called HotOrNot.com, where you could rate people’s appearance. They imagined a site where members would put
+up a kind of dating profile video, talking about who they were and the kind of person
+they were looking for. But pretty soon they dropped the idea, in
+favor of a more universal platform. The domain youtube.com was activated on 14th
+February, 2005 and just two months later Jawed Karim uploaded the first ever YouTube video:
+him in the zoo. By May 2005, the YouTube website was up and
+running, and appropriately featured videos of Chen’s cat. Suffice to say, YouTube was a success from
+the very beginning. Much like PayPal, it’s beauty was in its
+simplicity. In contrast with competing services, one of
+which was Google’s, uploading a Youtube video was free and you could upload as many
+as you wanted, as long as they weren’t too big. But with no way to profit from their service,
+YouTube was burning money fast. Luckily, the PayPal mafia was here to help,
+with former CFO Roelof Botha investing $3.5 million in seed funding, around September
+2005. This investment was vital as the site needed
+time to grow and to establish itself before monetizing. By November 2005 YouTube was hands-down the
+biggest video platform, serving 2 million videos per day. Server costs were becoming so massive that
+YouTube ran out of money less than six months later, causing Sequoia Capital to injected
+another $8 million. At the time, YouTube’s biggest problem was
+licensing, but movie studios and record labels, quickly saw the benefit from short clips being
+shared among users, as the first viral videos began to appear. By October 2006 it was clear that YouTube
+was the winner in the video platform race, but Google wasn’t ready to give up just
+yet. Instead, they put down 3% of the entire company’s
+value on the table, which persuaded Hurley, Chen and Karim to sell YouTube. Outsiders thought that Google had paid way
+too much, spending over $1.5 billion for a website that hadn’t made a single dime. But Google was confident it had made the right
+decision, and the synergies between the two companies were truly exceptional. Google’s army of lawyers quickly settled
+the majority of YouTube’s legal troubles and even resulted in profitable deals being
+signed with the likes of Sony, Lionsgate, and MGM. With Google capital, YouTube also developed
+an automated copyright system, Content ID, which could reliably detect copyrighted content
+as soon as a new video was uploaded. By utilizing Google’s vast server farms,
+YouTube could also reduce their hosting costs, which were already approaching $2 million
+per day. But the ultimate benefit, was the integration
+between YouTube’s video platform and Google’s advertising arm, AdSense. One of the reasons behind Google’s success
+as an advertising platform was its access to immense amounts of information, which YouTube
+could provide in spades. YouTube’s main problem, on the other hand,
+was a lack of monetization, which AdSense easily solved. By showing ads next to videos, YouTube finally
+started generating revenue, but despite that it has never made a profit. By 2009 YouTube was showing 5 billion videos
+every month, earning way less from ads than they spent on hosting. As a consequence, that year YouTube lost $470
+million dollars. But that didn’t really matter, because YouTube’s
+true value for Google is the information it has about its users: what you watch, what
+you like, what you comment. In a way, YouTube is profitable, it’s just
+that a big chunk of its value isn’t easy to determine. Of course, the ultimate goal for YouTube is
+to replace television, and to do that YouTube needed to be more than just an archive of
+TV clips and cat videos. It was in their interest to promote original
+content and to that end in 2011, they partnered with numerous celebrities and production companies
+to create unique, high-quality content. After a $300 million investment, in March
+2013 YouTube was ready for the next step in its master plan: moving towards a subscription
+model. The first iteration was called Music Key,
+which allowed you to stream music without ads for a monthly fee. In October 2015 it was incorporated into YouTube
+Red, which removed ads across the whole platform and gave access to exclusive content. The adoption rate for YouTube Red isn’t
+particularly spectacular. By the end of 2016, it had only 1.5 million
+subscribers. And it does make sense: in the age of Adblock
+it’s hard to get people to pay for something they’ve been getting free for years. Speaking of Adblock, it would only be fair
+to discuss the recent trouble YouTube has had with its advertisers, better known as
+the Adpocalypse. In short, the Wall Street Journal ran an article
+about how ads were being shown next extremist content, particularly attacking the biggest
+YouTuber out there, PewDiePie. Big advertisers got worried this could become
+a public relations crisis, so they stopped spending money on YouTube. Of course, YouTube need those advertisers
+to keep the platform running, so they introduced options for what kind of videos brands don’t
+want their ads to be shown on. These categories include “tragedy and conflict”
+and “sensitive social issues”, both of which are pretty open to interpretation. This resulted in many videos which should’ve
+been ok getting demonetized, so no ads running on them. YouTube were, of course, fine with that, since
+it meant bringing back advertisers at the expense of a few channels losing their revenues. Unsurprisingly, that’s exactly what happened. Many YouTubers got their livelihoods destroyed,
+while the YouTube advertising platform returned to record profitability. In fact, YouTube’s exclusive ad platform
+for high-spending advertisers is already sitting at a record number of participants, way more
+than even before the Adpocalypse. What this fiasco really showed, however, is
+that YouTube is beholden advertisers. Ultimately, it is the big brands that are
+the customers, while both content creators and viewers are merely users of the platform
+whose priorities are of lesser importance. The good news is that YouTube channels don’t
+have to rely on AdSense revenue alone. Here at Business Casual, for example, I rely
+much more heavily on Patreon and sponsorships. In fact, without these two pillars of support,
+Business Casual just wouldn’t exist. Of course, I want to give huge thanks to everybody
+on Patreon for supporting me and to you for watching. Make sure to follow me on Facebook, Twitter
+and Reddit to stay in touch, and as always: stay smart. 

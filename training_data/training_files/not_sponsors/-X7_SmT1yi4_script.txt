@@ -1,0 +1,203 @@
+- What's up, everybody. Peter McKinnon here, and
+today we're talking about why every photographer
+should be using Lightroom. We're gonna go through some
+tips and tricks and techniques so that, by the end of this
+video, hopefully you'll be (clatters like movie camera) just a straight savage with
+that camera using Lightroom. Alright; roll that intro, whoo! (heavy metal music) Alright, everybody, welcome back to another Peter McKinnon tutorial. So great to see all your smiling faces, which I actually can't see any of them, but I assume some of you are smiling and some of you probably aren't smiling, and let's just continue with the tutorial. Happy Father's Day, for
+starters, to all the dads and fathers out there,
+all the fathers-to-be, all the fathers come and
+gone and all of that. Being a father myself, I
+respect the job, the title, the, yeah, happy Father's Day, whatever. Hope you guys have a
+great day with your family and maybe grab your kids
+and watch this tutorial and smash the Like button and that'll be my Father's Day gift. I don't know, whatever, it's super lame. I've done a lot of tutorials
+in Photoshop and in Premier and just random stuff and
+techniques and thoughts and stuff like that, but
+I've never done a tutorial with Lightroom before,
+and I thought it was time that we did that. It's an incredibly powerful
+tool and, to be honest, the more and more time that goes by, the more I find myself using it and the more I discover about it and the more shortcuts I discover about it and the more I start to like it, and I just thought to myself, "Gee, you know, my audience needs to know, "A, how much I like this, "and B, I want them to
+like it just as much," so I'm gonna run through a couple things. It's not gonna be a long one today. I'm gonna go as fast as I can. By that I mean it'll
+probably still be 15 minutes, but I'm gonna do my best, so that you guys can all
+get back to your families, I'm getting better and
+better at that, whoo, mmm. Okay, so this tutorial, like
+I said, is about Lightroom, so if you don't have Lightroom,
+you wanna pick that up, 'cause it is awesome. I use Lightroom CC,
+which is Creative Cloud, so I just pay for a
+subscription and I get access to all of the Adobe
+apps for a monthly fee. I highly recommend doing that. They've got plans for all
+different types of people, be it that it's a
+business, you're a student, it's just a creative thing, maybe you just wanna
+use one app, whatever, that's just their whole service now, so they've got you covered. Head over there and check that out. I highly recommend you guys invest in that if this is something that
+you are taking seriously or wanna take to the
+(voices ratchet) next level. I just fell like I'm full of sounds today. (blubbers) (snaps fingers)
+I'm feeling it; ha! Anyway, we're gonna go over
+just a few tips and tricks that I think will blow your
+mind or help your work flow or speed up your workflow and I'm really, really excited to show you. Now, the one question I
+do get asked a lot is, "Well, what's the
+difference between Photoshop "and Lightroom?" Both of them do a lot of the same things. Both of them do completely
+different things. Lightroom handles the
+organization and storage of files as well as the editing,
+where Photoshop doesn't, so you can catalog and store and really, really organize your entire
+photo library within Lightroom at the same time as editing those photos and stuff like that. The nice thing about Lightroom
+is you can always go back to those photos, and
+since they're stored raw, you can continue to edit them
+and there's no save button. You don't have to hit Save
+As and Save As New Version. You just go back and reset
+it or keep updating it. That's the beauty of Lightroom, whereas Photoshop, you
+gotta save versions, but there's a little more freedom
+for manipulation in there, like if you wanna take this guy's face and put it on this guy's face and put this guy on the Moon and then put the Moon
+in this guy's garage. That sounds crazy, but you
+could do that if you wanted to, and then last (chops hand) Why do I keep doing this;
+I'm flogging myself. The last thing I'm gonna teach you guys, the best way that I crop
+my photos for Instagram, for posting to Instagram, and getting the best quality
+Instagram shots from Lightroom to my phone so that I can upload them. They look the best and the most beast-like and just tasty-delicious,
+awesome, full-screen res, just mouth-watering decadence. I'm getting carried away. Alright, let's jump into the Lightroom. Once you've imported your photos, they come into this section. Well, actually, they come into
+this section call Library. They're all numbered, and you
+can go through the thumbnails and star them if you want, so if you like this one, you can hit five, and that's gonna remind
+you to come back to it. If you like this one a little
+bit less, you can hit three. When you're ready to get editing, click on the Develop tab. That's gonna bring you
+to, basically, the editor. All of your organizational
+stuff is on this left side here under collections and history, so if you're gonna use
+Lightroom as some sort of archival storage and
+organization system as well as your editor, that's where
+all that stuff would go, as well as your presets,
+which, by the way, I am coming out with a
+bunch of Lightroom presets for you guys, so stay tuned for that. I'm just working on them. They're taking a while,
+because I want them to be awesome and there's a lot. We are here; this is the editor. Everything down the right
+side here is the stuff we're gonna be talking about today. All of your tools and brushes
+and adjustments and sliders, everything you're gonna use to manipulate a photo
+is here on the right. To start off, we can choose anything. Let's just choose this, for example. One of the first things I do is either white-balance exposure
+and correction of my horizons. To get the right white balance, you just click this little eye-dropper. Usually, you can pick the
+whitest area of the photo and it will white-balance to that. Now I'm gonna only just drop
+the highlights a little bit to preserve that sky,
+lift the shadows slightly to give some more detail,
+lift up those whites. This is really personal
+preference at this point. You can use clarity, and what clarity does is
+really sharpens it up, but you don't wanna use it too much, because it sucks the color away and then it just starts
+looking really, really bad, so everything in moderation. Mind you, I am the sort
+of landscape photographer that goes for lots of color and punch. I like really dramatic photos, so for me, I usually gonna a little
+bit further than I would if it was a portrait, for example. That's your basic panel. You guys can play with that;
+it's pretty straightforward. What I wanna talk about
+is the hue, saturation, and luminance tab,
+which is down here, HSL. This is like, think of it
+as all the individual colors that are in your photo, you have control over each and every one of them. If I want this water to be more teal; let's take a look at this, for example. I could go down here to
+where it says Aqua and Blue, because those are the
+colors I wanna manipulate, and I can change the color
+if I don't want it as aqua. I can drag these to the right. That's gonna make it more purple, but maybe I wanna accentuate that aqua, so I'm gonna bring them
+back down to the left and really make them look aqua,
+but that's a little too far, so it's finding the right
+balance with your HSL sliders to get the most out of the
+photo that you've taken. A good way to do that is to
+click this little target, and that opens up a
+selection on your cursor, which you can click and drag
+one way or the other way. What that does is it takes the colors in the exact target
+area that you clicked on and just manipulates those when you're dragging
+your mouse right or left. That's a really good way of doing that. Down here in the grass, where it's green, I could click on that,
+and it's now gonna move the green and the yellow slider. It's not gonna affect the
+purple and the pink in the sky. That's the HSL slider. If we want a little more warmth, if we want that aqua to
+be a little more aqua to make it feel like
+it's a tropical place, we can drop that down. If we don't want the sky to be as blue, we can get rid of that as well by going over to luminance. We can take the brightness of
+those colors and affect those. For instance, here's
+blue; if we want that blue to be brighter, we obviously drag it up. If we want it to be
+darker, we drag it down. We're affecting the
+brightness of those colors. Color themselves we can
+strip or add more of. In this instance, again,
+we can come over to aqua and we can make the saturation of that aqua higher by
+dragging saturation, I mean, we can drag the luminance of that aqua higher if we wanted. We can change the hue of
+that aqua if we wanted, so coming over here and
+playing with the HSL tabs, hue, saturation, and
+luminance, is a great way to really get the most out of your photos. You come over here to my friend Mattie. I could bring down the exposure to make it a little more even, but now the photo's a little bit dark. Here is the next tip. Come over here to the masking brush. This masking brush lets you paint on different settings, essentially. Let's say we wanted the
+exposure to be higher. Notice that we're dragging
+this tab right now and nothing's happening,
+but now if we paint-- (slow music) We just painted exposure onto the subject, and now that that area is selected, based off this little target
+dot that you see here, we can continue to change that, so we can make it super
+bright, and you can see where I painted, or you
+can bring it down darker, so you can really affect just one area. If I wanna bring him up a little bit, make him sharper using clarity
+or using the sharpness, or changing just his color
+to make him a little more red or make him a little
+more blue, we can do that by using this brush tool to
+paint in different areas, to bring up the darkness
+in someone's eyes, to bring out the whiteness
+in someone's smile, to paint a more exaggerated,
+dramatic sunset. Now that we've just done this,
+we can come over here to New and it's gonna reset
+our brush, so let's say that I want the exposure now to be darker, contrast to be higher, blacks
+to be down, whites to be up, shadows to be a bit more deep. Now when I paint, it's gonna put exactly those settings into my brush. It's obviously overkill, but now, because that area is
+selected, we can go ahead and we can change the exposure of it. If it's too much, we
+can make it more blue. If it's not blue enough,
+we can make it less blue, like that actually looks pretty cool. We could bring the clarity up of the sky, we could bring the
+contrast down of the sky or we can bring it up
+higher, so you can see, we can really affect
+different areas of the photo. Now, if we ever wanna get back
+to a previous masking brush, we just click on the target dot and now that area is selected,
+or we come back over here and click on that target,
+and that area is selected, so that's the masking brush. You can use it to completely
+brighten up a photo. As an example, this photo
+is a little bit dark. We can go over here to the
+brush, bring up the exposure, and then we can paint some new
+light into this entire photo, and now, we can bring up that brightness. Another really cool thing is,
+if you select the circle here, and let's zoom into the
+photo, we can draw an oval over this box, position it right
+here, change the brightness if we want, let's make
+it really, really yellow, let's bring the contrast up on it, bring the blacks down, that kind of thing, and then we can right-click
+and hit duplicate, and that's gonna duplicate the same thing. We can move it over to
+this window, and then, as an example, when we
+hit Done and we zoom out, that looks like the lights are on. Now, that's a super-exaggerated,
+horrible, horrible hack job of doing that, but I do
+do this all of the time. Here is a picture from yesterday
+that I posted on Instagram. Here is the exact same photo. I used all the HSL sliders,
+I painted in new light, I used that oval as a means to turn all of these different lights on that otherwise didn't
+have lights on before, but it just adds so much
+more life to the photo. It's that easy to do in Lightroom. Here's another photo, for example. It's on its side, so
+you're gonna hit command and the left bracket, and
+that's gonna straighten it out. Now there's also, all your
+tone curves are down here, so if you want to make this
+more vintage or classic look, to do that is to lift the black, so, and then we're gonna drop
+those mid-tones back down, and then we're gonna even out that line, and then we're gonna adjust
+that slightly, perfect. Come down here to our hue saturation. We're gonna take those greens, make them a little less green, bring up that saturation slightly, a little bit of luminance. We can come over here,
+lift the shadows slightly, add a little bit more contrast,
+a little bit more clarity, we can even make the feel
+of this shot a little more on the warm side, and there you go. Again, we can come down here, scroll down and hit Enable
+Profile Corrections. You can see it brightens up those edges, selects the lens that I was using, which is the 70 to 200, 2.8. How do we export it for Instagram
+so that it looks the best? Now, you're noticing a trend
+on Instagram right now, where all the shots are
+big, fat, vertical pictures, because you wanna take up as
+much real estate on Instagram as you can to drive the most
+engagement, so for instance, here's my account right here. That picture is a big, fat photo, so what's the best way to do that? Well, if you come into
+Lightroom and you click on this Crop button, you'll
+see Aspect, Original. You're gonna click on
+that and go Enter, Custom, and that size that you're seeing
+everyone post on Instagram, including myself, is five by four, so change that to five by four and hit OK, and you're gonna see a new crop. This little outline box
+right here is five by four, so now we have to choose
+where we want the photo, let's say we want it right
+here; we're gonna hit Done. At this point, you're gonna
+go over to File, Export. Make sure everything's
+on the highest quality. Come down here and make
+sure that's at 100, because a lot of the time it's not, but you're gonna export this
+to the desktop, so hit Export. Once that's finished, come
+over here, right click, hit Share, AirDrop, if you're on a Mac, my phone's gonna pop up,
+boom, and you'll see, now my phone is going to get
+this image, and it's that easy. Now I have a super-high-quality
+version of this photo on my phone straight from
+Lightroom that I have used to edit, perfect for
+Instagram, I'm ready to upload, no quality loss, lots of real estate, (snaps fingers) boom, good to go. Now for some super-fast tips and shortcuts to round this thing off. Check this out: When you're sliding any of the sliders on the right side, hold down Alt. Let's do highlights, for example. When you start sliding those,
+everything that you're seeing on the screen right now is
+showing you what is overexposed, so if you bring that all the way down to when there's nothing on
+the screen and let go, that is where nothing in
+this photo is blown out. Same with exposure; you hold
+down Alt and you bring that up, that's all the stuff that's blown out, so that right there is a
+perfectly exposed photo. Next tip: Hit F on your keyboard; boom. That's gonna give you a
+full-size screen preview of whatever it is that you're looking at. You hit F again, and you're
+brought back to this menu, which is (toots) amazing. Next tip: Hit Y. Y is gonna show you a
+side-by-side comparison of before and after. If you wanna take that to the
+next level, hit shift + Y. That's gonna give you a
+split before-and-after of the same photo. If you wanna get out of that, just hit Y, (snaps fingers) we're back. So that's it for me, guys. I hope you guys enjoyed this video. Happy Father's Day, and as a special gift to all the dads out there who are wanting to check out some presets for
+your videos or your photos, my LUTS pack today is 40% off, so make as in the description,
+head down there, click on it, the sale's done, you just
+gotta add to cart, so 40% off. Thank you so much for your support. I hope you guys have a great day. Hit that Like button if
+you liked this video, subscribe if you aren't
+already, and I forgot to say, you are free to smash that Like button should you so desire. I am headed out of the country tomorrow, I'm not headed out of it, no, I'm headed to the other
+side of the country tomorrow, so it's gonna be good. I hope to have lots of
+vlogs to you this week and a couple random tutorials
+that I'm not even sure it will work out, but I'm
+planning to try, so stay tuned to the channel; lots of fun stuff coming. I love each and every one of you. Hope you guys enjoyed that. Now go edit some photos and I got nothing. I'll see you guys in the
+next video. (whooshes) 

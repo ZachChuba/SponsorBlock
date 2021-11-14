@@ -1,0 +1,132 @@
+Hi, I'm Adam and welcome to First Man
+Photography today we are talking about backups and workflow it's just so easy,
+so so easy for your workflow and your backup solution to become messy and
+disorganized and I have fallen foul of that recently just through being very
+busy it's not really what I was concentrating on and I became vulnerable
+because I didn't have copies or backups of the work I was doing it for me and my
+business that could be terrible and I'm sure even just losing photos of your
+family and things like that is pretty disastrous for many of us so I'm going
+to talk through my backup solution and my workflow and just to give you a
+flavor of how I do it and see if you can take away some tips and tricks and ideas
+of how you might formulate your backup solution. So it's very easy with
+backup just to become disorganized you've got dusty drives like this all
+over the place and you don't really know what's stored on where when it was
+stored for the last year or so this is what I've been storing my stuff on and I
+need a better solution and follow the theory that I've had for a while about
+how you should back up your work so the first theory of good backup solution is
+to have two copies two copies of the work you are creating so you are not
+vulnerable to losing that. Cards fail hard drives fail, computers fail
+everything like that so you don't want to lose it
+just because of a technical failure so from the start, I'm out in the field and
+I'm shooting my work I'm taking pictures I'm filming video I'm creating audio as
+well and as soon as I possibly can I want to create two backups of that work.
+In cameras like the Canon 5d mark IV you have backup in the camera itself but with
+things like this drone or the slightly cheaper and lighter canon 800d these
+only have one SD card so after I've caught that footage on one of those devices I'm
+always nervous until I get home or where I'm staying to dump that data onto my
+computer generally I put it on to my laptop. Some laptops
+these days have quite small hard drives in them so something like this what is
+it a 500 gigabyte SSD drive is very handy to carry around it's light its
+small but still packs a decent punch and it's actually quite fast as well
+so I will dump the data on to them and I then can relax a little bit because then
+I've got two copies, I've got one in here or on my laptop and then the second
+one is still on the memory cards so I'm a little bit less vulnerable but that
+will let me then move on to the next step so depending where I am and how I'm
+doing things I will then generally edit the footage because I'm a little bit
+more comfortable I can start to work with it to see what's worth keeping
+what isn't sometimes I can edit straight off these sometimes I like to edit as
+much as I can off my laptop hard drive just because it's faster and that then
+is my final work whether it's a video or a picture and I can then upload it as
+well to wherever I'm sharing it whether it be YouTube, Instagram or the
+clients and then I know there is also another copy out there it's at this
+point I've become a little bit complacent recently because you then
+need to archive that footage into a external hard drive or a server of some
+description. That means that you've then got that footage stored for long
+term when you may need to reference it in the future until recently I've been
+using this five terabyte hard drive here and it's not bad for general storage but
+when you want to re-edit your footage straight off that drive it is quite slow
+because it's just one single Drive so recently I have upgraded to this this is
+the Drobo 5D3 I think it's the Thunderbolt 3 version of the Drobo and
+it works in RAID 5 which means that you put several disks in there and it writes
+the data to each disk at the same time meaning that it can be faster. The more
+drives you've got in there the faster it will be as well I've got three in there
+at the moment and I'm gonna upgrade them as I need the storage space but that's a
+really nice solution with a thunderbolt 3 it means I can edit footage and the
+pictures off there really quickly because Thunderbolt 3, it's
+got that speed and it's even good enough to edit 4k footage
+straight off that so one of the reasons I needed to buy the Drobo and it was
+painful paying for it because it is expensive but the more you and more and
+more that you create the more you need to store and it's just a painful
+necessity of being a creator but you don't want to lose that data and I don't
+want to delete it either so having this Drobo system has solved my problem
+despite the pretty scary expense of it the other good thing about the Drobo is
+that if one hard drive fails you can just pull it out stick another one back
+in and your data is safe providing that redundancy however whether you are using
+a Drobo or the separate hard drive you need to then backup that hard drive
+because you just don't know when that device on its own will fail so although
+the Drobo has redundancy in there if the Drobo itself fails you still lose all
+your data so you need to backup what's on the Drobo or the hard drive I'm using
+this Seagate drive at the moment to back up onto the one single drive and then
+I've got other stuff stored on separate hard drives so I've got an archive of my
+work over the years and then everything is also sat on the Drobo. I'm backing up
+the computer to the 8TB hard drive as well using something like time
+machine.... if you're on a PC use something like Acronis but it is a necessary step
+to backup your external drive or your main storage drive whether that's
+internal or external it doesn't really matter so then we're on to the third and
+final stage which is to somehow get off-site backup there's a few ways of
+doing this but you need to safeguard against fire or
+theft I'm currently using a service called Backblaze which is the very
+simple set up and forget and it just backs it all up to the cloud there are
+other options like your Amazon Prime which will store all your photos you've
+got Dropbox and Google and Apple...all those cloud services that are now available
+but as your storage needs increase so does the cost. Backblaze is good though
+because it's one price for unlimited data and then you can just restore
+everything later on if the worst was to happen now once you've done that you've
+got a pretty solid backup solution and you should be good in most circumstances
+there is however another option and that is to very simply print
+them there is a theory flying around that human history is in the most danger
+it's ever been in because everything is now digital and if we were to suddenly
+lose the digital world wouldn't be any record of the last 20 odd years or all
+of human history generally because it's all on computers so printing it
+safeguards against that.... whatever that may be but apart from anything it's just
+really quite fantastic to print your photos out and you should be doing
+that anyway I created this diagram a little while ago that just sets out
+and lays out everything I've been talking about and shows you all the
+steps you want to take to get a solid backup solution anyway please do share
+this video with someone that needs to hear it I do not want to hear any horror
+stories of people losing their footage or their pictures or anything like that
+so back up back up back up share the video to help people out right before we
+go I just wanted to give you a little update about what I've been up to I
+haven't been out shooting a vlog for a while I did the review of the Fuji
+camera last week which you might enjoy check that out here however I when I was
+out in Scotland doing the Glencoe vlog I felt that was a pretty decent video it
+was some epic scenery I've got some pretty good pictures and I just didn't
+feel like I could follow that up so I'll followed it up with a few more practical
+things and that's just kind of how my creativity works so I'm moving forward
+I'm gonna be ramping things up very much so in April stepping away from a few
+other things that I've been doing as the channel starts to grow and I want to put
+more time into it to create more videos I'm not quite sure how I'm gonna work it
+at the moment but it's definitely gonna be more than one video a week and so if
+you have any ideas of videos you want to see things you want to see me doing
+places you want me to go to please leave a comment down below and let me know
+what you would like to see I want to create content that you want to see there'll still be vlogs, still the reviews and tutorials and things but I'm looking at
+doing a few other things one of which is I want to start telling the story or
+your story so with that in mind I've done it a couple
+of times before but I want to start collaborating with you if you have a
+good story an interesting story an exciting story that you want to share
+you want me to share I'd love you to come onto the channel we can go out
+together make some pictures together have a good time and you can come on the channel
+and promote whatever you want to promote so if you're interested in that please
+head over to the website at first man photography com send me an email give me
+a little bit of background about yourself and I will have you on the
+channel as soon as we can go through the rigmarole of getting that organized but
+I want to expand the channel a little bit into a few other things different
+genres of photography a little bit more often as well so there's lots of good
+changes coming from April onwards but i've got a busy March because I'm moving house if you
+follow me on Instagram as well you will see the move of the studio because this
+is in my house and I'm moving first man photography HQ to a new house
+and a new location in the next couple of weeks so follow me on Instagram and I'll
+share some of those stories anyway before first purchase. It really is worth checking
+out anyway I hope you've enjoyed this video and I'll see you on another one
+very very soon I'm hoping to get out to film a vlog this week for the next video so I'll
+see you then I'm Adam this is first man photography in the studio Out!! 

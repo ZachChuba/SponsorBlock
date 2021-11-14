@@ -1,0 +1,69 @@
+This is the OPPO Find X. And I've seen a dozen reviewers get excited about
+this bezelless screen or the bonkers motorized camera, but all of that stuff is
+way too fragile for my clumsy hands. What I'm excited about... is SuperVOOC. The fast charging tech that OPPO claims
+will be two and a half times as fast as anything else that is on the market right now. If this actually works as advertised, it could completely change how we use our phones. So, let's take a closer look. OPPO claims that SuperVOOC gets the Find X
+with its average sized battery fully charged in under 35 minutes. Competitors usually take well over one hour
+for the same, which really poses 3 questions. Does SuperVOOC actually work as advertised? If it does, how the hell is it this fast? And what are the downsides? Starting with the first one, I have performed two separate tests. Comparing charging speeds to the latest
+flagships once with the screen on and once with the screen off, you'll see in a second why that is important, but first, let's talk about chargers. Each of these phones came with their own fast
+charger in the box which I used, except for the iPhone, where I had to
+buy a separate fast charger from Apple for 98 Euros. Which, uh, is quite a rip-off if you ask me. Also, I have the SuperVOOC version of the
+Find X here, but some markets only get normal VOOC on this phone, so always check with your
+local reseller. Anyway, here are the results. In the screen off test, the Find X goes from
+nearly empty to 100% in just 31 minutes, which is pretty incredible. The closest competitor is the P20 Pro that
+takes about 2.5 times as long as the Find X, and the other three are more or less equal, taking around three and a half times as long to finish. Quite the difference. Now, to be fair this chart might be somewhat
+misleading since battery sizes differ a lot between these phones, so I measured how much
+each charger consumes at its peak using a smart power plug to show you the difference
+that way, which still shows SuperVOOC as the clear winner, and I also calculated how many
+milliamperes each charger pumped into the phone at its peak. Again, the winner is pretty clear. OK, in test number two we set the screen to
+50% brightness on each phone to add an extra source of heat, because OPPO claims that SuperVOOC
+deals with heat really well, so it can keep fast charging even with the screen on, while
+some competitors will have to disable fast charging in these situations. And the results kind of show this to be true. The Find X once again finishes charging in
+33 minutes, just a tad slower than before, surprisingly the P20 Pro seems to be completely
+unaffected by the screen being on, the iPhone does OK until 80 % but then slows down dramatically
+to over 2 hours, and the other two essentially turn off fast charging completely and take
+over two and a half hours to finish. That's more than 5 times as slow as the SuperVOOC
+did. Next, let's take a look at temperatures. The Find X goes up to nearly 38 degrees, but
+of course it doesn't have to stay there for very long, the P20 Pro goes a little higher and
+stays for longer, the iPhone X is over 39 degrees for more than 40 minutes, which is
+probably why the phone decided to slow down its charging so dramatically at one point,
+and probably also why Apple doesn't include a fast charger in the box. Cause that is not healthy. The other two, well, those were pretty cool
+because they weren't fast charging at all. So from all the phones that did fast charge,
+the Find X is the coolest and has to stay hot for the shortest amount of time. Not bad. Which takes us to question 2: What black magic does OPPO have that the others don't have? So I've done a lot of research online, I've actually talked to a couple of OPPO engineers and here are all my findings. You can the really in-depth stuff linked in the description below, if you really like physics, but if you just wan to see an overview, an oversimplified overview, then follow along. Charging speed is measured in watts, which
+is a product of voltage and current. The more watts, the faster your phone charges,
+so if either of these goes up, charging speed goes up as well. Whether charging speed is seen as regular
+or fast depends on who you ask, but for the sake of this video let's call 5V 2A charging
+"regular" for now. That's a very common spec and note for later, 5 Volts is also the voltage of most smartphone batteries. That's a pretty important detail. Most standard fast charging solutions like
+Qualcomm QuickCharge increase speed by increasing the voltage to 9 Volts, which
+is indeed faster, but introduces an issue. Heat. Because on top of the heat that is generated
+from charging alone, these solutions also require the phone to transform the incoming
+9 Volt charge down to a 5 Volt charge inside the phone to match the voltage of the battery. This causes extra heat, so these phones now
+have 2 major sources of heat. More sophisticated chargers like OPPO's VOOC
+and OnePlus' Dash Charge, which, fun fact, are the exact same technology just under two
+different brands, but also Huawei's SuperCharge, which is what the P20 Pro has, instead increase
+speeds by increasing the electrical current, usually to somewhere between 4 to 5 amps,
+while keeping the voltage at a standard 5V. The benefit is that not only can they charge
+faster, at around 20 Watts, the phone also doesn't have to step down the voltage, so
+the extra heat isn't generated in the phone. In other words, these chargers eliminate the
+second source of heat. SuperVOOC takes this approach to the next
+level and here is how some OPPO engineers explained it to me. SuperVOOC introduces 10V5A charging. That's right, 50 Watts. That's as fast as some laptops charge. And despite seeming like this is really high
+voltage charging, it's not. See the Find X has a special, 10 volt battery
+with two 5V cells inside. So when it receives the 10 volt charge, there
+is no conversion and through it, no extra heat generation. This special battery can then output just
+5 volts for the phone to use. So you can essentially think of SuperVOOC as
+simultaneously VOOC fast charging two separate batteries and then only using one at a time
+for the phone. Again, this is a super dumbed-down explanation
+and if you want to know all of the details, check the links, but I hope you get the point. Okay, on to number 3, the downsides: I can
+think of two main ones. The first one being cost: SuperVOOC probably
+took millions of dollars to develop, it requires lots of extra components, like 5 different
+additional security layers, a pretty bulky charger and a significantly thicker cable
+than usual, so it adds to the cost of the device a lot, which is why you only see it on expensive phones, and replacement chargers will
+probably also cost a fortune. Although they will probably still be cheaper
+than the ones from Apple, sooo ... khm. Okay, second is safety. And this is honestly hypothetical downside,
+but without long term testing, we honestly have no idea how safe SuperVOOC really is. OPPO does have 2 pretty solid counter-arguments, specifically that, No. 1, since SuperVOOC runs cooler than many competitors and does so for a much shorter period of time, your batteries get damaged less from heat, and that No. 2 since it's
+essentially the same tech as their previous generation VOOC charger, which sold in about 90
+million phones without any major safety issues, it should be just as safe... And uh, sounds
+good to meee, but you know, I'm not an engineer, so I guess we'll just have to wait and see. Now, the Find X is like a trophy. It looks incredible the technology that is built into it is incredible, but ultimately for a person like me, who drops his phone all the time, this just isn't a very practical option. I mean, it's so slippery, it slid off a perfectly
+flat surface four times since I've had it, plus even if you put a case on it, it doesn't
+cover the top two corners. Now that's a phone that just calls for a TechAltar
+Ungrip if I've ever seen one. But shameless merch-promotion aside, SuperVOOC will probably come to much less slippery OPPO phones in the future and also OnePlus phones at some point, and all of that combined really has me excited. But maybe you disagree? There's a poll in the description below where
+you can let me know how you feel about the Find X. Which features you like, which ones you don't, and I've built this poll it in about 3 minutes using Squarespace. 

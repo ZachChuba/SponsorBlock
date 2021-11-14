@@ -1,0 +1,58 @@
+Welcome to the all-time least popular episode
+of Half as Interesting. So say you want to make an emoji, a new one. I don’t, but I wanted to make a video so
+I talked to a guy. “My name is Jeremy Burge. I’m the founder of Emojipedia and the vice-chair
+of the Unicode Emoji subcommittee.” (0:09) Jeremy’s Wikipedia page says he’s
+a “widely-regarded expert” on emojis while my Wikipedia page says… nothing since I
+don’t have one so I guess he’s cooler than me. Being an Emoji expert means you know things
+like, “The ROFL emoji is rising every year. So that’s the laughing crying on its side,
+that’s on the up.” (23:24)
+Just like all fun technologies, Emojis originated in Japan. But originally, “They only worked on one
+type of phone and one type of phone network and then all the other networks wanted to
+get on board and they just didn’t work very well across platforms.” (1:10) Emojis quickly rose in popularity,
+but there was no one standard. “What could happen is you could send a picture
+of a boy or a girl and on the other end it could end up a piece of cake or a piece of
+sushi.” (3:45) It was chaos. Essentially, when one phone sends an emoji,
+it doesn’t send the actual image of an emoji, it sends a code that corresponds to the image
+and so if one phone’s codes were different than another’s, the wrong emoji could appear,
+but then the Unicode Consortium stepped in. Their primary purpose is to make sure that
+all 136,755 characters in their standard can be seen across every single computer and phone
+in the world. Nowadays, however, 2,666 of those characters
+are emojis. “So anyone can submit a proposal for an
+emoji to the Unicode consortium. They’ve got a bunch of criteria to make
+sure that it’s going to meet the minimum bar, as such. You want to prove, to start with, that it
+doesn’t already exist.” (5:40) In addition, in a submission you have
+to prove that the proposed emoji will be frequently used, is a distinct image that can be identified
+at the small size, is needed to fill a gap in the emoji alphabet, is frequently requested,
+and is able to be shown visually. A “I just forgot the name of a casual acquaintance
+I’ve known for years and called them ‘bud’” emoji likely would not get accepted since
+it’s just too abstract. There are also certain factors that will disqualify
+a candidate emoji. For example, Unicode generally denies emojis
+that are too specific. A “I went on StarTalk with Neil deGrasse
+Tyson and now realize I have a resting nervous face,” emoji would likely get denied for
+this reason. For the same reason, they won’t approve
+submissions for specific people, brands, or locations. There are, though, actually some existing
+emojis that violate this rule since some emojis made it in only because they existed pre-Unicode. For example, this Emoji exists of a statue
+outside Shibuya Station in Tokyo even though an emoji of such a specific location would
+never be approved nowadays. All those different criteria are addressed
+and compiled into a submission report by whoever is proposing the emoji and then this is then
+sent to Unicode. That’s where Jeremy gets involved. “I’m the vice-chair of the subcommittee
+which sounds more exciting than it is, to be honest. It’s mostly an initial vetting on proposals
+that come in to make sure they’re in good order before they get taken to the real decision
+makers which is the technical committee meeting.” (9:35) Essentially, the emoji subcommittee
+just decides whether a submission fulfills the criteria. “Once it’s approved that it at least meets
+the minimum criteria it goes to what’s called the Unicode technical committee and each company
+that’s involved with Emojis such as Apple or Google or Microsoft—they get a vote and
+if a decision needs to be made they can each vote individually for an emoji or any text
+character to be approved.” (6:50) The majority of the committee’s time
+is actually spent on non-emoji matters making decisions about how other characters should
+be encoded but with how frequently these emojis are used, these are very important decisions. Still today though, each company designs how
+emojis look for their respective devices. Emojis are supposed to more or less look the
+same across platforms, but sometimes they don’t. “There was an emoji, the eye roll emoji
+that’s meant to be, sort of, uhhh, but, for whatever reason on Samsung phones it looked
+really happy so a Samsung user could send you what they thought was a happy face and
+they’d say, ‘hey do you want to catch up later on, happy face’ and then you’d
+get a message that says, ‘hey do you want to catch up later on, uhhh.’” (5:08) In an ideal world the standardization
+of emojis would extend to their actual design, but right now that’s impossible since emojis
+are copyrighted by their respective designers. That also means that pretty much every single
+piece of emoji clothing or merchandise you’ve ever seen was illegal including the shirt
+that Jeremy was wearing during this interview. 
