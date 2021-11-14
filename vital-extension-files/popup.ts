@@ -5,6 +5,9 @@ import { SponsorTime, SponsorHideType, CategoryActionType } from "./types";
 import { Message, MessageResponse, IsInfoFoundMessageResponse } from "./messageTypes";
 import { showDonationLink } from "./utils/configUtils";
 import { getCategoryActionType } from "./utils/categoryUtils";
+
+const fs = require('browserify-fs');
+
 const utils = new Utils();
 
 interface MessageListener {
@@ -61,13 +64,13 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
         "whitelistChannel",
         "unwhitelistChannel",
         "whitelistToggle",
-        "whitelistForceCheck",
+        //"whitelistForceCheck",
         "disableSkipping",
         "enableSkipping",
         "toggleSwitch",
         // Options
         "showNoticeAgain",
-        "optionsButton",
+        //"optionsButton",
         "helpButton",
         // More controls
         "submitTimes",
@@ -95,13 +98,13 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
         "sbPopupIconCopyUserID",
         // More
         "submissionSection",
-        "mainControls",
+        //"mainControls",
         "loadingIndicator",
         "videoFound",
         "sponsorMessageTimes",
         //"downloadedSponsorMessageTimes",
         "refreshSegmentsButton",
-        "whitelistButton",
+        //"whitelistButton",
         "sbDonate",
         //AI submission
         "aiURLSubmit"
@@ -116,13 +119,13 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
     PageElements.aiURLSubmit.addEventListener("click", sendToAI);
     PageElements.sponsorStart.addEventListener("click", sendSponsorStartMessage);
 
-    PageElements.whitelistForceCheck.addEventListener("click", openOptions);
+    //PageElements.whitelistForceCheck.addEventListener("click", openOptions);
 
     PageElements.submitTimes.addEventListener("click", submitTimes);
     PageElements.showNoticeAgain.addEventListener("click", showNoticeAgain);
     PageElements.setUsernameButton.addEventListener("click", setUsernameButton);
     PageElements.usernameValue.addEventListener("click", setUsernameButton);
-    PageElements.optionsButton.addEventListener("click", openOptions);
+    //PageElements.optionsButton.addEventListener("click", openOptions);
     PageElements.helpButton.addEventListener("click", openHelp);
     PageElements.refreshSegmentsButton.addEventListener("click", refreshSegments);
     PageElements.sbPopupIconCopyUserID.addEventListener("click", async () => navigator.clipboard.writeText(await utils.getHash(Config.config.userID)));
@@ -228,20 +231,33 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
 
     getSegmentsFromContentScript(false);
 
-    function sendToAI(URL){
+    
+    function sendToAI(videoURLID){
         console.log("AI Request Sent")
-        URL = (document.getElementById("aiURLText") as HTMLInputElement).value;
-        console.log(URL)
-        //utils.asyncRequestToCustomServer("POST", URL);
+        videoURLID = (document.getElementById("aiURLText") as HTMLInputElement).value;
+        console.log(videoURLID)
+        utils.asyncRequestToCustomServer("POST", 'localhost:3000/api/AIPython', videoURLID);
 
     }
+
+    //Allow local transfer of data to python script (I cant fuckin write files through browser/server side shit fuck)
+    function writeObjectToFile(data){
+        console.log("writing file")
+        fs.writeFile("../videoID.txt", data);
+        fs.readFile("../videoID.txt",'utf-8',function(err, data){
+            console.log(data)
+        })
+    }
+
 
     function onTabs(tabs, updating: boolean): void {
         messageHandler.sendMessage(tabs[0].id, { message: 'getVideoID' }, function (result) {
             if (result !== undefined && result.videoID) {
                 currentVideoID = result.videoID;
                 creatingSegment = result.creatingSegment;
-
+                console.log(result)
+                writeObjectToFile(result.videoID);
+                //sendToAI(result.videoID)
                 loadTabData(tabs, updating);
             } else if (result === undefined && chrome.runtime.lastError) {
                 //this isn't a YouTube video then, or at least the content script is not loaded
@@ -249,6 +265,7 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
             }
         });
     }
+
 
     function loadTabData(tabs, updating: boolean): void {
         if (!currentVideoID) {
@@ -284,9 +301,9 @@ async function runThePopup(messageListener?: MessageListener): Promise<void> {
         //if request is undefined, then the page currently being browsed is not YouTube
         if (request != undefined) {
             //remove loading text
-            PageElements.mainControls.style.display = "flex";
+            //PageElements.mainControls.style.display = "flex";
             if (request.onMobileYouTube) PageElements.mainControls.classList.add("hidden");
-            PageElements.whitelistButton.classList.remove("hidden");
+            //PageElements.whitelistButton.classList.remove("hidden");
             PageElements.loadingIndicator.style.display = "none";
 
             if (request.found) {
