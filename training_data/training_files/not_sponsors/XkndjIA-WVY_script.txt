@@ -1,0 +1,129 @@
+I've always been a big music guy, but you
+may not realize that based on the Good Game Design series. We do talk about music, but normally as a
+passing thought or a quick nod to how good a soundtrack is. But when you think about it music and sound
+effects are some of the most important tools in a game designer’s arsenal. It can set the mood, encourage you to push
+onward, or even be used as a gameplay mechanic itself! So today we’ll dedicate an entire video
+to the topic and look at all the ways music can help or hinder a player’s experience. Let's talk about it. The first main thing music has the power to
+do, at least on a macro level, is establish the atmosphere of the game you're playing. But this is so much more than picking a slow
+or fast song, you have to consider what instrumentation will be used, the structure, and what emotion
+you want the player to feel. The beauty of music is that it can be so diverse,
+and a good developer uses that to their advantage. Hotline Miami is a high-octane 80’s killing
+spree just oozing with juice, so the soundtrack reflects that: lots of synths and electronic
+dance music that you might hear in a club from that timeframe, but a bit more intense. It sounds like something straight outta John
+Wick. Stardew Valley on the other hand is a master
+class in fitting the theme of the current season you're in. Spring is all about new beginnings and endless
+possibilities while summer is bombastic, fun and feels like you're in a hoedown. But when winter hits, there's nothing but
+calm, quiet xylophone to keep you company as you try to survive the harsh climate. But all of the tracks in this game are relaxed
+and charming, which really describes the package as a whole. Banjo Kazooie is fascinating because this
+is when you start to see composers thinking about much more than a singular focus for
+a song. Listen to Grant Kirkhope describe the overall theming of this dynamic duo... There's only like 12 notes, C, C#, D, etc. in between two octaves, right? And the middle point of the two C's is an F#,  it used to be called the Devil's Interval, or tritone. So I figured that because Banjo and Kazooie were complete opposite characters, i.e. Kazooie is clever and sarcastic, Banjo is dumb and, you know, etc. C and F# are the furthest notes apart, it's the furthest point from C and C, right so I figured that's why it's got the chords of CM, F#M, CM, F#M, that's why all the music in Banjo Kazooie is basically based on that interval, 'cause it represents in my mind the two opposite characters. So in addition to creating spooky tunes for a haunted
+mansion stage, or using an Egyptian sounding scale in Gobi’s Valley, he also makes sure
+that the dichotomy of Banjo and Kazooie is present in every piece he writes by including
+those dissonant notes. Sometimes it’s not about specific lines
+or melodies, but setting a tone through ambience. Super Metroid starts out eerily quiet and
+somber but as you journey deeper into Planet Zebes it comes alive, slowly fading into Brinstar
+and showing you through music that there’s imminent danger here, like you walked into
+a monster party that you weren’t invited to. Then when you loop back through the first
+area after growing stronger, you're greeted with a heroic
+theme that completely shifts the mood. Instead of being hesitant and scared, now
+you're a confident capable bounty hunter. Genius. You see music setting the atmosphere of a
+game all over the place, and it’s often as simple as looking at the source material. Guacamelee uses mariachi style acoustic guitars,
+Cuphead evokes the big band era of classic cartoons, and Shovel Knight gives loving homage
+to the 8-bit games it was inspired by. Heck, what if a game doesn’t have any background
+music at all, but solely relies on its sound design to build meaningful moments? Look no further than Thumper, where you get
+to be the one creating music through your actions. The loud clanging of metal is used in repetitive
+ways to make recognizable beats, but is more engaging since each maneuver you complete
+is tied to a catchy sound effect. As I said earlier, it’s important to ask
+what emotions you want the player to feel while they go through the experience. Compare a game like Furi, using heart-pounding
+metal as you take on incredibly challenging bosses, to something like Yoshi’s Woolly
+World which employs joyful, soothing tunes to carry you through each stage on a pillow
+of happiness. And if you don’t think this type of selection
+is important, just imagine if these two games had swapped soundtracks. *Yoshi with Furi music* music *Furi with Yoshi music* Now more on the micro side of things, music can also be used to inform the player about
+the current situation they find themselves in. David Wise is an expert at using samples from
+the setting of a stage to give more life to his compositions, like chirping crickets in
+the forest, bubbling lava in volcanoes, or even screams from children in an amusement
+park. The wind is a backdrop while you’re flying
+high on a ship’s mast, and this driving scale used while navigating a dangerous hive
+sounds like bees buzzing all around you. It not only creates a catchy melody, but makes
+the world feel rich and real. The Messenger adds a neat little muffle filter
+to the music when you go underwater, which is a nice touch, but if you’re willing to
+put in more effort, a fully recomposed version of a track makes a big difference, like when
+you enter a dank cavern in Banjo Kazooie, or hear a chilled out version of the main
+theme on the pause menu. Man, Grant really is the best at sweet pause
+themes isn’t he? But something that The Messenger really did
+do well was program the game to completely swap between 8-bit and 16-bit versions of
+the songs AND sound effects whenever you jump through a time portal. It really feels like you’re playing two
+separate games at once. Portal 2 is normally devoid of music, but
+will use intriguing sound effects when you gain momentum on gels, or even play simple
+notes when you connect a laser, which adds character to the situation but also helps
+guide you toward a puzzle’s solution through sound alone. Paper Mario does this cool thing where once
+you enter chapter 4 and the shy guys are running amok around Toad Town, it plays a remixed
+version of the theme with these with extra tinkering noises and clanging of children’s
+toys to show you that while you’re in the same place, mischief is afoot here. In fact, lots of Mario games like to layer
+in extra sounds when you change up the gameplay, like how hopping on Yoshi adds extra percussion
+in Super Mario World. Sometimes a big reveal requires a big crescendo
+in the music to really drive home the impact, like in God of War where a powerful choir
+chant is used sparingly but effectively at just the right moments. Music can also help with a certain flow the
+game is going for. In Spider-Man it plays an epic rendition of
+the Avenger’s theme while you’re swinging around town, but when you stop the music stops,
+and when you begin again, it picks right back up with you to continue the momentum. If a game requires you to retry a stage many
+times in quick succession, like The End is Nigh or Wings of Vi, it’s a good idea to
+have the track continue playing despite the resets, which is another way to help give
+the player a sense of flow. You realize how jarring it is when this type
+of thing is NOT present. Finally, in addition to setting the atmosphere
+or building off the current situation, there’s also a ton of other really cool things music
+can do in gaming. Wandersong is an unbelievably adorable adventure
+of a bard that tries to save the world with his voice alone. He never uses violence, and sings his way
+through a bevy of creative obstacles. He even belts out his responses to questions
+which is just hilarious. But while the voice wheel mechanic never changes,
+they made sure to swap the key of the notes so that they’re in tune with the different
+background music throughout the game, which is a detail only some will notice, but goes
+a long way toward polish. It is a game entirely ABOUT music after all,
+so I would only expect as much. Everything is bright and happy, which fits
+the main character’s personality perfectly, and some of the most impactful moments are
+driven home due to an equally impactful chorus. Another thing to consider is when a particular
+track is going to be used quite often, like battle themes in RPG’s for example, you
+want to make sure they’re really catchy and won’t get annoying to listen to over
+and over, since the player will probably hear it hundreds of times during a playthrough. I’m always impressed when a composer is
+able to come up with an anthem that never gets old no matter how many times I hear it
+- that takes some real talent right there. And hey if you want to go for bonus points,
+try out what Octopath Traveler did by adding in nods to the particular character you’re
+playing and using their theme as it transitions into boss battles. This is an insane amount of work, but really
+blends the different paths together into one cohesive experience. In fact, let’s talk about motifs because
+they probably pop up more often than you would originally think. This is when you take a specific melody or
+part of a song and bring it back later on to emphasize a point. Sometimes this can be a simple character theme
+that plays whenever they pop up on screen, but it can be more than that too. Ori and the Blind Forest has a beautifully
+memorable main ballad, but it shows up continuously throughout the adventure, often at very important
+or pivotal moments in the story. Game Score Fanfare has an amazing video you
+need to check out on Uncharted 4’s use of motif and how it compliments the back and
+forth relationship between Nathan and Elena. When you recontextualize the same notes in
+a different situation it leaves a lasting impression on your brain, even if its on a
+subconscious level, and in my opinion is what can elevate a good soundtrack to a phenomenal
+one. One final thing to consider when implementing
+music into your game is if it will coincide with the gameplay. Now I’m not just talking about rhythm games,
+though they obviously have their place as well. Sometimes titles will combine this with another
+genre, like Crypt of the Necrodancer, which is a dungeon crawling roguelite but you also
+move to the beat of the song. This makes it a sort-of real time strategy
+game in addition to the randomly generated exploration, and a really cool natural byproduct
+is that the difficulty rises simply by having a faster song, so the player has to think
+more quickly about where to move next. But music can be more integral with the gameplay
+in smaller ways too - like in Underhero how attacking in rhythm will give you a damage
+boost, or even just having elements in the background reacting along to the music. I’m a sucker for any stage that has obstacles
+bouncing around in step with the song, I mean c’mon, you’re gonna tell me these Koopas
+dancing to the beat ISN’T adorable? Get outta here. If there’s one thing to remember about music
+in video games, it’s that it can be so much more than background noise. Many, many games have passable soundtracks
+that get the job done, but don’t have any meaningful impact on the experience. When designing a game I think it’s important
+to think about all the aspects, not just the gameplay or visuals, and how they can all
+compliment each other to make something memorable. The difference between a good song and a great
+song is one that has connection. Why does this particular piece fit better
+than any other? Is there something missing that could help
+nail the emotion we’re going for? How can I better show the player what I’m
+trying to show them? All the different pieces are in play at the
+same time whether you like it or not, so make sure they’re in harmony. What are some of your favorite video game
+soundtracks and why? What about specific parts of a game where
+the music or sound effects made a greater impact than if they weren’t there? Tell me in the comments below and let’s
+talk about it. Thanks for watching another episode of Good
+Game Design, I’ll see you next time. Stay frosty my friends. And I actually need your help because I’m
+creating my own website for Snoman Gaming and I would like your input on what you'd like to see there. I’m open to just about anything, editing
+tutorials, vlogs, you name it. Leave me some thoughts in the comments below. Alright, I’m outta here, bye! Special shoutout to Josh J because what can
+I say, he’s just epic that way. 

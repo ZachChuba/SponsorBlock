@@ -1,0 +1,278 @@
+Imagine going to the movies, and you’re not sure what you want
+to see yet, you’re still deciding. You’re looking at the marquee, you’re looking at the
+show times on the board, and there’s no ratings next to the titles. And not only that,
+but every movie that was rated R is gone. It’s hidden. Or imagine you made a movie. You’re a filmmaker or you’re
+part of a production company, so you’ve been sinking time and money
+and talent and other resources into making a movie. And you finish the movie,
+and you ship off the print, and then you have no idea
+what the film was rated, even though that is gonna affect
+what audience gets to see the film. That’s the current state of YouTube. There is a secret rating system
+that is assigned to every video uploaded, and every channel as a whole,
+very similar to the MPAA ratings. It goes from G to mature. You can’t see it as a user, you can’t see it or appeal it
+as a content creator, and it’s censoring the website. [Intense music] So how do we know
+about this rating system, and what impact does it have on videos? I mean, if you can’t see it as a user,
+you can’t see it as a creator, and even the YouTube Heroes,
+the volunteer moderators can’t see it, how do we know it exists? Well, there are several pieces
+that complete this puzzle, and it involves statements
+made by YouTube on Twitter, statements made by YouTube
+employees on YouTube itself, an email exchange between a major YouTuber
+and their handler at YouTube, and YouTube’s advertising tools
+within Adwords. For context, let’s start back
+in December 2017. This channel made a video
+talking about secret codes on YouTube. The video was communicating the findings
+of a white paper by the Karla Plan Group asserting that videos
+were being secretly tagged for their non-advertiser-friendly content, and then suppressed
+within search and discovery for those tags, meaning that videos that YouTube bots
+believed to contain risque content were being made harder to find
+within the tools on YouTube, like the search bar and all the
+various recommended feeds that are part of the layout of the site. If you want to see extensive evidence
+for what algorithmic suppression can do to a video’s views, check out the three reports
+that are linked in the description. Data in bio. Thanks to the channel Nerd City, the numbers so far
+that have been discovered — The NUMBERS! What do they MEAN? H3h3 and PewDiePie amplified this issue
+on Twitter and with a video, and other creators started
+to make videos about this, and YouTube had to deal with it.
+It became a PR crisis. Unlike some of their recent
+Wendy’s-style responses, they responded — very tactfully. Like an experienced politician, they answered the question
+that they wish they’d been asked, and not exactly the question
+that was raised by the video and by the report. [PewDiePie]: Basically saying
+that the yellow icon alone doesn’t impact search and discovery, but if the video is also
+not suitable for a wider audience, then it might see a poorer performance. So they’re basically saying,
+“if it gets demonetized, “it has nothing to do
+with lower views, okay? “But if a video has, uh,
+explicit content, “then it’s not gonna get as many views.” The yellow icon doesn’t limit videos
+in search and discovery, they said. The yellow icon. Now, a lot of people know
+the yellow icon means demonetized, so that’s something people recognized, but that was not really
+the underlying concern about the scanning
+and the tagging of content. Just seven days later, Todd B, the head of search and discovery
+at YouTube, came on Creator Insider, and answered a sort of
+reformulated softball question about demonetization. -Are those things connected? -So the the search and discovery systems
+that decide which videos to recommend, they don’t have any knowledge about
+what’s going on in the advertising system, so if you get that
+yellow icon that you see that says it may not be
+suitable for all advertisers, the information about that
+doesn’t even flow into our system. These things can overlap in terms of,
+you know, something that advertisers
+care about running their ads around might be, like, profanity, or violence,
+or certain controversial topics, they may decide, you know, they just don’t want to be
+associated with that type of content. Similarly, we may find that
+audiences have similar preferences. So we might find that a profane video,
+for example, may not be something that everyone on YouTube
+is going to be interested in. I like Creator Insider. I like the guy Tom, who runs it. I am so glad that channel exists. I think it’s a good step
+in the right direction, but I believe that that answer,
+and the answer on YouTube’s Twitter, are meant to protect secrets,
+and are deliberately misleading. We have to split a hair here
+to get to the truth. Here’s what those two answers imply. The green or yellow status, which we can think of as the sort of
+on or off light representing monetization, is not fed directly
+into search and discovery. The Fisher-Price Baby’s First Adsense tool to let YouTubers know
+if they’re gonna get paid or not, that’s not being used
+by YouTube’s algorithm. Okay, fine. However, the root causes
+of a video being demonetized, and let’s say “Rated M,” which comes as a result of
+layers of machine learning algorithms scanning, identifying, sorting,
+and rating the content based on its tags, title, thumbnails,
+and closed captions, is affecting search and discovery. That’s the important thing.
+They’re admitting it there. It’s a it’s an admission
+that sounds like a denial. They’re saying yes and no
+at the same time. It’s like tennis,
+it’s like going back and forth. Hey, ha! Hey! We dodged around the issue! And all of those interpretations of videos
+made by machines aren’t being explained to YouTubers,
+can’t even be seen, and can’t be appealed. so let’s boil it down to
+“the yellow light doesn’t do anything.” Does that answer all your questions,
+you nosy creators? the next piece of evidence
+about the secret rating system comes from Kwebbelkop,
+who if you don’t already know, is a huge let’s play YouTuber
+with about 8 million subscribers. YouTube holds these
+VIP meetings for creators at what they call
+their “creator spaces.” PewDiePie was just at one in London. St one of these meetings,
+at the London creator space, Kwebbelkop heard something in the meeting
+that kind of piqued his interest, So he followed up on it in an email
+to his handler at YouTube. He wanted to know if his channel
+was considered kid-friendly, and if not what he could do
+to change that. The reply he got states, “I checked your channel,
+and I’m happy to say “your channel is DV-TEEN.
+Please keep this confidential.” that email contains a remarkable
+piece of information, and after Kweb shared it,
+he says he’s been iced out. He stopped getting invited
+to those creator space meetings, that just never happened again. In his own words to me,
+he feels he’s been blacklisted. Ss you see in the email, he was asked
+not to share this information. Why? Who knows? This is the kind of specific information
+that can help a channel understand what’s happening to them,
+so he shared it. I say good for him for doing that,
+and thank you. Whenever youtubers get a press release,
+or an official posting by the CEO on the blog, the wording is always
+so intentionally vague that we can’t understand
+what the words literally mean without sort of busting apart the language and trying to apply it
+to other unconfirmed assumptions about how the website works. It’s as if they’re taking their
+internal policies and memos and feeding them into a confuser machine. even for a community of people
+who are relatively gifted with language, it’s maddening to try and reassemble
+the meaning out of these releases. Thankfully, though,
+on the AdWords side of YouTube, where advertisers are actually
+pumping their money into the platform, the structure of YouTube reveals itself;
+things are a little more cut-and-dry. If you’re running an ad campaign,
+and you want to limit your ad to play on videos
+that are rated G, or T, or M, You can simply click a tab that, well, abracadabra. if you still had any doubt,
+there’s your video ratings. This tool would not work,
+and it would not be structured this way, if videos were not being rated internally. We can use this tool
+to gather information, and sort of reverse engineer
+the way that the system works. By excluding all tabs but one
+and then collecting information on where your ads were placed, you can build a list of videos
+that fall into just one category. If you build a list of videos
+that are, say, rated M, then maybe we can look at
+the videos on that list, and better understand the rating system as it’s applied
+to all videos across the site. Sealow and Karlaplan Group
+created a research project to do exactly that. For one month, they ran ad campaigns excluding everything except
+videos rated mature, and targeting the channels of
+H3h3, PewDiePie, IdubbbzTV, Leafyishere, DramaAlert, Internet Comment Etiquette,
+and I Hate Everything. The videos that had ads placed on them
+according to this rule created a data set
+of confirmed rated M videos. Many of PewDiePie’s videos
+were revealed as rated M, and those videos all performed
+very poorly compared to his other videos, but we’ll get into that in a second. None of I Hate Everything’s videos
+were served under the mature filter. He’s even said on Twitter that he thinks
+the bot is passing right over him. But why? Possibly because he’s doing something
+that the other guys don’t. I Hate Everything self-tags his videos
+as satire when he uploads. The satire tag seems to create
+some kind of flexibility that’s protecting his videos
+from the content filter. So I Hate Everything has benefited from
+this satire tag loophole, perhaps without even knowing
+it was the reason why, meanwhile other content creators, who also employ satire
+as a form of comedy, like H3 and PewDiePie and Idubbbz and ICE, have all had their catalogues of content
+slammed by this mature rating, -And I really want to talk about this,
+because I’m pissed, and I’m probably
+more pissed than I should be. -They show up on your videos,
+and that’s what it feels like. Pissed. You got pissed on your soul,
+and now you’re pissed, ’cause most of the time
+it just doesn’t make any sense. -Alright, listen, what we’re gonna do here
+is we’re gonna take away their money, and we’re not gonna fuckin’ tell ’em. “Don’t you think we should just
+talk to our creators?” That’s the YouTube way, isn’t it?
+Why would they talk to their creators? Better communication about this
+from YouTube could have saved those creators
+a lot of grief and confusion, not to mention
+all of the creators downstream who are creating similar content,
+and that mature rating matters, as Sealow, the lead researcher,
+puts it here. -Here are 10 videos from PewDiePie
+that were uploaded nine months ago. Two of these videos were rated mature. On average, reviews of a mature video
+are 3.3 million views, while the non-mature videos
+have an average of 6.65 million views. That is just over 50% less views
+for the mature videos. The community seem to agree
+with around 30%, but that is, of course, in the short term. These videos showcase
+the long-term effect, because when it’s mature,
+it won’t get recommended as much, which will eventually stack up over time. But as our research showed, the impact is much bigger
+for smaller creators. So the second wave of this ad campaign
+hunting for mature videos, this time targeted LGBTQ channels
+and women’s issues channels. The list of confirmed M-rated videos
+include Me Too videos like “My Story: Rape in College,” coming out videos like, “Coming out (or not)
+as a Gay Sri lankan Teen,” and videos concerning gay rights issues
+like “Homosexuality in Chechnya,” also “Growing up illegally gay
+Four life stories.” these are people who are
+speaking out about sexual abuse, or against homophobia, being rated M. These voices, which I believe
+that YouTube leadership does care about, are being suppressed
+by this clumsy rating system. so with that concerning pattern appearing,
+the last leg of the ad campaign targeted these keywords specifically. They placed ads on videos
+related to coming out of the closet, suicide prevention, and Me Too. the videos that were rated mature
+along that keyword cloud are heartbreaking to see. This is clearly where the results
+are the most concerning, because the bot can’t seem
+to tell the difference between a video that’s, let’s say,
+making light of suicide, and a video that’s aimed at
+dissuading people who are suicidal from going through with it. Look at this video for example titled “Before You Commit Suicide,
+Watch This Video First.” The comments are filled
+with people sharing how much this video helped them. Some people saying that watching it
+literally saved their life that day. it was rated M, and made harder to find. That should not be happening. if a young person
+is considering hurting themselves, this might be
+the video they need to see. There should not be an age limit
+on encouraging people to choose life. Next on the list, and similarly affected, we see first-person revelations
+of sexual misconduct. Part of the Me Too movement rated M. The recent openness about sharing
+and listening to stories like this was an important cultural moment,
+and censoring that directly undermines it. there’s evidence that
+tagging “Metoo” in the metadata, or putting Metoo in the title, whitelists it from
+the content rating system, but no one was told that. That’s not a clean solution if the whitelist is just
+quietly implemented by a programmer, and never communicated to the community. Regular people don’t have a crystal ball
+about what metadata to use for a video, so not every video related to Me Too
+used that hashtag, and they won’t in the future,
+not if you don’t tell people. YouTube is in a tough position. Whatever they do,
+they’re gonna get slammed, and on tricky topics, in lots of cases, depending who they side with
+determines who’s gonna try to sue them. One theory I have for why YouTube
+will never be completely forthcoming about what their scanning bots can do has to do with U.S. copyright law. In order to benefit from
+the safe harbor provisions of the DMCA, YouTube needs to be able to argue that they don’t have actual
+or red-flagged knowledge that users are uploading
+infringing materials. But the better that
+this artificial intelligence gets, the better that the machine learning gets, the more they have to admit that, yeah,
+they can kind of tell what everything is as soon as it’s uploaded,
+and while it’s still being processed. But when you’re supporting
+an ecosystem of creators who rely on this platform for a job, which YouTube leadership
+say that they want you to do — -So what we stand for
+is really four freedoms. freedom of opportunity,
+anybody to make a living on YouTube; freedom of speech, as important as ever;
+freedom of information, accessing it; and then the fourth one
+is freedom to belong. -That puts an enormous responsibility
+for communication and fair play on the company’s back. YouTube grew and grew and grew at any cost in order to become
+the dominant video platform, while the competition
+was crushed or faded away, so they asked for this.
+They wanted this. YouTube is the number two
+most visited site in the world, second only
+to the search engine that owns it. That’s the whole internet
+building around it. That is the world on its shoulders. In a year where the CEO of YouTube,
+Susan Wojcicki, has promised better communication and clearer policies,
+there are a lot of people, including me, counting on this to get better. So, solution: let’s have some clarity
+on this rating system. What specifically triggers a rating
+on a video-to-video basis? I know we’ve got some buffoons here,
+but trust your content creators to build their content
+to fit within those guidelines. They’ll adapt if they just
+know what they need to adapt. We’re already seeing that happening
+as channels learn the hard way and start trying to teach each other
+what works/what doesn’t work. Hey, don’t upload puke videos,
+don’t put “gun” in the title, use use the satire tag,
+use the Metoo tag if that’s accurate. This information should be
+coming from YouTube, not Nerd City. Not me, right? Not independent Swedish researchers who have to poke the site
+to see what it does. We’re trying to create things
+that will be entertaining, and that will be seen by people, but the implementation
+for the rules on how to do that changes from day to day
+and from week to week — secretly — and it’s incredibly frustrating
+to have to figure that out yourself from trial and error,
+or from other creators, or from whistleblowers. The best documentation we have for understanding
+what would trigger these ratings comes from a leak. Thanks to Tower Dog,
+whoever the fuck that is, we have a few pages of a document
+that was being used by human manual reviewers
+to look at YouTube videos, but the source was anonymous. This came out a few months ago
+before the whole Logan Paul Japan debacle, so the rules could’ve changed by now.
+They probably did. Why can’t we have
+something like this on the up-and-up? why can’t we get
+something better than this? Sure, there are nice Q&A sessions
+on the creator insider channel now, but at the end of the day,
+we still have to upload a video, and then get a result
+which we interpret ourselves based off of an on or off switch. Nothing is more frustrating than spending days
+or even weeks on a video, uploading it,
+having it pick up a mature rating secretly behind the scenes —
+we don’t know why — and then instead of being able
+to move on to the next creative process, or let’s say take care of responsibilities
+we have in our life, we have to spend the next few days
+changing out the tags, experimenting with the title,
+making a new thumbnail, bleeping the dialogue,
+re-rendering, reuploading, over and over, trial and error–style,
+until suddenly — ding! Mysteriously, the ad-friendly light
+changes from yellow to green. That is a baby’s toy, and it’s covering up for
+experimental, failing technology. Google’s Vision API,
+which is widely believed to be the tool
+that’s scanning thumbnails to determine their
+ad-friendliness or not, scans a thumbnail of PewDiePie,
+and sees that as racy. Sees a picture of YouTube’s CEO,
+Susan Wojcicki, as racy, and yet a photo of you-know-whos
+in a you-know-what group, it thinks is perfectly fine. That gets a clean bill of health —
+“Not Violent.” And I can’t even say the name out loud
+about what that is, because YouTube’s clumsy
+closed caption–scanning bot might think that I’m
+talking about you-know-what. This technology is fascinating, but it’s also fascinatingly
+bad at its job right now. If you’re gonna be pushing this through
+as a live update running the site, it’s got to be nearly perfect,
+and it’s not even close. There’s money being wasted,
+that’s obvious, but poor communication
+and poorly performing machine learning are creating important turning points
+in people’s lives. after the adpocalypse, people who were trying
+to make a living on YouTube have had to branch out
+into other sources of revenue to pay their bills. You’re seeing channels that normally wouldn’t otherwise
+care about selling t-shirts pushing their merch now. everyone’s into fashion all of a sudden. Diverse streams of revenue
+are becoming a necessity. YouTube even knows this,
+which is why they just acquired FameBit, which is a marketplace
+that connects creators with advertisers. That tells me that we’re gonna be
+seeing this even more than we already are. Thanks for watching,
+and subscribe if you’re new, because I promise you we are gonna get into something
+much more entertaining next time. 

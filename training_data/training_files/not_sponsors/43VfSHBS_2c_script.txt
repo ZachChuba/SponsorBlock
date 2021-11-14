@@ -1,0 +1,188 @@
+- What's up, everybody, Peter
+McKinnon here, and today, we're talking about how you
+can take photos like this and turn them into this,
+by creating your own Fantasy Composite Photos in Photoshop. And whoo, does it look badass. Pow, almost hit myself
+in the face on that one. Intro! (upbeat rock music) Whoa, okay, you might be asking yourself, Pete, what's a composite? And I would say to you,
+imagine a beautiful yacht in the middle of the ocean. Two chicks are on the edge of that yacht, sipping champagne, there's
+a flock of birds above, some dude is perfect
+mid-Pocahontas swan dive off the tail end, there's a
+couple scuba diving below, surrounded by a beautiful,
+colorful school of fish, a shark in the distance, and
+you say to yourself, how? How could that picture be taken? Well, I will tell you how, chances are, it was taken in several different stages. The chicks were taken separately, the dude swan diving was separate, the birds added in post,
+the fish added in post, maybe taken separately,
+but the main point is, all of these items were
+taken and put together into what's called a composite image. Now, why I call this Fantasy
+composites is because if you think about it, that yacht scenario could very well happen,
+you look at that shot, and you're like, cool, yacht
+party, that's a good photo. They did that very well. However, Banff National Park
+coming out of your dryer is not possible, and
+that is why I love it. Because you're presenting
+someone with something that they have never
+seen before, and maybe would never have thought
+of ever being able to see. You're just creating this brand-new thing. It's like the first time
+you saw a light saber, and you were like, whoa,
+why doesn't that exist? That's the coolest thing
+ever, cheers, George. The key is just looking
+at things differently. We walk by our dryers every day, we open the fridge every day, you put dogfood in the dog bowl every day. These are all potential
+photo opportunities that we can create these
+abstract composites from, using photos that we already
+have in our archives. I took that shot in Banff like, a year and a half to two years ago, and now I'm able to fuse
+these two things together to create something brand-new that's a visually stunning piece of art. So I think I'm gonna start
+a new series on this, kind of like an abstract
+photography series on how we can creatively think and come up with different ways to Photoshop and
+manipulate every day items or just creative ways to
+shoot and display our photos. If you guys like that idea and want to see more
+of this type of thing, let me know below, I'd
+love to hear your thoughts. But, with that being said, let's jump into how to actually do this, because it's a lot easier than you think. Okay, once you have your photo, whatever it is that you're gonna use, I'm using a dryer in this instance, you can use a microwave,
+you can use the fridge, you could use your closet,
+whatever, the toilet, you could use the toilet if you wanted to. But something that
+opens for this instance. If you want to follow along the best, it might be easier to
+use your dryer as well. So once you've taken that
+photo, bring it into Photoshop, it's gonna open up Camera Raw. I've already done a couple tweaks to it, and when you're happy with the exposure, I wanna make mine a little more blue, and I'll tell you guys why
+at the end of this tutorial. Just go ahead and hit Open Image, and you should be good to go. Now, from this point, we're
+gonna do a couple things. We're just gonna hit Command
++ J on that background, which is gonna duplicate it, and we're gonna drag that background there to the Garbage, just 'cause it's locked, and we just want access. Double-click on that, and name it Dryer, that way, we can keep
+things nice and tidy here. And then we're gonna drag in the photo that you're gonna use to
+make come out of the dryer, we're gonna use to make that Narnia, fantasy kind of thing here. So once you get the photo
+open, hit Command + A, it's gonna select all
+of it, hit Command + C, that's copying it, Command + W closes it, Command + V pastes it, hit OK, good to go. Make sure that layer is on the bottom, and we're gonna name that, Banff, that's Banff National Park, so
+we'll leave that right there. Now, it's important to say, the
+photo that you're gonna use, the two photos, need
+to work well together. If you don't have a photo that works well, it's gonna be hard to do,
+as an example of that, I did one earlier that
+just didn't look as good of the snow coming out of the dryer, and I tried to kind of make it, it just wasn't really working for me, so then I moved on to a different shot, which is this road shot,
+and woo, works way better. So take it from me, you
+gotta have two images that compliment each other that work well to get the best result. The reason this one works so well is 'cause we got those
+leading lines of the road that diminishes deep into
+the dryer that looks also, when you reverse that, like
+it's coming out of the dryer, so they're just two shots that
+compliment each other well. So at this point, we just want to make a, we're gonna reset our colors down here, by hitting X and D, that resets them. Make sure your foreground is white, you can hit X to do that. And then come down to the Ellipse tool, and we're gonna drag a perfect
+circle by holding Shift and dragging to around the
+size you think that opening is in the dryer, and then when you're happy, move that to the top layer,
+so that we can see it, and then move it into place. To get the best result, drop that opacity, so you can see exactly where it is. Now I can see that's overlapping,
+it's a little too big. So Control + T brings up the sizing box, and you can size that down
+to the appropriate size. Hit V to get back to your Move tool, and then just position
+to where you want it. I could maybe use it
+just ever so slightly, a little bit smaller, right
+there, and then move that over and boop, good to go, you can
+bring that Opacity back up. Now, while you are still
+clicked on that highlighted, hold Command and click the layer again. That makes it into a
+selection, so we can come down to the dryer layer, click that once, and then come down here to
+the bottom, Add Layer Mask. Don't do anything yet, don't
+hit anything, hands off. Hit Command + I, that inverts it, and now, we're just about good to go. You can go up to the
+Ellipse layer and hide it, which, voila, shows us
+the Banff road underneath. Essentially, we've just
+punched a hole in that photo, kind of like we talked about in the How to Fake Anything
+in Your Photos tutorial. So we clicked that bottom
+layer, the Banff layer, we can actually move that
+around wherever we want. So I am just going to move it here, I want to see move of the mountains. I'm happy with that, that looks good. Go back up to the Dryer layer, and then we're gonna
+drop the Opacity on that so we can see the road. Now I know a lot of you
+people in that past tutorials were like why aren't
+you using the Pen tool? Use the Pen tool, what's
+wrong with you, Pen tool! Don't use an Ellipse,
+but in this instance, I just need a perfect circle, and an Ellipse gives me a
+perfect circle, so done. Now in this instance, I
+want to cut out the road, I want to cut out those leading lines, I'm gonna use the Pen tool. So come on over here, click the Pen tool, it's right above the T for text. Come back over to the photo,
+and this what I'm gonna do, I'm gonna click on one part of the road that is in the dryer, if you will, and I'm gonna come all the way over, off frame, and click again. I've just basically made
+myself a guide, a line. I'm gonna go all the way over around the borders of the photo I'm gonna click back here, so
+that we're back on that line, and then I'm gonna click inside the dryer, so we've just cut that out, and connect where I
+started at the beginning. To make this a selection,
+hold Control and click, or right-click, right-click there, and select Make Selection
+and then just hit OK. So that whole thing is selected now. And now what you want to do is go over to the Mask on that Dryer
+layer, and hit Option Delete. And essentially, we just masked
+out the rest of that road that we selected with the Pen tool. From this point, you can hit Command + D, that deselects everything, and then we can drag that Opacity back up, and boom, Banff is now coming
+out of your dryer, what? And we're almost done at this point. All we wanna do is,
+duplicate that Banff layer because I want to make a
+reflection in the dryer door. So drag that to the top, hit Command + T, and then right-click or Control + click, and hit Flip Horizontal, and
+then drop the Opacity on that because we want to move this over, and it's a little bit hard to see, but we're gonna move that
+over into the dryer window, we're looking at this side here, I'll zoom in so you can
+see, I like it right there. And then we're gonna add
+a Layer Mask to that, make sure we go back to Brush,
+and we're gonna paint away everything we don't want
+for this duplicate photo, which is basically just about all of it. I only want the reflection
+that's in the door. But make sure your Opacity, up
+here, is all the way at 100. And then you can paint away
+everything that we don't want, which is just about everything,
+paint around that door. I only want that photo
+showing up on the glass part or the plastic part of my dryer window. So let's paint that away, just about done. You can make the Opacity full again, so you can see if you've missed anything. Clearly, I did, down here at the bottom, so let's just paint that away. And when you are confident
+that everything is gone, we're gonna drop that Opacity, because let's be honest,
+that doesn't look good. We want it to look like a reflection, and reflections are faint sometimes, especially in something like this, with really, really
+thick glass or plastic. So we're gonna drop
+that a little bit more, to right about there,
+18% looks good to me, but 17, because I don't
+feel like going up one. And there we go, we got
+a reflection in the door, it's subtle, you don't
+look there immediately, but if you keep looking at
+the photo, you notice it, and you think, damn, that's badass. Now at this point, Command + Shift + S, save this to your desktop,
+title it Banff Dryer, or whatever you were
+using, it doesn't matter. We just want a fresh copy of this PSD in case something should go
+wrong, we can call back to that. Good to go. Now, for explanational purposes, I don't recommend flattening
+layers all the time. I recommend working through layers and organizing everything properly, so that at the very end, you
+can go back and tweak any spot in that photo, but for the
+sake of time, we're flattening. Command + Shift + E,
+boop, flattens everything. Select that Ellipse layer,
+good bye, don't need it. At this point, you're done,
+it just kind of comes down to color grading, so for me,
+I'm gonna use one of my LUTs. And just go over here to Adjustments, we're gonna select Color
+Lookup, Load 3D LUT, and come down to Load 3D LUT, and come down to Kodak Killer, boop. That gives a really, really
+cool tint on the photo. I'm happy with that. However, I don't want that
+tint on the dryer itself, I just like that in the
+actual photo of the road, so I can hit B for Brush, make sure black is
+selected as the foreground, and I can paint away the effects
+of the LUT or that preset or whatever it is that you guys are using. But I'm only gonna paint
+away a little bit of it, because I like right
+here, my selection here, I like how a little bit
+of it shows right here, but it doesn't really show right here. So it feels like the photo
+is glowing out of the dryer. So go back to Brush, paint away
+the rest that I do not want. Good to go. And I will flatten
+that, happy right there. Actually, you know
+what, let's Control + Z, Zed depending where you live. Drop that Opacity a little bit,
+I don't want it too strong, I never want to put a lot
+at 100%, sometimes I do, but I'm feeling generous, we'll
+go 75, even though it's 74. I'm always one off
+today, it's interesting. Now the last thing I wanna do
+is add a little bit of warmth, a little bit of punch to this. To do that, you can
+come over here to Image, Image, Adjustments, Curves, and we can bring those
+blacks down a little bit to bring those highlights up. So the highlights are up
+top, blacks are down below, and the mid-tones are in the middle, when you're looking at a Curves bar. So if we drop those
+blacks down a little bit, and bring up those highlights, that's gonna make that photo
+look just a little more punchy, you don't have to make it so much, but just for the sake of this explanation, you can hit Preview here
+to see what you've done. You can see how I've added some Contrast. I'm happy with that, boop. Now the last thing I wanna do is make that glow a little more realistic, I want it to feel like the image is in fact coming out of my dryer. So with the layer
+selected, hit Command + J, this is an interesting way to do it. And my whole point with this, the whole thing I'm trying to do is show you guys different
+tools and different ways to do the same things,
+that you have a big range, a big toolbox of ideas
+and tips and creativity that you can use to do whatever it is that you're gonna do in Photoshop. 'Cause the more you know, the better. Is this the only way
+to do it, no, 100% no. But here's just yet another
+way to do something like this. With B selected for Brush,
+click your Color Picker, select something like orange or red, 'cause we want to show some
+heat coming off this photo. Hit OK, and now what we're gonna do, we're gonna bring that
+Opacity of the Brush down a little bit up here, that's flow. Bring that Opacity down to like 83, and I'm gonna paint where
+I want it to look like it is coming out and
+reflecting right here, a lot. I want it to go all the way around so it looks like it's
+glowing out of this photo. And then I'm gonna
+adjust the Opacity again, 'cause I want it to slowly dissipate as it starts to get
+further and further away from the actual image itself. I don't want it to be too strong, I'm gonna bring that down even more, 19, and just kind of slowly
+paint a little bit, just like that, looks good, give it a little bit of
+glow up there, and cool. So, now go over to your Blending Modes, come all the way down to Color, and whoa, that looks horrible. But remember what I said,
+we want to add your effects a little bit by little bit,
+so drop that Opacity to zero, and then just slowly start
+to bring that back in. But see how it looks like
+there's a reflection of light coming through that's
+making that right side glow. If you go too far, it doesn't work. But just a little bit, just a little bit, boom, right there. So it looks like the
+light is kind of leaking out of this photo into the dryer. I'm happy with that. You can further correct it. I crunched this a little bit more, I kind of took my time with that. You can use the Curves up here,
+Image, Adjustments, Curves, and you can go over to
+the Channel, select Red, and you can adjust just
+the reds using this Curves. If you want more, that way,
+if you want it less, that way. And you can play with
+these on different layers to get exactly what you want. So you can tweak that as much as you want. I went a little bit further here, and I really accentuated the yellows and painting different layers,
+and I just did that process that we just did with
+orange there several times up above, below, so that it
+really looked like the sun was baking through on this. So that is my final results. Let's go full-screen there, and boop. There you have it, that's pretty cool. So there it is, now you know how to make some cool-looking composites. And if you guys want,
+I will continue doing abstract photo tutorials like this to present you guys with different ideas that I think might be cool. I'd love to know what you guys
+think of this series itself, and if you have any ideas
+for your own composites, let's start that discussion below. But as always, thank you
+so much for watching. Hit that Like button if you got something out of
+this video and you enjoyed it. Subscribe, if you aren't already, and, and I will see you
+guys in the next video. I'm supposed to take my
+hat off at this point, but you're so far away, I'd have to like, I'd have to like run it up. (upbeat music) Gotta get warmed up, gotta get warmed up, gotta get warmed up. Mm hm! Mm. (fingers drumming) Is there any coffee left
+in this, a little bit. 

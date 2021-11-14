@@ -1,0 +1,188 @@
+It always cracks me up when I hear people
+say they love games that are “NES Hard”. I know what they’re trying to say - it harkens
+back to an era of brutal difficulty and actually puts your skills to the test; none of this
+hand-holding stuff we have today. But the thing is...like, have you sat down
+and played NES games lately? They kinda suck. Welcome to another Bad Game Design, let’s
+talk about it, but first an important announcement: Right off the bat, I feel like 50% of you
+are thinking “Now hold on there Buster BaconBuns, there are some good NES games! What about the Castlevania’s and Ninja Guy-Dans?” And yes, absolutely! In fact I’m gonna talk about ‘em so don’t
+steal my thunder okay? But the other 50% are thinking “Yeah of
+course these games are bad, they’re over 30 years old! Game design wasn’t even really a thing yet,
+why would you expect them to be on the same level as masterpieces today, like Fortnite?” And this is very true, so let me state my
+thesis up front - I want to analyze exactly where NES games and others from that era fail
+and how they could improve SO THAT we can implement better principles in titles today,
+but while still retaining the good aspects that people seem to look back on so fondly. There’s a reason some gamers are yearning
+for “the good ol’ days”, and while we are really good at putting on rose tinted
+glasses to block out the negatives, there certainly was some sort of magic to them,
+otherwise they wouldn’t be held in such high regard. Let’s break this down a little bit - first
+we’ll discuss the good and the bad of NES games in their heyday, and then we’ll talk
+about how games in the modern era are nailing homage while also advancing the formula we
+hold so dear. So what’s the big deal with NES games? Well, at their worst, they essentially replicate
+the arcade experience in your home, which was designed to be overly difficult on purpose
+in an effort to steal your quarters, but now since no money is involved the only thing
+it wastes is your time. “Op, you ran outta lives, sorry, guess you
+have to start the whole game over now!” Lives are the bane of my existence - their
+sole purpose is to push back your progress as punishment for losing them. And I think this is the main reason people
+say that NES games were so hard, but this my friends is what we call “artificial difficulty”. It’s not hard because it tests your skill
+to get past a certain hurdle, it’s hard because it removes your resources so that
+you can’t attempt the hurdle as often as you’d like. Instead you have to execute a perfect run
+of a level to even get back and try your hand at the obstacle that took you down. There’s a reason things like the Konami
+Code giving a ton of extra lives came into existence - if developers needed it for testing,
+how could they expect regular players to get through it unscathed? Now you could make the argument that as a
+kid you had more time on your hands so replaying the same levels over and over wasn’t as
+brutal as it is now for adults, since our time is more precious and we have to schedule
+out our commitments. But you know the old adage my grandma used
+to say “a lot of time to waste does not a Good Game Design make”. Inherently it’s less fun to go through the
+same section you’ve already beaten countless times before. Of course you get better with each attempt
+and can complete it faster or without losing as many lives. But when you fill your later levels with insane
+reflex challenges and cheap deaths or wear the player down without any respite, it piles
+a walk of shame on top of your failure, making you go back through the easy peasy levels
+you’ve already conquered so many times. When you reach a certain checkpoint knowing
+there won’t be any way your progress will be reset, it makes that checkpoint so much
+more rewarding, like a bonfire in Dark Souls - this is your new starting place. It builds on your previous accomplishments
+and just adds more, no 1 step forward 2 steps back nonsense. Conversely, checkpoints can also feel meaningless
+if they are too close together or there isn’t any punishment for death. A lot of modern games suffer from this, by
+simply not challenging the player and becoming boring in a different way. So it’s a fine balance, but I do like to
+think that saving progress is better than losing it. To give an analogy from content creation,
+it would be like putting together a perfect video, and then losing all your footage and
+edits due to a power outage with no backups - I may lose my motivation and not even bother
+starting the same video again. I’ve been watching my wife play the new
+Spyro remakes, which are some of the few games she ever played as a kid, and cracking up
+at her worry of starting the whole game over if she dies at zero lives, because I have
+to keep telling her games don’t really do that anymore. And I know without a doubt that if it did
+reboot her at the beginning with no collectibles, she would have quit and never came back. Now some games fix this issue by having a
+game over only set you back to the start of the stage instead of the entire game. There’s still some punishment because you
+lose your checkpoints of the current level, but you don’t have to start from scratch,
+which at the very least saves time and lets your accomplishments still be worth something. Some games also utilize a password system
+which is definitely a step in the right direction. I beat Super Mario Bros 3 for the first time
+on stream the other night, and man, it was super rewarding! I warped straight to world 8 and yeah, it
+was hard, but still felt beatable. I remember thinking there’s no way you would
+see stages like these in Mario games today, it really puts your skills to the test. That Bowser fight was top notch! But they also did a decent job of balancing
+punishment and leniency. Upon a game over, you start at the beginning
+of the world, but any airships or tanks are destroyed for good so you don’t have to
+play those levels again. And while you can randomly get sucked into
+the abyss by these omniscient hands, they actually are more helpful than harmful since
+the stages are very short and reward you with a valuable leaf powerup. The only parts you’d have to play again
+after restarting are level 1 and 2, but after completing the fortress it sets a new permanent
+checkpoint leading straight toward Bowser’s castle. But even then, I found myself using savestates
+after finishing certain stages because in the interest of time, I didn’t want to keep
+playing the same challenges I had already overcome. I probably would have stopped before finishing
+if I had to keep fighting through level 1 and 2 so many times, not out of lack of ability,
+but boredom or annoyance. I think this is why most virtual consoles
+have a savestate function built in nowadays. But there’s more at work here causing such
+frustrating experiences. If purely restarting from further back was
+the issue games like Bloodborne would not be as popular as they are. I think it comes down to enemy placement and
+level layouts. Developers used to be a lot more carefree
+with incorporating random elements into their games than they are now. Look at how the zombies pop up out of the
+ground in Ghosts and Goblins, it’s like “hey, sorry you got hit that’s the nature
+of the game baby, sometimes they’ll randomly chomp your legs off”. So many NES games feel like gauntlets just
+littered with enemies, no rhyme or reason to their placement. Telegraphing incoming danger is so vital to
+how a player feels when encountering obstacles. It’s the difference between feeling clever
+and like you read the enemy’s mind and feeling blindsided, like you were cheated out of a
+life. Now without a doubt, limited technology affected
+how much animation an enemy could show before attacking, but the level design often doesn’t
+help the situation either. Bottomless pits and one-hit KOs are all over
+8-bit titles and most of the time they’re combined with annoying enemies to make it
+even harder to avoid your demise. Add in faulty physics or committed jump arcs
+and sometimes your strategy feels more like luck than actual planning. Everything else can be just right, but if
+you don’t feel confident in your knowledge of how to tackle a barrier, it can ruin the
+entire experience. And finally, this is less of a big deal, but
+visually speaking NES games look old and gross and...what is that supposed to be? It’s pretty hilarious when you realize games
+used to just release with this little polish - glitching pixels and tons of lag were par
+for the course. Bethesda ain’t got nothing on this! Obviously games have come a long way since
+then and creators had to work with the tech of the time, but this is why the best games
+that pay homage to the classics don’t exactly play by the rules, and others that do use
+the same hardware...look like 30 year old games. Let’s look at Shovel Knight, perhaps the
+prime example of what a tribute to the NES era should look like. Yes it’s still 8-bit inspired pixel art,
+but they didn’t limit themselves to tiny color palettes, and utilizing a 16:9 aspect
+ratio allows them to show so much more on screen. I actually think that’s a big difference
+from old games that’s overlooked - it was harder to see what was coming because of the
+lack of widescreen. But Shovel Knight does so much more than look
+pretty - it perfectly shows us that you can still have a challenging adventure while also
+feeling fair. Enemies will always give you enough time to
+react to their behavior and often are introduced in a safe environment the first time you see
+them. Telegraphs are aplenty, especially for the
+big baddies and bosses, though obstacles are the same way, there’s almost never a time
+where you’ll be caught off guard or killed cheaply as long as you’re paying attention. See while there ARE flying medusa heads here
+too, they don’t appear if you’re close enough to the edge of the screen - great safety
+buffer. And while nasty one-hit KO spikes are bountiful,
+there’s forgiving invincibility frames, so even if you accidentally fall, you have
+enough time to recover and even skip past a few obstacles if you’re handy. Cycles match up pretty well too so you can
+sail through a stage at a normal pace and be fine, and if you do mess up in vertically
+focused levels, most of the time you’ll fall back down to safety and be able to try
+again right away. Most importantly, you learn how items, objects
+and enemies work before it builds in difficulty. The powerups are tucked away in single room
+puzzles so you know how to use them before you exit, and it prepares you to do some super
+gratifying tricks later in the stage. The first time you see this puking statue,
+it lines up with the gaps perfectly so you won’t get frustrated trying to fit it through. You’ll fall on snow or bounce on a dragon
+before you have any time to react, and in the process learn a new mechanic without even
+realizing it. Seriously, a master class in teaching without
+teaching. But perhaps coolest of all, is how Shovel
+Knight deals with death and checkpoints. Instead of lives and game overs restarting
+your progress, you simply lose some of your gold which can be reclaimed if you make it
+back to where you previously failed. But if you die again, it’s gone for good
+- a system many other titles have adopted in today’s gaming climate. This encourages you to improve without causing
+a HUGE detriment to your progress; you only lose roughly 25% of your total money, and
+makes way more sense than arbitrary lives that serve little to no purpose. Now there are several different checkpoints
+throughout a stage and you have infinite attempts to beat each challenging section, but even
+better, you can BREAK those checkpoints to gain an extra batch of treasure, but this
+causes you to restart at an earlier lantern if you die. This introduces an incredible amount of risk
+vs reward, do I take more money and trust that I’ll reach the next goal unscathed? Do I break every checkpoint and risk going
+back to the very beginning if I screw up? The reason this works so well is that the
+player CHOOSES this increase in difficulty. Death is way more punishing, similar to NES
+games of year past, but you have to opt in to this adjustment, so you have no one to
+blame but yourself. Shovel Knight doesn’t have a difficulty
+setting, but it builds one in naturally to the world by allowing this choice, and you’re
+really only increasing the amount of time investment required to win, each stage is
+still saved after completion no matter what. It’s incredible. But so many other games have incorporated
+stuff like this to improve on the outdated philosophy from the 80’s. The first Good Game Design I ever did was
+on Volgarr the Viking and how it utilized the isolation principle to teach you about
+its variety of enemies, and color coded the strength of your foes so you know how many
+hits they’ll take and be able to plan out your strategy accordingly. While bosses are intimidating they all have
+recognizable patterns so you can learn and adapt every single fight, nothing random or
+unpredictable here. It has pretty unforgiving checkpoints, but
+infinite lives to try again, and once you reach the next level, you’ll always be able
+to warp right to it by walking left when you boot up a new game. But there also IS reward for playing well
+- if you don’t take damage and collect the valkyrie orbs, you can try your hand at extra
+tough alternate stages in order to get the true ending, but this time you do have limited
+lives, so make every action count. Again, the player chooses this mode if they’re
+ready for the challenge, and not by a simple menu option, but by playing the game in a
+different way. The End is Nigh, while not visually similar
+to NES games, does have huge influence from their difficulty. Much like Super Meat Boy it’s all about
+shorter increments of platforming, lowering the punishment for failure but raising the
+overall brutality. But once you reach the first ending, it kicks
+things up a notch. Not only do you find yourself in much harder
+versions of the previous levels, but now you have a certain number of attempts based on
+how many tumors you’ve collected along the way. If you run out of tumors, you restart the
+current area, but you can also go back and explore the rest of the game to try and gather
+more tumors which will increase the number of tries you have in the endgame. You see, the player gets to adjust the amount
+of difficulty they want by how much their willing to collect, from none to simply beat
+the normal game to 450 of them to unlock a final insanely hard area called Nevermore. Oh and if you really do want to relive the
+glory days, there are secret carts you can find to play 8-bit style levels, which are
+easily the hardest in the game due to their limited lives mechanic. As you might guess, I didn’t bother completing
+them. So what have we learned today? Let’s recap. Yes there are good elements in NES games,
+mainly being able to challenge the player as long as the stages and enemy placement
+are well-designed and the punishment for death isn’t too exhaustive. A game over doesn’t have to mean starting
+from stage 1, you could allow the player to continue or show a password to return to their
+furthest accomplishment. But it can go further than that in today’s
+games - if lives don’t make sense, try out a different penalty that may still sting,
+but not cause a player to ragequit in anger, such as a loss of currency, highscore, or
+powerups. Make your level designs purposeful and allow
+the player to learn about an enemy, item or obstacle before throwing them into the fray. Random elements are obviously allowed but
+should be implemented with caution, and tested thoroughly to make sure unjustified deaths
+are nonexistent. And finally, if you want to really elevate
+the experience, offer an added final test that the player can opt into, at which point
+you can start throwing in nastier elements as long as you’re sure they’ll be skilled
+enough to handle it. At the end of the day it’s about making
+sure the player feels capable by providing a fair and clear challenge, then driving home
+the accomplishment by ensuring the player used their own wit and ability to overcome. You want to work with the player, not against
+them, to create as fun and meaningful of an experience as possible. Can you think of a modern game that wears
+the true essence of “NES Hard” on its sleeve? One that’s difficult but not in a cheap
+or fabricated way? Or maybe there’s another old-school title
+I didn’t mention that really does implement fair challenge and picks the player back up
+from their mistakes, tell me about them in the comments below and let’s talk about
+it. So the next time you hear of a game that claims
+to have the insanity of the NES days, make sure it has more to offer than frustratingly
+unavoidable obstacles and artificial difficulty curves. Although I guess that’s better than just
+saying everything is like Dark Souls. Thanks for watching another episode of Bad
+Game Design, I’ll see you guys next time. Stay frosty my friends! I’ll see you next time, bye! This month’s Patreon shoutout goes to Marcus
+Ebensteiner, whom I love with all my heart and I can’t rhyme with Ebensteiner. 

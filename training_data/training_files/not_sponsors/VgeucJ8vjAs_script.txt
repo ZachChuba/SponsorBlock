@@ -1,0 +1,94 @@
+- Fuel rails, fuel pumps,
+throttle body, multipoint, direct. That's right, we're talking
+about fuel injectors. Thanks to Squarespace for
+sponsoring this video. From websites and online stores to marketing tools and analytics, Squarespace is the all-in-one platform to build a beautiful online presence and run your business, if you got one. Squarespace. If you don't know by now,
+engines run on fuel and air. And there's a bunch of
+ways to get fuel-air mix into the engine. Sometimes, it's a carburetor, but more often, it's fuel injection. Somebody get me some coffee? Just like the right mix of coffee and cake can get me going in the morning, an engine needs a perfect
+mix of fuel and oxygen to function efficiently. Fuel injectors are engineered
+to deliver this mix to the cylinder to create an explosion that produces the most power and least amount of dirty,
+dirty exhaust as possible. This ideal fuel to air
+ratio is 14.7 to one. That means for every one unit of fuel, 14.7 equivalent units of air at sea level are needed to achieve complete combustion. This is referred to as
+a perfectly balanced stoichiometric air-fuel ratio. My ideal ratio is 36, 24, 36, 36 parts flour, 24 parts
+chocolate, and 36 parts sugar. I love cake. Engines didn't always have
+fuel injectors though. Before fuel injections,
+engines needed carburetors. Check out the episode on carburetors. Fuel injection has a number
+of benefits over carburetors. Benefits include easier cold starts, better fuel efficiency, and more consistent
+transient throttle response, like quick throttle transitions. And sometimes, even
+variability of fuel delivery, depending on drive modes. Fuel injectors also make sure that the amount of fuel
+being sent to the engine is consistent across all cylinders, preventing inconsistent fuel distribution and inconsistent power delivery. Get it. There are three types of fuel injections that you're likely to see on modern cars. Port, direct, and indirect. But let's start with the injector itself. Fuel injection is fed by the fuel rail, which sits atop the cylinder bay. Because of the pressure
+from the fuel pump, fuel gets forced in the
+injector from the fuel rail and through a small filter
+inside the injector. Oh crap, I just said fuel five
+times in the same sentence. If I don't say the counter-spell,
+the pig's gonna appear. Nickelback, Nickelback, Nickelback. Okay, alright. Once inside the injector, the
+gas hangs out in the reserve, says hi, grabs a drink,
+and maybe a small bite, waiting for the moment to spray. Then, when it comes time, an electromagnetic coil
+pulls the plunger up, opening the pintle injector, spraying fuel out of the nozzle. Sprays happen multiple times every second, and every spray's an exact amount of fuel. The timing's controlled
+by an electrical signal from the car's computer, and it works in concert
+with the spark plug to create the sweetest music. Early fuel injection systems
+worked much the same way that a distributor cap
+fires at spark plugs. It was mechanically timed. So you're probably thinking, okay, now I know how a fuel injector works, but what are the different
+types of fuel injection, Nolan? Well, I'm going to get to
+it, and my name's not Nolan. Port injection, sometimes referred to as
+multipoint port fuel injection, means that fuel is delivered
+via separate fuel injectors for each cylinder delivered
+with the fuel rail. Port injection starts
+at the intake manifold, where the injector's housed
+right above the intake valve for the cylinder. When the throttle body opens and allows the air into
+the intake manifold, the fuel injector sprays gasoline, and a slurry is created. No, I'm talking about Steph Slurry of the Golden Slate Slurriers. I'm talking about a mix
+of air and vaporized fuel. During the intake stroke of the cylinder, the intake valve opens, allowing the air-fuel
+slurry into the chamber, where it's then exploded. Port injection has a number of upsides. For one, it's cheaper to produce than any other type of fuel injection because you don't have
+to worry about protecting the fuel injector from the
+pressure of the cylinder. Additionally, the force of the slurry being sucked into the cylinder
+through the intake valve helps to clean the valve itself. A downside to port injection
+is that it's not as efficient as other fuel delivery systems. If port injection was a type of cake, it'd be store-bought yellow cake, you know, like from a box. It might not be homemade, but you know the icing's
+gonna be evenly distributed, and every bite you take's
+gonna be the perfect ratio of cake to icing. Cake Garage. Another type of fuel injection
+is direct fuel injection. This category's a little more broad, and it's used in both
+gasoline and diesel engines. There's two different types
+of direct fuel injection for gasoline engines. What are they? Well, I'm glad you asked. The two types are wall
+guided and spray guided. In a wall guided fuel injection, the fuel nozzle's not
+above the intake valve, it's inside the cylinder. After the air rushes in
+during the intake stroke, gas shoots out from the side. It hits a specially shaped cylinder head, also called a swirl cavity, and that mixes it with the air. The angle of the cylinder
+head creates a vortex of air, and this vortex helps mix
+vaporized fuel within the cylinder so when the spark ignites the mix, the explosion is (kiss) oh so beautiful. Side note, my dentist keeps yelling at me because the cake vortex in my mouth is causing swirl cavities. I might have a problem. Spray guided fuel injections,
+similar to wall guided, but it doesn't use a swirl cavity to create the air-fuel mix. Spray guided uses a special nozzle that sprays perpendicular
+to the cylinder head, so it can vaporize the
+fuel and mix with the air before it gets ignited. Alright, you might recognize this. We're going to see what happens first when we just put gas in without a vortex. (explosion) - Whoa. - We've created this little mock up to see if we can create a vortex to ignite some gas. Let's do this fellows. Give me like eight squirts. (explosion) Oh. We got a pretty sweet
+explosion with the vortex, so because we can, let's
+launch this cutie into space. Gentlemen. I think we're probably good. (explosion) - Oh. (laughs) - I think we're probably good. Direct injection also has a diesel cousin. In fact, diesel engines
+have been fuel injected long before traditional gasoline engines. The biggest difference between
+the diesel and gas versions of direct injection is the
+shape of the swirl cavity and the pressure at which the diesel's sprayed into the cylinder. Because diesel's got a
+higher viscosity than gas, a high pressure spray is
+vital to mix it with the air. I can relate. My cousin Jason's been
+putting pressure on me to take his CrossFit class, keeps spraying me with Muscle Milk and telling me to trust the process. CrossFit. No thanks Jason. I don't want to do 200 of anything. Direct injection's got
+an advantage over port and indirect injection
+because the intake valves don't have to be open for it to function. This translates to better
+fuel economy, more power, and the injectors don't have to wait for the timing of the intake valves. After the initial blast of fuel and the ignition of the air-fuel mixture, some extra fuel can be
+released mid power stroke to give a little more oomph. You take your good with the bad though. A direct injection isn't perfect. All those extra gas squirts
+creates higher temperatures and pressure, which can seriously
+stress out the cylinders. In addition to being
+more costly to produce, carbon buildup in the cylinder, mainly around the intake valves, really common in direct injection systems. Carbon is a byproduct of
+combustion, you silly geese. The third type of fuel
+injection is indirect, which is specific to diesel. Not all diesels use
+it, but only diesels do because of how diesel fuel ignites. Indirect fuel injection
+uses a pre-ignition chamber located above and outside the cylinder. Swirl chambers, aircell chambers,
+and pre-ignition chambers are all different components, but basically perform the same function in indirect fuel injection systems. In these chambers, gas
+and air are pre-ignited before being delivered to the cylinder. Fuel's released, air's
+pumped in from the piston, compressing air in the cylinder, and the device called a glow plug completes the ignition of the mixture. The shape of this chamber's
+designed to swirl the air and make it as turbulent as possible, ensuring that the fuel completely mixes and has the added effect of making the combustion more efficient. The pre-ignition chamber
+in these indirect systems means that pressure can be lower than other diesel engines, which, in turn, makes
+manufacturing them more simple and less expensive. Indirect injection also makes it possible to make smaller diesel motors that can produce higher engine speeds. Pretty good. The downside? Glow plugs are needed
+to start these engines, and those only grow on trees. Mazda's doing some crazy
+things with their prototype SkyActiv-X HCCI engine. It takes the best of both worlds, combining the high compression,
+very fuel efficient, lean combustion of diesel engines with the availability in
+reduced pollutants in gasoline. It wouldn't be possible
+without some tricks that they use involving turbulence
+in direct fuel injection. You want to learn about
+the SkyActiv engine? Well, get a time machine
+and travel to the future because I haven't made that episode yet. Fuel injectors. Miracle Whip, Science Garage,
+New Car Show, Up to Speed, Car Boy, Frenemy. Click this little yellow subscribe button and you can get access to all these shows. It means a ton to us that you
+guys support us and watch us. Tell your friends. Follow us on Twitter and
+Instagram @DonutMedia. You can follow me @BidsBarto. Not only do we have great content, but we've got things you
+can wear and put on your car at shop.donut.media. Don't tell my wife about my cake habit. 

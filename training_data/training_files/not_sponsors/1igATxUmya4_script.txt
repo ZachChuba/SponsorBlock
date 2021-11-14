@@ -1,0 +1,75 @@
+(car engines roaring) - The sound of an engine makes us excited in the most primal way. We step on the gas, feel that engine roar and our adrenaline just starts pumping - Whoa whoa what are you doing man? - What do you mean? - What's up with your voice? I always sound like this. - No and it sounds low and weird. Just be yourself alright, it's enough. Alright we ready? Rolling? - Sound. (chuckles) What about a car makes it iconic? Is it the body? The engine? The sound? (car engine revving up) (laughing) - [video Audio] That was cool - Well as technology advances, cars are becoming more
+efficient in nearly every aspect including sound. (car accelerating) Cars are quieter than ever before because of reasons ranging from government noise regulations to turbo chargers which can muffle engine noise to increasingly insulated cabins. But it's not what we as car fans are used to. Drivers need dynamic feedback. How do you give them that? It's simple really, artificial sounds. Your phone clicks like a real camera when it takes a picture, right? And your girlfriend laughs at
+your jokes that aren't funny. It's pretty likely that the sound of the engine you hear from your driver's seat is not the actual sound
+your engine is making. It's enhanced. It's a skeuomorph. What's a skeuomorph? Well it's a derivative object that retains ornamental design attributes from the structures that
+are inherent to the original like linoleum tile and that weird plastic
+that looks like leather. That stuff freaks me out. Audio skeuomorphism refers to ornamental sounds that are
+relics of older technologies. As we advance beyond
+older technologies like film cameras and hard cover books, transitioning to new tech
+can sometimes be jarring and cars are no exception. You car's blinker is an example of this. The sound of the turning hah, turd. The sound of the turning signal used to be caused by
+actual electrical contacts and coil springs inside of the dashboard. But since cars have evolved to not use those technologies anymore, those sounds are simulated now. (turning signal ticking) Engine sound enhancement has only become prevalent
+in the last ten years but engineers have been
+tweaking your car's sounds for a long time. Around 2011, BMW came out with a new gen M5. They swapped out their
+naturally aspirated 5 liter V10 for a twin turbo charged V8. Although the horse power went up, the sound that many had
+known and come to love went down. The smaller engine and quieter cabin meant that drivers couldn't hear that M5 roar quite like they used to. (engine roaring) While less noise might
+sound like a good thing, you don't buy an M5 to feel
+like you aren't driving an M5. So BMW's solution to this new, quieter cabin, was to play an audio track of the engine through the car's speakers. (engine roaring) The technology called Active Sound Design is linked out to the M5's ECU and accurately replicates
+the sound of the engine over the full range of RPMs, torque loads and vehicle speeds. So while it closely
+follows the engine levels, it's still just an audio track that plays through your speakers. Volkswagen has their own methods of beefing up engine sounds too. (engine revving) VW started using a device
+called a soundaktor, German for sound actuator. This hockey puck shaped speaker is said to amplify real
+engine sounds from the car. Others say that the noises
+are just pre-recorded but Volkswagen adamantly
+denies these claims. What are you hiding this time Volkswagen, other than your emissions!? Woo! Some diesel that Volkswagen manufactures have exhaust soundaktors
+that produce a low-end roar. The sound actually comes
+from a speaker mounted within the exhaust system and is intended to make the diesel engine sound more like a
+conventional gasoline engine. Honestly with all the emission stuff that came out about them, I really don't know who to believe. Truth is out there, somewhere. Ford has patented their
+own sound technology dubbed the sound symposer. This function works differently than BMW or Volkswagen's systems. When cruising the car is quiet (engine revving) But when the driver smashes on the gas, (engine revving louder) a resonator pipe connecting the engine bay to the cabin opens up, amplifying natural engine sounds. The best part about this system is that it's customizable. If you like the sound, you can choose when the valve opens. If you don't like how it sounds at all, you can turn it off completely. The Mustang eco boost however, uses a different system
+to boost engine sound. active noise control is modeled after BMW's active sound design and plays augmented engine noises through the car's stereo speaker. It also uses noise cancellation which is a whole other beast. Active noise cancellation
+employs the same physics as your noise canceling headphones you might have at home. Small microphones record ambient
+noise from outside the car, then replay the audio but invert it so it cancels
+out the outside noise. Um, I'm not qualified to
+explain how that works because I got my degree
+in television production and not physics. Much like a meal at a fancy restaurant, presentation is muy importante when it comes to selling cars. The first impression is
+often the lasting-est You can usually tell the quality of a car before you even turn the engine on. Obviously, looks and styling are a big part of that but a more subtle feature you might not have been conscious about was the car door. (doors slamming) You can tell a really
+nice car from a cheap car by the sound of the door closing. A satisfying deep thunk (door thunking) is preferable to a plasticy (weird door slamming sound) Engineers took note of this when new, stricter safety regulations were put in place to strengthen car doors. Extra metal needed to
+be added to car doors to bolster safety during crashes and car manufacturers had to strip weight from other parts of the
+door to balance it out. The result changed the
+way the car doors sound and ended up making them sound tinnier From a sales standpoint, the car door provides the first impression of a car to a consumer. If a potential buyer is
+walking around the showroom, they open up the doors
+of many different cars before they even have
+a chance to test drive. So manufacturers can't have a rogue sound messing up potential sales. Engineers got to work
+redesigning the door sound. Dampeners were used to
+counteract the tinny sound and locks were tuned
+to provide the perfect (door slamming) Consumers got that satisfying (door slamming) but it's not always the sound
+that needs augmentation. Sometimes the feel of shifting
+needs artificial help too. Ever heard of a continuously
+variable transmission? CVTs as they're often called, are found on many, many vehicles nowadays. They're different from a
+traditional transmission because they seamlessly
+transition through gear ratios. When using a traditional
+automatic transmission, it is apparent when you shift gears because you can feel it. There's a drop in the RPM and a jerk from the gear catching. But it's different with a CVT. There are no gears to shift to so there is no delay or drop in RPM. When CVTs or shiftless transmissions first made it into production vehicles, the feel of it was
+unsettling for some drivers. The high and continuous rev when accelerating gave
+drivers a motorboat feeling. (motorboat engine) So engineers programmed
+in fake gear changes to appease people that were used to
+conventional transmissions even when it served no real purpose. (car engine roaring) When we think of loud engines, electric vehicles don't
+usually come to mind. EV's are usually silent
+or quietly whirring away (electric car engine revving) This is actually a problem as EV's are sometimes too quiet to notice when they're coming straight at you. A study done by the University
+of California Riverside found that their subjects
+had to be 74% closer to hear an electric vehicle
+over a combustion engine and another study done by the Guide Dog's for
+the Blind Association found that pedestrians
+were 40% more likely to be hit by an electric
+or hybrid vehicle. I read all the studies done by guide dogs. They're great authors. Both the U.S. and European union have set mandatory guidelines for sound produced by electric vehicles, set to go in effect in 2019. The guidelines state that electric vehicles must produce an audible sound when traveling
+under 19 miles per hour to alert people in the car's vicinity. At any speed over 19 miles an hour, the wind and tires produce a
+sufficient amount of noise. Law makers are thinking
+of allowing car makers to let the driver choose
+between different car sounds which will be either really awesome, or just totally lame. What if they charge you for like a cooler sounding car? Like your base model is
+like this little 'vroom' but then like you pay
+like an extra $ 4 000 and it sounds like a (loud, cool engine revving) - There's fire in the system - One car trying to purr a little more is the brand new EV from Jaguar. The I-pace is Jaguar's
+first electric vehicle and boy howdy it's fast. I'm talking 1.8 seconds from 0 to 60. Woo! Jaguar's new technology, the acoustic vehicle alert system, fits in with the new guidelines
+imposed on electric vehicles. It used to sound kind of like spaceship (I-pace car engine revving) but people kept looking up so Jaguar had to redesign it totally. Sound is an incredibly important part of the driving experience. It's the whole reason
+highschooler's put fart cans on their car. (trumpet) It's fun to have something loud. It's like the car is talking to you. (car engine revving) But how far will we let car companies go pumping fake noise into our ears? Maybe it's better not knowing it's fake and living the rest of our
+days in ignorant bliss. But if you're still watching this then I guess, too late for that. Alright, bye. Thanks for watching Wheelhouse we look at the weird stuff
+in the car world every week so hit that yellow subscribe
+button right there. If you like good sounding cars, check out this episode
+of Up To Speed right here and check out last week's
+episode of Wheelhouse right here. Follow me on instagram @nolanjsyke follow donut @donutmedia Be nice, I'll see you next time. 

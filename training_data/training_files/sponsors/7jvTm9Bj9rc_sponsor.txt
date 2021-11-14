@@ -1,0 +1,1 @@
+docs uses the Ergo Docs design which keeps you comfortable typing away for long periods of time and features qmk firmware and hot swappable key switches 

@@ -1,0 +1,117 @@
+- Now, Walmart doesn't sell
+their gaming PCs in Canada, but there's no way that
+that was gonna prevent us from getting our hands
+on the next generation of Overpowered gaming PC. Now, I have heard through the grapevine that the Walmart gaming desktop PC, as they call it, might not be all that
+it was cracked up to be. But, I have intentionally
+sequestered myself, I have not watched Gamers Nexus or Bitwit's content on this, so that I can experience
+it for the first time in all of its glory for myself. Now, Ivan. You have already peeked under the hood, have you not? - Yes, sir. - Don't spoil it. - Aye, aye. - And this video is brought to you by-- haha, no, I'm just kidding. The Be Quiet! Silent Base 801. It offers great usability and utilizes noise-dampening vents to keep your PC quiet. Check it out on Newegg at the
+link in the video description. (upbeat electronic music) Now, my first impressions of Walmart's Overpowered lineup of
+gaming PCs was, what? Followed shortly by, dang, those are some pretty
+good specs for the price. That's very competitive, much better than I expected. Also, the configurations
+made a ton of sense to me. It was almost like they
+had gone out of their way to find someone who knows
+what the crap they're doing to configure their systems for them. I mean, i7-8700 processor, okay, it's not a K, it's not
+overclock-able or whatever, but like, that's fine, it's a prebuilt. GTX 1070, 16 gigs RAM, 256 gig SSD, it looks like the kind of
+thing that I would put together for, you know, 1500 dollars or so. Opening up the package, we get an actually not terrible
+looking quick start guide, certainly seen worse. Connect your power, connect HDMI or DisplayPort
+on the graphics card, they specify which one to use but they don't actually have
+a great diagram of that. Oh, boy. That's not right. Connect your PC with an ethernet cable to hard-wire your device. Not particularly descriptive. - Spelling mistakes? - Ah, I didn't even notice that. In terms of accessories, got a adequate quality
+looking power connector, piece of Velcro,
+double-sided Velcro stuff, presumably for stashing this somewhere, and then you can grab it
+off with Velcro, I guess. That's your RGB thing. Okay, so, more OP posters
+to hang in my room, cause I'm OP like that. What is this, this is water. - So you're gonna be like, overwhelmed by the OP-ness of it and you're just gonna be like, oh! - Did you just say,
+overwhelmed by the penis of it? - OP-ness. OP-ness. OP-ness. OP-ness. - This is a pretty cookie-cutter sort of vinyl decal here, but it's better than absolutely nothing, which is what a lot of
+system integrators do. These are more expensive than you'd think. So, to make our performance
+test as fair as possible, Ivan has actually sourced an identically configured prebuilt system from those HP guys, so that we can get some idea of whether it performs as
+expected out of the box. Let's start with that. Although, one thing
+that does give me pause before I even get that far is the non-powder-coated power supply. It's just got like a simple gray back. I remember asking a
+power supply manufacturer how much it costs to
+powder-coat a power supply and I think it was somewhere
+in the neighborhood of like tens of cents. So it's not usually a good sign, when they save that tens of
+cents on an aesthetic coating. Even though, in fairness, it doesn't contribute to performance. We're gonna have to look
+it a little more closely once we open it up. Actually, this is bizarre too. I've never seen this before. A USB-C on a little dotter board thing here? And why the hell would
+they put it way up there? Now, just to double-check, this is configured the same as this? Are there any key differences? - No. Which is why specifically
+I picked this system to go head to head. And price difference is about 100 bucks. This is 1400, this is 15. - Okay, here we go. It's got RGB. Color-changing works as expected, oh, and the back fan is RGB too. What can happen sometimes in shipping is, okay, well I've never
+seen it like that before. - Neither have I. It has latches. - Yeah. This just looks like they
+outright forgot to plug it in. I'm trying to think of what the workflow-- wow, that is the cheapest
+looking motherboard, maybe not that I've ever seen, but wow, is it ever damn close. You know how they say first
+impressions last a lifetime? This is not a good first impression. Holy (beep), I just noticed that the only onboard video output is VGA. I mean, not that it matters, we wouldn't be using the onboard video, but like, what year is it? Oh, the year's right here. Manufacture date, October 2018. No, I didn't go back in time, I just thought I did, because that was a VGA
+connection on there. All right, what game are we starting with, or should we start with
+like, a CPU stress test? - Yeah, the synthetics. - Okay, set a bench. Okay, we're in the home stretch here, and this is about as
+neck-and-neck as, I think, I could imagine it being. Okay, yeah. 199 for the Walmart Overpowered PC, 199 for our Omen. Okay, now let's try multi-core. Interestingly, our Overpowered PC actually came out ahead in this one. 1312. You wanna punish it. All right, fine. I mean, it's fair. IBT is a fair test. So I'm gonna open Task Manager as well, so we can verify that
+our CPU is 100% loaded. So right now I'm at 4.28 gigahertz, what are you at? 4.29, okay. - Keep in mind this has a
+third core monitoring as well. - My system took longer to start the test. No, it's being hit now, it's all loaded into RAM. I'm at 4.1 gigahertz. I'm running faster than you. So have they configured this system to use an all-core turbo on those VRMs? Now the thing to note
+is that our Omen desktop is actually adhering to Intel's spec while this one is technically
+kind of overclocked in a way that some
+aftermarket motherboards will be configured, out
+of the box, to operate. Something to note, though, is that while ours
+seems to be working fine even in an all-cores-loaded stress test, your mileage may vary. We might get a really good CPU that handles all-core turbo just fine. Your system might be unstable. We can only judge what's
+in front of us, though, and so far this thing is
+managing 4.1 gigahertz, all cores loaded on its 8700. And with temps that are in
+the 50 degree or so range. So to put that in context, that's probably about 35
+degrees above ambient. It is pretty chilly in here today. No! The front ports are all USB-2! That's why they have that
+weird USB-3 thing on the back. Why would they? How can you ship a system in
+2018 with USB-2 front ports? That's why they had the
+internal header free, for that weird thing at the back. They don't have front USB-3. What is this, why did they
+create four partitions for the hard drives? What possible (beep)
+purpose could that serve? They do know that
+partitioning a hard drive doesn't do anything, right? Like, with respect to reliability, ease of organizing files? Why would you do that? - [Ivan] Maybe, make it easier for people to compartmentalize their files? - It's called a folder! (taps keyboard forcefully) Now, we're not judging
+game loading times here, just because Shadow of the
+Tomb Raider is installed on a hard drive here and an SSD here, so let's ignore that. But that doesn't affect
+gaming performance. (beep) Uh, we were wrong about that. I don't know, maybe it
+has to do with the fact that we're loading new scenes
+of the game so frequently? Anyway, the point is, we've got all our games on
+the SSDs for both systems now. Let's click run, and let's see them side by side, baby. Everything's looking pretty normal so far. This one actually seems to be maybe running a touch faster? But I guess. Holy crap, so I went to change the color and it turns out there's like a bazillion different patterns if you
+keep pressing this LED thing, I swear I've been through
+fifty different patterns at least, already. What the crap? This is about as RGB'ed
+out as I think it gets. What is this? I will give them credit. The system actually looks
+pretty sharp and pretty clean. I mean, for now. The only issue is that these intakes are completely unfiltered, so it's gonna look like
+ass pretty quickly. But anyway. It comes down to the results, let's have a look. Average FPS, 86. Mins look reasonable. Things do not get any better
+in Assassin's Creed: Origins. This is at Ultra 1080. So everything looks fine. 63 FPS compared to 71. Okay, yeah, that's an improvement. But if you look a little closer, the CPU frame times are 50 milliseconds, whereas our CPU over here is 9. So you can clearly see
+the GPU is the difference, so that's where our frames per second actually isn't that much higher over here. But our CPU is performing
+way better for some reason. Okay, bringing us to
+our last one, Deus Ex. Same thing here. If all we look at, this is exactly why you can't just trust average framerates. 87.8 versus 88.2 over here, but the minimums are over
+10 frames per second lower. That is like, 15, 18 percent? Probably about 15 percent. That is nuts. Okay, let's get the HP outta here, and let's tear this thing down. So I'll take this, no, no, it's fine, we can leave it here. Now this'll be the first time that we're taking off
+the other side panel. So there's a few things
+I really don't like here. Number one, that is a
+single 16-gig stick of RAM. I understand the argument to
+be made for upgradability, but single-channel memory? Oh, I wonder if that's what's
+killing our CPU performance. Anyway, single-channel memory cuts your bandwidth effectively in half. Also, these wires? I don't know what better
+way to describe them than as pinner. These are really thin wires. These are providing all the
+power for your motherboard. We do get an 8-pin connector for our CPU, so I guess that's probably
+a relatively good sign? - [Ivan] Look again. - Wait, what? Oh, no, never mind. It's an 8-pin connector
+on a 4-pin on the board. Can they get something right here? Okay, that's far from the worst
+cable management I've seen. This is the weird thing
+about this whole experience, is that there's these
+sprinklings of competence, but then somehow they've
+ended up with an end result that is underperforming for
+the hardware that's in it, by this very significant margin, and just has these
+confoundingly stupid errors. They hot-glued on the USB-3 connector, why would they do that? That's not even a connector that is generally known to come out. If anything, these things
+can be so hard to remove that you can end up ripping
+the housing off the board when you try to unplug them. What a strange thing to do. And then they didn't
+even hot-glue this one. There's just these weird
+sort of moon logic things going on here, where if we see this as a concern that needs to be rectified by hot glue, why is it a concern here but not here? It's the same connector. All right, it's not super light, but it's also a Great Wall unit, who aren't really known for making amazing OEM power supplies. So it's a 500-watt unit, of which 21 of the 45
+amps on the 12-volt rail are dedicated to the CPU, apparently, and then you've got 24 amps left over for I/O, whatever that means, so it's a 2-rail power supply which means that you can't have any more than about 300-ish watts? Now there is one more thing
+that we can have a look at here. Let's see how good of a job they did of their thermal compound application. Frankly, I don't know what to expect, because some stuff has been done to a reasonable degree of competence. Like the cable management, honestly, considering that the parts for this system only come to about 60 dollars less than this completed system, so they're only charging
+us 60 bucks for assembly. That is definitely a 60
+dollar assembly job for sure. I consider it quite adequate. But then there's other things, like not having the
+graphics card plugged in, that are just unbelievable. No concerns there. This was probably the
+pre-applied thermal compound on this heat sink, though. So it's a little bit
+of a heavy application, but it's quite thin where
+these direct contact heat pipes actually touch the
+integrated heat spreader, so I really have no concerns there, and I didn't see anything about the thermal
+performance of the system that raised red flags. And that's the thing. I think the bottom line here is that, even though they're not really making a huge amount of margin on this thing, and they're not charging
+an unreasonable amount for what you get, there's just these gross errors
+in the configuration of it that make it impossible to recommend. USB-2 ports on the front panel. What is that? And the motherboard, it
+needs a significant upgrade so that you don't have
+to give up performance in order to get upgradability. You should be using a proper
+board with 4 memory slots, and while you're at it, a
+little bit more expandability. What it really feels like to me, is that they blew the motherboard and power supply budget on RGB lighting. And I get that RGB is like, for gamers. But first and foremost, gamers need performance and stability, and right now, this system
+just has too many red flags for me to possibly recommend it. And this whole thing is unfortunate, because I had really wanted
+to be the contrarian. I thought maybe Steve was being
+too nitpicky or something. Not that Steve would ever nitpick on a minor technical detail, not Steve. But I thought maybe he was being nitpicky or something like that, but I'm just in a position where I'm just not comfortable telling anyone
+to buy this thing, either. Thanks for watching, guys. If you dislike this video, you can hit that button. But if you liked it, hit like, get subscribed, or maybe consider checking
+out where to buy this, I don't know if there's
+anything in this video that we featured that I would necessarily recommend buying at this point in time. But maybe we'll put
+something fun down there. While you're down in
+the video description, you can also check out our merch store, which has cool shirts like this one, and our community forum, which is definitely worth joining. - I was gonna be smart and give you a hint about CPU performance, like what were you before you met Ivan? - What, sorry? - What were you before you met Ivan? - Single? - Channel. 
