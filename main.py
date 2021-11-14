@@ -36,4 +36,4 @@ def custom_standardization(input_data):
                                     '')
 
 if __name__ == '__main__':
-  process('This video is sponsored by free')
+  process('If you use the code ABC you will get 50 percent off')
