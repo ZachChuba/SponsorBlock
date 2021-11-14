@@ -8,7 +8,7 @@ with open("video_ids.txt") as file:
 for id in ids:
     print(id)
     try:
-        transcript_list = YouTubeTranscriptApi.list_transcripts(ids[0])
+        transcript_list = YouTubeTranscriptApi.list_transcripts(id)
         transcript = transcript_list.find_transcript(['en'])
         jso_list = transcript.translate('en').fetch()
         #dump to json
@@ -55,7 +55,6 @@ for id in ids:
             #write to file
             with open("training_files/not_sponsors/"+id+'_script.txt', 'w') as writefile:
                 writefile.write(new_script)
-        break
     #catch exception as e
     except Exception as e:
         print(e)
