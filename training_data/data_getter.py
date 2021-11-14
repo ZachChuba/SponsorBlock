@@ -7,6 +7,7 @@ with open("video_ids.txt") as file:
     ids = file.read().splitlines()
 for id in ids:
     print(id)
+    jso_list = None
     try:
         transcript_list = YouTubeTranscriptApi.list_transcripts(id)
         transcript = transcript_list.find_transcript(['en'])
