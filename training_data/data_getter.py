@@ -18,8 +18,9 @@ for id in ids:
         with open('shit.csv', 'r') as readcsv:
             reader = csv.reader(readcsv)
             for row in reader:
-                starttime = row[1]
-                endtime = row[2]
+                if row[0] == id:
+                    starttime = row[1]
+                    endtime = row[2]
         sponsorship = ""
         for line in jso_list:
             #if line["start"] is in range of starttime and endtime
